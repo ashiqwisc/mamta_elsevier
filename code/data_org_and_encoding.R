@@ -13,8 +13,8 @@ regina_rakshya <- read_csv("./datasets/regina_rakshya.csv")
 regina_ryleigh <- read_csv("./datasets/regina_ryleigh.csv")
 
 # Deselect additional columns (all NA values anyways), drop unnecessary cases of regina_rakshya (random NA rows)
-# Note, used which(!complete.cases("df_name")) for each of these to make sure no extraneous rows has NA values, df_name
-# being each one of the six dataframes
+# Note, used which(!complete.cases("df_name")) for each of these to make sure no rows in the google sheets have NA values, 
+# df_name being each one of the six dataframes
 lucas_rakshya <- lucas_rakshya %>%
   select(-c(1))
 lucas_ryleigh <- lucas_ryleigh %>%
