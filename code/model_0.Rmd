@@ -1,0 +1,116 @@
+```{r, setup, include=FALSE, echo=FALSE}
+knitr::opts_knit$set(root.dir = '~/Documents/GitHub/mamta_elsevier')
+```
+1. Install packages
+```{r}
+# install.packages("rENA", repos = c("https://cran.qe-libs.org", "https://cran.rstudio.org"))
+# 
+# install.packages("ona", repos = c("https://epistemic-analytics.gitlab.io/qe-packages/ona/cran/", "https://cran.rstudio.org"))
+# 
+# install.packages("tma", repos = c("https://epistemic-analytics.gitlab.io/qe-packages/tma/cran/", "https://cran.rstudio.org"))
+
+### When you try to update to the latest version of packages, let's first remove them and then install them. Examples as follows:
+# remove.packages("ona")
+# install.packages("ona", repos = c("https://epistemic-analytics.gitlab.io/qe-packages/ona/cran/", "https://cran.rstudio.org"))
+# install.packages("magrittr")
+
+library(rENA)
+library(ona)
+library(tma)
+library(readxl)
+library(dplyr)
+library(magrittr)
+
+```
+```{r}
+df <- read.csv("datasets/data_org_and_encoded.csv")
+df$fake_timestamp <- seq(1, nrow(df))
+df <- df[df$Correct.Attempt == TRUE,]
+# df$model_unit <- FALSE
+# df$model_unit[df$Participant == "Rakshya" | df$Participant == "Ryleigh"] <- TRUE
+
+df$cases <- "Non-Quan"
+df$cases[df$Patient.Student.Pair == "Quan & Rakshya" | df$Patient.Student.Pair == "Quan & Ryleigh"] <- "Quan"
+# df <- head(500)
+
+```
+
+```{r}
+unit_cols <- c("Patient.Student.Pair", "Participant", "cases")
+# unit_cols <- c("Patient.Student.Pair", "Participant", "cases", "SH.Feature")
+### Muhammad: Try different unit cols
+
+code_cols <- c(
+  "RC", "AC", 
+               "GS", "EO", "TC", "SA", "DPH", "CMC")
+meta_cols <- c(colnames(df)[1:16], colnames(df)[25:26])
+
+HOO_rules_model <-  tma:::rules(
+    Patient.Student.Pair %in% UNIT$Patient.Student.Pair
+)
+context_model <- tma:::contexts(
+  x = df,
+  units = unit_cols,
+  hoo_rules = HOO_rules_model
+)
+```
+```{r}
+ona_unimodal_accum <- tma:::accumulate_contexts(
+    x = context_model,
+    codes = code_cols,
+    weight.by = function(x) { x },
+    decay.function = function(x) {
+      mod <- FULL_CONTEXT[RESPONSE_INDEX, ]$Modality
+      if(mod == "Dialog")
+        return(x<=5)*1
+      else if(mod == "Click")
+        return(x<=5)*1
+      else if(mod == "Documentation")
+        return(x<=5)*1
+      else
+        return(0)
+      },
+    time.column = "fake_timestamp", 
+    return.ena.set = FALSE,
+    mode.column = "Modality"
+) 
+# my_rotation.params <- 
+#   list(Quan=ona_unimodal_accum$meta.data$cases == "Quan",
+#        Non_Quan=ona_unimodal_accum$meta.data$cases == "Non-Quan")
+my_rotation.params <- 
+  list(Rakshya = ona_unimodal_accum$meta.data$Participant == "Rakshya",
+       Ryleigh = ona_unimodal_accum$meta.data$Participant == "Ryleigh")
+
+
+ona_unimodal_set <-
+  model(ona_unimodal_accum,                                 # The previously run accumulation above
+        rotate.using ="mean",                  # Function provided by ONA
+        rotation.params = my_rotation.params   # The defined paremeters for rotation
+        )
+# ona_unimodal_set <- model(ona_unimodal_accum)
+```
+
+
+```{r}
+# source("code/unit_circle_ona.R")
+# ona_unimodal_set <- unit.circle.equal.space(set = ona_unimodal_set,
+#                         node_num = length(code_cols),
+#                         radius = 2
+#                         )
+# ona_unimodal_set$rotation$nodes
+```
+
+```{r}
+set <- ona_unimodal_set
+```
+
+```{r}
+source("code/ona_plotter.R")
+make.ona.plot.compare.two.students(set, "ONA_two_students")
+# make.ona.plot.compare.two.cases(set, "ONA_two_case")
+```
+
+
+
+
+
