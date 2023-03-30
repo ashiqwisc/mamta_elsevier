@@ -47,6 +47,38 @@ df <- df %>%
   mutate(DPH = case_when((`SH Feature` == "Nursing Diagnosis") ~ 1, (`SH Feature` != "Nursing Diagnosis") ~ 0), .after = SA) %>%
   relocate(CMC, .after = DPH)
 
+# Parse timestamps into lubridate objects
+df <- df %>%
+  # Subset everything before the occurrence of a character; depending on the timestamp, this could be either "A" (AM) or "P" PM
+  mutate(end_location = str_locate(`Time Stamp`, "[[:upper:]]")) %>%
+  rowwise() %>%
+  mutate(`Time Stamp` = list(str_sub(`Time Stamp`, start = 1, end = end_location-2))) %>%
+  select(-end_location) %>%
+  mutate(`Time Stamp` = `Time Stamp`[[1]]) %>%
+  # Parse timestamp
+  mutate(`Time Stamp` = mdy_hm(`Time Stamp`)) 
+
+# Pivot wider the modality and interaction types; these will serve as codes as well; make these newly pivoted columns binary values
+df <- df %>%
+  # This gets rid of duplicates. Ask Yeyu if she'd like duplicates; if so, use this instead
+  # pivot_wider(names_from = Modality, values_from = 'Modality', values_fill = 0, values_fn = function(x) 1)
+  mutate(Dialog = case_when(Modality == "Dialog" ~ 1, Modality != "Dialog" ~ 0)) %>%
+  mutate(Click = case_when(Modality == "Click" ~ 1, Modality != "Click" ~ 0)) %>%
+  mutate(Documentation = case_when(Modality == "Documentation" ~ 1, Modality != "Documentation" ~ 0)) %>% 
+  # Likewise, gets rid of duplicates
+  # pivot_wider(names_from = `Interaction Type`, values_from = 'Interaction Type', values_fill = 0, values_fn = function(x) 1) 
+  mutate(Greet = case_when(`Interaction Type` == "Greet" ~ 1, `Interaction Type` != "Greet" ~ 0)) %>%
+  mutate(Response = case_when(`Interaction Type` == "Response" ~ 1, `Interaction Type` != "Response" ~ 0)) %>%
+  mutate(Question = case_when(`Interaction Type` == "Question" ~ 1, `Interaction Type` != "Question" ~ 0)) %>%
+  mutate(Clarification = case_when(`Interaction Type` == "Clarification" ~ 1, `Interaction Type` != "Clarification" ~ 0)) %>%
+  mutate(Feedback = case_when(`Interaction Type` == "Feedback" ~ 1, `Interaction Type` != "Feedback" ~ 0)) %>%
+  mutate(Statement = case_when(`Interaction Type` == "Statement" ~ 1, `Interaction Type` != "Statement" ~ 0)) %>%
+  mutate(`Exam Action` = case_when(`Interaction Type` == "Exam Action" ~ 1, `Interaction Type` != "Exam Action" ~ 0)) %>%
+  mutate(Answer = case_when(`Interaction Type` == "Answer" ~ 1, `Interaction Type` != "Answer" ~ 0)) %>%
+  mutate(Prompt = case_when(`Interaction Type` == "Prompt" ~ 1, `Interaction Type` != "Prompt" ~ 0)) %>%
+  mutate(Empathize = case_when(`Interaction Type` == "Empathize" ~ 1, `Interaction Type` != "Empathize" ~ 0)) %>%
+  mutate(Educate = case_when(`Interaction Type` == "Educate" ~ 1, `Interaction Type` != "Educate" ~ 0)) 
+  
 # Write the outputted dataframe to a csv in the "datasets" folder
 write.csv(df, "./datasets/data_org_and_encoded.csv", row.names = FALSE)
 
