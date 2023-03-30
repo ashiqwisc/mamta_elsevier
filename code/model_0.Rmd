@@ -22,8 +22,11 @@ library(dplyr)
 library(magrittr)
 
 ```
+
 ```{r}
-df <- read.csv("datasets/data_org_and_encoded.csv")
+# df <- read.csv("datasets/data_org_and_encoded.csv")
+# Change this back after
+df <- read.csv("/Users/ashiqmuhammad04/Desktop/epistemic_analytics/mamta_elsevier/datasets/data_org_and_encoded.csv")
 df$fake_timestamp <- seq(1, nrow(df))
 df <- df[df$Correct.Attempt == TRUE,]
 # df$model_unit <- FALSE
@@ -36,9 +39,16 @@ df$cases[df$Patient.Student.Pair == "Quan & Rakshya" | df$Patient.Student.Pair =
 ```
 
 ```{r}
-unit_cols <- c("Patient.Student.Pair", "Participant", "cases")
+#unit_cols <- c("Patient.Student.Pair", "Participant", "cases")
 # unit_cols <- c("Patient.Student.Pair", "Participant", "cases", "SH.Feature")
 ### Muhammad: Try different unit cols
+# Model 1: unit_cols <- c("Patient.Student.Pair", "Participant")
+# Model 2: 
+unit_cols <- c("Patient.Student.Pair", "Participant", "cases")
+# Model 3: unit_cols <- c("Patient.Student.Pair", "Participant", "SH.Feature")
+# Model 4: unit_cols  <- c("Patient.Student.Pair", "Participant", "SH.Feature", "cases")
+# Model 5: unit_cols <- c("Patient.Student.Pair", "Participant", "SH.Feature", "Modality")
+# Model 6: unit_cols <- c("Patient.Student.Pair", "Participant", "SH.Feature", "Modality", "cases")
 
 code_cols <- c(
   "RC", "AC", 
@@ -74,12 +84,12 @@ ona_unimodal_accum <- tma:::accumulate_contexts(
     return.ena.set = FALSE,
     mode.column = "Modality"
 ) 
-# my_rotation.params <- 
-#   list(Quan=ona_unimodal_accum$meta.data$cases == "Quan",
-#        Non_Quan=ona_unimodal_accum$meta.data$cases == "Non-Quan")
-my_rotation.params <- 
-  list(Rakshya = ona_unimodal_accum$meta.data$Participant == "Rakshya",
-       Ryleigh = ona_unimodal_accum$meta.data$Participant == "Ryleigh")
+my_rotation.params <-
+    list(Quan=ona_unimodal_accum$meta.data$cases == "Quan",
+       Non_Quan=ona_unimodal_accum$meta.data$cases == "Non-Quan")
+# my_rotation.params <-
+#   list(Rakshya = ona_unimodal_accum$meta.data$Participant == "Rakshya",
+#        Ryleigh = ona_unimodal_accum$meta.data$Participant == "Ryleigh")
 
 
 ona_unimodal_set <-
@@ -105,9 +115,10 @@ set <- ona_unimodal_set
 ```
 
 ```{r}
-source("code/ona_plotter.R")
-make.ona.plot.compare.two.students(set, "ONA_two_students")
-# make.ona.plot.compare.two.cases(set, "ONA_two_case")
+#source("code/ona_plotter.R")
+source("/Users/ashiqmuhammad04/Desktop/epistemic_analytics/mamta_elsevier/code/ona_plotter.R") # Change this back after
+#make.ona.plot.compare.two.students(set, "ONA_two_students")
+make.ona.plot.compare.two.cases(set, "ONA_two_cases")
 ```
 
 
