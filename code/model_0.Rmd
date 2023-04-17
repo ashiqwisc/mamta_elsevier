@@ -110,8 +110,8 @@ set <- ona_unimodal_set
 
 ```{r}
 source("code/ona_plotter.R")
- make.ona.plot.compare.two.students(set, "ONA_two_students")
-#make.ona.plot.compare.two.cases(set, "ONA_two_cases")
+# make.ona.plot.compare.two.students(set, "ONA_two_students")
+ make.ona.plot.compare.two.cases(set, "ONA_two_cases")
 # make.ona.plot.six.pairs(set, "ONA for two students")
 ```
 

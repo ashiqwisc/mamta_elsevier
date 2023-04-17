@@ -1,4 +1,5 @@
 library(dplyr)
+library(rstatix)
 make.ona.plot.six.pairs <- function(set, 
                           plot.name
                           # node_size_multiplier, 
@@ -115,6 +116,16 @@ make.ona.plot.compare.two.students <- function(set,
       self_connection_color = c("red","blue"))
   print(sub)
   print(t.test(set$points$Participant$Rakshya$MR1, set$points$Participant$Ryleigh$MR1))
+  data_rakshya <- as.data.frame(set$points$Participant$Rakshya$MR1) %>% 
+    mutate(points = `set$points$Participant$Rakshya$MR1`, ID = "Rakshya") %>%
+    select(-`set$points$Participant$Rakshya$MR1`)
+  print(data_rakshya)
+  data_ryleigh <- as.data.frame(set$points$Participant$Ryleigh$MR1) %>%
+    mutate(points = `set$points$Participant$Ryleigh$MR1`, ID = "Ryleigh") %>%
+    select(-`set$points$Participant$Ryleigh$MR1`)
+  data <- rbind(data_rakshya, data_ryleigh)
+  # Effect sizes for each pairwise t test
+  print(cohens_d(data, points ~ ID))
 }
 
 make.ona.plot.compare.two.cases <- function(set, 
@@ -179,4 +190,14 @@ make.ona.plot.compare.two.cases <- function(set,
       # self_connection_color = c("orange", "purple"))
   print(sub)
   print(t.test(set$points[set$points$cases == "Quan" & set$points$model_unit == TRUE,]$MR1, set$points[set$points$cases == "Non-Quan" & set$points$model_unit == TRUE,]$MR1))
+  data_quan <- as.data.frame(set$points[set$points$cases == "Quan" & set$points$model_unit == TRUE,]$MR1) %>% 
+    mutate(points = set$points[set$points$cases == "Quan" & set$points$model_unit == TRUE,]$MR1, ID = "Quan") %>%
+    select(-c(1))
+  print(data_quan)
+  data_non_quan <- as.data.frame(set$points[set$points$cases == "Non-Quan" & set$points$model_unit == TRUE,]$MR1) %>%
+    mutate(points = set$points[set$points$cases == "Non-Quan" & set$points$model_unit == TRUE,]$MR1, ID = "Non-Quan") %>%
+    select(-c(1))
+  data <- rbind(data_quan, data_non_quan)
+  # Effect sizes for each pairwise t test
+  print(cohens_d(data, points ~ ID))
 }
