@@ -1,5 +1,6 @@
 ```{r, setup, include=FALSE, echo=FALSE}
-knitr::opts_knit$set(root.dir = '~/Documents/GitHub/mamta_elsevier')
+# knitr::opts_knit$set(root.dir = '~/Documents/GitHub/mamta_elsevier')
+knitr::opts_knit$set(root.dir = "~/Desktop/epistemic_analytics/mamta_elsevier/")
 ```
 1. Install packages
 ```{r}
@@ -14,6 +15,8 @@ knitr::opts_knit$set(root.dir = '~/Documents/GitHub/mamta_elsevier')
 # install.packages("ona", repos = c("https://epistemic-analytics.gitlab.io/qe-packages/ona/cran/", "https://cran.rstudio.org"))
 # install.packages("magrittr")
 
+
+
 library(rENA)
 library(ona)
 library(tma)
@@ -24,13 +27,11 @@ library(magrittr)
 ```
 
 ```{r}
-# df <- read.csv("datasets/data_org_and_encoded.csv")
-# Change this back after
-df <- read.csv("/Users/ashiqmuhammad04/Desktop/epistemic_analytics/mamta_elsevier/datasets/data_org_and_encoded.csv")
+df <- read.csv("datasets/data_org_and_encoded.csv")
 df$fake_timestamp <- seq(1, nrow(df))
 df <- df[df$Correct.Attempt == TRUE,]
-# df$model_unit <- FALSE
-# df$model_unit[df$Participant == "Rakshya" | df$Participant == "Ryleigh"] <- TRUE
+df$model_unit <- FALSE
+df$model_unit[df$Participant == "Rakshya" | df$Participant == "Ryleigh"] <- TRUE
 
 df$cases <- "Non-Quan"
 df$cases[df$Patient.Student.Pair == "Quan & Rakshya" | df$Patient.Student.Pair == "Quan & Ryleigh"] <- "Quan"
@@ -39,16 +40,9 @@ df$cases[df$Patient.Student.Pair == "Quan & Rakshya" | df$Patient.Student.Pair =
 ```
 
 ```{r}
-#unit_cols <- c("Patient.Student.Pair", "Participant", "cases")
-# unit_cols <- c("Patient.Student.Pair", "Participant", "cases", "SH.Feature")
-### Muhammad: Try different unit cols
-# Model 1: unit_cols <- c("Patient.Student.Pair", "Participant")
-# Model 2: 
-unit_cols <- c("Patient.Student.Pair", "Participant", "cases")
-# Model 3: unit_cols <- c("Patient.Student.Pair", "Participant", "SH.Feature")
-# Model 4: unit_cols  <- c("Patient.Student.Pair", "Participant", "SH.Feature", "cases")
-# Model 5: unit_cols <- c("Patient.Student.Pair", "Participant", "SH.Feature", "Modality")
-# Model 6: unit_cols <- c("Patient.Student.Pair", "Participant", "SH.Feature", "Modality", "cases")
+# unit_cols <- c("Patient.Student.Pair", "Participant", "cases", "model_unit")
+unit_cols <- c("Patient.Student.Pair", "Participant", "cases", "SH.Feature", "model_unit")
+# unit_cols <- c("Patient.Student.Pair", "Participant", "cases", "SH.Feature", "Modality", "model_unit")
 
 code_cols <- c(
   "RC", "AC", 
@@ -76,7 +70,7 @@ ona_unimodal_accum <- tma:::accumulate_contexts(
       else if(mod == "Click")
         return(x<=5)*1
       else if(mod == "Documentation")
-        return(x<=5)*1
+        return(x<=2)*1
       else
         return(0)
       },
@@ -85,7 +79,7 @@ ona_unimodal_accum <- tma:::accumulate_contexts(
     mode.column = "Modality"
 ) 
 my_rotation.params <-
-    list(Quan=ona_unimodal_accum$meta.data$cases == "Quan",
+  list(Quan=ona_unimodal_accum$meta.data$cases == "Quan",
        Non_Quan=ona_unimodal_accum$meta.data$cases == "Non-Quan")
 # my_rotation.params <-
 #   list(Rakshya = ona_unimodal_accum$meta.data$Participant == "Rakshya",
@@ -115,10 +109,10 @@ set <- ona_unimodal_set
 ```
 
 ```{r}
-#source("code/ona_plotter.R")
-source("/Users/ashiqmuhammad04/Desktop/epistemic_analytics/mamta_elsevier/code/ona_plotter.R") # Change this back after
-#make.ona.plot.compare.two.students(set, "ONA_two_students")
-make.ona.plot.compare.two.cases(set, "ONA_two_cases")
+source("code/ona_plotter.R")
+ make.ona.plot.compare.two.students(set, "ONA_two_students")
+#make.ona.plot.compare.two.cases(set, "ONA_two_cases")
+# make.ona.plot.six.pairs(set, "ONA for two students")
 ```
 
 

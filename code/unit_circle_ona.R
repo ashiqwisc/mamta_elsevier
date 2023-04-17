@@ -4,7 +4,7 @@ find.node.pos.order <- function(set){
   for(this.code in node.pos.matrix$code){
     # print(this.code)
     base.vect <- c(1,0)
-    this.vect <- c(node.pos.matrix[node.pos.matrix$code == this.code,]$SVD1,	
+    this.vect <- c(node.pos.matrix[node.pos.matrix$code == this.code,]$MR1,	
                    node.pos.matrix[node.pos.matrix$code == this.code,]$SVD2)
     this.theta <- acos( sum(base.vect*this.vect) / ( sqrt(sum(base.vect * base.vect)) * sqrt(sum(this.vect * this.vect)) ) )
     if(this.vect[2] < 0){
