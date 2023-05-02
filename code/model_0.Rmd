@@ -1,6 +1,5 @@
 ```{r, setup, include=FALSE, echo=FALSE}
 # knitr::opts_knit$set(root.dir = '~/Documents/GitHub/mamta_elsevier')
-knitr::opts_knit$set(root.dir = "~/Desktop/epistemic_analytics/mamta_elsevier/")
 ```
 1. Install packages
 ```{r}
@@ -11,10 +10,12 @@ knitr::opts_knit$set(root.dir = "~/Desktop/epistemic_analytics/mamta_elsevier/")
 # install.packages("tma", repos = c("https://epistemic-analytics.gitlab.io/qe-packages/tma/cran/", "https://cran.rstudio.org"))
 
 ### When you try to update to the latest version of packages, let's first remove them and then install them. Examples as follows:
+# remove.packages("tma")
 # remove.packages("ona")
 # install.packages("ona", repos = c("https://epistemic-analytics.gitlab.io/qe-packages/ona/cran/", "https://cran.rstudio.org"))
 # install.packages("magrittr")
-
+# install.packages("~/Documents/GitHub/mamta_elsevier/ona_0.1.1.tar.gz", repos = NULL, type = "source")
+# install.packages("~/Documents/GitHub/mamta_elsevier/tma_0.1.2.tar.gz", repos = NULL, type = "source")
 
 
 library(rENA)
@@ -25,9 +26,8 @@ library(dplyr)
 library(magrittr)
 
 ```
-
 ```{r}
-df <- read.csv("datasets/data_org_and_encoded.csv")
+df <- read.csv("~/Desktop/epistemic_analytics/mamta_elsevier/datasets/data_org_and_encoded.csv")
 df$fake_timestamp <- seq(1, nrow(df))
 df <- df[df$Correct.Attempt == TRUE,]
 df$model_unit <- FALSE
@@ -43,10 +43,17 @@ df$cases[df$Patient.Student.Pair == "Quan & Rakshya" | df$Patient.Student.Pair =
 # unit_cols <- c("Patient.Student.Pair", "Participant", "cases", "model_unit")
 unit_cols <- c("Patient.Student.Pair", "Participant", "cases", "SH.Feature", "model_unit")
 # unit_cols <- c("Patient.Student.Pair", "Participant", "cases", "SH.Feature", "Modality", "model_unit")
+colnames(df)[which(names(df) == "RC")] <- "Recognize Cues"
+colnames(df)[which(names(df) == "AC")] <- "Analyze Cues"
+colnames(df)[which(names(df) == "GS")] <- "Generate Solutions"
+colnames(df)[which(names(df) == "EO")] <- "Evaluate Outcomes"
+colnames(df)[which(names(df) == "TC")] <- "Therapeutic Communication"
+colnames(df)[which(names(df) == "SA")] <- "Subjective Assessment"
+colnames(df)[which(names(df) == "DPH")] <- "Diagnosis & Prioritize Hypothesis"
+colnames(df)[which(names(df) == "CMC")] <- "Care-Management and Coordination"
 
 code_cols <- c(
-  "RC", "AC", 
-               "GS", "EO", "TC", "SA", "DPH", "CMC")
+  "Recognize Cues", "Analyze Cues", "Generate Solutions", "Evaluate Outcomes", "Therapeutic Communication", "Subjective Assessment", "Diagnosis & Prioritize Hypothesis", "Care-Management and Coordination")
 meta_cols <- c(colnames(df)[1:16], colnames(df)[25:26])
 
 HOO_rules_model <-  tma:::rules(
@@ -78,12 +85,12 @@ ona_unimodal_accum <- tma:::accumulate_contexts(
     return.ena.set = FALSE,
     mode.column = "Modality"
 ) 
-my_rotation.params <-
-  list(Quan=ona_unimodal_accum$meta.data$cases == "Quan",
-       Non_Quan=ona_unimodal_accum$meta.data$cases == "Non-Quan")
 # my_rotation.params <-
-#   list(Rakshya = ona_unimodal_accum$meta.data$Participant == "Rakshya",
-#        Ryleigh = ona_unimodal_accum$meta.data$Participant == "Ryleigh")
+#   list(Quan=ona_unimodal_accum$meta.data$cases == "Quan",
+#        Non_Quan=ona_unimodal_accum$meta.data$cases == "Non-Quan")
+my_rotation.params <-
+  list(Rakshya = ona_unimodal_accum$meta.data$Participant == "Rakshya",
+       Ryleigh = ona_unimodal_accum$meta.data$Participant == "Ryleigh")
 
 
 ona_unimodal_set <-
@@ -109,10 +116,10 @@ set <- ona_unimodal_set
 ```
 
 ```{r}
-source("code/ona_plotter.R")
+source("~/Desktop/epistemic_analytics/mamta_elsevier/code/ona_plotter.R")
 # make.ona.plot.compare.two.students(set, "ONA_two_students")
- make.ona.plot.compare.two.cases(set, "ONA_two_cases")
-# make.ona.plot.six.pairs(set, "ONA for two students")
+# make.ona.plot.compare.two.cases(set, "ONA_two_cases")
+make.ona.plot.six.pairs(set, "ONA for two students")
 ```
 
 
