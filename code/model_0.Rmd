@@ -85,12 +85,12 @@ ona_unimodal_accum <- tma:::accumulate_contexts(
     return.ena.set = FALSE,
     mode.column = "Modality"
 ) 
-# my_rotation.params <-
-#   list(Quan=ona_unimodal_accum$meta.data$cases == "Quan",
-#        Non_Quan=ona_unimodal_accum$meta.data$cases == "Non-Quan")
 my_rotation.params <-
-  list(Rakshya = ona_unimodal_accum$meta.data$Participant == "Rakshya",
-       Ryleigh = ona_unimodal_accum$meta.data$Participant == "Ryleigh")
+  list(Quan=ona_unimodal_accum$meta.data$cases == "Quan",
+       Non_Quan=ona_unimodal_accum$meta.data$cases == "Non-Quan")
+# my_rotation.params <-
+#   list(Rakshya = ona_unimodal_accum$meta.data$Participant == "Rakshya",
+#        Ryleigh = ona_unimodal_accum$meta.data$Participant == "Ryleigh")
 
 
 ona_unimodal_set <-
@@ -118,8 +118,8 @@ set <- ona_unimodal_set
 ```{r}
 source("~/Desktop/epistemic_analytics/mamta_elsevier/code/ona_plotter.R")
 # make.ona.plot.compare.two.students(set, "ONA_two_students")
-# make.ona.plot.compare.two.cases(set, "ONA_two_cases")
-make.ona.plot.six.pairs(set, "ONA for two students")
+ make.ona.plot.compare.two.cases(set, "ONA_two_cases")
+# make.ona.plot.six.pairs(set, "ONA for two students")
 ```
 
 
