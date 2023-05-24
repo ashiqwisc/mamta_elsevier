@@ -1,0 +1,185 @@
+,Participant,Timestamp,Interaction Type,Utterances
+0,Suveshka,09/29/2022 08:20:00 PM EDT,Greet,"hi, my name is suveksha and i am going to be your nurse today."
+1,Regina Walker,09/29/2022 08:20:00 PM EDT,Response,Hi.
+2,Suveshka,09/29/2022 08:20:00 PM EDT,Question,can you tell me your name and date of birth?
+3,Regina Walker,09/29/2022 08:20:00 PM EDT,Response,"Regina Walker, I was born January 1st . . . [Ms. Walker reports correct birth year.]"
+4,Suveshka,09/29/2022 08:20:00 PM EDT,Question,do you know where you are?
+5,Regina Walker,09/29/2022 08:20:00 PM EDT,Response,I'm in the hospital.
+6,Suveshka,09/29/2022 08:21:00 PM EDT,Question,can you tell me why you are here?
+7,Regina Walker,09/29/2022 08:21:00 PM EDT,Response,I was having trouble with the pain from my cancer... I just couldn't take it anymore at home.
+8,Suveshka,09/29/2022 08:23:00 PM EDT,Question,can you rate your pain form 0 to 10? (Clarified to Can you rate your current pain level on a scale of 0 to 10?.)
+9,Regina Walker,09/29/2022 08:23:00 PM EDT,Response,"Right now, I'm about a 4 of 10. (Clarified to how I would rate my pain on a scale.)"
+13,Regina Walker,09/29/2022 08:24:00 PM EDT,Response,I believe they are morphine pills. I have one type that is fast acting and another that is effective over a longer period.
+12,Suveshka,09/29/2022 08:24:00 PM EDT,Question,have you been taking any pain medication?
+10,Suveshka,09/29/2022 08:24:00 PM EDT,Question,when did you first notice your pain?
+11,Regina Walker,09/29/2022 08:24:00 PM EDT,Response,"I've been in some pain for a long time, but it reached an unbearable level two days ago."
+14,Suveshka,09/29/2022 08:25:00 PM EDT,Educate,sometimes trying non pharmacological techniques can help reduce pain.
+15,Regina Walker,09/29/2022 08:25:00 PM EDT,Response,Thanks. Perhaps that could help me.
+16,Suveshka,09/29/2022 08:26:00 PM EDT,Question,where do you feel your pain?
+17,Regina Walker,09/29/2022 08:26:00 PM EDT,Response,"Well, everywhere really . . . These past days I've felt it mostly in my ribs and legs but even my bones hurt."
+18,Suveshka,09/29/2022 08:26:00 PM EDT,Question,how would you describe your pain?
+19,Regina Walker,09/29/2022 08:26:00 PM EDT,Response,"I can feel it all over my body . . . It's a sharp pain in my bones, my legs, and my ribs. It's been getting much worse over the past two days."
+23,Regina Walker,09/29/2022 08:27:00 PM EDT,Response,"Nothing makes the pain worse, nothing makes it better. It's just constant and relentless."
+22,Suveshka,09/29/2022 08:27:00 PM EDT,Question,what is the aggravating factors of pain?
+20,Suveshka,09/29/2022 08:27:00 PM EDT,Question,what cause your pain worse?
+21,Regina Walker,09/29/2022 08:27:00 PM EDT,Response,It's my cancer... I'm aware how bad it's gotten.
+24,Suveshka,09/29/2022 08:28:00 PM EDT,Question,are you allergic to medication?
+25,Regina Walker,09/29/2022 08:28:00 PM EDT,Response,"I'm allergic to penicillin, but that's it."
+26,Suveshka,09/29/2022 08:28:00 PM EDT,Question,are you allergic to any food?
+27,Regina Walker,09/29/2022 08:28:00 PM EDT,Response,No. Not that I know of currently.
+28,Suveshka,09/29/2022 08:29:00 PM EDT,Question,when did you last took your home medication?
+29,Regina Walker,09/29/2022 08:29:00 PM EDT,Response,"I took some of the fast-acting morphine this morning, but it wasn't much help. Pain just cut right through it. I haven't yet had my Hyzaar."
+30,Suveshka,09/29/2022 08:29:00 PM EDT,Question,when did you took long-acting morphine? (No matching questions found.)
+32,Regina Walker,09/29/2022 08:30:00 PM EDT,Response,"At home? I take the long acting morphine every 12 hours, so my last dose was last night. I tried to use the fast acting this morning, but the pain was just too much."
+31,Suveshka,09/29/2022 08:30:00 PM EDT,Question,when was the last time you took long-acting morphine?
+33,Suveshka,09/29/2022 08:30:00 PM EDT,Question,do you take any illicit drugs?
+34,Regina Walker,09/29/2022 08:30:00 PM EDT,Response,"No, I do not."
+35,Suveshka,09/29/2022 08:31:00 PM EDT,Question,how many glass of water do you drink in a day?
+36,Regina Walker,09/29/2022 08:31:00 PM EDT,Response,Not very much. Probably a glass here and there I suppose.
+39,Suveshka,09/29/2022 08:32:00 PM EDT,Question,what was your most recent meal?
+40,Regina Walker,09/29/2022 08:32:00 PM EDT,Response,"Let's see, I had a few bites of yogurt last night before bed... I think that was the last time I had anything."
+37,Suveshka,09/29/2022 08:32:00 PM EDT,Question,how often do you urinate ?
+38,Regina Walker,09/29/2022 08:32:00 PM EDT,Response,I haven't been going any more or less than usual if that's what you mean.
+43,Suveshka,09/29/2022 08:33:00 PM EDT,Question,who is your advance directives? (Clarified to Do you have an advance directive?.)
+44,Regina Walker,09/29/2022 08:33:00 PM EDT,Response,"Yes, all my affairs should be in order. (Clarified to if I have an advance directive.)"
+41,Suveshka,09/29/2022 08:33:00 PM EDT,Question,do you have any preference for your hospice care?
+42,Regina Walker,09/29/2022 08:33:00 PM EDT,Response,I want to allow things to take their course . . . it's time for me to stop fighting and just enjoy the time I have left in what little ways I can. My husband and I have chosen an assisted living residence near my home where I'll go for hospice care. I have been told that they can help me with the pain there .  . . and it's close enough that my husband can be with me.
+45,Suveshka,09/29/2022 08:34:00 PM EDT,Question,do you have head and neck pain? (Clarified to Do you have any problems with your head?.)
+46,Regina Walker,09/29/2022 08:34:00 PM EDT,Response,"My head feels just fine, that's not where I'm having the pain. (Clarified to if I have head problems.)"
+47,Suveshka,09/29/2022 08:35:00 PM EDT,Educate,it is important to assess your body system for better care.
+48,Regina Walker,09/29/2022 08:35:00 PM EDT,Response,You're kind for filling me in.
+49,Suveshka,09/29/2022 08:35:00 PM EDT,Question,do you have trouble breathing?
+50,Regina Walker,09/29/2022 08:35:00 PM EDT,Response,"No, I don't have any breathing difficulties."
+54,Regina Walker,09/29/2022 08:36:00 PM EDT,Response,"Well, I've been constipated for about four days now, I can't seem to make anything happen there."
+53,Suveshka,09/29/2022 08:36:00 PM EDT,Question,how often do you have bowel movement?
+52,Regina Walker,09/29/2022 08:36:00 PM EDT,Response,"No, I've never had heart trouble."
+51,Suveshka,09/29/2022 08:36:00 PM EDT,Question,do you have any cardiovascular issue?
+55,Suveshka,09/29/2022 08:37:00 PM EDT,Question,do you have any neurological issue?
+56,Regina Walker,09/29/2022 08:37:00 PM EDT,Response,"Yes, I've been feeling quite weak lately."
+57,Suveshka,09/29/2022 08:37:00 PM EDT,Empathize,you must be feeling weak because of your cancer.
+58,Regina Walker,09/29/2022 08:37:00 PM EDT,Response,Thank you. Your kindness is felt.
+59,Suveshka,09/29/2022 08:38:00 PM EDT,Question,do you have any psychological problem?
+60,Regina Walker,09/29/2022 08:38:00 PM EDT,Response,"No, not specifically . . . I have been feeling somewhat anxious lately though."
+65,Suveshka,09/29/2022 08:39:00 PM EDT,Question,do you feel safe at home?
+64,Regina Walker,09/29/2022 08:39:00 PM EDT,Response,"My husband and I live in at home together, and our son visits just about every day."
+66,Regina Walker,09/29/2022 08:39:00 PM EDT,Response,"Of course, I've never felt threatened at home."
+62,Regina Walker,09/29/2022 08:39:00 PM EDT,Response,"I have my ups and downs. Nothing so down I'd call depression, though."
+61,Suveshka,09/29/2022 08:39:00 PM EDT,Question,do you have depression?
+63,Suveshka,09/29/2022 08:39:00 PM EDT,Question,who do you live with?
+67,Suveshka,09/29/2022 08:40:00 PM EDT,Question,can you bath alone?
+68,Regina Walker,09/29/2022 08:40:00 PM EDT,Response,"I don't bathe on my own anymore. My husband helps me, especially with getting in and out of the shower, and we have a shower bench that I sit on."
+69,Suveshka,09/29/2022 08:40:00 PM EDT,Question,do you need help dressing?
+70,Regina Walker,09/29/2022 08:40:00 PM EDT,Response,I don't have any trouble dressing myself.
+71,Suveshka,09/29/2022 08:41:00 PM EDT,Question,do you need assistance to get to go to toilet?
+72,Regina Walker,09/29/2022 08:41:00 PM EDT,Response,"Yes, when I have to go it's a bit of an ordeal to get up and down."
+73,Suveshka,09/29/2022 08:41:00 PM EDT,Question,do you usually need help transferring? (Clarified to Are you using assistance when transferring?.)
+74,Regina Walker,09/29/2022 08:41:00 PM EDT,Response,"Well, I have the most trouble getting up from any sort of lying position, so I spend most of my time in bed. My husband usually gives me a hand when I need to get up. (Clarified to if I am getting assistance when transferring.)"
+76,Regina Walker,09/29/2022 08:42:00 PM EDT,Response,"I'm still in control of my bladder and bowels, thankfully. (Clarified to if I have trouble controlling when I urinate.)"
+75,Suveshka,09/29/2022 08:42:00 PM EDT,Question,have you experienced any urinary incontinence? (Clarified to Do you have trouble controlling urination?.)
+77,Suveshka,09/29/2022 08:43:00 PM EDT,Question,do you need hep with feeding? (No matching questions found.)
+78,Suveshka,09/29/2022 08:43:00 PM EDT,Question,are you able to cook for yourself?
+79,Regina Walker,09/29/2022 08:43:00 PM EDT,Response,"Well I used to cook more, but I just don't have the strength for it anymore."
+80,Suveshka,09/29/2022 08:44:00 PM EDT,Question,do you have trouble sleeping?
+81,Regina Walker,09/29/2022 08:44:00 PM EDT,Response,"Yes, my sleep has been rather poor lately due to the pain."
+82,Suveshka,09/29/2022 08:44:00 PM EDT,Question,do you feel confused?
+83,Regina Walker,09/29/2022 08:44:00 PM EDT,Response,"No, not currently."
+88,Regina Walker,09/29/2022 08:45:00 PM EDT,Response,I wouldn't call it much of a problem but my skin has been feeling thinner than normal. (Clarified to if my skin has changed.)
+84,Suveshka,09/29/2022 08:45:00 PM EDT,Question,do you have recent falls? (Clarified to Have you fallen recently?.)
+85,Regina Walker,09/29/2022 08:45:00 PM EDT,Response,"No, I haven't had any recent falls. (Clarified to if I have fallen recently.)"
+86,Suveshka,09/29/2022 08:45:00 PM EDT,Question,do you have recent skin breakdown? (No matching questions found.)
+87,Suveshka,09/29/2022 08:45:00 PM EDT,Question,have you notice any recent skin breakdown? (Clarified to Has your skin changed?.)
+92,Regina Walker,09/29/2022 08:46:00 PM EDT,Response,"Yes, I've lost a bit of weight in the past two months or so. (Clarified to if I have had weight changes recently.)"
+91,Suveshka,09/29/2022 08:46:00 PM EDT,Question,do you have recent change in weight? (Clarified to Has your weight changed recently?.)
+90,Regina Walker,09/29/2022 08:46:00 PM EDT,Response,Thank you for saying that. Really.
+89,Suveshka,09/29/2022 08:46:00 PM EDT,Empathize,aging can also cause thinner skin.
+93,Suveshka,09/29/2022 08:47:00 PM EDT,Question,do you have any dental problems?
+94,Regina Walker,09/29/2022 08:47:00 PM EDT,Response,"No, I don't have any problems with my mouth, jaw, or teeth."
+95,Suveshka,09/29/2022 08:47:00 PM EDT,Question,has your appetite changed recently?
+96,Regina Walker,09/29/2022 08:47:00 PM EDT,Response,"My appetite has been rather small lately, I haven't been eating too much for the last months."
+97,Suveshka,09/29/2022 08:48:00 PM EDT,Question,how has your health affected your social activity? (Clarified to How does your health affect your life?.)
+98,Regina Walker,09/29/2022 08:48:00 PM EDT,Response,"Well, the pain cancer gives me is unbearable. I can't go to church, I can't drive, I can barely get out of bed. . . I'm not sure what else there is to say about it. (Clarified to how my health affects my life.)"
+101,Suveshka,09/29/2022 08:49:00 PM EDT,Empathize,I know having cancer makes you feel you have poor health.
+102,Regina Walker,09/29/2022 08:49:00 PM EDT,Response,I appreciate the sympathy.
+99,Suveshka,09/29/2022 08:49:00 PM EDT,Question,what do you feel about your health? (Clarified to How do you perceive your health?.)
+100,Regina Walker,09/29/2022 08:49:00 PM EDT,Response,I'd say my health is poor in general. I'm quite aware of the situation I'm in. (Clarified to how I perceive my health.)
+103,Suveshka,09/29/2022 08:50:00 PM EDT,Question,are you tried? (No matching questions found.)
+104,Suveshka,09/29/2022 08:50:00 PM EDT,Question,are you tired?
+105,Regina Walker,09/29/2022 08:50:00 PM EDT,Response,I've been feeling tired all of the time lately.
+106,Suveshka,09/29/2022 08:50:00 PM EDT,Question,when was your recent hospitalization?
+107,Regina Walker,09/29/2022 08:50:00 PM EDT,Response,"Well, I haven't been hospitalized for the past three months, but I had some cancer treatments I underwent around three months ago."
+108,Suveshka,09/29/2022 08:51:00 PM EDT,Question,what health condition did your parents has?
+109,Regina Walker,09/29/2022 08:51:00 PM EDT,Response,"My father had pretty high cholesterol and blood pressure--he liked his steak, you know. He had type 2 diabetes as well."
+110,Suveshka,09/29/2022 08:52:00 PM EDT,Question,what health condition did your mother has? (Clarified to Does your mother have health problems?.)
+111,Regina Walker,09/29/2022 08:52:00 PM EDT,Response,"My mother was hypertensive and had high cholesterol, but she passed away from a stroke some time ago. (Clarified to if my mother has health problems.)"
+115,Regina Walker,09/29/2022 08:53:00 PM EDT,Response,"Yes, I have stage IV breast cancer and hypertension."
+114,Suveshka,09/29/2022 08:53:00 PM EDT,Question,do you have any other health condition?
+113,Regina Walker,09/29/2022 08:53:00 PM EDT,Response,"I had some surgeries done, the mastectomy for my cancer about four years ago and a hernia repair some twenty years back. (Clarified to if I have had any other surgeries.)"
+112,Suveshka,09/29/2022 08:53:00 PM EDT,Question,have you had any surgical history? (Clarified to Have you had any other surgeries?.)
+116,Suveshka,09/29/2022 08:54:00 PM EDT,Question,do you feel you have being abused financially?
+117,Regina Walker,09/29/2022 08:54:00 PM EDT,Response,"No, no one in my family would ever steal from me . . . they would never do that. My husband is the one responsible for my . . . for my will, and our finances. I trust him unconditionally to take care of those matters."
+118,Suveshka,09/29/2022 08:55:00 PM EDT,Empathize,that is so good that you have a family to take care when you are sick.
+119,Regina Walker,09/29/2022 08:55:00 PM EDT,Response,I appreciate the good will.
+120,Suveshka,09/29/2022 08:55:00 PM EDT,Educate,it is important to assess abuse in each patient.
+121,Regina Walker,09/29/2022 08:55:00 PM EDT,Response,I see. Thats helpful to know.
+124,Suveshka,09/29/2022 08:56:00 PM EDT,Educate,do you want to try other techniques to help your pain.
+125,Regina Walker,09/29/2022 08:56:00 PM EDT,Response,Thanks much for that.
+122,Suveshka,09/29/2022 08:56:00 PM EDT,Question,how is your pain now?
+123,Regina Walker,09/29/2022 08:56:00 PM EDT,Response,"It's better now than before, but I can still feel it there."
+126,Suveshka,09/29/2022 08:57:00 PM EDT,Educate,sometimes applying heat and cold to the affected area can help reduce pain.
+127,Regina Walker,09/29/2022 08:57:00 PM EDT,Response,I appreciate the information.
+128,Suveshka,09/29/2022 08:57:00 PM EDT,Question,meditating has helped patient to reduce pain by reducing focus from the pain. (No matching questions found.)
+129,Suveshka,09/29/2022 08:58:00 PM EDT,Empathize,do you have any concerns?
+130,Regina Walker,09/29/2022 08:58:00 PM EDT,Response,"Yes, thanks very much."
+131,Suveshka,09/29/2022 08:58:00 PM EDT,Question,do you need anything?
+132,Regina Walker,09/29/2022 08:58:00 PM EDT,Response,"Not right now, I'm just fine."
+133,Suveshka,09/29/2022 08:58:00 PM EDT,Empathize,if you need anything just call me i am here for you.
+134,Regina Walker,09/29/2022 08:58:00 PM EDT,Response,I appreciate the good will.
+138,Suveshka,09/29/2022 08:59:00 PM EDT,Exam Action,Assessed IV bag
+137,Suveshka,09/29/2022 08:59:00 PM EDT,Exam Action,Assessed vitals
+135,Suveshka,09/29/2022 08:59:00 PM EDT,Empathize,if you want to talk about anything i will be available for you.
+136,Regina Walker,09/29/2022 08:59:00 PM EDT,Response,I appreciate the sympathy.
+139,Suveshka,09/29/2022 09:01:00 PM EDT,Exam Action,Assessed IV pump
+140,Suveshka,09/29/2022 09:01:00 PM EDT,Exam Action,Assessed IV site
+141,Suveshka,09/29/2022 09:01:00 PM EDT,Exam Action,"Assessed urine quality: clear, dark yellow, no noticeable odor"
+142,Suveshka,09/29/2022 09:02:00 PM EDT,Exam Action,Checked Patient Wristbands: All information is correct
+143,Suveshka,09/29/2022 09:03:00 PM EDT,Question,is there any abuse or neglect you would like to tell me about?
+144,Regina Walker,09/29/2022 09:03:00 PM EDT,Response,"No. I'm not being abused. My family treats me very well, and they would never hurt me."
+145,Suveshka,09/29/2022 09:03:00 PM EDT,Exam Action,Inspected left eye: Sclera - icterus
+146,Suveshka,09/29/2022 09:03:00 PM EDT,Exam Action,Inspected right eye: Sclera - icterus
+147,Suveshka,09/29/2022 09:04:00 PM EDT,Exam Action,Inspected mouth
+148,Suveshka,09/29/2022 09:04:00 PM EDT,Exam Action,Inspected front of neck and face: jaundice
+149,Suveshka,09/29/2022 09:04:00 PM EDT,Exam Action,Inspected chest and abdomen
+159,Suveshka,09/29/2022 09:05:00 PM EDT,Exam Action,Inspected calves and heel
+158,Suveshka,09/29/2022 09:05:00 PM EDT,Exam Action,Inspected back of thighs and knees
+156,Suveshka,09/29/2022 09:05:00 PM EDT,Exam Action,Inspected back of left hand and arm
+155,Suveshka,09/29/2022 09:05:00 PM EDT,Exam Action,Inspected lower back and hips
+157,Suveshka,09/29/2022 09:05:00 PM EDT,Exam Action,Inspected back of right hand and arm
+153,Suveshka,09/29/2022 09:05:00 PM EDT,Exam Action,Inspected front of shins and top of feet
+152,Suveshka,09/29/2022 09:05:00 PM EDT,Exam Action,Inspected front of thighs and knees
+154,Suveshka,09/29/2022 09:05:00 PM EDT,Exam Action,Inspected back of neck and upper back
+151,Suveshka,09/29/2022 09:05:00 PM EDT,Exam Action,Inspected front of right hand and arm
+150,Suveshka,09/29/2022 09:05:00 PM EDT,Exam Action,Inspected front of left hand and arm
+164,Suveshka,09/29/2022 09:06:00 PM EDT,Exam Action,Palpated abdomen with light pressure
+163,Suveshka,09/29/2022 09:06:00 PM EDT,Exam Action,Auscultated bowel sounds
+165,Suveshka,09/29/2022 09:06:00 PM EDT,Exam Action,Palpated abdomen with deep pressure
+161,Suveshka,09/29/2022 09:06:00 PM EDT,Exam Action,Auscultated breath sounds
+160,Suveshka,09/29/2022 09:06:00 PM EDT,Exam Action,Auscultated carotids
+162,Suveshka,09/29/2022 09:06:00 PM EDT,Exam Action,Auscultated heart sounds
+166,Suveshka,09/29/2022 09:07:00 PM EDT,Exam Action,Palpated bladder
+167,Suveshka,09/29/2022 09:07:00 PM EDT,Question,"repeat and remember apple, penny, and table."
+168,Regina Walker,09/29/2022 09:07:00 PM EDT,Response,"Apple, penny, and table."
+169,Suveshka,09/29/2022 09:08:00 PM EDT,Question,can you repeat the three words i asked you to remember earlier?
+170,Regina Walker,09/29/2022 09:08:00 PM EDT,Response,"Apple, penny, and table."
+171,Suveshka,09/29/2022 09:08:00 PM EDT,Exam Action,Tested cognition
+172,Suveshka,09/29/2022 09:08:00 PM EDT,Exam Action,Tested skin turgor
+173,Suveshka,09/29/2022 09:08:00 PM EDT,Exam Action,Tested capillary refill
+175,Regina Walker,09/29/2022 09:09:00 PM EDT,Response,I have hypertension and stage IV breast cancer. It's spread to my liver and bones over the past year.
+174,Suveshka,09/29/2022 09:09:00 PM EDT,Question,do you like to talk about your health condition?
+178,Suveshka,09/29/2022 09:10:00 PM EDT,Empathize,is there anything that i can do for you?
+179,Regina Walker,09/29/2022 09:10:00 PM EDT,Response,Thank you. Your kindness is felt.
+176,Suveshka,09/29/2022 09:10:00 PM EDT,Empathize,i am sorry to hear that. it must have been hard for you to deal with the cancer.
+177,Regina Walker,09/29/2022 09:10:00 PM EDT,Response,"Yes, thanks very much."
+181,Regina Walker,09/29/2022 09:20:00 PM EDT,Response,I understand what you're saying. Thank you.
+182,Suveshka,09/29/2022 09:20:00 PM EDT,Educate,do you agree with the nursing diagnosis?
+180,Suveshka,09/29/2022 09:20:00 PM EDT,Educate,readiness for effective coping is your nursing diagnosis. it is important for you to have effective coping so that you can get all your palliative care and become pain free.
+183,Regina Walker,09/29/2022 09:20:00 PM EDT,Response,I consent. You can begin now.

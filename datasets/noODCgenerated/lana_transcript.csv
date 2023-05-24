@@ -1,0 +1,167 @@
+,Participant,Timestamp,Interaction Type,Utterances
+0,Lana,09/29/2022 05:32:00 PM EDT,Greet,hello im lana and ill be your nurse today
+1,Regina Walker,09/29/2022 05:32:00 PM EDT,Response,Hi.
+2,Lana,09/29/2022 05:32:00 PM EDT,Exam Action,Assessed vitals
+3,Lana,09/30/2022 04:40:00 PM EDT,Question,what brought you to the hospital today
+4,Regina Walker,09/30/2022 04:40:00 PM EDT,Response,I was having trouble with the pain from my cancer... I just couldn't take it anymore at home.
+5,Lana,09/30/2022 04:41:00 PM EDT,Empathize,im sorry i know this must be hard for you
+6,Regina Walker,09/30/2022 04:41:00 PM EDT,Response,I appreciate the sympathy.
+7,Lana,09/30/2022 04:42:00 PM EDT,Question,can you tell me your name and date of birth
+8,Regina Walker,09/30/2022 04:42:00 PM EDT,Response,"Regina Walker, I was born January 1st . . . [Ms. Walker reports correct birth year.]"
+9,Lana,09/30/2022 04:42:00 PM EDT,Question,can you tell me where you are at
+10,Regina Walker,09/30/2022 04:42:00 PM EDT,Response,I'm in the hospital.
+11,Lana,09/30/2022 04:43:00 PM EDT,Question,how is your fluid intake
+12,Regina Walker,09/30/2022 04:43:00 PM EDT,Response,This week it's been quite low. I just haven't been very thirsty these days.
+14,Regina Walker,09/30/2022 04:44:00 PM EDT,Response,"No, there's no burning or pain there."
+13,Lana,09/30/2022 04:44:00 PM EDT,Question,any urinary discomfort
+15,Lana,09/30/2022 04:45:00 PM EDT,Question,when was your last meal
+16,Regina Walker,09/30/2022 04:45:00 PM EDT,Response,"Let's see, I had a few bites of yogurt last night before bed... I think that was the last time I had anything."
+17,Lana,09/30/2022 04:45:00 PM EDT,Question,do you have any preferences for hospice care
+18,Regina Walker,09/30/2022 04:45:00 PM EDT,Response,I want to allow things to take their course . . . it's time for me to stop fighting and just enjoy the time I have left in what little ways I can. My husband and I have chosen an assisted living residence near my home where I'll go for hospice care. I have been told that they can help me with the pain there .  . . and it's close enough that my husband can be with me.
+19,Lana,09/30/2022 04:47:00 PM EDT,Question,do you have advance directive
+20,Regina Walker,09/30/2022 04:47:00 PM EDT,Response,"Yes, all my affairs should be in order."
+21,Lana,09/30/2022 04:48:00 PM EDT,Question,when did your pain start
+22,Regina Walker,09/30/2022 04:48:00 PM EDT,Response,"I've been in some pain for a long time, but it reached an unbearable level two days ago."
+23,Lana,09/30/2022 04:48:00 PM EDT,Question,where is your pain
+24,Regina Walker,09/30/2022 04:48:00 PM EDT,Response,"Well, everywhere really . . . These past days I've felt it mostly in my ribs and legs but even my bones hurt."
+25,Lana,09/30/2022 04:49:00 PM EDT,Question,what are the characteristics of your pain
+26,Regina Walker,09/30/2022 04:49:00 PM EDT,Response,"I can feel it all over my body . . . It's a sharp pain in my bones, my legs, and my ribs. It's been getting much worse over the past two days."
+30,Regina Walker,09/30/2022 04:50:00 PM EDT,Response,"Yes, I've been taking both slow and fast acting morphine for the pain. (Clarified to if I am taking pain medication.)"
+29,Lana,09/30/2022 04:50:00 PM EDT,Question,do you take any treatment for your pain 
+160,System,09/30/2022 04:50:00 PM EDT,Clarification, Are you taking anything for pain?.
+27,Lana,09/30/2022 04:50:00 PM EDT,Question,any aggravating symptoms of your pain
+28,Regina Walker,09/30/2022 04:50:00 PM EDT,Response,"Nothing makes the pain worse, nothing makes it better. It's just constant and relentless."
+31,Lana,09/30/2022 04:51:00 PM EDT,Question,"can you rate you pain on a scale of 0-10, 0 being no pain and 10 being the worst ever "
+32,Regina Walker,09/30/2022 04:51:00 PM EDT,Response,"Right now, I'm about a 4 of 10. (Clarified to how I would rate my pain on a scale.)"
+161,System,09/30/2022 04:51:00 PM EDT,Clarification, Can you rate your current pain level on a scale of 0 to 10?.
+33,Lana,09/30/2022 04:52:00 PM EDT,Question,any allergies
+34,Regina Walker,09/30/2022 04:52:00 PM EDT,Response,"Well, I don't have allergies to anything but penicillin. I told them right when I arrived."
+35,Lana,09/30/2022 04:52:00 PM EDT,Empathize,thank you for helping answer all these questions
+36,Regina Walker,09/30/2022 04:52:00 PM EDT,Response,I appreciate the good will.
+37,Lana,09/30/2022 04:53:00 PM EDT,Question,what does penicillin do to you
+38,Regina Walker,09/30/2022 04:53:00 PM EDT,Response,I'm fairly certain I just got a rash when I found out I was allergic.
+39,Lana,09/30/2022 04:53:00 PM EDT,Question,do you take any medications at home
+40,Regina Walker,09/30/2022 04:53:00 PM EDT,Response,I take two types of morphine at home every day and I also manage my hypertension with Hyzaar.
+41,Lana,09/30/2022 04:55:00 PM EDT,Question,do you take long acting morphine
+42,Regina Walker,09/30/2022 04:55:00 PM EDT,Response,"Yes, it helps most of the time but this pain was so intense that I barely noticed any change."
+44,Lana,09/30/2022 04:56:00 PM EDT,Question,do you take immediate release  morphine
+45,Regina Walker,09/30/2022 04:56:00 PM EDT,Response,"Yes, I do. It generally is effective for my pain, but it was no help for the past few days."
+46,Lana,09/30/2022 04:56:00 PM EDT,Empathize,im sorry you have been in so much pain
+47,Regina Walker,09/30/2022 04:56:00 PM EDT,Response,Thank you. Your kindness is felt.
+43,Lana,09/30/2022 04:56:00 PM EDT,Question,do you take immediate acting morphine (No matching questions found.)
+48,Lana,09/30/2022 04:57:00 PM EDT,Question,do you use any substances
+49,Regina Walker,09/30/2022 04:57:00 PM EDT,Response,"No, I do not."
+50,Lana,09/30/2022 04:57:00 PM EDT,Question,do you take any over the counter medications
+51,Regina Walker,09/30/2022 04:57:00 PM EDT,Response,All of my medications are prescription.
+52,Lana,09/30/2022 04:58:00 PM EDT,Question,any changes in hearing (No matching questions found.)
+53,Lana,09/30/2022 04:58:00 PM EDT,Question,have you had any changes in your vision lately
+54,Regina Walker,09/30/2022 04:58:00 PM EDT,Response,"I usually have a little trouble seeing, but that's not a new development and I wear glasses for it."
+58,Regina Walker,09/30/2022 04:59:00 PM EDT,Response,"I haven't intentionally changed anything about my diet, my appetite has just been quite small for the past two months."
+56,Regina Walker,09/30/2022 04:59:00 PM EDT,Response,"No, I don't think my breathing has changed at all."
+55,Lana,09/30/2022 04:59:00 PM EDT,Question,any changes in your breathing
+57,Lana,09/30/2022 04:59:00 PM EDT,Question,any changes in cardiovascular
+59,Lana,09/30/2022 05:00:00 PM EDT,Question,any change in your heart 
+60,Regina Walker,09/30/2022 05:00:00 PM EDT,Response,I wouldn't call it much of a problem but my skin has been feeling thinner than normal. (Clarified to if my skin has changed.)
+61,Lana,09/30/2022 05:00:00 PM EDT,Question,any increase in blood pressure (No matching questions found.)
+162,System,09/30/2022 05:00:00 PM EDT,Clarification, Has your skin changed?.
+163,System,09/30/2022 05:01:00 PM EDT,Clarification, Do you have gastrointestinal problems?.
+63,Regina Walker,09/30/2022 05:01:00 PM EDT,Response,"Well, I've been getting pain in my stomach and I've been a bit constipated as well. Which I think is why I feel so full and bloated. (Clarified to if I have gastrointestinal problems.)"
+62,Lana,09/30/2022 05:01:00 PM EDT,Question,any gastrointestinal changes recently 
+65,Regina Walker,09/30/2022 05:01:00 PM EDT,Response,"Yes, I've been feeling quite weak lately."
+64,Lana,09/30/2022 05:01:00 PM EDT,Question,any neurological changes
+67,Regina Walker,09/30/2022 05:02:00 PM EDT,Response,"Well, I've been constipated for about four days now, I can't seem to make anything happen there."
+68,Lana,09/30/2022 05:02:00 PM EDT,Question,any psychological changes
+69,Regina Walker,09/30/2022 05:02:00 PM EDT,Response,"No, not specifically . . . I have been feeling somewhat anxious lately though."
+66,Lana,09/30/2022 05:02:00 PM EDT,Question,how long have you been constipated
+71,Regina Walker,09/30/2022 05:03:00 PM EDT,Response,"I had a mastectomy about 5 years ago for the cancer, and before that a hernia repair surgery."
+70,Lana,09/30/2022 05:03:00 PM EDT,Question,any surgical history
+73,Regina Walker,09/30/2022 05:04:00 PM EDT,Response,"No, not particularly. I don't have any trouble with my bladder."
+72,Lana,09/30/2022 05:04:00 PM EDT,Question,have you had any changes in the heart area
+74,Lana,09/30/2022 05:04:00 PM EDT,Question,any depression
+75,Regina Walker,09/30/2022 05:04:00 PM EDT,Response,"I have my ups and downs. Nothing so down I'd call depression, though."
+76,Lana,09/30/2022 05:05:00 PM EDT,Question,what is your living situation
+77,Regina Walker,09/30/2022 05:05:00 PM EDT,Response,"I'm living with my husband in our home. I'm happy there still, all the familiar surroundings, visits from our friends . . . but if the pain is going to be as bad as this morning from now on, I'm not sure what I can do about it at home."
+78,Lana,09/30/2022 05:05:00 PM EDT,Question,do you feel safe in your home
+79,Regina Walker,09/30/2022 05:05:00 PM EDT,Response,"Of course, I've never felt threatened at home."
+82,Lana,09/30/2022 05:06:00 PM EDT,Question,are you able to dress yourself
+81,Regina Walker,09/30/2022 05:06:00 PM EDT,Response,"I don't bathe on my own anymore. My husband helps me, especially with getting in and out of the shower, and we have a shower bench that I sit on."
+80,Lana,09/30/2022 05:06:00 PM EDT,Question,are you able to bath yourself
+83,Regina Walker,09/30/2022 05:06:00 PM EDT,Response,I don't have any trouble dressing myself.
+85,Regina Walker,09/30/2022 05:07:00 PM EDT,Response,Thank you for saying that. Really.
+84,Lana,09/30/2022 05:07:00 PM EDT,Empathize,im glad you have support at home
+88,Lana,09/30/2022 05:07:00 PM EDT,Question,any changes in sleeping habits
+87,Regina Walker,09/30/2022 05:07:00 PM EDT,Response,"Yes, I haven't gotten to that point yet and hopefully won't have to ever worry about having someone feed me."
+86,Lana,09/30/2022 05:07:00 PM EDT,Question,are you able to feed yourself
+89,Regina Walker,09/30/2022 05:07:00 PM EDT,Response,"Well, in the past few months it's been harder and harder for me to sleep."
+90,Lana,09/30/2022 05:08:00 PM EDT,Question,any recent confusion 
+91,Regina Walker,09/30/2022 05:08:00 PM EDT,Response,"No, I haven't had any recent falls. (Clarified to if I have fallen recently.)"
+92,Lana,09/30/2022 05:08:00 PM EDT,Question,have you had any confusion
+164,System,09/30/2022 05:08:00 PM EDT,Clarification, Have you fallen recently?.
+93,Regina Walker,09/30/2022 05:08:00 PM EDT,Response,"No, not currently."
+94,Lana,09/30/2022 05:09:00 PM EDT,Question,do you use  gait and ambulatory aids
+95,Regina Walker,09/30/2022 05:09:00 PM EDT,Response,"No, I don't use any sort of cane or walker. My husband helps me if I have trouble getting up."
+96,Lana,09/30/2022 05:09:00 PM EDT,Question,any weight changes
+97,Regina Walker,09/30/2022 05:09:00 PM EDT,Response,"Yes, I've lost 20 pounds or so in the past two months."
+165,System,09/30/2022 05:10:00 PM EDT,Clarification, Do your health problems affect your social life?.
+99,Regina Walker,09/30/2022 05:10:00 PM EDT,Response,"Yes, it certainly does. I love that we get plenty of visitors at our house, but it's hard for me even to get up and see them sometimes. (Clarified to if my health problems affect my social life.)"
+98,Lana,09/30/2022 05:10:00 PM EDT,Question,any effects on your social activities because of your health 
+103,Regina Walker,09/30/2022 05:11:00 PM EDT,Response,"My parents both have passed on, but they had a few health issues while they were still with us. Both had high blood pressure and cholesterol and my father had type 2 diabetes as well."
+100,Lana,09/30/2022 05:11:00 PM EDT,Question,do you have any past medical history
+102,Lana,09/30/2022 05:11:00 PM EDT,Question,any family medical history
+101,Regina Walker,09/30/2022 05:11:00 PM EDT,Response,"Yes, I have stage IV breast cancer and hypertension."
+104,Lana,09/30/2022 05:12:00 PM EDT,Question,what is your perception of health
+105,Regina Walker,09/30/2022 05:12:00 PM EDT,Response,I'd say my health is poor in general. I'm quite aware of the situation I'm in.
+106,Lana,09/30/2022 05:12:00 PM EDT,Question,any recent tiredness (No matching questions found.)
+107,Lana,09/30/2022 05:12:00 PM EDT,Question,any recent fatigue
+108,Regina Walker,09/30/2022 05:12:00 PM EDT,Response,"Yes, I'm just exhausted all the time. This pain just takes so much out of me."
+109,Lana,09/30/2022 05:13:00 PM EDT,Question,any recent hospitalizations
+110,Regina Walker,09/30/2022 05:13:00 PM EDT,Response,"No, I haven't been to the hospital for around three months."
+111,Lana,09/30/2022 05:14:00 PM EDT,Empathize,thank you for answering my questions
+112,Regina Walker,09/30/2022 05:14:00 PM EDT,Response,"Yes, thanks very much."
+113,Lana,09/30/2022 05:14:00 PM EDT,Question,is it okay if i assess you now (No matching questions found.)
+114,Lana,09/30/2022 05:15:00 PM EDT,Question,is it okay if  I preform a assessment now (No matching questions found.)
+115,Lana,09/30/2022 05:15:00 PM EDT,Question,im gonna assess your vitals now (No matching questions found.)
+116,Lana,09/30/2022 05:15:00 PM EDT,Exam Action,Assessed vitals
+117,Lana,09/30/2022 08:35:00 PM EDT,Exam Action,Assessed IV bag
+118,Lana,09/30/2022 08:35:00 PM EDT,Exam Action,Assessed IV pump
+119,Lana,09/30/2022 08:43:00 PM EDT,Exam Action,Assessed IV bag
+122,Lana,09/30/2022 08:45:00 PM EDT,Exam Action,Checked Patient Wristbands: All information is correct
+121,Lana,09/30/2022 08:45:00 PM EDT,Exam Action,"Assessed urine quality: clear, dark yellow, no noticeable odor"
+120,Lana,09/30/2022 08:45:00 PM EDT,Exam Action,Assessed IV site
+124,Regina Walker,09/30/2022 08:46:00 PM EDT,Response,All of my needs are being met . . . my husband would never neglect me. He takes such good care of me and does the best he can to make sure I am comfortable.
+123,Lana,09/30/2022 08:46:00 PM EDT,Question,has anyone withheld food or care from you
+125,Lana,09/30/2022 08:47:00 PM EDT,Exam Action,Inspected left eye: Sclera - icterus
+126,Lana,09/30/2022 08:47:00 PM EDT,Exam Action,Inspected right eye: Sclera - icterus
+127,Lana,09/30/2022 08:48:00 PM EDT,Exam Action,Inspected mouth
+132,Lana,09/30/2022 08:49:00 PM EDT,Exam Action,Inspected front of thighs and knees
+130,Lana,09/30/2022 08:49:00 PM EDT,Exam Action,Inspected front of left hand and arm
+128,Lana,09/30/2022 08:49:00 PM EDT,Exam Action,Inspected front of neck and face: jaundice
+129,Lana,09/30/2022 08:49:00 PM EDT,Exam Action,Inspected chest and abdomen
+131,Lana,09/30/2022 08:49:00 PM EDT,Exam Action,Inspected front of right hand and arm
+134,Lana,09/30/2022 08:50:00 PM EDT,Exam Action,Inspected back of neck and upper back
+133,Lana,09/30/2022 08:50:00 PM EDT,Exam Action,Inspected front of shins and top of feet
+138,Lana,09/30/2022 08:50:00 PM EDT,Exam Action,Auscultated carotids
+135,Lana,09/30/2022 08:50:00 PM EDT,Exam Action,Inspected lower back and hips
+136,Lana,09/30/2022 08:50:00 PM EDT,Exam Action,Inspected back of thighs and knees
+137,Lana,09/30/2022 08:50:00 PM EDT,Exam Action,Inspected calves and heel
+139,Lana,09/30/2022 08:50:00 PM EDT,Exam Action,Auscultated breath sounds
+140,Lana,09/30/2022 08:51:00 PM EDT,Exam Action,Auscultated heart sounds
+141,Lana,09/30/2022 08:51:00 PM EDT,Exam Action,Auscultated bowel sounds
+142,Lana,09/30/2022 08:51:00 PM EDT,Exam Action,Palpated abdomen with light pressure
+143,Lana,09/30/2022 08:51:00 PM EDT,Exam Action,Palpated abdomen with deep pressure
+144,Lana,09/30/2022 08:51:00 PM EDT,Exam Action,Palpated bladder
+145,Lana,09/30/2022 08:55:00 PM EDT,Question,"repeat and remember apple, penny, and table"
+146,Regina Walker,09/30/2022 08:55:00 PM EDT,Response,"Apple, penny, and table."
+148,Regina Walker,09/30/2022 08:57:00 PM EDT,Response,"Apple, penny, and table."
+151,Regina Walker,09/30/2022 08:57:00 PM EDT,Response,Thank you for saying that. Really.
+150,Lana,09/30/2022 08:57:00 PM EDT,Empathize,great job
+149,Lana,09/30/2022 08:57:00 PM EDT,Exam Action,Tested cognition
+147,Lana,09/30/2022 08:57:00 PM EDT,Question,can you repeat the three words i asked you to remember earlier
+154,Lana,09/30/2022 08:58:00 PM EDT,Exam Action,Assessed vitals
+153,Lana,09/30/2022 08:58:00 PM EDT,Exam Action,Tested capillary refill
+152,Lana,09/30/2022 08:58:00 PM EDT,Exam Action,Tested skin turgor
+155,Lana,09/30/2022 08:59:00 PM EDT,Exam Action,Palpated abdomen with light pressure
+156,Lana,09/30/2022 09:06:00 PM EDT,Educate,Since you are having a harder time coping with your diagnosis and having trouble perform ADL's we decided to make sure you are ready for this decision of hospice care.
+157,Regina Walker,09/30/2022 09:06:00 PM EDT,Response,I understand what you're saying. Thank you.
+158,Lana,09/30/2022 09:06:00 PM EDT,Educate,do you consent to this care plan
+159,Regina Walker,09/30/2022 09:06:00 PM EDT,Response,I consent. You can begin now.
