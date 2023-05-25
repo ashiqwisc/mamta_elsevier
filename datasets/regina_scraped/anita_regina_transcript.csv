@@ -1,0 +1,169 @@
+,Participant,Timestamp,Interaction Type,Utterances
+0,Anita,09/28/2022 08:19:00 PM EDT,Greet,Hi Ms. walker how are you?
+1,Regina Walker,09/28/2022 08:19:00 PM EDT,Response,Hi.
+2,Anita,09/28/2022 08:27:00 PM EDT,Question,What is the reason of hospitalization? 
+3,System,09/28/2022 08:27:00 PM EDT,Clarification, What brings you to the hospital?.
+4,Regina Walker,09/28/2022 08:27:00 PM EDT,Response,I was having trouble with the pain from my cancer... I just couldn't take it anymore at home. (Clarified to what brings me to the hospital.)
+5,Anita,09/28/2022 08:28:00 PM EDT,Statement,I'm so sorry.
+6,Regina Walker,09/28/2022 08:28:00 PM EDT,Response,I appreciate the sympathy.
+7,Anita,09/28/2022 08:29:00 PM EDT,Question,How long have you been experiencing this pain?
+8,Regina Walker,09/28/2022 08:29:00 PM EDT,Response,"I've been having some bone pain since they found more cancer there six months ago, and I started getting the rib pains when they found it in my liver."
+9,Anita,09/28/2022 08:31:00 PM EDT,Question,Do you know where you at right now?
+10,Regina Walker,09/28/2022 08:31:00 PM EDT,Response,I'm in the hospital.
+11,Anita,09/28/2022 08:31:00 PM EDT,Question,what date is today?
+12,Regina Walker,09/28/2022 08:31:00 PM EDT,Response,It's . . . [Ms. Walker reports the correct date.]
+13,Anita,09/28/2022 08:33:00 PM EDT,Question,Any past medical history?
+14,Regina Walker,09/28/2022 08:33:00 PM EDT,Response,"Yes, I have stage IV breast cancer and hypertension."
+15,Anita,09/28/2022 08:33:00 PM EDT,Question,Any past surgical history?
+16,Regina Walker,09/28/2022 08:33:00 PM EDT,Response,"I had a mastectomy about 5 years ago for the cancer, and before that a hernia repair surgery."
+17,Anita,09/28/2022 08:34:00 PM EDT,Question,Do you have any allergies?
+18,Regina Walker,09/28/2022 08:34:00 PM EDT,Response,"Well, I don't have allergies to anything but penicillin. I told them right when I arrived."
+19,Anita,09/28/2022 08:35:00 PM EDT,Question,Are you medication right now?
+20,Regina Walker,09/28/2022 08:35:00 PM EDT,Response,I take two types of morphine at home every day and I also manage my hypertension with Hyzaar.
+21,Anita,09/28/2022 08:36:00 PM EDT,Question,Does anyone in your family have cancer?
+22,Regina Walker,09/28/2022 08:36:00 PM EDT,Response,"No, not that I know of."
+23,Anita,09/28/2022 08:36:00 PM EDT,Question,tell me more about family history?
+24,Regina Walker,09/28/2022 08:36:00 PM EDT,Response,Tell me more about your social history? 
+25,System,09/28/2022 08:39:00 PM EDT,Clarification, Tell me more about your church?.
+26,Anita,09/28/2022 08:39:00 PM EDT,Question,Tell me more about your social history? (Clarified to Tell me more about your church?.)
+27,Regina Walker,09/28/2022 08:39:00 PM EDT,Response,"When I was able to, yes, I did. I'm a deacon at our local church, as is my husband. We've got a great congregation, they've been so kind in these trying times. (Clarified to to tell you more about my church.)"
+28,Anita,09/28/2022 08:40:00 PM EDT,Question,what makes your pain bad?
+29,Regina Walker,09/28/2022 08:40:00 PM EDT,Response,"Nothing makes the pain worse, nothing makes it better. It's just constant and relentless."
+30,Anita,09/28/2022 08:41:00 PM EDT,Question,can you rate the pain between 0 to 10?
+31,Regina Walker,09/28/2022 08:41:00 PM EDT,Response,"Right now, I'm about a 4 of 10."
+32,Anita,09/28/2022 08:41:00 PM EDT,Question,what is fluid intake volume per day? 
+33,System,09/28/2022 08:42:00 PM EDT,Clarification, What is your normal daily fluid intake?.
+34,Regina Walker,09/28/2022 08:41:00 PM EDT,Response,what is your urinary frequency? 
+35,System,09/28/2022 08:44:00 PM EDT,Clarification, How is your urination?.
+36,Anita,09/28/2022 08:42:00 PM EDT,Question,what is fluid intake volume per day? (Clarified to What is your normal daily fluid intake?.)
+37,Regina Walker,09/28/2022 08:42:00 PM EDT,Response,This week it's been quite low. I just haven't been very thirsty these days. (Clarified to what my typical daily fluid intake is.)
+38,Anita,09/28/2022 08:44:00 PM EDT,Question,what is your urinary frequency? (Clarified to How is your urination?.)
+39,Regina Walker,09/28/2022 08:44:00 PM EDT,Response,It's been normal as far as I can tell. (Clarified to how my urination is.)
+40,Anita,09/28/2022 08:44:00 PM EDT,Question,what did you eat for you lunch?
+41,Regina Walker,09/28/2022 08:44:00 PM EDT,Response,"Well, I haven't been quite as hungry lately. I usually just have a couple of bites here and there, that's all I ever really feel hungry enough for."
+42,Anita,09/28/2022 08:45:00 PM EDT,Question,do you have any depression?
+43,Regina Walker,09/28/2022 08:45:00 PM EDT,Response,"I have my ups and downs. Nothing so down I'd call depression, though."
+44,Anita,09/28/2022 08:45:00 PM EDT,Question,how's your living environment?
+45,Regina Walker,09/28/2022 08:45:00 PM EDT,Response,"I'm living with my husband in our home. I'm happy there still, all the familiar surroundings, visits from our friends . . . but if the pain is going to be as bad as this morning from now on, I'm not sure what I can do about it at home."
+46,Anita,09/28/2022 08:46:00 PM EDT,Question,how about bathing? (No matching questions found.)
+47,Anita,09/28/2022 08:46:00 PM EDT,Question,does anyone help you for your dressing? 
+48,System,09/28/2022 09:06:00 PM EDT,Clarification, Do you have trouble dressing yourself?.
+49,Regina Walker,09/28/2022 08:46:00 PM EDT,Response,"Yes, I can't quite bathe on my own now. My husband has been helping me when I need to. We also have a shower bench that I sit on so I don't have to worry about falling."
+50,Anita,09/28/2022 09:06:00 PM EDT,Question,do you feel safe at home?
+51,Regina Walker,09/28/2022 09:06:00 PM EDT,Response,any continence? 
+52,System,09/28/2022 09:07:00 PM EDT,Clarification, Do you have difficulty with continence?.
+53,Anita,09/28/2022 09:06:00 PM EDT,Question,does anyone help you for your dressing? (Clarified to Do you have trouble dressing yourself?.)
+54,Regina Walker,09/28/2022 09:06:00 PM EDT,Response,I don't have any trouble dressing myself. (Clarified to if I have trouble dressing myself.)
+55,Anita,09/28/2022 09:06:00 PM EDT,Question,what is your eating habit? 
+56,System,09/28/2022 09:07:00 PM EDT,Clarification, What are your eating habits?.
+57,Regina Walker,09/28/2022 09:06:00 PM EDT,Response,sleeping habits? 
+58,System,09/28/2022 09:08:00 PM EDT,Clarification, What are your sleep habits?.
+59,Anita,09/28/2022 09:07:00 PM EDT,Question,any continence? (Clarified to Do you have difficulty with continence?.)
+60,Regina Walker,09/28/2022 09:07:00 PM EDT,Response,"I'm still in control of my bladder and bowels, thankfully. (Clarified to if I have difficulty with continence.)"
+61,Anita,09/28/2022 09:07:00 PM EDT,Question,any risk for fall? 
+62,System,09/28/2022 09:08:00 PM EDT,Clarification, Are you a fall risk?.
+63,Regina Walker,09/28/2022 09:07:00 PM EDT,Response,"Yes, I haven't gotten to that point yet and hopefully won't have to ever worry about having someone feed me."
+64,Anita,09/28/2022 09:07:00 PM EDT,Question,what is your eating habit? (Clarified to What are your eating habits?.)
+65,Regina Walker,09/28/2022 09:07:00 PM EDT,Response,"My appetite has been rather small lately, I haven't been eating too much for the last months. (Clarified to what my eating habits are.)"
+66,Anita,09/28/2022 09:08:00 PM EDT,Question,sleeping habits? (Clarified to What are your sleep habits?.)
+67,Regina Walker,09/28/2022 09:08:00 PM EDT,Response,I'll take my medication before bed generally and just try to get what sleep I can. My quality of sleep has been quite poor lately though. (Clarified to what my sleep habits are.)
+68,Anita,09/28/2022 09:08:00 PM EDT,Question,do you feel confused?
+69,Regina Walker,09/28/2022 09:08:00 PM EDT,Response,"No, not currently."
+70,Anita,09/28/2022 09:08:00 PM EDT,Question,any risk for fall? (Clarified to Are you a fall risk?.)
+71,Regina Walker,09/28/2022 09:08:00 PM EDT,Response,No but I don't risk moving around too much with my usual level of pain anyway. (Clarified to if I am a fall risk.)
+72,Anita,09/28/2022 09:15:00 PM EDT,Question,Have you ever been abused?
+73,Regina Walker,09/28/2022 09:15:00 PM EDT,Response,There's never been any violence in my home . . . only love. I feel very safe with my family.
+74,Anita,09/28/2022 09:16:00 PM EDT,Question,do you use any hearing aids?
+75,Regina Walker,09/28/2022 09:16:00 PM EDT,Response,My hearing is good still. I've never really had trouble with it.
+76,Anita,09/28/2022 09:16:00 PM EDT,Question,any chest pain?
+77,Regina Walker,09/28/2022 09:16:00 PM EDT,Response,"No, my pain there is more in the lower rib area."
+78,Anita,09/28/2022 09:16:00 PM EDT,Question,any shortness of breathing?
+79,Regina Walker,09/28/2022 09:16:00 PM EDT,Response,"No, I don't have any breathing difficulties."
+80,Anita,09/28/2022 09:17:00 PM EDT,Question,any digestion problem?
+81,Regina Walker,09/28/2022 09:17:00 PM EDT,Response,"Not normally, but maybe indigestion is what's causing my recent stomach pain and constipation."
+82,Anita,09/28/2022 09:17:00 PM EDT,Question,what do you take for your constipation
+83,Regina Walker,09/28/2022 09:17:00 PM EDT,Response,do you prefer hospice care? 
+84,System,09/28/2022 09:19:00 PM EDT,Clarification, Do you have any preferences for your hospice care?.
+85,Anita,09/28/2022 09:18:00 PM EDT,Question,any bone pain?
+86,Regina Walker,09/28/2022 09:18:00 PM EDT,Response,"Yes, the worst I've ever felt. I feel it all over my body, my legs, my ribs, in my bones."
+87,Anita,09/28/2022 09:18:00 PM EDT,Question,when did you knew you have penicillin allergy? 
+88,System,09/28/2022 09:20:00 PM EDT,Clarification, What type of reaction do you have to penicillin?.
+89,Regina Walker,09/28/2022 09:18:00 PM EDT,Response,"Well, I wouldn't say I have too much muscle pain, but I do feel like I've lost a lot of strength even in the past weeks."
+90,Anita,09/28/2022 09:18:00 PM EDT,Question,any numbness?
+91,Regina Walker,09/28/2022 09:18:00 PM EDT,Response,"No, I don't get anything like that."
+92,Anita,09/28/2022 09:19:00 PM EDT,Question,did you eat something recently?
+93,Regina Walker,09/28/2022 09:19:00 PM EDT,Response,"Let's see, I had a few bites of yogurt last night before bed... I think that was the last time I had anything."
+94,Anita,09/28/2022 09:19:00 PM EDT,Question,do you prefer hospice care? (Clarified to Do you have any preferences for your hospice care?.)
+95,Regina Walker,09/28/2022 09:19:00 PM EDT,Response,I want to allow things to take their course . . . it's time for me to stop fighting and just enjoy the time I have left in what little ways I can. My husband and I have chosen an assisted living residence near my home where I'll go for hospice care. I have been told that they can help me with the pain there .  . . and it's close enough that my husband can be with me. (Clarified to if I have preferences about my hospice care.)
+96,Anita,09/28/2022 09:19:00 PM EDT,Question,do you have advanced directives?
+97,Regina Walker,09/28/2022 09:19:00 PM EDT,Response,any skin breakdown? 
+98,System,09/28/2022 09:22:00 PM EDT,Clarification, Do you have skin problems?.
+99,Anita,09/28/2022 09:20:00 PM EDT,Question,when did you knew you have penicillin allergy? (Clarified to What type of reaction do you have to penicillin?.)
+100,Regina Walker,09/28/2022 09:20:00 PM EDT,Response,I'm fairly certain I just got a rash when I found out I was allergic. (Clarified to what my reaction to penicillin is.)
+101,Anita,09/28/2022 09:20:00 PM EDT,Question,how long have you been using morphine?
+102,Regina Walker,09/28/2022 09:20:00 PM EDT,Response,I've been taking morphine for about six months. That's when the cancer had spread to my bones and the pain was intensifying.
+103,Anita,09/28/2022 09:21:00 PM EDT,Question,is that a long-acting morphine?
+104,Regina Walker,09/28/2022 09:21:00 PM EDT,Response,I take two different types of morphine. Immediate release and long-acting.
+105,Anita,09/28/2022 09:21:00 PM EDT,Question,what do you think about your illness? 
+106,System,09/28/2022 09:23:00 PM EDT,Clarification, What do you think caused your illness?.
+107,Regina Walker,09/28/2022 09:21:00 PM EDT,Response,"My morphine all comes in pill form, both the fast and slow acting."
+108,Anita,09/28/2022 09:22:00 PM EDT,Question,do you have any substance abuse history?
+109,Regina Walker,09/28/2022 09:22:00 PM EDT,Response,"No, I do not."
+110,Anita,09/28/2022 09:22:00 PM EDT,Question,any skin breakdown? (Clarified to Do you have skin problems?.)
+111,Regina Walker,09/28/2022 09:22:00 PM EDT,Response,I wouldn't call it much of a problem but my skin has been feeling thinner than normal. (Clarified to if I have skin problems.)
+112,Anita,09/28/2022 09:22:00 PM EDT,Question,have you notice any change weight?
+113,Regina Walker,09/28/2022 09:22:00 PM EDT,Response,"Yes, I've lost 20 pounds or so in the past two months."
+114,Anita,09/28/2022 09:22:00 PM EDT,Question,do you have denture?
+115,Regina Walker,09/28/2022 09:22:00 PM EDT,Response,"No, I don't need to wear dentures."
+116,Anita,09/28/2022 09:23:00 PM EDT,Question,how social activity affect your health?
+117,Regina Walker,09/28/2022 09:23:00 PM EDT,Response,how you feel about ER visit? 
+118,System,09/28/2022 09:25:00 PM EDT,Clarification, How do you feeling about being hospitalized?.
+119,Anita,09/28/2022 09:23:00 PM EDT,Question,what do you think about your illness? (Clarified to What do you think caused your illness?.)
+120,Regina Walker,09/28/2022 09:23:00 PM EDT,Response,"It's my breast cancer, I'm sure of it. (Clarified to what I think caused my illness.)"
+121,Anita,09/28/2022 09:24:00 PM EDT,Question,what is your perception of health?
+122,Regina Walker,09/28/2022 09:24:00 PM EDT,Response,I'd say my health is poor in general. I'm quite aware of the situation I'm in.
+123,Anita,09/28/2022 09:24:00 PM EDT,Question,do you tired easily?
+124,Regina Walker,09/28/2022 09:24:00 PM EDT,Response,"Yes, I'm just exhausted all the time. This pain just takes so much out of me."
+125,Anita,09/28/2022 09:24:00 PM EDT,Statement,sorry to hear but we will take care of you.
+126,Regina Walker,09/28/2022 09:24:00 PM EDT,Response,Thanks much for that.
+127,Anita,09/28/2022 09:25:00 PM EDT,Statement,You have take your hypertension and pain medication on time.
+128,Regina Walker,09/28/2022 09:25:00 PM EDT,Response,I see. Thats helpful to know.
+129,Anita,09/28/2022 09:25:00 PM EDT,Question,do you know why you are at hospital?
+130,Regina Walker,09/28/2022 09:25:00 PM EDT,Response,"Yes, I'm quite aware of my situation."
+131,Anita,09/28/2022 09:25:00 PM EDT,Question,how you feel about ER visit? (Clarified to How do you feeling about being hospitalized?.)
+132,Regina Walker,09/28/2022 09:25:00 PM EDT,Response,"The hospital medication helps some, but I can still feel pain behind. (Clarified to how I feel about being in the hospital.)"
+133,Anita,09/28/2022 09:26:00 PM EDT,Question,any past history of hospitalization?
+134,Regina Walker,09/28/2022 09:26:00 PM EDT,Response,"Yes, but not within the past few months."
+135,Anita,10/01/2022 06:31:00 PM EDT,Exam Action,Assessed vitals
+136,Anita,10/01/2022 06:34:00 PM EDT,Exam Action,Assessed IV bag
+137,Anita,10/01/2022 06:34:00 PM EDT,Exam Action,Assessed IV pump
+138,Anita,10/01/2022 06:35:00 PM EDT,Exam Action,Assessed IV site
+139,Anita,10/01/2022 06:35:00 PM EDT,Exam Action,"Assessed urine quality: clear, dark yellow, no noticeable odor"
+140,Anita,10/01/2022 06:35:00 PM EDT,Exam Action,Checked Patient Wristbands: All information is correct
+141,Anita,10/01/2022 06:36:00 PM EDT,Exam Action,Inspected left eye: Sclera - icterus
+142,Anita,10/01/2022 06:36:00 PM EDT,Exam Action,Inspected right eye: Sclera - icterus
+143,Anita,10/01/2022 06:37:00 PM EDT,Exam Action,Inspected mouth
+144,Anita,10/01/2022 06:37:00 PM EDT,Exam Action,Inspected front of neck and face: jaundice
+145,Anita,10/01/2022 06:38:00 PM EDT,Exam Action,Inspected chest and abdomen
+146,Anita,10/01/2022 06:38:00 PM EDT,Exam Action,Inspected front of right hand and arm
+147,Anita,10/01/2022 06:38:00 PM EDT,Exam Action,Inspected front of left hand and arm
+148,Anita,10/01/2022 06:38:00 PM EDT,Exam Action,Inspected front of thighs and knees
+149,Anita,10/01/2022 06:38:00 PM EDT,Exam Action,Inspected front of shins and top of feet
+150,Anita,10/01/2022 06:49:00 PM EDT,Exam Action,Inspected front of shins and top of feet
+151,Anita,10/01/2022 06:49:00 PM EDT,Exam Action,Inspected front of shins and top of feet
+152,Anita,10/01/2022 06:49:00 PM EDT,Exam Action,Inspected front of shins and top of feet
+153,Anita,10/01/2022 06:49:00 PM EDT,Exam Action,Inspected front of shins and top of feet
+154,Anita,10/01/2022 06:49:00 PM EDT,Exam Action,Inspected front of shins and top of feet
+155,Anita,10/01/2022 06:49:00 PM EDT,Exam Action,Auscultated carotids
+156,Anita,10/01/2022 06:49:00 PM EDT,Exam Action,Auscultated breath sounds
+157,Anita,10/01/2022 06:50:00 PM EDT,Exam Action,Auscultated heart sounds
+158,Anita,10/01/2022 06:50:00 PM EDT,Exam Action,Auscultated bowel sounds
+159,Anita,10/01/2022 06:50:00 PM EDT,Exam Action,Palpated abdomen with light pressure
+160,Anita,10/01/2022 06:50:00 PM EDT,Exam Action,Palpated abdomen with deep pressure
+161,Anita,10/01/2022 06:50:00 PM EDT,Exam Action,Palpated bladder
+162,Anita,10/01/2022 06:53:00 PM EDT,Exam Action,Tested skin turgor
+163,Anita,10/01/2022 06:53:00 PM EDT,Exam Action,Tested capillary refill
+164,Anita,10/01/2022 07:18:00 PM EDT,Statement,We are here to provide you good quality of care and comfort.
+165,Regina Walker,10/01/2022 07:18:00 PM EDT,Response,I understand what you're saying. Thank you.
+166,Anita,10/01/2022 07:19:00 PM EDT,Statement,Do you understand thee care plan?
+167,Regina Walker,10/01/2022 07:19:00 PM EDT,Response,I consent. You can begin now.

@@ -14,7 +14,7 @@
 12,Regina Walker,09/29/2022 08:24:00 PM EDT,Response,"I've been in some pain for a long time, but it reached an unbearable level two days ago."
 13,Suveksha,09/29/2022 08:24:00 PM EDT,Question,have you been taking any pain medication?
 14,Regina Walker,09/29/2022 08:24:00 PM EDT,Response,I believe they are morphine pills. I have one type that is fast acting and another that is effective over a longer period.
-15,Suveksha,09/29/2022 08:25:00 PM EDT,Educate,sometimes trying non pharmacological techniques can help reduce pain.
+15,Suveksha,09/29/2022 08:25:00 PM EDT,Statement,sometimes trying non pharmacological techniques can help reduce pain.
 16,Regina Walker,09/29/2022 08:25:00 PM EDT,Response,Thanks. Perhaps that could help me.
 17,Suveksha,09/29/2022 08:26:00 PM EDT,Question,where do you feel your pain?
 18,Regina Walker,09/29/2022 08:26:00 PM EDT,Response,"Well, everywhere really . . . These past days I've felt it mostly in my ribs and legs but even my bones hurt."
@@ -49,7 +49,7 @@
 47,Regina Walker,09/29/2022 08:33:00 PM EDT,Response,"Yes, all my affairs should be in order. (Clarified to if I have an advance directive.)"
 48,Suveksha,09/29/2022 08:34:00 PM EDT,Question,do you have head and neck pain? (Clarified to Do you have any problems with your head?.)
 49,Regina Walker,09/29/2022 08:34:00 PM EDT,Response,"My head feels just fine, that's not where I'm having the pain. (Clarified to if I have head problems.)"
-50,Suveksha,09/29/2022 08:35:00 PM EDT,Educate,it is important to assess your body system for better care.
+50,Suveksha,09/29/2022 08:35:00 PM EDT,Statement,it is important to assess your body system for better care.
 51,Regina Walker,09/29/2022 08:35:00 PM EDT,Response,You're kind for filling me in.
 52,Suveksha,09/29/2022 08:35:00 PM EDT,Question,do you have trouble breathing?
 53,Regina Walker,09/29/2022 08:35:00 PM EDT,Response,"No, I don't have any breathing difficulties."
@@ -59,7 +59,7 @@
 57,Regina Walker,09/29/2022 08:36:00 PM EDT,Response,"Well, I've been constipated for about four days now, I can't seem to make anything happen there."
 58,Suveksha,09/29/2022 08:37:00 PM EDT,Question,do you have any neurological issue?
 59,Regina Walker,09/29/2022 08:37:00 PM EDT,Response,"Yes, I've been feeling quite weak lately."
-60,Suveksha,09/29/2022 08:37:00 PM EDT,Empathize,you must be feeling weak because of your cancer.
+60,Suveksha,09/29/2022 08:37:00 PM EDT,Statement,you must be feeling weak because of your cancer.
 61,Regina Walker,09/29/2022 08:37:00 PM EDT,Response,Thank you. Your kindness is felt.
 62,Suveksha,09/29/2022 08:38:00 PM EDT,Question,do you have any psychological problem?
 63,Regina Walker,09/29/2022 08:38:00 PM EDT,Response,"No, not specifically . . . I have been feeling somewhat anxious lately though."
@@ -96,7 +96,7 @@
 94,Suveksha,09/29/2022 08:45:00 PM EDT,Question,do you have recent skin breakdown? (No matching questions found.)
 95,Suveksha,09/29/2022 08:45:00 PM EDT,Question,have you notice any recent skin breakdown? (Clarified to Has your skin changed?.)
 96,Regina Walker,09/29/2022 08:45:00 PM EDT,Response,I wouldn't call it much of a problem but my skin has been feeling thinner than normal. (Clarified to if my skin has changed.)
-97,Suveksha,09/29/2022 08:46:00 PM EDT,Empathize,how has your health affected your social activity? 
+97,Suveksha,09/29/2022 08:46:00 PM EDT,Statement,how has your health affected your social activity? 
 98,System,09/29/2022 08:48:00 PM EDT,Clarification, How does your health affect your life?.
 99,Regina Walker,09/29/2022 08:46:00 PM EDT,Response,what do you feel about your health? 
 100,System,09/29/2022 08:49:00 PM EDT,Clarification, How do you perceive your health?.
@@ -111,7 +111,7 @@
 109,Suveksha,09/29/2022 08:49:00 PM EDT,Question,what do you feel about your health? (Clarified to How do you perceive your health?.)
 110,Regina Walker,09/29/2022 08:49:00 PM EDT,Response,what health condition did your mother has? 
 111,System,09/29/2022 08:52:00 PM EDT,Clarification, Does your mother have health problems?.
-112,Suveksha,09/29/2022 08:49:00 PM EDT,Empathize,have you had any surgical history? 
+112,Suveksha,09/29/2022 08:49:00 PM EDT,Statement,have you had any surgical history? 
 113,System,09/29/2022 08:53:00 PM EDT,Clarification, Have you had any other surgeries?.
 114,Regina Walker,09/29/2022 08:49:00 PM EDT,Response,I appreciate the sympathy.
 115,Suveksha,09/29/2022 08:50:00 PM EDT,Question,are you tried? (No matching questions found.)
@@ -129,24 +129,24 @@
 127,Regina Walker,09/29/2022 08:53:00 PM EDT,Response,"Yes, I have stage IV breast cancer and hypertension."
 128,Suveksha,09/29/2022 08:54:00 PM EDT,Question,do you feel you have being abused financially?
 129,Regina Walker,09/29/2022 08:54:00 PM EDT,Response,"No, no one in my family would ever steal from me . . . they would never do that. My husband is the one responsible for my . . . for my will, and our finances. I trust him unconditionally to take care of those matters."
-130,Suveksha,09/29/2022 08:55:00 PM EDT,Empathize,that is so good that you have a family to take care when you are sick.
+130,Suveksha,09/29/2022 08:55:00 PM EDT,Statement,that is so good that you have a family to take care when you are sick.
 131,Regina Walker,09/29/2022 08:55:00 PM EDT,Response,I appreciate the good will.
-132,Suveksha,09/29/2022 08:55:00 PM EDT,Educate,it is important to assess abuse in each patient.
+132,Suveksha,09/29/2022 08:55:00 PM EDT,Statement,it is important to assess abuse in each patient.
 133,Regina Walker,09/29/2022 08:55:00 PM EDT,Response,I see. Thats helpful to know.
 134,Suveksha,09/29/2022 08:56:00 PM EDT,Question,how is your pain now?
 135,Regina Walker,09/29/2022 08:56:00 PM EDT,Response,"It's better now than before, but I can still feel it there."
-136,Suveksha,09/29/2022 08:56:00 PM EDT,Educate,do you want to try other techniques to help your pain.
+136,Suveksha,09/29/2022 08:56:00 PM EDT,Statement,do you want to try other techniques to help your pain.
 137,Regina Walker,09/29/2022 08:56:00 PM EDT,Response,Thanks much for that.
-138,Suveksha,09/29/2022 08:57:00 PM EDT,Educate,sometimes applying heat and cold to the affected area can help reduce pain.
+138,Suveksha,09/29/2022 08:57:00 PM EDT,Statement,sometimes applying heat and cold to the affected area can help reduce pain.
 139,Regina Walker,09/29/2022 08:57:00 PM EDT,Response,I appreciate the information.
 140,Suveksha,09/29/2022 08:57:00 PM EDT,Question,meditating has helped patient to reduce pain by reducing focus from the pain. (No matching questions found.)
-141,Suveksha,09/29/2022 08:58:00 PM EDT,Empathize,do you have any concerns?
+141,Suveksha,09/29/2022 08:58:00 PM EDT,Statement,do you have any concerns?
 142,Regina Walker,09/29/2022 08:58:00 PM EDT,Response,"Yes, thanks very much."
 143,Suveksha,09/29/2022 08:58:00 PM EDT,Question,do you need anything?
 144,Regina Walker,09/29/2022 08:58:00 PM EDT,Response,"Not right now, I'm just fine."
-145,Suveksha,09/29/2022 08:58:00 PM EDT,Empathize,if you need anything just call me i am here for you.
+145,Suveksha,09/29/2022 08:58:00 PM EDT,Statement,if you need anything just call me i am here for you.
 146,Regina Walker,09/29/2022 08:58:00 PM EDT,Response,I appreciate the good will.
-147,Suveksha,09/29/2022 08:59:00 PM EDT,Empathize,if you want to talk about anything i will be available for you.
+147,Suveksha,09/29/2022 08:59:00 PM EDT,Statement,if you want to talk about anything i will be available for you.
 148,Regina Walker,09/29/2022 08:59:00 PM EDT,Response,I appreciate the sympathy.
 149,Suveksha,09/29/2022 08:59:00 PM EDT,Exam Action,Assessed vitals
 150,Suveksha,09/29/2022 08:59:00 PM EDT,Exam Action,Assessed IV bag
@@ -187,11 +187,11 @@
 185,Suveksha,09/29/2022 09:08:00 PM EDT,Exam Action,Tested capillary refill
 186,Suveksha,09/29/2022 09:09:00 PM EDT,Question,do you like to talk about your health condition?
 187,Regina Walker,09/29/2022 09:09:00 PM EDT,Response,I have hypertension and stage IV breast cancer. It's spread to my liver and bones over the past year.
-188,Suveksha,09/29/2022 09:10:00 PM EDT,Empathize,i am sorry to hear that. it must have been hard for you to deal with the cancer.
+188,Suveksha,09/29/2022 09:10:00 PM EDT,Statement,i am sorry to hear that. it must have been hard for you to deal with the cancer.
 189,Regina Walker,09/29/2022 09:10:00 PM EDT,Response,"Yes, thanks very much."
-190,Suveksha,09/29/2022 09:10:00 PM EDT,Empathize,is there anything that i can do for you?
+190,Suveksha,09/29/2022 09:10:00 PM EDT,Statement,is there anything that i can do for you?
 191,Regina Walker,09/29/2022 09:10:00 PM EDT,Response,Thank you. Your kindness is felt.
-192,Suveksha,09/29/2022 09:20:00 PM EDT,Educate,readiness for effective coping is your nursing diagnosis. it is important for you to have effective coping so that you can get all your palliative care and become pain free.
+192,Suveksha,09/29/2022 09:20:00 PM EDT,Statement,readiness for effective coping is your nursing diagnosis. it is important for you to have effective coping so that you can get all your palliative care and become pain free.
 193,Regina Walker,09/29/2022 09:20:00 PM EDT,Response,I understand what you're saying. Thank you.
-194,Suveksha,09/29/2022 09:20:00 PM EDT,Educate,do you agree with the nursing diagnosis?
+194,Suveksha,09/29/2022 09:20:00 PM EDT,Statement,do you agree with the nursing diagnosis?
 195,Regina Walker,09/29/2022 09:20:00 PM EDT,Response,I consent. You can begin now.

@@ -1,0 +1,160 @@
+,Participant,Timestamp,Interaction Type,Utterances
+0,Carolyn,12/01/2022 05:31:00 PM EDT,Greet,hello my name Jae im your nurse and going to assess you. what brings you in?
+1,Lucas Callahan,12/01/2022 05:31:00 PM EDT,Response,Hey! What's up?
+2,Carolyn,12/01/2022 05:32:00 PM EDT,Question,What brings you in
+3,Lucas Callahan,12/01/2022 05:32:00 PM EDT,Response,Those idiot cops brought me here. I don't need to be here but the front desk guy said that they have to check me out. Like I'm some sort of book in the history of atlases.
+4,Carolyn,12/01/2022 05:32:00 PM EDT,Exam Action,Assessed vitals
+5,Carolyn,12/01/2022 05:35:00 PM EDT,Question,Have you followed up on the incident (No matching questions found.)
+6,Carolyn,12/01/2022 05:35:00 PM EDT,Question,followed up on the incident? (No matching questions found.)
+7,Carolyn,12/01/2022 05:35:00 PM EDT,Question,What happened
+8,Lucas Callahan,12/01/2022 05:35:00 PM EDT,Response,I was in a parking lot of a grocery store. Apparently it's against the law to run around and look into cars now for your own protection. They wouldn't be laughing if a government agent was indeed waiting in one of them to snap me up. Can't be too careful.
+9,Carolyn,12/01/2022 05:36:00 PM EDT,Question,Tell me more about the government agent
+10,Lucas Callahan,12/01/2022 05:36:00 PM EDT,Response,"I mean, what do you want to know? I just had a hunch they were in one of those cars, waiting to scoop me up and throw me in solitary. They know I'm enlightened and if my writings get out, boom, their secrets are overthrown. Not that I'm gonna let them stop me."
+11,Carolyn,12/01/2022 05:36:00 PM EDT,Question,How is your anxiety
+12,Lucas Callahan,12/01/2022 05:36:00 PM EDT,Response,"I'm not anxious or paranoid or whatever. I mean, I just have a really really fine-tuned sense of, like, OK, now they're coming for me, the government agents, and I have to be on the look out, 'cause no way am I being snatched up, not a chance."
+13,Carolyn,12/01/2022 05:36:00 PM EDT,Question,Tell me about your hallucinations
+14,Lucas Callahan,12/01/2022 05:36:00 PM EDT,Response,"Uh, hold your horses. I don't hallucinate."
+15,Carolyn,12/01/2022 05:37:00 PM EDT,Question,Do you have recent substance use
+16,Lucas Callahan,12/01/2022 05:37:00 PM EDT,Response,"Haven't done coke since about four days ago, I'd say."
+17,Carolyn,12/01/2022 05:37:00 PM EDT,Question,What is your sleep pattern like
+18,Lucas Callahan,12/01/2022 05:37:00 PM EDT,Response,"I usually only need a couple hours. These past four days? I haven't slept a wink. Not even tired. I'm the frickin' man, I know."
+19,Carolyn,12/01/2022 05:38:00 PM EDT,Question,How is your mood right now
+20,Lucas Callahan,12/01/2022 05:38:00 PM EDT,Response,I am 100% letting the good times roll. Couldn't be better.
+21,Carolyn,12/01/2022 05:38:00 PM EDT,Question,Tell me when you started having all this energy
+22,Lucas Callahan,12/01/2022 05:38:00 PM EDT,Response,"I don't have symptoms, buddy. I was brought here against my will. I'm sure the cops think I'm sick, but as you'll find out, I'm as healthy as the wealthy."
+23,Carolyn,12/01/2022 05:38:00 PM EDT,Question,When was the onset of your mood 
+24,System,12/01/2022 05:38:00 PM EDT,Clarification, When did the symptoms begin?.
+25,Lucas Callahan,12/01/2022 05:38:00 PM EDT,Response,"I don't have symptoms, buddy. I was brought here against my will. I'm sure the cops think I'm sick, but as you'll find out, I'm as healthy as the wealthy. (Clarified to when my symptoms started.)"
+26,Carolyn,12/01/2022 05:39:00 PM EDT,Question,Do you have any existing health conditions
+27,Lucas Callahan,12/01/2022 05:39:00 PM EDT,Response,"Not really. They diagnosed me with depression, but I'm really not worried about that anymore. I'm just really not in that headspace right now."
+28,Carolyn,12/01/2022 05:39:00 PM EDT,Question,What is your typical mood like
+29,Lucas Callahan,12/01/2022 05:39:00 PM EDT,Response,"You've got Option A and Option B. With A, we're talking about a bottomless rat hole. With B, we're talking good vibes that don't disappoint. I'll stick with B, thanks."
+30,Carolyn,12/01/2022 05:39:00 PM EDT,Question,What is your typical energy level
+31,Lucas Callahan,12/01/2022 05:39:00 PM EDT,Response,Arg! Picture this: a ship on the sea. The waves go up and down. The ship bobs. What's normal if the ship's a'bob? You tell me. I've been high and I've been low.
+32,Carolyn,12/01/2022 05:40:00 PM EDT,Question,Do you have frequent mood changes
+33,Lucas Callahan,12/01/2022 05:40:00 PM EDT,Response,"I guess some have won. I've never felt better but--sure, there have been times when the big D-E-P cast its shadow over me. Left the Peachy King in a dark place. But then there's a depression recession and things get better. My mood can change a couple times a year, but who's marking the calendar?"
+34,Carolyn,12/01/2022 05:41:00 PM EDT,Question,Do you have any periods of depression (No matching questions found.)
+35,Carolyn,12/01/2022 05:41:00 PM EDT,Question,Do you have depression
+36,Lucas Callahan,12/01/2022 05:41:00 PM EDT,Response,Can you give me any details about your depression diagnosis 
+37,System,12/01/2022 05:42:00 PM EDT,Clarification, Can you tell me more about your depression diagnosis?.
+38,Carolyn,12/01/2022 05:42:00 PM EDT,Question,when was your depression treated 
+39,System,12/01/2022 05:43:00 PM EDT,Clarification, How was your depression treated?.
+40,Lucas Callahan,12/01/2022 05:42:00 PM EDT,Response,"I mean, that doctor was a buffoon, but I get where he was coming from -- I had just tried to kill myself. That doesn't necessarily scream NOT depressed, you know? Like, your eyeballs are your eyeballs. You see what you see. (Clarified to to tell you about my depression diagnosis.)"
+41,Carolyn,12/01/2022 05:43:00 PM EDT,Question,when was your depression treated (Clarified to How was your depression treated?.)
+42,Lucas Callahan,12/01/2022 05:43:00 PM EDT,Response,"That quack of a doctor put me on antidepressants. Yeah, sure took a lot of self-interrogation to write stuff on a pad. I mean, my god. No intellect whatsoever. (Clarified to how my depression was treated.)"
+43,Carolyn,12/01/2022 05:44:00 PM EDT,Question,How was your depression treated
+44,Lucas Callahan,12/01/2022 05:44:00 PM EDT,Response,Did the medication help you 
+45,System,12/01/2022 05:54:00 PM EDT,Clarification, Does the medication help?.
+46,Carolyn,12/01/2022 05:53:00 PM EDT,Question,Any side effects 
+47,System,12/01/2022 05:55:00 PM EDT,Clarification, Did you experience side effects from the medication?.
+48,Lucas Callahan,12/01/2022 05:53:00 PM EDT,Response,"I don't have any, I don't think, though I haven't really had that many meds in my life. Maybe if you gave me, like, Zorpizol I would grow, you know -- Zorps everywhere. Zorp Zorp. Like, that's the sound of Zorps, they go, Zooooorp."
+49,Carolyn,12/01/2022 05:54:00 PM EDT,Question,Did the medication help you (Clarified to Does the medication help?.)
+50,Lucas Callahan,12/01/2022 05:54:00 PM EDT,Response,"The antidepressants didn't do diddly squat. Not a squat in sight. Squatless. In fact, those little buggers made things worse, if you can believe it. Can you believe it? I mean, holy hell. Anyway, I just stopped taking them. Some problems have easy solutions. Ask any scientist. (Clarified to if the medication helps.)"
+51,Carolyn,12/01/2022 05:55:00 PM EDT,Question,Did you attempt suicide 
+52,System,12/01/2022 05:58:00 PM EDT,Clarification, How did your suicide attempt go?.
+53,Lucas Callahan,12/01/2022 05:55:00 PM EDT,Response,"Yeah, the antidepressos did some stuff to me. Whatever. Bullcrap little -- just -- just stupid, stupid stuff. No one needs 'em. (Clarified to if I had side effects.)"
+54,Carolyn,12/01/2022 05:56:00 PM EDT,Question,Did you follow up on the side effects (No matching questions found.)
+55,Carolyn,12/01/2022 05:57:00 PM EDT,Question,Do you take any home medications
+56,Lucas Callahan,12/01/2022 05:57:00 PM EDT,Response,"I'm not on anything these days. Stopped those antidepressants a while back. Zombie pills, honestly. Stuff is necrotic."
+57,Carolyn,12/01/2022 05:58:00 PM EDT,Question,Did you attempt suicide (Clarified to How did your suicide attempt go?.)
+58,Lucas Callahan,12/01/2022 05:58:00 PM EDT,Response,"I really don't want to talk about it. You're being a bummer, honestly. I was in a good mood before we started talking about this. (Clarified to how I attempted suicide.)"
+59,Carolyn,12/01/2022 05:58:00 PM EDT,Statement,I'm sorry I'm just doing my job
+60,Lucas Callahan,12/01/2022 05:58:00 PM EDT,Response,"Thanks a million, but I'm all good, I promise!"
+61,Carolyn,12/01/2022 05:59:00 PM EDT,Question,Have you had any other suicide attempts
+62,Lucas Callahan,12/01/2022 05:59:00 PM EDT,Response,Just the once . . . and you really don't have to worry about me like that.
+63,Carolyn,12/01/2022 05:59:00 PM EDT,Question,Do you want to be dead right now
+64,Lucas Callahan,12/01/2022 05:59:00 PM EDT,Response,"No! Really, that's not me. That's not -- it gets like -- obviously, when you're depressed, you think like that, sure. But that's not me anymore, so whatever. I'm not worried about it."
+65,Carolyn,12/01/2022 05:59:00 PM EDT,Question,Do you feel like others would miss you if you weren't here (No matching questions found.)
+66,Carolyn,12/01/2022 06:00:00 PM EDT,Question,Do you believe that others would be better off without you
+67,Lucas Callahan,12/01/2022 06:00:00 PM EDT,Response,"When I tried to kill myself maybe, I don't know, I don't think about that anymore, but I definitely don't feel that way now. Why would I? Everything's going great."
+68,Carolyn,12/01/2022 06:00:00 PM EDT,Question,When you committed self-harm was you intending to die
+69,Lucas Callahan,12/01/2022 06:00:00 PM EDT,Response,"I was trying to die, OK? Thank you for making me talk about this. I love it. Just kidding, please let's move on."
+70,Carolyn,12/01/2022 06:00:00 PM EDT,Question,Do you have any homicidal urges
+71,Lucas Callahan,12/01/2022 06:00:00 PM EDT,Response,". . . Wow, what a lovely question. No, I don't. I can't believe you would even ask that."
+72,Carolyn,12/01/2022 06:01:00 PM EDT,Question,What is your perception on Mental Health
+73,Lucas Callahan,12/01/2022 06:01:00 PM EDT,Response,"My brain is superb, honestly. It's frickin' cotton candy and sports car up there. Don't worry about me. Like, yeah, I was depressed before, if that's what you're asking. But that's as dead as a doornail, hangnail, all the nails."
+74,Carolyn,12/01/2022 06:01:00 PM EDT,Question,Does others notice mood or energy shifts
+75,Lucas Callahan,12/01/2022 06:01:00 PM EDT,Response,"Who knows what other people notice? Personally, I notice everything, but you can't expect every chump on the street to be enlightened."
+76,Carolyn,12/01/2022 06:02:00 PM EDT,Question,Do you have excessive irritability or anger
+77,Lucas Callahan,12/01/2022 06:02:00 PM EDT,Response,"Sure, anger is a flower. I am a man of emotion. I feel everything, probably more than anybody else on earth. If a scamp interferes with my vibes, the anger blooms."
+78,Carolyn,12/01/2022 06:02:00 PM EDT,Question,Do you ever fight or argue
+79,Lucas Callahan,12/01/2022 06:02:00 PM EDT,Response,My proverbial temper is lost on occasion. But all I do is argue! I'm not hurting anybody. My hands are clean.
+80,Carolyn,12/01/2022 06:03:00 PM EDT,Question,Speed of moving (No matching questions found.)
+81,Carolyn,12/01/2022 06:03:00 PM EDT,Question,any changes in Speed of moving
+82,Lucas Callahan,12/01/2022 06:03:00 PM EDT,Response,"I mean, nah, I'm just a super quick guy in general. I like to get things done and keep 'em moving. Talk fast, walk fast, all that. What can I say, some horses weren't meant for carriages."
+83,Carolyn,12/01/2022 06:04:00 PM EDT,Question,Do you have any changes in productivity 
+84,System,12/01/2022 06:06:00 PM EDT,Clarification, How has your productivity changed?.
+85,Lucas Callahan,12/01/2022 06:04:00 PM EDT,Response,"Like a greyhound. Hyah! Hyah! But it works out great, because I'm working on this massive poem that's all about--well, it's gonna blow people's minds."
+86,Carolyn,12/01/2022 06:05:00 PM EDT,Question,Any changes in your libido and sexual activity
+87,Lucas Callahan,12/01/2022 06:05:00 PM EDT,Response,"My carnal business has definitely amped up in the past week! And I'm not complaining, either. It's been totally awesome. Friends and strangers, the sexy time has been unreal."
+88,Carolyn,12/01/2022 06:06:00 PM EDT,Question,How is your ability to concentrate
+89,Lucas Callahan,12/01/2022 06:06:00 PM EDT,Response,"Oh, I've been laser-focused lately. On my poetry, that is. On my friends' projects. I told you we're thinking about making this community art center? It would be so sick. We'll see. It's all in the works."
+90,Carolyn,12/01/2022 06:06:00 PM EDT,Question,Do you have any changes in productivity (Clarified to How has your productivity changed?.)
+91,Lucas Callahan,12/01/2022 06:06:00 PM EDT,Response,"Oh, I've been working super hard on my poem in the last week or so. It's gonna be totally epic. Probably one-thousand pages printed out. I don't even have to try, that's the crazy thing. It just comes out of me. (Clarified to to tell you about my changes in productivity.)"
+92,Carolyn,12/01/2022 06:07:00 PM EDT,Question,Any changes in social activity
+93,Lucas Callahan,12/01/2022 06:07:00 PM EDT,Response,what are your habits like 
+94,System,12/01/2022 07:02:00 PM EDT,Clarification, What are your eating habits?.
+95,Carolyn,12/01/2022 07:00:00 PM EDT,Question,tell me about your self-concept
+96,Lucas Callahan,12/01/2022 07:00:00 PM EDT,Response,"I see myself as this visionary poet who's going to rock the world once his work is published. I see a killer head of hair that ladies just can't resist. I see an enlightened soul that shines like stained-glass. Amen, let the choir sing."
+97,Carolyn,12/01/2022 07:01:00 PM EDT,Question,do you still have pleasure in your interests
+98,Lucas Callahan,12/01/2022 07:01:00 PM EDT,Response,Heck no! I love my life. I do what I want and I like what I do!
+99,Carolyn,12/01/2022 07:01:00 PM EDT,Question,what are your baits like (No matching questions found.)
+100,Carolyn,12/01/2022 07:01:00 PM EDT,Question,what are your habits like (No matching questions found.)
+101,Carolyn,12/01/2022 07:02:00 PM EDT,Question,what are your habits like (Clarified to What are your eating habits?.)
+102,Lucas Callahan,12/01/2022 07:02:00 PM EDT,Response,"I eat a little meal once a day and I'm game for whatever. I like a baguette with some cheese. I like carrots--there's nothing better than sharing carrots with a friend, the old pass-the-carrot. I like a roast chicken. Whatever, bring it on! Hot sauce never hurt, neither. Drip drop, baby don't stop. (Clarified to what my eating habits are.)"
+103,Carolyn,12/01/2022 07:02:00 PM EDT,Question,what is your spending habits like
+104,Lucas Callahan,12/01/2022 07:02:00 PM EDT,Response,"Well, I'm spending on the stuff that matters. I'm talking about a little cocaine here, some rare books there. I help my friends out however I can because you know? I'm a giver."
+105,Carolyn,12/01/2022 07:15:00 PM EDT,Question,what is your finances like
+106,Lucas Callahan,12/01/2022 07:15:00 PM EDT,Response,"My finances are good! My parents give me some dough every now and then, I don't have to work . . . it's pretty stellar, ideal even!"
+107,Carolyn,12/01/2022 07:16:00 PM EDT,Question,do you have a job
+108,Lucas Callahan,12/01/2022 07:16:00 PM EDT,Response,do you have transportation 
+109,System,12/01/2022 07:29:00 PM EDT,Clarification, What modes of transportation do you use?.
+110,Carolyn,12/01/2022 07:17:00 PM EDT,Question,are you in legal trouble
+111,Lucas Callahan,12/01/2022 07:17:00 PM EDT,Response,"Not at all! I'm the patron saint of innocence! Hah. No, really though, I've never gotten so much as a ticket."
+112,Carolyn,12/01/2022 07:21:00 PM EDT,Question,what is your choice of drug (No matching questions found.)
+113,Carolyn,12/01/2022 07:23:00 PM EDT,Question,what is your typical substance use
+114,Lucas Callahan,12/01/2022 07:23:00 PM EDT,Response,Mostly coke and just alcohol. Hard to mess a party up that way. Stuff is magic.
+115,Carolyn,12/01/2022 07:23:00 PM EDT,Question,do you drink alcohol
+116,Lucas Callahan,12/01/2022 07:23:00 PM EDT,Response,"Yeah, like everyone on earth. There's nothing unnatural about drinking potato juice. That's what it is, you know."
+117,Carolyn,12/01/2022 07:29:00 PM EDT,Question,do you have transportation (Clarified to What modes of transportation do you use?.)
+118,Lucas Callahan,12/01/2022 07:29:00 PM EDT,Response,"Oh, how do I get around? I'm cruising the streets in my car. I got it when I turned sixteen and that thing's like a brother to me. (Clarified to what modes of transportation I use.)"
+119,Carolyn,12/01/2022 07:33:00 PM EDT,Question,do you use drugs
+120,Lucas Callahan,12/01/2022 07:33:00 PM EDT,Response,"I guess cocaine is still illegal, right? That's the war on drugs for ya."
+121,Carolyn,12/01/2022 07:34:00 PM EDT,Question,what is your fluid intake
+122,Lucas Callahan,12/01/2022 07:34:00 PM EDT,Response,"I don't know, I don't have, like, a cup measurer. I just have a glass or two at some point in the day, I'd guess."
+123,Carolyn,12/01/2022 07:35:00 PM EDT,Question,what is your caffeine intake
+124,Lucas Callahan,12/01/2022 07:35:00 PM EDT,Response,"Oh, that stuff's for squares and yuppies, man. I stay away."
+125,Carolyn,12/01/2022 07:35:00 PM EDT,Question,what level of education
+126,Lucas Callahan,12/01/2022 07:35:00 PM EDT,Response,what is your family history of mental illness 
+127,System,12/01/2022 07:39:00 PM EDT,Clarification, Do you have a family history of psychiatric illness?.
+128,Carolyn,12/01/2022 07:35:00 PM EDT,Question,a y changes in vision 
+129,System,12/01/2022 07:40:00 PM EDT,Clarification, Are you noticing changes in your personality?.
+130,Lucas Callahan,12/01/2022 07:35:00 PM EDT,Response,"Yeah, I'm on my parents' insurance. It's such a crock, though, these insurance goons and the Super Pharm Outlet Malls of America . . ."
+131,Carolyn,12/01/2022 07:35:00 PM EDT,Question,what is your living situation like
+132,Lucas Callahan,12/01/2022 07:35:00 PM EDT,Response,"It's pretty perfect, honestly. No rent, no bills, no dusting. I just crash in my car or at a friends' place or wherever, then I wake up and start my day. Boom. Did you know the kookaburra never sleeps in the same tree twice? I think most people would make better decisions if they mimicked ornithology."
+133,Carolyn,12/01/2022 07:36:00 PM EDT,Question,do you have a relationship with your family
+134,Lucas Callahan,12/01/2022 07:36:00 PM EDT,Response,"Ha! No. Ha. We're not like that anymore. We argue like cats and dogs. Only by cats I mean idiot parents and dogs I mean son-who-is-in-the-right. Yeah. It's dumb. They think I'm a drug addict who should be in rehab. Real good vibes, guys, real supportive."
+135,Carolyn,12/01/2022 07:36:00 PM EDT,Question,do you have history of abuse
+136,Lucas Callahan,12/01/2022 07:36:00 PM EDT,Response,"Dang, are you serious?! No, not at all. Dang, what a wet blanket question. No, that's never happened to me. Dang. Screwin' up the vibes."
+137,Carolyn,12/01/2022 07:39:00 PM EDT,Question,what is your family history of mental illness (Clarified to Do you have a family history of psychiatric illness?.)
+138,Lucas Callahan,12/01/2022 07:39:00 PM EDT,Response,"No . . . I couldn't tell you anything about my birth parents, but my real parents are pretty sane. They're kinda, like, massive normies. Wouldn't know art if it hit 'em in the balls. (Clarified to if I have a family history of psychiatric illness.)"
+139,Carolyn,12/01/2022 07:40:00 PM EDT,Question,a y changes in vision (Clarified to Are you noticing changes in your personality?.)
+140,Lucas Callahan,12/01/2022 07:40:00 PM EDT,Response,"No, this is who I really am. This is me. (Clarified to if my personality is changing.)"
+141,Carolyn,12/01/2022 07:40:00 PM EDT,Question,any changes in your vision?
+142,Lucas Callahan,12/01/2022 07:40:00 PM EDT,Response,"My carnal business has definitely amped up in the past week! And I'm not complaining, either. It's been totally awesome. Friends and strangers, the sexy time has been unreal."
+143,Carolyn,12/01/2022 07:40:00 PM EDT,Question,how is your heart
+144,Lucas Callahan,12/01/2022 07:40:00 PM EDT,Response,"What you are trying to get at is the ticking of my ticker? Well, the ticket-taker is good at his job and the ticking ticks exactly as it should. I feel good, what can I say?"
+145,Carolyn,12/01/2022 07:40:00 PM EDT,Question,do you have any changes in your hearing? (No matching questions found.)
+146,Carolyn,12/01/2022 07:40:00 PM EDT,Question,do you have any changes in your hearing? (No matching questions found.)
+147,Carolyn,12/01/2022 07:41:00 PM EDT,Question,How is your skin?
+148,Lucas Callahan,12/01/2022 07:41:00 PM EDT,Response,"I'm not surprised you asked about my skin. Everybody tells me how good it is and I'm like, ""I know! I get to live in it!"" It's always been this way, too. I was wrestling with this guy the other day, good and rough, and he was just digging his nails in my back and I was like, ""Yeah, we're going for a trail ride, isn't that right?"" I don't normally sleep with guys, but his trail was happy."
+149,Carolyn,12/01/2022 07:42:00 PM EDT,Question,how is your gastrointestinal tract
+150,Lucas Callahan,12/01/2022 07:42:00 PM EDT,Response,"My stomach, otherwise known as Callahan's Gastropub, has a big A in the front window. Looks good and feels great."
+151,Carolyn,12/01/2022 07:45:00 PM EDT,Question,hi (No matching questions found.)
+152,Carolyn,12/01/2022 07:50:00 PM EDT,Question,hi (No matching questions found.)
+153,Carolyn,12/01/2022 07:53:00 PM EDT,Statement,We are going to give you some activities for you to participate in while wet get you some medication ordered for your anxiety
+154,Lucas Callahan,12/01/2022 07:53:00 PM EDT,Response,"Listen, I KNOW Im at risk for injury! Remember what I was telling you earlier, about the government agents following me because they know, in their weasely little weasel-minds, that Im an enlightened threat? So, yeah. Were on the same page."
+155,Carolyn,12/01/2022 07:53:00 PM EDT,Statement,you are safe here
+156,Lucas Callahan,12/01/2022 07:53:00 PM EDT,Response,"Right, right, you gotta keep me safe like a little babe swaddled in the manger of life. Totally agree with you! Im all baby blanket and pacifier. Life is beautiful, glorious, radiant -- gotta preserve it at all costs. Im a national treasure. Kiss my feet if you want."
+157,Carolyn,12/01/2022 07:54:00 PM EDT,Statement,we are going to give you medication to help you sleep so you will fill better
+158,Lucas Callahan,12/01/2022 07:54:00 PM EDT,Response,"Yeah, lets do this thing. Im game. Youre game. All were missing are the cheerleaders. Hey, Lucas! Hes our man! If he cant do it, no one can! Rah rah rah! Sis boom bah bah bah!"

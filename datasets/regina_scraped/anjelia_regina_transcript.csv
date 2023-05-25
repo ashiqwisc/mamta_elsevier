@@ -1,0 +1,202 @@
+,Participant,Timestamp,Interaction Type,Utterances
+0,Anjelia,09/29/2022 03:51:00 PM EDT,Exam Action,Assessed vitals
+1,Anjelia,09/29/2022 04:51:00 PM EDT,Exam Action,Assessed IV bag
+2,Anjelia,09/29/2022 04:51:00 PM EDT,Exam Action,Assessed IV pump
+3,Anjelia,09/29/2022 04:52:00 PM EDT,Exam Action,Assessed IV site
+4,Anjelia,09/29/2022 04:52:00 PM EDT,Exam Action,"Assessed urine quality: clear, dark yellow, no noticeable odor"
+5,Anjelia,09/29/2022 04:52:00 PM EDT,Exam Action,Checked Patient Wristbands: All information is correct
+6,Anjelia,09/29/2022 04:53:00 PM EDT,Exam Action,Inspected left eye: Sclera - icterus
+7,Anjelia,09/29/2022 04:53:00 PM EDT,Exam Action,Inspected right eye: Sclera - icterus
+8,Anjelia,09/29/2022 04:53:00 PM EDT,Exam Action,Inspected mouth
+9,Anjelia,09/29/2022 04:54:00 PM EDT,Exam Action,Inspected mouth
+10,Anjelia,09/29/2022 04:54:00 PM EDT,Exam Action,Inspected front of neck and face: jaundice
+11,Anjelia,09/29/2022 04:54:00 PM EDT,Exam Action,Inspected chest and abdomen
+12,Anjelia,09/29/2022 04:54:00 PM EDT,Exam Action,Inspected front of thighs and knees
+13,Anjelia,09/29/2022 04:54:00 PM EDT,Exam Action,Inspected front of shins and top of feet
+14,Anjelia,09/29/2022 04:56:00 PM EDT,Exam Action,Inspected front of shins and top of feet
+15,Anjelia,09/29/2022 04:56:00 PM EDT,Exam Action,Inspected front of shins and top of feet
+16,Anjelia,09/29/2022 04:56:00 PM EDT,Exam Action,Inspected front of left hand and arm
+17,Anjelia,09/29/2022 04:56:00 PM EDT,Exam Action,Inspected front of right hand and arm
+18,Anjelia,09/29/2022 04:57:00 PM EDT,Exam Action,Inspected back of neck and upper back
+19,Anjelia,09/29/2022 04:57:00 PM EDT,Exam Action,Inspected lower back and hips
+20,Anjelia,09/29/2022 04:57:00 PM EDT,Exam Action,Inspected back of left hand and arm
+21,Anjelia,09/29/2022 04:57:00 PM EDT,Exam Action,Inspected back of right hand and arm
+22,Anjelia,09/29/2022 04:57:00 PM EDT,Exam Action,Inspected back of thighs and knees
+23,Anjelia,09/29/2022 04:57:00 PM EDT,Exam Action,Inspected calves and heel
+24,Anjelia,09/29/2022 04:57:00 PM EDT,Exam Action,Auscultated carotids
+25,Anjelia,09/29/2022 04:58:00 PM EDT,Exam Action,Auscultated carotids
+26,Anjelia,09/29/2022 04:58:00 PM EDT,Exam Action,Auscultated breath sounds
+27,Anjelia,09/29/2022 04:58:00 PM EDT,Exam Action,Auscultated heart sounds
+28,Anjelia,09/29/2022 04:59:00 PM EDT,Exam Action,Auscultated bowel sounds
+29,Anjelia,09/29/2022 04:59:00 PM EDT,Exam Action,Palpated abdomen with light pressure
+30,Anjelia,09/29/2022 04:59:00 PM EDT,Exam Action,Palpated abdomen with light pressure
+31,Anjelia,09/29/2022 05:00:00 PM EDT,Exam Action,Palpated abdomen with deep pressure
+32,Anjelia,09/29/2022 05:00:00 PM EDT,Exam Action,Palpated bladder
+33,Anjelia,09/29/2022 05:18:00 PM EDT,Question,repeat and remember apple penny and table
+34,Regina Walker,09/29/2022 05:18:00 PM EDT,Response,"Apple, penny, and table."
+35,Anjelia,09/29/2022 05:19:00 PM EDT,Question,can you repeat the three words i asked you to remember earlier
+36,Regina Walker,09/29/2022 05:19:00 PM EDT,Response,"Apple, penny, and table."
+37,Anjelia,09/29/2022 05:19:00 PM EDT,Exam Action,Tested cognition
+38,Anjelia,09/29/2022 05:19:00 PM EDT,Exam Action,Tested skin turgor
+39,Anjelia,09/29/2022 05:19:00 PM EDT,Exam Action,Tested capillary refill
+40,Anjelia,09/29/2022 05:20:00 PM EDT,Question,are you feeling any pain
+41,Regina Walker,09/29/2022 05:20:00 PM EDT,Response,"Yes, even now I know the pain's there. It's been dulled, but it's certainly not gone."
+42,Anjelia,09/29/2022 05:20:00 PM EDT,Statement,how you feeling today
+43,Regina Walker,09/29/2022 05:20:00 PM EDT,Response,Thank you for saying that. Really.
+44,Anjelia,09/29/2022 05:32:00 PM EDT,Statement,are you feeling ok
+45,Regina Walker,09/29/2022 05:32:00 PM EDT,Response,I appreciate the sympathy.
+46,Anjelia,09/29/2022 05:33:00 PM EDT,Question,what chief complain you have (No matching questions found.)
+47,Anjelia,09/29/2022 05:33:00 PM EDT,Question,are you feeling any pain today
+48,Regina Walker,09/29/2022 05:33:00 PM EDT,Response,"I'm not doing well. I hurt. Everything hurts, but especially my legs and my ribs. In the bones."
+49,Anjelia,09/29/2022 05:35:00 PM EDT,Question,do you know where you at 
+50,System,09/29/2022 05:35:00 PM EDT,Clarification, Do you know where you are right now?.
+51,Regina Walker,09/29/2022 05:35:00 PM EDT,Response,I'm in the hospital. (Clarified to if I know where I am right now.)
+52,Anjelia,09/29/2022 05:37:00 PM EDT,Question,hoe much fluid you drink in a day (No matching questions found.)
+53,Anjelia,09/29/2022 05:37:00 PM EDT,Question,do you drink water
+54,Regina Walker,09/29/2022 05:37:00 PM EDT,Response,how many time do you use restroom 
+55,System,09/29/2022 05:38:00 PM EDT,Clarification, How many times a day are you taking a dose of morphine?.
+56,Anjelia,09/29/2022 05:38:00 PM EDT,Question,how many time do you use restroom (Clarified to How many times a day are you taking a dose of morphine?.)
+57,Regina Walker,09/29/2022 05:38:00 PM EDT,Response,"Usually I take the long-acting morphine every 12 hours, and the immediate release whenever the pain gets to be too much. (Clarified to how many times a day I take morphine.)"
+58,Anjelia,09/29/2022 05:38:00 PM EDT,Question,advance directives 
+59,System,09/29/2022 05:39:00 PM EDT,Clarification, What are your advanced directives?.
+60,Regina Walker,09/29/2022 05:38:00 PM EDT,Response,"Since it's getting tough to manage the pain at home, I feel like that's probably the best option for me right now."
+61,Anjelia,09/29/2022 05:39:00 PM EDT,Question,advance directives (Clarified to What are your advanced directives?.)
+62,Regina Walker,09/29/2022 05:39:00 PM EDT,Response,do you feel comfortable while urinate 
+63,System,09/29/2022 05:40:00 PM EDT,Clarification, Are you comfortable?.
+64,Anjelia,09/29/2022 05:39:00 PM EDT,Question,who take care of you
+65,Regina Walker,09/29/2022 05:39:00 PM EDT,Response,"My husband is my primary caretaker right now, but . . . things are getting harder for both of us. We've talked about it, and we think hospice care might be the right option for me."
+66,Anjelia,09/29/2022 05:40:00 PM EDT,Question,do you feel comfortable while urinate (Clarified to Are you comfortable?.)
+67,Regina Walker,09/29/2022 05:40:00 PM EDT,Response,"As comfortable as I can be, yes. The pain is dulled, but I still know it's there. Thank you very much for asking. (Clarified to if I am comfortable.)"
+68,Anjelia,09/29/2022 05:40:00 PM EDT,Question,what you had for recent breakfast
+69,Regina Walker,09/29/2022 05:40:00 PM EDT,Response,"I don't eat anything too heavy or unhealthy. Toast, crackers, yogurt, peanut butter. That sort of light fare, and only a few bites of it before I'm full."
+70,Anjelia,09/29/2022 05:40:00 PM EDT,Question,does your pain aggravating 
+71,System,09/29/2022 05:41:00 PM EDT,Clarification, What aggravates the pain?.
+72,Regina Walker,09/29/2022 05:40:00 PM EDT,Response,"Let's see, I had a few bites of yogurt last night before bed... I think that was the last time I had anything."
+73,Anjelia,09/29/2022 05:41:00 PM EDT,Question,what is your pain like
+74,Regina Walker,09/29/2022 05:41:00 PM EDT,Response,"I can feel it all over my body . . . It's a sharp pain in my bones, my legs, and my ribs. It's been getting much worse over the past two days."
+75,Anjelia,09/29/2022 05:41:00 PM EDT,Question,does your pain aggravating (Clarified to What aggravates the pain?.)
+76,Regina Walker,09/29/2022 05:41:00 PM EDT,Response,location of pain 
+77,System,09/29/2022 05:42:00 PM EDT,Clarification, Where is the pain?.
+78,Anjelia,09/29/2022 05:41:00 PM EDT,Question,what make your pain get relieved
+79,Regina Walker,09/29/2022 05:41:00 PM EDT,Response,"I took my pain pills at home but nothing fully gets rid of the pain, really... I'm not ungrateful for what you all have done for me, I can just still feel it there, through the medication."
+80,Anjelia,09/29/2022 05:42:00 PM EDT,Question,past medical history 
+81,System,09/29/2022 05:43:00 PM EDT,Clarification, Could you please tell me about your conditions?.
+82,Regina Walker,09/29/2022 05:42:00 PM EDT,Response,surgical history 
+83,System,09/29/2022 05:43:00 PM EDT,Clarification, Have you ever had surgery?.
+84,Anjelia,09/29/2022 05:42:00 PM EDT,Question,any medication use at home 
+85,System,09/29/2022 05:44:00 PM EDT,Clarification, Do you take any medications at home?.
+86,Regina Walker,09/29/2022 05:42:00 PM EDT,Response,"Well, everywhere really . . . These past days I've felt it mostly in my ribs and legs but even my bones hurt. (Clarified to where it hurts.)"
+87,Anjelia,09/29/2022 05:43:00 PM EDT,Question,any allergies
+88,Regina Walker,09/29/2022 05:43:00 PM EDT,Response,"Well, I don't have allergies to anything but penicillin. I told them right when I arrived."
+89,Anjelia,09/29/2022 05:43:00 PM EDT,Question,past medical history (Clarified to Could you please tell me about your conditions?.)
+90,Regina Walker,09/29/2022 05:43:00 PM EDT,Response,I have hypertension and stage IV breast cancer. It's spread to my liver and bones over the past year. (Clarified to to tell about my health problems.)
+91,Anjelia,09/29/2022 05:43:00 PM EDT,Question,any abused 
+92,System,09/29/2022 05:46:00 PM EDT,Clarification, Are you being abused?.
+93,Regina Walker,09/29/2022 05:43:00 PM EDT,Response,"I had a mastectomy about 5 years ago for the cancer, and before that a hernia repair surgery. (Clarified to if I have ever had surgery.)"
+94,Anjelia,09/29/2022 05:44:00 PM EDT,Question,any medication use at home (Clarified to Do you take any medications at home?.)
+95,Regina Walker,09/29/2022 05:44:00 PM EDT,Response,I take two types of morphine at home every day and I also manage my hypertension with Hyzaar. (Clarified to if I take any home medications.)
+96,Anjelia,09/29/2022 05:44:00 PM EDT,Question,family history
+97,Regina Walker,09/29/2022 05:44:00 PM EDT,Response,"My parents both have passed on, but they had a few health issues while they were still with us. Both had high blood pressure and cholesterol and my father had type 2 diabetes as well."
+98,Anjelia,09/29/2022 05:45:00 PM EDT,Question,are you social person
+99,Regina Walker,09/29/2022 05:45:00 PM EDT,Response,"Not so much these days, it's hard for me to get out, as you might imagine."
+100,Anjelia,09/29/2022 05:46:00 PM EDT,Question,relevant system (No matching questions found.)
+101,Anjelia,09/29/2022 05:46:00 PM EDT,Question,any abused (Clarified to Are you being abused?.)
+102,Regina Walker,09/29/2022 05:46:00 PM EDT,Response,"No. I'm not being abused. My family treats me very well, and they would never hurt me. (Clarified to if I am being abused.)"
+103,Anjelia,09/29/2022 05:47:00 PM EDT,Question,any use of substance use
+104,Regina Walker,09/29/2022 05:47:00 PM EDT,Response,"No, I do not."
+105,Anjelia,09/29/2022 05:47:00 PM EDT,Question,any heart problems
+106,Regina Walker,09/29/2022 05:47:00 PM EDT,Response,"No, I've never had heart trouble."
+107,Anjelia,09/29/2022 05:47:00 PM EDT,Question,any difficulty seeing
+108,Regina Walker,09/29/2022 05:47:00 PM EDT,Response,"I usually have a little trouble seeing, but that's not a new development and I wear glasses for it."
+109,Anjelia,09/29/2022 05:47:00 PM EDT,Question,any difficulty while breathing
+110,Regina Walker,09/29/2022 05:47:00 PM EDT,Response,"No, I don't have any breathing difficulties."
+111,Anjelia,09/29/2022 05:48:00 PM EDT,Question,when was your last bowel movement
+112,Regina Walker,09/29/2022 05:48:00 PM EDT,Response,It's actually been four days since I last went... I've tried a few times but even if I strain nothing works.
+113,Anjelia,09/29/2022 05:48:00 PM EDT,Question,do you feel confused
+114,Regina Walker,09/29/2022 05:48:00 PM EDT,Response,"No, not currently."
+115,Anjelia,09/29/2022 05:48:00 PM EDT,Question,do you have any neurological issues
+116,Regina Walker,09/29/2022 05:48:00 PM EDT,Response,"Yes, I've been feeling quite weak lately."
+117,Anjelia,09/29/2022 05:48:00 PM EDT,Question,how you take bath 
+118,System,09/29/2022 05:52:00 PM EDT,Clarification, Do you bathe alone?.
+119,Regina Walker,09/29/2022 05:48:00 PM EDT,Response,do you dress alone 
+120,System,09/29/2022 05:52:00 PM EDT,Clarification, Are you able to dress yourself?.
+121,Anjelia,09/29/2022 05:49:00 PM EDT,Question,do you need help while toileting 
+122,System,09/29/2022 05:53:00 PM EDT,Clarification, Do you need help getting to the bathroom?.
+123,Anjelia,09/29/2022 05:51:00 PM EDT,Question,do you need help feeding 
+124,System,09/29/2022 05:53:00 PM EDT,Clarification, Do you need help moving?.
+125,Regina Walker,09/29/2022 05:51:00 PM EDT,Response,"I have my ups and downs. Nothing so down I'd call depression, though."
+126,Anjelia,09/29/2022 05:51:00 PM EDT,Question,do you live with someone
+127,Regina Walker,09/29/2022 05:51:00 PM EDT,Response,"My husband and I live in at home together, and our son visits just about every day."
+128,Anjelia,09/29/2022 05:52:00 PM EDT,Question,do your husband help you for daily work like bathing toileting feeding (No matching questions found.)
+129,Anjelia,09/29/2022 05:52:00 PM EDT,Question,do your husband help you for daily work
+130,Regina Walker,09/29/2022 05:52:00 PM EDT,Response,"My husband, Raymond, and our son, Nathan, have been taking good care of me at home."
+131,Anjelia,09/29/2022 05:52:00 PM EDT,Question,how you take bath (Clarified to Do you bathe alone?.)
+132,Regina Walker,09/29/2022 05:52:00 PM EDT,Response,"I don't bathe on my own anymore. My husband helps me, especially with getting in and out of the shower, and we have a shower bench that I sit on. (Clarified to if I bathe alone.)"
+133,Anjelia,09/29/2022 05:52:00 PM EDT,Question,do you dress alone (Clarified to Are you able to dress yourself?.)
+134,Regina Walker,09/29/2022 05:52:00 PM EDT,Response,I don't have any trouble dressing myself. (Clarified to if I can dress myself without problems.)
+135,Anjelia,09/29/2022 05:53:00 PM EDT,Question,do you need help while toileting (Clarified to Do you need help getting to the bathroom?.)
+136,Regina Walker,09/29/2022 05:53:00 PM EDT,Response,"Yes, when I have to go it's a bit of an ordeal to get up and down. (Clarified to if I need help getting to the bathroom.)"
+137,Anjelia,09/29/2022 05:53:00 PM EDT,Question,do you need help feeding (Clarified to Do you need help moving?.)
+138,Regina Walker,09/29/2022 05:53:00 PM EDT,Response,"I can walk just fine. But with this pain, I'd rather not. (Clarified to if I need help moving.)"
+139,Anjelia,09/29/2022 05:53:00 PM EDT,Question,did you recently visit ER 
+140,System,09/29/2022 05:55:00 PM EDT,Clarification, Have you been to the emergency room?.
+141,Regina Walker,09/29/2022 05:53:00 PM EDT,Response,"Yes, I haven't gotten to that point yet and hopefully won't have to ever worry about having someone feed me."
+142,Anjelia,09/29/2022 05:53:00 PM EDT,Question,how is your sleeping habit
+143,Regina Walker,09/29/2022 05:53:00 PM EDT,Response,I'll take my medication before bed generally and just try to get what sleep I can. My quality of sleep has been quite poor lately though.
+144,Anjelia,09/29/2022 05:54:00 PM EDT,Question,did you have recent fall
+145,Regina Walker,09/29/2022 05:54:00 PM EDT,Response,"No, I haven't had any recent falls."
+146,Anjelia,09/29/2022 05:54:00 PM EDT,Question,do you transfer yourself
+147,Regina Walker,09/29/2022 05:54:00 PM EDT,Response,"Well, I have the most trouble getting up from any sort of lying position, so I spend most of my time in bed. My husband usually gives me a hand when I need to get up."
+148,Anjelia,09/29/2022 05:54:00 PM EDT,Question,did you lost weight
+149,Regina Walker,09/29/2022 05:54:00 PM EDT,Response,"Yes, I've lost a bit of weight in the past two months or so."
+150,Anjelia,09/29/2022 05:54:00 PM EDT,Question,do you have any skin break down
+151,Regina Walker,09/29/2022 05:54:00 PM EDT,Response,I wouldn't call it much of a problem but my skin has been feeling thinner than normal.
+152,Anjelia,09/29/2022 05:55:00 PM EDT,Question,how is your energy level
+153,Regina Walker,09/29/2022 05:55:00 PM EDT,Response,I've been feeling weak most of the time for the past few months.
+154,Anjelia,09/29/2022 05:55:00 PM EDT,Question,did you recently visit ER (Clarified to Have you been to the emergency room?.)
+155,Regina Walker,09/29/2022 05:55:00 PM EDT,Response,"Yes, I came in this morning. (Clarified to if I went to the emergency room.)"
+156,Anjelia,09/29/2022 05:55:00 PM EDT,Question,did you visited ER
+157,Regina Walker,09/29/2022 05:55:00 PM EDT,Response,do you have any infection 
+158,System,09/29/2022 06:10:00 PM EDT,Clarification, Have you had an infection recently?.
+159,Anjelia,09/29/2022 05:56:00 PM EDT,Question,does anything helps with your pain 
+160,System,09/29/2022 06:10:00 PM EDT,Clarification, Does anything help the pain?.
+161,Regina Walker,09/29/2022 05:56:00 PM EDT,Response,I'd say my health is poor in general. I'm quite aware of the situation I'm in.
+162,Anjelia,09/29/2022 05:56:00 PM EDT,Question,do you like hospice care 
+163,System,09/29/2022 06:12:00 PM EDT,Clarification, Would you prefer to be in hospice care?.
+164,Regina Walker,09/29/2022 05:56:00 PM EDT,Response,do you feel like giving up 
+165,System,09/29/2022 06:17:00 PM EDT,Clarification, Do you feel like hurting yourself?.
+166,Anjelia,09/29/2022 05:56:00 PM EDT,Question,do you have urine continence
+167,Regina Walker,09/29/2022 05:56:00 PM EDT,Response,"I'm still in control of my bladder and bowels, thankfully."
+168,Anjelia,09/29/2022 05:56:00 PM EDT,Question,what you think about your body 
+169,System,09/29/2022 06:18:00 PM EDT,Clarification, What are your thoughts about life after death?.
+170,Regina Walker,09/29/2022 05:56:00 PM EDT,Response,"Well, I haven't been hospitalized for the past three months, but I had some cancer treatments I underwent around three months ago."
+171,Anjelia,09/29/2022 05:57:00 PM EDT,Statement,are you feeling ok today
+172,Regina Walker,09/29/2022 05:57:00 PM EDT,Response,do you feel headache 
+173,System,09/29/2022 06:19:00 PM EDT,Clarification, Does your head hurt?.
+174,Anjelia,09/29/2022 05:57:00 PM EDT,Question,do you need anything
+175,Regina Walker,09/29/2022 05:57:00 PM EDT,Response,"Not right now, I'm just fine."
+176,Anjelia,09/29/2022 05:57:00 PM EDT,Question,if you need anything call us
+177,Regina Walker,09/29/2022 05:57:00 PM EDT,Response,"Not right now, I'm just fine."
+178,Anjelia,09/29/2022 06:10:00 PM EDT,Question,do you have any infection (Clarified to Have you had an infection recently?.)
+179,Regina Walker,09/29/2022 06:10:00 PM EDT,Response,"Infections? No, no infections. (Clarified to if I have had a recent infection.)"
+180,Anjelia,09/29/2022 06:10:00 PM EDT,Question,does anything helps with your pain (Clarified to Does anything help the pain?.)
+181,Regina Walker,09/29/2022 06:10:00 PM EDT,Response,"I took my pain pills at home but nothing fully gets rid of the pain, really... I'm not ungrateful for what you all have done for me, I can just still feel it there, through the medication. (Clarified to if anything helps the pain.)"
+182,Anjelia,09/29/2022 06:11:00 PM EDT,Question,do you feel your body image is disturbed (No matching questions found.)
+183,Anjelia,09/29/2022 06:12:00 PM EDT,Question,do you like hospice care (Clarified to Would you prefer to be in hospice care?.)
+184,Regina Walker,09/29/2022 06:12:00 PM EDT,Response,"I think... I've talked it over with my husband, and it's probably best for me to start hospice care. I just don't want to have to burden my family any more than I already have. (Clarified to if I would prefer to be in hospice care.)"
+185,Anjelia,09/29/2022 06:17:00 PM EDT,Question,do you feel like giving up (Clarified to Do you feel like hurting yourself?.)
+186,Regina Walker,09/29/2022 06:17:00 PM EDT,Response,"No, definitely not. (Clarified to if I feel like hurting myself.)"
+187,Anjelia,09/29/2022 06:17:00 PM EDT,Question,do you drink water
+188,Regina Walker,09/29/2022 06:17:00 PM EDT,Response,"I've had a little water in the last week, but not much if I'm being honest."
+189,Anjelia,09/29/2022 06:18:00 PM EDT,Question,what you think about your body (Clarified to What are your thoughts about life after death?.)
+190,Regina Walker,09/29/2022 06:18:00 PM EDT,Response,"I believe in Heaven, and I believe our faithful service to God, our church, and our greater community are rewarded after we die. (Clarified to what my thoughts are about life after death.)"
+191,Anjelia,09/29/2022 06:18:00 PM EDT,Question,do you feel stress about body image changed
+192,Regina Walker,09/29/2022 06:18:00 PM EDT,Response,"Well, yes. I'm trying to stay positive and keep strong for Raymond and my son Nathan, but that pain was so much . . . I do believe that no matter what happens, I'll see them again someday, but I can't deny that I'm afraid."
+193,Anjelia,09/29/2022 06:19:00 PM EDT,Question,do you feel headache (Clarified to Does your head hurt?.)
+194,Regina Walker,09/29/2022 06:19:00 PM EDT,Response,"My head feels just fine, that's not where I'm having the pain. (Clarified to if my head hurts.)"
+195,Anjelia,09/29/2022 06:19:00 PM EDT,Question,where are you having pain
+196,Regina Walker,09/29/2022 06:19:00 PM EDT,Response,"Well, everywhere really . . . These past days I've felt it mostly in my ribs and legs but even my bones hurt."
+197,Anjelia,09/29/2022 06:23:00 PM EDT,Statement,i am making care plan to achieve and help the goal
+198,Regina Walker,09/29/2022 06:23:00 PM EDT,Response,I understand what you're saying. Thank you.
+199,Anjelia,09/29/2022 06:23:00 PM EDT,Statement,will you allow me to make your care plan
+200,Regina Walker,09/29/2022 06:23:00 PM EDT,Response,I consent. You can begin now.

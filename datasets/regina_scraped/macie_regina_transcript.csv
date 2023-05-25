@@ -1,0 +1,224 @@
+,Participant,Timestamp,Interaction Type,Utterances
+0,Macie,09/29/2022 11:46:00 AM EDT,Greet,"Hello, my name is Macie. I'll be your nurse today."
+1,Regina Walker,09/29/2022 11:46:00 AM EDT,Response,Hi.
+2,Macie,09/29/2022 11:46:00 AM EDT,Question,Can you tell me your name and date of birth?
+3,Regina Walker,09/29/2022 11:46:00 AM EDT,Response,"Regina Walker, I was born January 1st . . . [Ms. Walker reports correct birth year.]"
+4,Macie,09/29/2022 11:47:00 AM EDT,Question,Can you tell me where you are?
+5,Regina Walker,09/29/2022 11:47:00 AM EDT,Response,I'm in the hospital.
+6,Macie,09/29/2022 11:48:00 AM EDT,Question,Can you tell me why you are here?
+7,Regina Walker,09/29/2022 11:48:00 AM EDT,Response,I was having trouble with the pain from my cancer... I just couldn't take it anymore at home.
+8,Macie,09/29/2022 11:49:00 AM EDT,Statement,I'm sorry to hear that.
+9,Regina Walker,09/29/2022 11:49:00 AM EDT,Response,Thank you for saying that. Really.
+10,Macie,09/29/2022 11:49:00 AM EDT,Question,Can you tell me what year it is?
+11,Regina Walker,09/29/2022 11:49:00 AM EDT,Response,It's . . . [Ms. Walker reports the correct year.]
+12,Macie,09/29/2022 11:51:00 AM EDT,Question,Are you currently taking any medications?
+13,Regina Walker,09/29/2022 11:51:00 AM EDT,Response,I take two types of morphine at home every day and I also manage my hypertension with Hyzaar.
+14,Macie,09/29/2022 11:52:00 AM EDT,Question,When was the last time you took this medication? 
+15,System,09/29/2022 11:52:00 AM EDT,Clarification, When was the last time you took any medications?.
+16,Regina Walker,09/29/2022 11:52:00 AM EDT,Response,"I took some of the fast-acting morphine this morning, but it wasn't much help. Pain just cut right through it. I haven't yet had my Hyzaar. (Clarified to when I last took medication.)"
+17,Macie,09/29/2022 11:53:00 AM EDT,Statement,I am sorry to hear that the pain medication isnt working.
+18,Regina Walker,09/29/2022 11:53:00 AM EDT,Response,On a scale of 0-10 how would you rate your pain with 10 being the worst imaginable pain and 0 being no pain? 
+19,System,09/29/2022 11:54:00 AM EDT,Clarification, Can you rate your current pain level on a scale of 0 to 10?.
+20,Macie,09/29/2022 11:54:00 AM EDT,Question,On a scale of 0-10 how would you rate your pain with 10 being the worst imaginable pain and 0 being no pain? (Clarified to Can you rate your current pain level on a scale of 0 to 10?.)
+21,Regina Walker,09/29/2022 11:54:00 AM EDT,Response,"Right now, I'm about a 4 of 10. (Clarified to how I would rate my pain on a scale.)"
+22,Macie,09/29/2022 11:55:00 AM EDT,Question,You said you havent taken your hypertension medication this morning? (No matching questions found.)
+23,Macie,09/29/2022 11:55:00 AM EDT,Question,You havent taken your hypertension medication this morning? (No matching questions found.)
+24,Macie,09/29/2022 11:56:00 AM EDT,Question,"You havent taken your hypertension medication, correct? (No matching questions found.)"
+25,Macie,09/29/2022 11:56:00 AM EDT,Question,You havent taken your hypertension medication? (No matching questions found.)
+26,Macie,09/29/2022 11:57:00 AM EDT,Question,"Would you describe this pain as stabbing, aching, or throbbing pain? "
+27,System,09/29/2022 11:58:00 AM EDT,Clarification, Would you describe the pain as aching?.
+28,Regina Walker,09/29/2022 11:57:00 AM EDT,Response,"Well, everywhere really . . . These past days I've felt it mostly in my ribs and legs but even my bones hurt."
+29,Macie,09/29/2022 11:58:00 AM EDT,Question,"Would you describe this pain as stabbing, aching, or throbbing pain? (Clarified to Would you describe the pain as aching?.)"
+30,Regina Walker,09/29/2022 11:58:00 AM EDT,Response,"No, the pain doesn't feel like that. (Clarified to if the pain is aching.)"
+31,Macie,09/29/2022 11:58:00 AM EDT,Question,throbbing? (No matching questions found.)
+32,Macie,09/29/2022 11:59:00 AM EDT,Question,Would you define it as throbbing? (No matching questions found.)
+33,Macie,09/29/2022 11:59:00 AM EDT,Question,Is it a throbbing pain? (No matching questions found.)
+34,Macie,09/29/2022 11:59:00 AM EDT,Question,Is it a stabbing pain?
+35,Regina Walker,09/29/2022 11:59:00 AM EDT,Response,"No, the pain doesn't feel like that."
+36,Macie,09/29/2022 12:00:00 PM EDT,Question,Can you describe the pain for me?
+37,Regina Walker,09/29/2022 12:00:00 PM EDT,Response,"I can feel it all over my body . . . It's a sharp pain in my bones, my legs, and my ribs. It's been getting much worse over the past two days."
+38,Macie,09/29/2022 12:01:00 PM EDT,Question,Is there anything that aggravates the pain?
+39,Regina Walker,09/29/2022 12:01:00 PM EDT,Response,"Nothing makes the pain worse, nothing makes it better. It's just constant and relentless."
+40,Macie,09/29/2022 12:01:00 PM EDT,Statement,I am sorry that you are in so much pain.
+41,Regina Walker,09/29/2022 12:01:00 PM EDT,Response,Thank you. Your kindness is felt.
+42,Macie,09/29/2022 12:03:00 PM EDT,Question,Do you have any allergies that you are aware of?
+43,Regina Walker,09/29/2022 12:03:00 PM EDT,Response,"Well, I don't have allergies to anything but penicillin. I told them right when I arrived."
+44,Macie,09/29/2022 12:04:00 PM EDT,Statement,I had that in the chart I just wanted to clarify with you.
+45,Regina Walker,09/29/2022 12:04:00 PM EDT,Response,I appreciate the information.
+46,Macie,09/29/2022 12:04:00 PM EDT,Question,What happens when you take penicillin?
+47,Regina Walker,09/29/2022 12:04:00 PM EDT,Response,"You take long-acting morphine, do you remember the dosage? "
+48,System,09/29/2022 12:06:00 PM EDT,Clarification, How are you taking the long acting morphine?.
+49,Macie,09/29/2022 12:05:00 PM EDT,Statement,Okay. I am going to ask you more about your home medications.
+50,Regina Walker,09/29/2022 12:05:00 PM EDT,Response,Thanks. Perhaps that could help me.
+51,Macie,09/29/2022 12:06:00 PM EDT,Question,"You take long-acting morphine, do you remember the dosage? (Clarified to How are you taking the long acting morphine?.)"
+52,Regina Walker,09/29/2022 12:06:00 PM EDT,Response,"My morphine all comes in pill form, both the fast and slow acting. (Clarified to what form the long acting morphine is.)"
+53,Macie,09/29/2022 12:07:00 PM EDT,Question,How often do you take it?
+54,Regina Walker,09/29/2022 12:07:00 PM EDT,Response,"Usually I take the long-acting morphine every 12 hours, and the immediate release whenever the pain gets to be too much."
+55,Macie,09/29/2022 12:08:00 PM EDT,Question,Do you take any over the counter medications?
+56,Regina Walker,09/29/2022 12:08:00 PM EDT,Response,All of my medications are prescription.
+57,Macie,09/29/2022 12:08:00 PM EDT,Question,Do you take any herbal supplements?
+58,Regina Walker,09/29/2022 12:08:00 PM EDT,Response,"No, I've never thought much of those."
+59,Macie,09/29/2022 12:08:00 PM EDT,Question,Do you use any substances?
+60,Regina Walker,09/29/2022 12:08:00 PM EDT,Response,"No, I do not."
+61,Macie,09/29/2022 12:09:00 PM EDT,Question,Do you drink?
+62,Regina Walker,09/29/2022 12:09:00 PM EDT,Response,"No, I haven't had alcohol for a few years."
+63,Macie,09/29/2022 12:09:00 PM EDT,Exam Action,Assessed vitals
+64,Macie,09/29/2022 12:10:00 PM EDT,Exam Action,Assessed vitals
+65,Macie,09/29/2022 12:11:00 PM EDT,Statement,I see you are on oxygen here.
+66,Regina Walker,09/29/2022 12:11:00 PM EDT,Response,You're kind for filling me in.
+67,Macie,09/29/2022 12:11:00 PM EDT,Question,Do you use oxygen at home?
+68,Regina Walker,09/29/2022 12:11:00 PM EDT,Response,"No, I don't have any breathing difficulties."
+69,Macie,09/29/2022 12:12:00 PM EDT,Exam Action,Assessed IV pump
+70,Macie,09/29/2022 12:13:00 PM EDT,Question,Do you know how many liters of oxygen you are on here? (No matching questions found.)
+71,Macie,09/29/2022 12:14:00 PM EDT,Statement,I currently have you on 2 L of oxygen.
+72,Regina Walker,09/29/2022 12:14:00 PM EDT,Response,I see. Thats helpful to know.
+73,Macie,09/29/2022 12:14:00 PM EDT,Exam Action,Assessed vitals
+74,Macie,09/29/2022 12:14:00 PM EDT,Exam Action,Assessed IV bag
+75,Macie,09/29/2022 12:16:00 PM EDT,Exam Action,Assessed IV pump
+76,Macie,09/29/2022 12:17:00 PM EDT,Exam Action,Assessed IV site
+77,Macie,09/29/2022 12:17:00 PM EDT,Statement,I am just going to look at your IV site to make sure it is doing good.
+78,Regina Walker,09/29/2022 12:17:00 PM EDT,Response,Thanks much for that.
+79,Macie,09/29/2022 12:17:00 PM EDT,Question,Is there any pain when I touch your IV site?
+80,Regina Walker,09/29/2022 12:17:00 PM EDT,Response,"No, there's no burning or pain there."
+81,Macie,09/29/2022 12:18:00 PM EDT,Exam Action,"Assessed urine quality: clear, dark yellow, no noticeable odor"
+82,Macie,09/29/2022 12:18:00 PM EDT,Question,Do you have any pain when urinating?
+83,Regina Walker,09/29/2022 12:18:00 PM EDT,Response,"No, there's no burning or pain there."
+84,Macie,09/29/2022 12:19:00 PM EDT,Question,How much water do you typically drink a day?
+85,Regina Walker,09/29/2022 12:19:00 PM EDT,Response,Not very much. Probably a glass here and there I suppose.
+86,Macie,09/29/2022 12:20:00 PM EDT,Statement,Your urine is a little dark. When it is dark that can show that  you need to drink more water.
+87,Regina Walker,09/29/2022 12:20:00 PM EDT,Response,I see. Thats helpful to know.
+88,Macie,09/29/2022 12:21:00 PM EDT,Exam Action,Checked Patient Wristbands: All information is correct
+89,Macie,09/29/2022 12:22:00 PM EDT,Statement,I'm going to take a look at your eyes and mouth.
+90,Regina Walker,09/29/2022 12:22:00 PM EDT,Response,Thanks much for that.
+91,Macie,09/29/2022 12:22:00 PM EDT,Exam Action,Inspected left eye: Sclera - icterus
+92,Macie,09/29/2022 12:22:00 PM EDT,Exam Action,Inspected right eye: Sclera - icterus
+93,Macie,09/29/2022 12:23:00 PM EDT,Exam Action,Inspected mouth
+94,Macie,09/29/2022 12:25:00 PM EDT,Question,Do you wear contacts or glasses? (No matching questions found.)
+95,Macie,09/29/2022 12:25:00 PM EDT,Question,Do you have contacts? (No matching questions found.)
+96,Macie,09/29/2022 12:25:00 PM EDT,Question,Do you use contacts? (No matching questions found.)
+97,Macie,09/29/2022 12:25:00 PM EDT,Question,Do you have glasses?
+98,Regina Walker,09/29/2022 12:25:00 PM EDT,Response,"I usually have a little trouble seeing, but that's not a new development and I wear glasses for it."
+99,Macie,09/29/2022 12:26:00 PM EDT,Question,Do you have reading glasses?
+100,Regina Walker,09/29/2022 12:26:00 PM EDT,Response,"I usually have a little trouble seeing, but that's not a new development and I wear glasses for it."
+101,Macie,09/29/2022 12:27:00 PM EDT,Question,Do you have any dentures?
+102,Regina Walker,09/29/2022 12:27:00 PM EDT,Response,"No, I don't need to wear dentures."
+103,Macie,09/29/2022 12:28:00 PM EDT,Statement,I'm going to do any assessment of your skin.
+104,Regina Walker,09/29/2022 12:28:00 PM EDT,Response,I appreciate the information.
+105,Macie,09/29/2022 12:28:00 PM EDT,Exam Action,Inspected front of neck and face: jaundice
+106,Macie,09/29/2022 12:28:00 PM EDT,Exam Action,Inspected chest and abdomen
+107,Macie,09/29/2022 12:29:00 PM EDT,Exam Action,Inspected front of left hand and arm
+108,Macie,09/29/2022 12:29:00 PM EDT,Exam Action,Inspected front of right hand and arm
+109,Macie,09/29/2022 12:29:00 PM EDT,Exam Action,Inspected front of thighs and knees
+110,Macie,09/29/2022 12:29:00 PM EDT,Exam Action,Inspected front of shins and top of feet
+111,Macie,09/29/2022 12:29:00 PM EDT,Exam Action,Inspected back of neck and upper back
+112,Macie,09/29/2022 12:30:00 PM EDT,Exam Action,Inspected lower back and hips
+113,Macie,09/29/2022 12:30:00 PM EDT,Exam Action,Inspected back of left hand and arm
+114,Macie,09/29/2022 12:30:00 PM EDT,Exam Action,Inspected back of right hand and arm
+115,Macie,09/29/2022 12:30:00 PM EDT,Exam Action,Inspected back of thighs and knees
+116,Macie,09/29/2022 12:30:00 PM EDT,Exam Action,Inspected calves and heel
+117,Macie,09/29/2022 12:30:00 PM EDT,Exam Action,Inspected calves and heel
+118,Macie,09/29/2022 12:32:00 PM EDT,Question,Do you have any skin breakdown?
+119,Regina Walker,09/29/2022 12:32:00 PM EDT,Response,I wouldn't call it much of a problem but my skin has been feeling thinner than normal.
+120,Macie,09/29/2022 12:34:00 PM EDT,Statement,Im going to listen to your breath and heart sounds. Im also going to listen to your stomach.
+121,Regina Walker,09/29/2022 12:34:00 PM EDT,Response,Thanks. Perhaps that could help me.
+122,Macie,09/29/2022 12:34:00 PM EDT,Exam Action,Auscultated carotids
+123,Macie,09/29/2022 12:35:00 PM EDT,Exam Action,Auscultated breath sounds
+124,Macie,09/29/2022 12:36:00 PM EDT,Exam Action,Auscultated heart sounds
+125,Macie,09/29/2022 12:36:00 PM EDT,Question,Do you have any difficulty breathing?
+126,Regina Walker,09/29/2022 12:36:00 PM EDT,Response,"No, I don't have any breathing difficulties."
+127,Macie,09/29/2022 12:36:00 PM EDT,Question,Do you have any chest pain?
+128,Regina Walker,09/29/2022 12:36:00 PM EDT,Response,"No, my pain there is more in the lower rib area."
+129,Macie,09/29/2022 12:37:00 PM EDT,Exam Action,Auscultated bowel sounds
+130,Macie,09/29/2022 12:38:00 PM EDT,Question,When was your last bowel movement?
+131,Regina Walker,09/29/2022 12:38:00 PM EDT,Response,It's actually been four days since I last went... I've tried a few times but even if I strain nothing works.
+132,Macie,09/29/2022 12:39:00 PM EDT,Question,Do you take any laxative for that?
+133,Regina Walker,09/29/2022 12:39:00 PM EDT,Response,"I don't use laxatives, no. I suppose I could, what with my constipation the past four days."
+134,Macie,09/29/2022 12:40:00 PM EDT,Statement,I will communicate with your doctor and see if we could start you on something to help with that.
+135,Regina Walker,09/29/2022 12:40:00 PM EDT,Response,You're kind for filling me in.
+136,Macie,09/29/2022 12:41:00 PM EDT,Question,What is a normal meal for you?
+137,Regina Walker,09/29/2022 12:41:00 PM EDT,Response,"I don't eat anything too heavy or unhealthy. Toast, crackers, yogurt, peanut butter. That sort of light fare, and only a few bites of it before I'm full."
+138,Macie,09/29/2022 12:42:00 PM EDT,Statement,Including some fiber in your diet can help with constipation.
+139,Regina Walker,09/29/2022 12:42:00 PM EDT,Response,Thanks. Perhaps that could help me.
+140,Macie,09/29/2022 12:43:00 PM EDT,Statement,I am going to feel your stomach. I will start with a light palpation and then work into a deep palpation. I want you to tell me if your feeling any pain while i do this.
+141,Regina Walker,09/29/2022 12:43:00 PM EDT,Response,You're kind for filling me in.
+142,Macie,09/29/2022 12:43:00 PM EDT,Exam Action,Palpated abdomen with light pressure
+143,Macie,09/29/2022 12:43:00 PM EDT,Exam Action,Palpated abdomen with deep pressure
+144,Macie,09/29/2022 12:44:00 PM EDT,Exam Action,Palpated bladder
+145,Macie,09/29/2022 12:46:00 PM EDT,Question,"Repeat and remember apple, penny, and table."
+146,Regina Walker,09/29/2022 12:46:00 PM EDT,Response,"Apple, penny, and table."
+147,Macie,09/29/2022 12:48:00 PM EDT,Question,Can you repeat the three words I asked you to remember earlier?
+148,Regina Walker,09/29/2022 12:48:00 PM EDT,Response,"Apple, penny, and table."
+149,Macie,09/29/2022 12:48:00 PM EDT,Exam Action,Tested cognition
+150,Macie,09/29/2022 12:50:00 PM EDT,Exam Action,Tested skin turgor
+151,Macie,09/29/2022 12:50:00 PM EDT,Exam Action,Tested capillary refill
+152,Macie,09/29/2022 12:51:00 PM EDT,Question,Have you felt depressed over the past 2 weeks?
+153,Regina Walker,09/29/2022 12:51:00 PM EDT,Response,"I have my ups and downs. Nothing so down I'd call depression, though."
+154,Macie,09/29/2022 12:51:00 PM EDT,Question,Can you describe your living environment?
+155,Regina Walker,09/29/2022 12:51:00 PM EDT,Response,"I'm living with my husband in our home. I'm happy there still, all the familiar surroundings, visits from our friends . . . but if the pain is going to be as bad as this morning from now on, I'm not sure what I can do about it at home."
+156,Macie,09/29/2022 12:52:00 PM EDT,Question,Do you feel safe at home?
+157,Regina Walker,09/29/2022 12:52:00 PM EDT,Response,"Of course, I've never felt threatened at home."
+158,Macie,09/29/2022 12:53:00 PM EDT,Question,"Are you able to do activities of daily living such as bath, dress, and toileting?"
+159,Regina Walker,09/29/2022 12:53:00 PM EDT,Response,"Well, some things I'm able to do still, but my husband has to help me with quite a bit these days. I spend most of my time in bed."
+160,Macie,09/29/2022 12:53:00 PM EDT,Question,Are you able to bath yourself?
+161,Regina Walker,09/29/2022 12:53:00 PM EDT,Response,"I don't bathe on my own anymore. My husband helps me, especially with getting in and out of the shower, and we have a shower bench that I sit on."
+162,Macie,09/29/2022 12:54:00 PM EDT,Question,Are you able to transfer around the house by yourself? 
+163,System,09/29/2022 12:55:00 PM EDT,Clarification, Can you transfer by yourself?.
+164,Regina Walker,09/29/2022 12:54:00 PM EDT,Response,I don't have any trouble dressing myself.
+165,Macie,09/29/2022 12:54:00 PM EDT,Question,Are you able to use the restroom by yourself?
+166,Regina Walker,09/29/2022 12:54:00 PM EDT,Response,"No, I'll usually need a hand with that."
+167,Macie,09/29/2022 12:55:00 PM EDT,Question,Are you able to transfer around the house by yourself? (Clarified to Can you transfer by yourself?.)
+168,Regina Walker,09/29/2022 12:55:00 PM EDT,Response,"Well, I have the most trouble getting up from any sort of lying position, so I spend most of my time in bed. My husband usually gives me a hand when I need to get up. (Clarified to if I am able to transfer myself.)"
+169,Macie,09/29/2022 12:55:00 PM EDT,Question,Do you have any issues with continence?
+170,Regina Walker,09/29/2022 12:55:00 PM EDT,Response,"I'm still in control of my bladder and bowels, thankfully."
+171,Macie,09/29/2022 12:56:00 PM EDT,Question,Are you able eat independently?
+172,Regina Walker,09/29/2022 12:56:00 PM EDT,Response,"Yes, I haven't gotten to that point yet and hopefully won't have to ever worry about having someone feed me."
+173,Macie,09/29/2022 12:56:00 PM EDT,Question,How are your sleeping habits?
+174,Regina Walker,09/29/2022 12:56:00 PM EDT,Response,I'll take my medication before bed generally and just try to get what sleep I can. My quality of sleep has been quite poor lately though.
+175,Macie,09/29/2022 12:56:00 PM EDT,Question,How many hours of sleep would you say that you are getting? (No matching questions found.)
+176,Macie,09/29/2022 12:57:00 PM EDT,Question,How many hours of sleep are you getting?
+177,Regina Walker,09/29/2022 12:57:00 PM EDT,Response,"It's hard to say, maybe a few hours a night?"
+178,Macie,09/29/2022 12:57:00 PM EDT,Question,Have you been confused at all recently?
+179,Regina Walker,09/29/2022 12:57:00 PM EDT,Response,"No, I'm not confused right now. This morning the pain was making it a bit hard to think but I'm all here now."
+180,Macie,09/29/2022 12:57:00 PM EDT,Question,Have you had any falls?
+181,Regina Walker,09/29/2022 12:57:00 PM EDT,Response,"No, I haven't had any recent falls."
+182,Macie,09/29/2022 12:58:00 PM EDT,Question,Have you had any weight changes?
+183,Regina Walker,09/29/2022 12:58:00 PM EDT,Response,"Yes, I've lost 20 pounds or so in the past two months."
+184,Macie,09/29/2022 01:00:00 PM EDT,Question,Has your health had any effects on social activity?
+185,Regina Walker,09/29/2022 01:00:00 PM EDT,Response,Have you had any recent ER visits or hospitalizations? 
+186,System,09/29/2022 01:01:00 PM EDT,Clarification, Have you had any ER visits or hospitalizations?.
+187,Macie,09/29/2022 01:00:00 PM EDT,Question,What is your perception of health?
+188,Regina Walker,09/29/2022 01:00:00 PM EDT,Response,I'd say my health is poor in general. I'm quite aware of the situation I'm in.
+189,Macie,09/29/2022 01:00:00 PM EDT,Question,How has your energy levels been lately?
+190,Regina Walker,09/29/2022 01:00:00 PM EDT,Response,I've been feeling weak most of the time for the past few months.
+191,Macie,09/29/2022 01:01:00 PM EDT,Question,Have you had any recent ER visits or hospitalizations? (Clarified to Have you had any ER visits or hospitalizations?.)
+192,Regina Walker,09/29/2022 01:01:00 PM EDT,Response,"I've been through surgery, chemotherapy, and radiation treatment time and time again for the past few years. My last treatment stopped around three months ago after they told me there was nothing else they could do. . . (Clarified to if I have had any ER visits or hospitalizations.)"
+193,Macie,09/29/2022 01:02:00 PM EDT,Statement,Im sorry to hear that. It sounds like youve been through a lot recently.
+194,Regina Walker,09/29/2022 01:02:00 PM EDT,Response,I appreciate the good will.
+195,Macie,09/29/2022 01:02:00 PM EDT,Question,What kind of surgeries have you had?
+196,Regina Walker,09/29/2022 01:02:00 PM EDT,Response,"I had a mastectomy about 5 years ago for the cancer, and before that a hernia repair surgery."
+197,Macie,09/29/2022 01:03:00 PM EDT,Question,Do you have any other health issues?
+198,Regina Walker,09/29/2022 01:03:00 PM EDT,Response,The only condition I'm very concerned about right now is my cancer.
+199,Macie,09/29/2022 01:04:00 PM EDT,Question,Do you have advanced directives?
+200,Regina Walker,09/29/2022 01:04:00 PM EDT,Response,"Yes, all my affairs should be in order."
+201,Macie,09/29/2022 01:05:00 PM EDT,Question,What are your preferences for hospice?
+202,Regina Walker,09/29/2022 01:05:00 PM EDT,Response,I want to allow things to take their course . . . it's time for me to stop fighting and just enjoy the time I have left in what little ways I can. My husband and I have chosen an assisted living residence near my home where I'll go for hospice care. I have been told that they can help me with the pain there .  . . and it's close enough that my husband can be with me.
+203,Macie,09/29/2022 01:05:00 PM EDT,Question,When was your most recent meal?
+204,Regina Walker,09/29/2022 01:05:00 PM EDT,Response,Does you family have any medication issues? 
+205,System,09/29/2022 01:12:00 PM EDT,Clarification, Do your family members have health problems?.
+206,Macie,09/29/2022 01:06:00 PM EDT,Exam Action,Assessed vitals
+207,Macie,09/29/2022 01:07:00 PM EDT,Question,what would you rate you pain?
+208,Regina Walker,09/29/2022 01:07:00 PM EDT,Response,"Right now, I'm about a 4 of 10."
+209,Macie,09/29/2022 01:10:00 PM EDT,Question,When were you diagnosed with cancer?
+210,Regina Walker,09/29/2022 01:10:00 PM EDT,Response,"I was diagnosed with breast cancer five years ago. It's now stage IV, and has spread to my liver and bones."
+211,Macie,09/29/2022 01:12:00 PM EDT,Question,Does you family have any medication issues? (Clarified to Do your family members have health problems?.)
+212,Regina Walker,09/29/2022 01:12:00 PM EDT,Response,"My parents both have passed on, but they had a few health issues while they were still with us. Both had high blood pressure and cholesterol and my father had type 2 diabetes as well. (Clarified to if my family members have health problems.)"
+213,Macie,09/29/2022 01:14:00 PM EDT,Statement,I'm sorry to hear that they have both passed away.
+214,Regina Walker,09/29/2022 01:14:00 PM EDT,Response,"Yes, thanks very much."
+215,Macie,09/29/2022 01:14:00 PM EDT,Question,Do you have any social history?
+216,Regina Walker,09/29/2022 01:14:00 PM EDT,Response,Raymond and I have a nice group of families from the church who we see pretty regularly. They've really been great to us and have lifted quite a lot of weight from our shoulders. It's been difficult to see them with my pain as of late though . . .
+217,Macie,09/29/2022 01:15:00 PM EDT,Question,Does anyone take advantage of you?
+218,Regina Walker,09/29/2022 01:15:00 PM EDT,Response,"No, no one in my family would ever steal from me . . . they would never do that. My husband is the one responsible for my . . . for my will, and our finances. I trust him unconditionally to take care of those matters."
+219,Macie,09/29/2022 01:42:00 PM EDT,Statement,I am preparing a care plan for you. My nursing diagnosis is for you to exhibit readiness for effective coping.
+220,Regina Walker,09/29/2022 01:42:00 PM EDT,Response,I understand what you're saying. Thank you.
+221,Macie,09/29/2022 01:43:00 PM EDT,Statement,"My short term goal is that you will be able to verbalize understanding of coping methods, available resources, and understanding of hospice care."
+222,Regina Walker,09/29/2022 01:43:00 PM EDT,Response,I consent. You can begin now.

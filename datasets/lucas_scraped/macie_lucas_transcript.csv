@@ -1,0 +1,288 @@
+,Participant,Timestamp,Interaction Type,Utterances
+0,Macie,09/28/2022 06:42:00 PM EDT,Greet,"Hi, Im macie I'll be your nurse today. Can you Tell me your name and date of birth?"
+1,Lucas Callahan,09/28/2022 06:42:00 PM EDT,Response,Hey! What's up?
+2,Macie,09/28/2022 06:42:00 PM EDT,Question,Can you tell me your name and date of birth?
+3,Lucas Callahan,09/28/2022 06:42:00 PM EDT,Response,My name's Lucas Callahan and my birthday is . . . [Mr. Callahan reports correct birthday].
+4,Macie,09/28/2022 06:43:00 PM EDT,Question,Can you tell me where you are?
+5,Lucas Callahan,09/28/2022 06:43:00 PM EDT,Response,I'm in the hospital. Where bodies come to heal and pudding comes to grow that little skin on top.
+6,Macie,09/28/2022 06:44:00 PM EDT,Question,Can you tell why your here?
+7,Lucas Callahan,09/28/2022 06:44:00 PM EDT,Response,Those idiot cops brought me here. I don't need to be here but the front desk guy said that they have to check me out. Like I'm some sort of book in the history of atlases.
+8,Macie,09/28/2022 06:46:00 PM EDT,Question,Can you tell me what caused the cops to bring you in?
+9,Lucas Callahan,09/28/2022 06:46:00 PM EDT,Response,"Well, this cop stopped me when I was just taking care of my business. I had to check out some cars because I had a suspicion that there were government agents following me. It's probably good that I'm here, now. In any case, yeah. Cops are dumb. But I get it, I was running around kinda, and it's a grocery store parking lot, and 11:30 is a little late for track practice. Actually -- actually, it's always too late for track practice, but whatevah."
+10,Macie,09/28/2022 06:50:00 PM EDT,Question,What kind of government agents were following you? 
+11,System,09/28/2022 06:50:00 PM EDT,Clarification, Tell me more about the government agents?.
+12,Lucas Callahan,09/28/2022 06:50:00 PM EDT,Response,"I mean, what do you want to know? I just had a hunch they were in one of those cars, waiting to scoop me up and throw me in solitary. They know I'm enlightened and if my writings get out, boom, their secrets are overthrown. Not that I'm gonna let them stop me. (Clarified to to tell you more about the government agents.)"
+13,Macie,09/28/2022 06:50:00 PM EDT,Question,Ok (No matching questions found.)
+14,Macie,09/28/2022 06:51:00 PM EDT,Question,Do you have any history of anxiety?
+15,Lucas Callahan,09/28/2022 06:51:00 PM EDT,Response,"I'm not anxious or paranoid or whatever. I mean, I just have a really really fine-tuned sense of, like, OK, now they're coming for me, the government agents, and I have to be on the look out, 'cause no way am I being snatched up, not a chance."
+16,Macie,09/28/2022 06:52:00 PM EDT,Question,Do you have any hallucinations?
+17,Lucas Callahan,09/28/2022 06:52:00 PM EDT,Response,No way. I don't see junk that's not there or anything.
+18,Macie,09/28/2022 06:52:00 PM EDT,Question,Do you use any substances?
+19,Lucas Callahan,09/28/2022 06:52:00 PM EDT,Response,"I do coke, I drink . . . that's really it. I like doing the same things over and over. I get in my groove with it."
+20,Macie,09/28/2022 06:52:00 PM EDT,Question,How often do you do coke?
+21,Lucas Callahan,09/28/2022 06:52:00 PM EDT,Response,"I dunno, 2 or 3? It's more of a weekend party thing, not a, I need it to get out of bed sort of thing. Besides, who likes beds?"
+22,Macie,09/28/2022 06:53:00 PM EDT,Question,How often do you drink?
+23,Lucas Callahan,09/28/2022 06:53:00 PM EDT,Response,"Not often -- 2 or 3 times a week, I guess. It's more of a party vibe than anything. I drink more when I'm down, but I'm not down anymore! It's all loose goose these days. I'm not, like, waking up with the hair of the dog. That's like, no hair and no dogs for me, thank you."
+24,Macie,09/28/2022 06:54:00 PM EDT,Question,When was the last time you used drugs?
+25,Lucas Callahan,09/28/2022 06:54:00 PM EDT,Response,"Haven't done coke since about four days ago, I'd say."
+26,Macie,09/28/2022 06:54:00 PM EDT,Question,How well do you sleep at night?
+27,Lucas Callahan,09/28/2022 06:54:00 PM EDT,Response,"Well, there's not much of it, but I get a couple hours in usually, and I never feel, like, unrested or anything. Recently, I haven't had to sleep for like, four days. It's sick, completely bangin'."
+28,Macie,09/28/2022 06:54:00 PM EDT,Question,How is your energy levels?
+29,Lucas Callahan,09/28/2022 06:54:00 PM EDT,Response,"Awesome! I mean, I'm just a high energy kind of guy, a lot of the time. But this week especially I've felt, like, crazy up and up, and I love it. I just love it. I feel like I could lift a horse."
+30,Macie,09/28/2022 06:55:00 PM EDT,Question,How do you feel right now?
+31,Lucas Callahan,09/28/2022 06:55:00 PM EDT,Response,"I'm feeling great. Actually, I'm like, mega great. Ha, I just thought of, like, a 20-foot-tall cheese grater. Anyway, yeah, I'm not bad or anything, I was brought here by the cops. Who doesn't love a pleasant ride in a locked car with malevolent strangers?"
+32,Macie,09/28/2022 06:55:00 PM EDT,Question,Do you have any health conditions?
+33,Lucas Callahan,09/28/2022 06:55:00 PM EDT,Response,"Not really. They diagnosed me with depression, but I'm really not worried about that anymore. I'm just really not in that headspace right now."
+34,Macie,09/28/2022 06:57:00 PM EDT,Question,When did they diagnose you with depression?
+35,Lucas Callahan,09/28/2022 06:57:00 PM EDT,Response,Do you take any medications for depression? 
+36,System,09/28/2022 06:57:00 PM EDT,Clarification, Do you take medication for depression?.
+37,Macie,09/28/2022 06:57:00 PM EDT,Question,Do you take any medications for depression? (Clarified to Do you take medication for depression?.)
+38,Lucas Callahan,09/28/2022 06:57:00 PM EDT,Response,"I used to, yeah. (Clarified to if I take medication for depression.)"
+39,Macie,09/28/2022 06:58:00 PM EDT,Question,Do you currently? (No matching questions found.)
+40,Macie,09/28/2022 06:58:00 PM EDT,Question,Do you currently take medications?
+41,Lucas Callahan,09/28/2022 06:58:00 PM EDT,Response,"I've only ever been on antidepressants, and not anymore. That stuff dulls your vibes. Y'all should be careful about giving it out too much. You're gonna have a Shadowville full of zombies with no zookeeper. Meow."
+42,Macie,09/28/2022 06:58:00 PM EDT,Question,Can you tell me about your typical moods?
+43,Lucas Callahan,09/28/2022 06:58:00 PM EDT,Response,"You've got Option A and Option B. With A, we're talking about a bottomless rat hole. With B, we're talking good vibes that don't disappoint. I'll stick with B, thanks."
+44,Macie,09/28/2022 06:59:00 PM EDT,Question,Do you have any frequent mood changes? 
+45,System,09/28/2022 07:00:00 PM EDT,Clarification, Do you often experience mood changes?.
+46,Lucas Callahan,09/28/2022 06:59:00 PM EDT,Response,"I mean, depression sucks? I don't know what you want me to say."
+47,Macie,09/28/2022 07:00:00 PM EDT,Question,Do you have any frequent mood changes? (Clarified to Do you often experience mood changes?.)
+48,Lucas Callahan,09/28/2022 07:00:00 PM EDT,Response,Can you tell me your reason for seeing a psychiatrist? 
+49,System,09/28/2022 07:03:00 PM EDT,Clarification, What was your reason for seeing a psychiatrist?.
+50,Macie,09/28/2022 07:01:00 PM EDT,Question,When was your last period of depression?
+51,Lucas Callahan,09/28/2022 07:01:00 PM EDT,Response,"I mean . . . I fully got out of it maybe a couple months ago . . . it started a while before that. I dunno. Time isn't really linear, you know? I don't think in terms of, like, oh, this happened, now this'll happen."
+52,Macie,09/28/2022 07:03:00 PM EDT,Question,Do you currently have suicidal thoughts? 
+53,System,09/28/2022 07:05:00 PM EDT,Clarification, Are you planning suicide?.
+54,Lucas Callahan,09/28/2022 07:03:00 PM EDT,Response,"I mean, that doctor was a buffoon, but I get where he was coming from -- I had just tried to kill myself. That doesn't necessarily scream NOT depressed, you know? Like, your eyeballs are your eyeballs. You see what you see. (Clarified to what led me to see the psychiatrist.)"
+55,Macie,09/28/2022 07:04:00 PM EDT,Question,Can you tell me more about when you tried to kill yourself?
+56,Lucas Callahan,09/28/2022 07:04:00 PM EDT,Response,"I don't know what you want me to say, it was -- I just don't wanna talk about it, OK? I just, I don't -- just focus on the present. This is all that's going on with me."
+57,Macie,09/28/2022 07:05:00 PM EDT,Question,Do you currently have suicidal thoughts? (Clarified to Are you planning suicide?.)
+58,Lucas Callahan,09/28/2022 07:05:00 PM EDT,Response,"Aw, come on, bud, do I seem like the type? I haven't even considered planning that sort of thing since maybe 3 years ago, and that's when I actually went through it. (Clarified to if I am planning suicide.)"
+59,Macie,09/28/2022 07:06:00 PM EDT,Question,Do you want to be dead?
+60,Lucas Callahan,09/28/2022 07:06:00 PM EDT,Response,Do you believe that others would be better off if you were dead? 
+61,System,09/28/2022 07:08:00 PM EDT,Clarification, Do you ever feel that others would be better off if you were dead?.
+62,Macie,09/28/2022 07:07:00 PM EDT,Question,Have you had any other suicide attempts?
+63,Lucas Callahan,09/28/2022 07:07:00 PM EDT,Response,Just the once . . . and you really don't have to worry about me like that.
+64,Macie,09/28/2022 07:08:00 PM EDT,Question,What thoughts of suicide do you have?
+65,Lucas Callahan,09/28/2022 07:08:00 PM EDT,Response,"It doesn't . . . I'm not really thinking like that right now, there's no way it's coming back. It's not even a problem."
+66,Macie,09/28/2022 07:08:00 PM EDT,Question,Do you believe that others would be better off if you were dead? (Clarified to Do you ever feel that others would be better off if you were dead?.)
+67,Lucas Callahan,09/28/2022 07:08:00 PM EDT,Response,. . . No. Do I feel like that? No. That's all I care to say. No. (Clarified to if I feel that others would be better off if I were dead.)
+68,Macie,09/28/2022 07:09:00 PM EDT,Question,Do you have any homicidal urges?
+69,Lucas Callahan,09/28/2022 07:09:00 PM EDT,Response,". . . Wow, what a lovely question. No, I don't. I can't believe you would even ask that."
+70,Macie,09/28/2022 07:09:00 PM EDT,Question,Do you self harm yourself without intending to die?
+71,Lucas Callahan,09/28/2022 07:09:00 PM EDT,Response,"No, not at all. Such a bummer question. I only really got like that during my one suicide attempt. One as in done."
+72,Macie,09/28/2022 07:10:00 PM EDT,Statement,"I apologize for asking you these personal questions, I just want to make sure that you are okay."
+73,Lucas Callahan,09/28/2022 07:10:00 PM EDT,Response,Save your tears for the whales! I'm doing awesome.
+74,Macie,09/28/2022 07:11:00 PM EDT,Question,What side effects occurred when you took those pills? 
+75,System,09/28/2022 07:14:00 PM EDT,Clarification, What kind of side effects have you experienced from medications?.
+76,Lucas Callahan,09/28/2022 07:11:00 PM EDT,Response,"Well, I don't know anything about my birth parents. But my actual parents are super healthy. They go for, like, jogs on the beach while talking about what sort of flaxseed goes best in kale smoothies. You can't take them anywhere."
+77,Macie,09/28/2022 07:13:00 PM EDT,Question,Do you have any allergies?
+78,Lucas Callahan,09/28/2022 07:13:00 PM EDT,Response,What prescription were you on? 
+79,System,09/28/2022 07:15:00 PM EDT,Clarification, What were the details of the prescription you took?.
+80,Macie,09/28/2022 07:13:00 PM EDT,Question,Do you have any home medications?
+81,Lucas Callahan,09/28/2022 07:13:00 PM EDT,Response,"I'm not on anything these days. Stopped those antidepressants a while back. Zombie pills, honestly. Stuff is necrotic."
+82,Macie,09/28/2022 07:14:00 PM EDT,Question,What side effects occurred when you took those pills? (Clarified to What kind of side effects have you experienced from medications?.)
+83,Lucas Callahan,09/28/2022 07:14:00 PM EDT,Response,"Dude, just drop it, OK? It doesn't matter. Jeez Louise. (Clarified to what medication side effects I have experienced.)"
+84,Macie,09/28/2022 07:15:00 PM EDT,Statement,Do others notice mood or energy shifts? 
+85,System,09/28/2022 07:17:00 PM EDT,Clarification, Do others notice when your mood and energy changes?.
+86,Lucas Callahan,09/28/2022 07:15:00 PM EDT,Response,Whatever. I literally could NOT be any better.
+87,Macie,09/28/2022 07:15:00 PM EDT,Question,What prescription were you on? (Clarified to What were the details of the prescription you took?.)
+88,Lucas Callahan,09/28/2022 07:15:00 PM EDT,Response,"All I remember is that they didn't work, they made me feel like . . . whatever, they sucked. They were--they were suck pills. That's all I remember. They were suck pills made in Sucksville and I hope they rot in Sucks Hell. (Clarified to what the details of my prescription were.)"
+89,Macie,09/28/2022 07:16:00 PM EDT,Question,What is your perception of mental health?
+90,Lucas Callahan,09/28/2022 07:16:00 PM EDT,Response,"My brain is superb, honestly. It's frickin' cotton candy and sports car up there. Don't worry about me. Like, yeah, I was depressed before, if that's what you're asking. But that's as dead as a doornail, hangnail, all the nails."
+91,Macie,09/28/2022 07:17:00 PM EDT,Question,Do you think that mental health is important to every day living? (No matching questions found.)
+92,Macie,09/28/2022 07:17:00 PM EDT,Question,Do you think that mental health is important to every day activities? (No matching questions found.)
+93,Macie,09/28/2022 07:17:00 PM EDT,Question,Do others notice mood or energy shifts? (Clarified to Do others notice when your mood and energy changes?.)
+94,Lucas Callahan,09/28/2022 07:17:00 PM EDT,Response,"Who knows what other people notice? Personally, I notice everything, but you can't expect every chump on the street to be enlightened. (Clarified to if people notice when my mood and energy changes.)"
+95,Macie,09/28/2022 07:18:00 PM EDT,Question,Do you become excessively irritable or angry?
+96,Lucas Callahan,09/28/2022 07:18:00 PM EDT,Response,"Sure, anger is a flower. I am a man of emotion. I feel everything, probably more than anybody else on earth. If a scamp interferes with my vibes, the anger blooms."
+97,Macie,09/28/2022 07:21:00 PM EDT,Question,Do you have any racing thoughts/
+98,Lucas Callahan,09/28/2022 07:21:00 PM EDT,Response,"Like a greyhound. Hyah! Hyah! But it works out great, because I'm working on this massive poem that's all about--well, it's gonna blow people's minds."
+99,Macie,09/28/2022 07:22:00 PM EDT,Question,Do you have any changes in speed of moving or speaking?
+100,Lucas Callahan,09/28/2022 07:22:00 PM EDT,Response,"I mean, nah, I'm just a super quick guy in general. I like to get things done and keep 'em moving. Talk fast, walk fast, all that. What can I say, some horses weren't meant for carriages."
+101,Macie,09/28/2022 07:22:00 PM EDT,Question,Do you typically get in any fights or arguments?
+102,Lucas Callahan,09/28/2022 07:22:00 PM EDT,Response,My proverbial temper is lost on occasion. But all I do is argue! I'm not hurting anybody. My hands are clean.
+103,Macie,09/28/2022 07:23:00 PM EDT,Question,Do use protection during sexual intercourse? 
+104,System,09/28/2022 07:26:00 PM EDT,Clarification, Do you have safe sex?.
+105,Lucas Callahan,09/28/2022 07:23:00 PM EDT,Response,"Heck yeah, my life is the best. There's joy everywhere. There's joy in this hospital room, not that you would know much about that. Yeah, you really just gotta keep an eye out for it, my friend. Just squint and you'll see it."
+106,Macie,09/28/2022 07:23:00 PM EDT,Question,Are you able to concentrate?
+107,Lucas Callahan,09/28/2022 07:23:00 PM EDT,Response,"Oh, I've been laser-focused lately. On my poetry, that is. On my friends' projects. I told you we're thinking about making this community art center? It would be so sick. We'll see. It's all in the works."
+108,Macie,09/28/2022 07:24:00 PM EDT,Question,Have you had any changes in productivity?
+109,Lucas Callahan,09/28/2022 07:24:00 PM EDT,Response,"Yeah, definitely. Very astute question. I've been workin on this epic poem for the past--yeah, it's gonna annihilate poverty. Truth bombs non-stop. I've been working on it for the past week."
+110,Macie,09/28/2022 07:25:00 PM EDT,Question,Have you had any changes in sexual activity and in libido?
+111,Lucas Callahan,09/28/2022 07:25:00 PM EDT,Response,Are there any consequences? 
+112,System,09/28/2022 07:28:00 PM EDT,Clarification, Are there consequences to how you spend money?.
+113,Macie,09/28/2022 07:25:00 PM EDT,Question,Do you wear protection during sexual intercourse? (No matching questions found.)
+114,Macie,09/28/2022 07:26:00 PM EDT,Question,Do use protection during sexual intercourse? (Clarified to Do you have safe sex?.)
+115,Lucas Callahan,09/28/2022 07:26:00 PM EDT,Response,"I can't remember the last time I did. I mean, this life is about pleasure, you know? Like, what are we if we're not having fun? (Clarified to if I have safe sex.)"
+116,Macie,09/28/2022 07:26:00 PM EDT,Question,Have you noticed any changes in social activity?
+117,Lucas Callahan,09/28/2022 07:26:00 PM EDT,Response,"My social game has been through the roof in the last week. Not to be braggadocio, but I dosey doe with the best of them."
+118,Macie,09/28/2022 07:27:00 PM EDT,Question,do you have any spending habits?
+119,Lucas Callahan,09/28/2022 07:27:00 PM EDT,Response,"Well, I'm spending on the stuff that matters. I'm talking about a little cocaine here, some rare books there. I help my friends out however I can because you know? I'm a giver."
+120,Macie,09/28/2022 07:27:00 PM EDT,Question,Have you had any consequences with these choices? (No matching questions found.)
+121,Macie,09/28/2022 07:27:00 PM EDT,Question,Do you have any consequences with these choices? (No matching questions found.)
+122,Macie,09/28/2022 07:28:00 PM EDT,Question,Are there any consequences? (Clarified to Are there consequences to how you spend money?.)
+123,Lucas Callahan,09/28/2022 07:28:00 PM EDT,Response,How are you handling not having a job? 
+124,System,09/29/2022 08:54:00 AM EDT,Clarification, What is the reason you are currently unemployed?.
+125,Macie,09/28/2022 07:29:00 PM EDT,Question,Can you tell me about your self-concept?
+126,Lucas Callahan,09/28/2022 07:29:00 PM EDT,Response,"I see myself as this visionary poet who's going to rock the world once his work is published. I see a killer head of hair that ladies just can't resist. I see an enlightened soul that shines like stained-glass. Amen, let the choir sing."
+127,Macie,09/28/2022 07:29:00 PM EDT,Question,How is your financial status?
+128,Lucas Callahan,09/28/2022 07:29:00 PM EDT,Response,"My finances are good! My parents give me some dough every now and then, I don't have to work . . . it's pretty stellar, ideal even!"
+129,Macie,09/28/2022 07:29:00 PM EDT,Question,Do you have any occupation?
+130,Lucas Callahan,09/28/2022 07:29:00 PM EDT,Response,"I'm in between jobs right now. Actually, I'm more in between not having a job and not having a job."
+131,Macie,09/29/2022 08:53:00 AM EDT,Question,How much fluids do you typically drink? 
+132,System,09/29/2022 08:57:00 AM EDT,Clarification, How much fluid do you normally drink?.
+133,Lucas Callahan,09/29/2022 08:53:00 AM EDT,Response,"I'm in between jobs right now. Actually, I'm more in between not having a job and not having a job."
+134,Macie,09/29/2022 08:53:00 AM EDT,Question,Whats your occupation?
+135,Lucas Callahan,09/29/2022 08:53:00 AM EDT,Response,"I'm in between jobs right now. Actually, I'm more in between not having a job and not having a job."
+136,Macie,09/29/2022 08:54:00 AM EDT,Question,How are you handling not having a job? (Clarified to What is the reason you are currently unemployed?.)
+137,Lucas Callahan,09/29/2022 08:54:00 AM EDT,Response,"I'm not trying to get a job right now and interrupt my vibes. I've got plenty going on with this poem I'm writing, which is going to be massive, by the way. It'll probably weigh fifty pounds by the time I print the thing out. Volumes, no joke. My parents probably wish I had a job, but whatever, they give me some money, so I'm chilling. (Clarified to why I am not employed.)"
+138,Macie,09/29/2022 08:54:00 AM EDT,Question,Do you have any legal troubles?
+139,Lucas Callahan,09/29/2022 08:54:00 AM EDT,Response,"Not at all! I'm the patron saint of innocence! Hah. No, really though, I've never gotten so much as a ticket."
+140,Macie,09/29/2022 08:55:00 AM EDT,Question,What is your method of transportation?
+141,Lucas Callahan,09/29/2022 08:55:00 AM EDT,Response,"Oh, how do I get around? I'm cruising the streets in my car. I got it when I turned sixteen and that thing's like a brother to me."
+142,Macie,09/29/2022 08:56:00 AM EDT,Question,Can you tell me about your diet?
+143,Lucas Callahan,09/29/2022 08:56:00 AM EDT,Response,"I eat a little meal once a day and I'm game for whatever. I like a baguette with some cheese. I like carrots--there's nothing better than sharing carrots with a friend, the old pass-the-carrot. I like a roast chicken. Whatever, bring it on! Hot sauce never hurt, neither. Drip drop, baby don't stop."
+144,Macie,09/29/2022 08:57:00 AM EDT,Question,How much fluids do you typically drink? (Clarified to How much fluid do you normally drink?.)
+145,Lucas Callahan,09/29/2022 08:57:00 AM EDT,Response,"Uh, I don't keep track, I'm not a marine biologist. What am I, a marine biologist? Hah. Just, like, writing down how much water I drink. That's -- that's hilarious. Like some loser with too many water bottles. Anyway, I dunno. A glass here or there, probably once a day-ish. (Clarified to how much fluid I normally drink.)"
+146,Macie,09/29/2022 08:57:00 AM EDT,Question,How much caffeine do you drink?
+147,Lucas Callahan,09/29/2022 08:57:00 AM EDT,Response,"Oh, that stuff's for squares and yuppies, man. I stay away."
+148,Macie,09/29/2022 08:58:00 AM EDT,Question,"Do you have any headaches, necks throbbing ears? "
+149,System,09/29/2022 09:01:00 AM EDT,Clarification, Do you get headaches?.
+150,Lucas Callahan,09/29/2022 08:58:00 AM EDT,Response,I did a year in college a while back.
+151,Macie,09/29/2022 08:58:00 AM EDT,Question,Do you have access to healthcare?
+152,Lucas Callahan,09/29/2022 08:58:00 AM EDT,Response,"Yeah, I'm on my parents' insurance. It's such a crock, though, these insurance goons and the Super Pharm Outlet Malls of America . . ."
+153,Macie,09/29/2022 08:58:00 AM EDT,Question,What is your living situation?
+154,Lucas Callahan,09/29/2022 08:58:00 AM EDT,Response,"It's pretty perfect, honestly. No rent, no bills, no dusting. I just crash in my car or at a friends' place or wherever, then I wake up and start my day. Boom. Did you know the kookaburra never sleeps in the same tree twice? I think most people would make better decisions if they mimicked ornithology."
+155,Macie,09/29/2022 08:59:00 AM EDT,Question,Do you have a history of abuse?
+156,Lucas Callahan,09/29/2022 08:59:00 AM EDT,Response,"Dang, are you serious?! No, not at all. Dang, what a wet blanket question. No, that's never happened to me. Dang. Screwin' up the vibes."
+157,Macie,09/29/2022 08:59:00 AM EDT,Question,What are your general symptoms?
+158,Lucas Callahan,09/29/2022 08:59:00 AM EDT,Response,"I don't really have any, like, health problems. I came here 'cause the police brought me here. I'm not like, oh, time for surgery, my heart is a foot."
+159,Macie,09/29/2022 09:00:00 AM EDT,Question,Are you in any pain?
+160,Lucas Callahan,09/29/2022 09:00:00 AM EDT,Response,"Not at all. I'm all endorphins, baby."
+161,Macie,09/29/2022 09:01:00 AM EDT,Question,"Can you tell me a review of your head, ears, eyes, neck, and throat? (No matching questions found.)"
+162,Macie,09/29/2022 09:01:00 AM EDT,Question,"Do you have any headaches, necks throbbing ears? (Clarified to Do you get headaches?.)"
+163,Lucas Callahan,09/29/2022 09:01:00 AM EDT,Response,Do you have any cuts or bruises? 
+164,System,09/29/2022 09:05:00 AM EDT,Clarification, Have you been bruising?.
+165,Macie,09/29/2022 09:02:00 AM EDT,Question,Any ear aches?
+166,Lucas Callahan,09/29/2022 09:02:00 AM EDT,Response,"No, I can hear mountain goats making their way up a rocky ridge across the country. They have very serious faces, but their hearts are soft in the dead of winter."
+167,Macie,09/29/2022 09:02:00 AM EDT,Question,Do you wear contacts or glass?
+168,Lucas Callahan,09/29/2022 09:02:00 AM EDT,Response,"No, no, no. I haven't had any problems with my vision. In fact, my vision has only gotten better and better. My ability to really see what's going on around me. I'm not trapped in some dark room somewhere, just praying for sleep, I'm engaged. I'm locked in."
+169,Macie,09/29/2022 09:03:00 AM EDT,Question,Any pain in your neck?? (No matching questions found.)
+170,Macie,09/29/2022 09:03:00 AM EDT,Question,Any neck pain? (No matching questions found.)
+171,Macie,09/29/2022 09:03:00 AM EDT,Question,Do you have any neck pain?
+172,Lucas Callahan,09/29/2022 09:03:00 AM EDT,Response,"Not at all. I'm all endorphins, baby."
+173,Macie,09/29/2022 09:03:00 AM EDT,Question,Do you have any issues with your heart?
+174,Lucas Callahan,09/29/2022 09:03:00 AM EDT,Response,"Nah, my chest is great. Know what my heart's motto is? ""Dance to the beat!"""
+175,Macie,09/29/2022 09:04:00 AM EDT,Question,"Any cuts, bruises or scrapes anywhere? (No matching questions found.)"
+176,Macie,09/29/2022 09:04:00 AM EDT,Question,"Do you have any cuts, bruises or scrapes anywhere? (No matching questions found.)"
+177,Macie,09/29/2022 09:05:00 AM EDT,Question,Do you have any cuts or bruises anywhere? (No matching questions found.)
+178,Macie,09/29/2022 09:05:00 AM EDT,Question,Do you have any cuts or bruises? (Clarified to Have you been bruising?.)
+179,Lucas Callahan,09/29/2022 09:05:00 AM EDT,Response,Nope. I'm not fragile or anything. As if. (Clarified to if I have been bruising.)
+180,Macie,09/29/2022 09:05:00 AM EDT,Question,Do you have any GI issues?
+181,Lucas Callahan,09/29/2022 09:05:00 AM EDT,Response,"My stomach, otherwise known as Callahan's Gastropub, has a big A in the front window. Looks good and feels great."
+182,Macie,09/29/2022 09:06:00 AM EDT,Exam Action,Assessed vitals
+183,Macie,09/29/2022 09:07:00 AM EDT,Exam Action,Inspected legs
+184,Macie,09/29/2022 09:08:00 AM EDT,Exam Action,Performed otoscopic examination of left naris
+185,Macie,09/29/2022 09:08:00 AM EDT,Exam Action,Performed otoscopic examination of right naris
+186,Macie,09/29/2022 09:08:00 AM EDT,Exam Action,Performed otoscopic examination of left naris
+187,Macie,09/29/2022 09:08:00 AM EDT,Exam Action,Performed otoscopic examination of right naris
+188,Macie,09/29/2022 09:09:00 AM EDT,Exam Action,Inspected left eye
+189,Macie,09/29/2022 09:09:00 AM EDT,Exam Action,Inspected left eye
+190,Macie,09/29/2022 09:09:00 AM EDT,Exam Action,Inspected right eye
+191,Macie,09/29/2022 09:09:00 AM EDT,Exam Action,Inspected right eye
+192,Macie,09/29/2022 09:09:00 AM EDT,Exam Action,Inspected right eye
+193,Macie,09/29/2022 09:09:00 AM EDT,Exam Action,Inspected left eye
+194,Macie,09/29/2022 09:09:00 AM EDT,Exam Action,Inspected left eye
+195,Macie,09/29/2022 09:09:00 AM EDT,Exam Action,Inspected right eye
+196,Macie,09/29/2022 09:09:00 AM EDT,Exam Action,Can you tell me what this scar on your wrist is from? 
+197,System,09/29/2022 09:14:00 AM EDT,Clarification, What are those scars on your wrists?.
+198,Macie,09/29/2022 09:10:00 AM EDT,Exam Action,Inspected right eye
+199,Macie,09/29/2022 09:10:00 AM EDT,Exam Action,Inspected left eye
+200,Macie,09/29/2022 09:10:00 AM EDT,Exam Action,Inspected chest
+201,Macie,09/29/2022 09:11:00 AM EDT,Exam Action,Inspected top of arms
+202,Macie,09/29/2022 09:11:00 AM EDT,Question,Is there any self-harm you would like to tell me about?
+203,Lucas Callahan,09/29/2022 09:11:00 AM EDT,Response,"No, not at all. Such a bummer question. I only really got like that during my one suicide attempt. One as in done."
+204,Macie,09/29/2022 09:12:00 AM EDT,Question,Have you ever hurt yourself in order to cope with your feelings?
+205,Lucas Callahan,09/29/2022 09:12:00 AM EDT,Response,"Not, like, self-harming . . . it was . . . it was one time and I was trying to kill myself, alright? We don't -- it was a bad time, it's done-zo, done as a doornail. I'm not some, like, cutter."
+206,Macie,09/29/2022 09:12:00 AM EDT,Question,How likely are you to intentionally hurt yourself?
+207,Lucas Callahan,09/29/2022 09:12:00 AM EDT,Response,"Not at all. You're really like, overanalyzing -- the only time I ever came close to that was at my one suicide attempt. And sure, I have those thoughts, but -- I'm really fine now, it's behind me."
+208,Macie,09/29/2022 09:13:00 AM EDT,Exam Action,Inspected right forearm
+209,Macie,09/29/2022 09:13:00 AM EDT,Exam Action,Inspected right wrist
+210,Macie,09/29/2022 09:13:00 AM EDT,Exam Action,Inspected left forearm
+211,Macie,09/29/2022 09:13:00 AM EDT,Exam Action,Inspected left wrist
+212,Macie,09/29/2022 09:14:00 AM EDT,Question,Can you tell me what this scar on your wrist is from? (Clarified to What are those scars on your wrists?.)
+213,Lucas Callahan,09/29/2022 09:14:00 AM EDT,Response,You don't really need to know. Just ignore 'em. (Clarified to what the scars on my wrists are.)
+214,Macie,09/29/2022 09:14:00 AM EDT,Question,I would like to know what they are from. (No matching questions found.)
+215,Macie,09/29/2022 09:15:00 AM EDT,Statement,I would like to know what they are from.
+216,Lucas Callahan,09/29/2022 09:15:00 AM EDT,Response,Whatever. I literally could NOT be any better.
+217,Macie,09/29/2022 09:15:00 AM EDT,Question,Could you tell me what these scars are from?
+218,Lucas Callahan,09/29/2022 09:15:00 AM EDT,Response,You don't really need to know. Just ignore 'em.
+219,Macie,09/29/2022 09:15:00 AM EDT,Question,Could you please tell me? (No matching questions found.)
+220,Macie,09/29/2022 09:16:00 AM EDT,Exam Action,Inspected right wrist
+221,Macie,09/29/2022 09:16:00 AM EDT,Exam Action,Inspected right forearm
+222,Macie,09/29/2022 09:16:00 AM EDT,Exam Action,Inspected left forearm
+223,Macie,09/29/2022 09:16:00 AM EDT,Exam Action,Inspected left wrist
+224,Macie,09/29/2022 09:16:00 AM EDT,Exam Action,Inspected right forearm
+225,Macie,09/29/2022 09:16:00 AM EDT,Exam Action,Inspected right wrist
+226,Macie,09/29/2022 09:16:00 AM EDT,Exam Action,Inspected back
+227,Macie,09/29/2022 09:17:00 AM EDT,Question,What are these scratches on your back from?
+228,Lucas Callahan,09/29/2022 09:17:00 AM EDT,Response,"Ruff! Ruff! Oh, those scratches? I was having some rough sex the other night--not trying to brag, ha!"
+229,Macie,09/29/2022 09:18:00 AM EDT,Exam Action,Auscultated breath sounds
+230,Macie,09/29/2022 09:18:00 AM EDT,Exam Action,Auscultated heart sounds
+231,Macie,09/29/2022 09:19:00 AM EDT,Exam Action,Palpated abdomen
+232,Macie,09/29/2022 09:20:00 AM EDT,Exam Action,Palpated right and left radial pulse
+233,Macie,09/29/2022 09:20:00 AM EDT,Exam Action,Palpated right and left dorsalis pedis pulse
+234,Macie,09/29/2022 09:20:00 AM EDT,Exam Action,Palpated capillary refill on right and left hand
+235,Macie,09/29/2022 09:20:00 AM EDT,Exam Action,Performed EKG
+236,Macie,09/29/2022 09:20:00 AM EDT,Exam Action,Assessed lab results
+237,Macie,09/29/2022 09:22:00 AM EDT,Exam Action,"Assessed general appearance: posture is bent or hunched, clothing is dirty and disheveled, grooming and self-care are otherwise adequate, eye contact is direct"
+238,Macie,09/29/2022 09:23:00 AM EDT,Exam Action,Assessed attitude: displays frequent distrust and evasiveness
+239,Macie,09/29/2022 09:23:00 AM EDT,Exam Action,"Assessed speech: rate of speech is rapid, but at an appropriate volume, and no issues with articulation"
+240,Macie,09/29/2022 09:24:00 AM EDT,Exam Action,Assessed mood and affect: frequent mood changes throughout interview; excessively expansive or cheerful affect
+241,Macie,09/29/2022 09:24:00 AM EDT,Exam Action,"Assessed thought process: presence of rapid thinking, disorganized or illogical flow of thought, ""word salad,"" neologisms, echolalia, and clanging associations"
+242,Macie,09/29/2022 09:24:00 AM EDT,Exam Action,Assessed thought content: presence of delusions; no presence of perceptual disturbances or hallucinations
+243,Macie,09/29/2022 09:25:00 AM EDT,Exam Action,Confirmed orientation
+244,Macie,09/29/2022 09:25:00 AM EDT,Question,What is your name and date of birth?
+245,Lucas Callahan,09/29/2022 09:25:00 AM EDT,Response,"Lucas Callahan, born . . . [Mr. Callahan reports his correct date of birth.]"
+246,Macie,09/29/2022 09:26:00 AM EDT,Question,What building are you in now?
+247,Lucas Callahan,09/29/2022 09:26:00 AM EDT,Response,The hospital. Shadow General.
+248,Macie,09/29/2022 09:26:00 AM EDT,Question,what is the date and year?
+249,Lucas Callahan,09/29/2022 09:26:00 AM EDT,Response,The date is . . . [Mr. Callahan reports the correct date and year.]
+250,Macie,09/29/2022 09:26:00 AM EDT,Exam Action,Assessed cognition
+251,Macie,09/29/2022 09:26:00 AM EDT,Question,Count backwards from 100 by 7 until you get to the 60s
+252,Lucas Callahan,09/29/2022 09:26:00 AM EDT,Response,"Easy! 100, 93, 86, 79... [Mr. Callahan finishes the sequence.]"
+253,Macie,09/29/2022 09:26:00 AM EDT,Exam Action,Assessed cognition
+254,Macie,09/29/2022 09:27:00 AM EDT,Question,How are apples and oranges alike?
+255,Lucas Callahan,09/29/2022 09:27:00 AM EDT,Response,"They're both fruits, of course!"
+256,Macie,09/29/2022 09:27:00 AM EDT,Question,How are a lake and a ocean alike?
+257,Lucas Callahan,09/29/2022 09:27:00 AM EDT,Response,They're both bodies of water.
+258,Macie,09/29/2022 09:27:00 AM EDT,Question,how are a trumpet and a flute alike?
+259,Lucas Callahan,09/29/2022 09:27:00 AM EDT,Response,They're both instruments. And they both are way underused in modern post-punk.
+260,Macie,09/29/2022 09:28:00 AM EDT,Exam Action,Assessed cognition
+261,Macie,09/29/2022 09:28:00 AM EDT,Question,"Repeat and remember burger, tulip, nose, and tea."
+262,Lucas Callahan,09/29/2022 09:28:00 AM EDT,Response,"Burger, tulip, nose and tea. Yep, I got this."
+263,Macie,09/29/2022 09:28:00 AM EDT,Question,How did you celebrate your last birthday?
+264,Lucas Callahan,09/29/2022 09:28:00 AM EDT,Response,"Oh, it was actually really awesome! Me and some friends did the Bake-a-Cake Blindfolded Challenge. Then we just went out to a couple of my favorite bars. It actually wasn't as rowdy as you'd think, but it was just great vibes all around."
+265,Macie,09/29/2022 09:29:00 AM EDT,Question,repeat the words from before
+266,Lucas Callahan,09/29/2022 09:29:00 AM EDT,Response,"OK . . . burger, tulip, nose, and tea. Ha! Nailed it."
+267,Macie,09/29/2022 09:30:00 AM EDT,Question,copy the shapes exactly as you see them
+268,Lucas Callahan,09/29/2022 09:30:00 AM EDT,Response,Right on. Let's do this!
+269,Macie,09/29/2022 09:31:00 AM EDT,Exam Action,Assessed insight: demonstrates limited awareness of illness and is unwilling to seek treatment
+270,Macie,09/29/2022 09:31:00 AM EDT,Exam Action,Assessed judgment: demonstrates good judgment
+271,Macie,09/29/2022 09:31:00 AM EDT,Question,what would you do if you found a stamped envelope on the sidewalk?
+272,Lucas Callahan,09/29/2022 09:31:00 AM EDT,Response,"Probably put it in a mailbox, if I saw there was one nearby."
+273,Macie,09/29/2022 09:32:00 AM EDT,Exam Action,Assessed vitals
+274,Macie,09/29/2022 09:42:00 AM EDT,Question,do you have any home medications?
+275,Lucas Callahan,09/29/2022 09:42:00 AM EDT,Response,"I'm not on anything these days. Stopped those antidepressants a while back. Zombie pills, honestly. Stuff is necrotic."
+276,Macie,09/29/2022 09:43:00 AM EDT,Question,Do you take any over the counter medications?
+277,Lucas Callahan,09/29/2022 09:43:00 AM EDT,Response,"Ha! As if. I'm all natural, sugarcheeks. That stuff is for pharmacists."
+278,Macie,09/29/2022 09:43:00 AM EDT,Question,Do you use any herbal products?
+279,Lucas Callahan,09/29/2022 09:43:00 AM EDT,Response,"Oh, I don't take any of that hoo-hah. Like I need some gummy bear telling me what my body needs."
+280,Macie,09/29/2022 10:04:00 AM EDT,Question,Appearance (No matching questions found.)
+281,Macie,09/29/2022 10:25:00 AM EDT,Statement,"I have made a nursing diagnosis of risk for injury due to your history and lack of sleep, excessive energy."
+282,Lucas Callahan,09/29/2022 10:25:00 AM EDT,Response,"Listen, I KNOW Im at risk for injury! Remember what I was telling you earlier, about the government agents following me because they know, in their weasely little weasel-minds, that Im an enlightened threat? So, yeah. Were on the same page."
+283,Macie,09/29/2022 10:27:00 AM EDT,Statement,"The goal is that you will remain free of injury. to achieve this goal we will include frequent checks to see how you are doing. We will give you a private room, we will give you solitary activities. We will also remove any items including personal belonging that could cause injury."
+284,Lucas Callahan,09/29/2022 10:27:00 AM EDT,Response,"Right, right, you gotta keep me safe like a little babe swaddled in the manger of life. Totally agree with you! Im all baby blanket and pacifier. Life is beautiful, glorious, radiant -- gotta preserve it at all costs. Im a national treasure. Kiss my feet if you want."
+285,Macie,09/29/2022 10:28:00 AM EDT,Statement,Are you ready to begin this care plan
+286,Lucas Callahan,09/29/2022 10:28:00 AM EDT,Response,"Yeah, lets do this thing. Im game. Youre game. All were missing are the cheerleaders. Hey, Lucas! Hes our man! If he cant do it, no one can! Rah rah rah! Sis boom bah bah bah!"

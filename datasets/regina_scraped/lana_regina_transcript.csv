@@ -4,7 +4,7 @@
 2,Lana,09/29/2022 05:32:00 PM EDT,Exam Action,Assessed vitals
 3,Lana,09/30/2022 04:40:00 PM EDT,Question,what brought you to the hospital today
 4,Regina Walker,09/30/2022 04:40:00 PM EDT,Response,I was having trouble with the pain from my cancer... I just couldn't take it anymore at home.
-5,Lana,09/30/2022 04:41:00 PM EDT,Empathize,im sorry i know this must be hard for you
+5,Lana,09/30/2022 04:41:00 PM EDT,Statement,im sorry i know this must be hard for you
 6,Regina Walker,09/30/2022 04:41:00 PM EDT,Response,I appreciate the sympathy.
 7,Lana,09/30/2022 04:42:00 PM EDT,Question,can you tell me your name and date of birth
 8,Regina Walker,09/30/2022 04:42:00 PM EDT,Response,"Regina Walker, I was born January 1st . . . [Ms. Walker reports correct birth year.]"
@@ -36,7 +36,7 @@
 34,Regina Walker,09/30/2022 04:51:00 PM EDT,Response,"Right now, I'm about a 4 of 10. (Clarified to how I would rate my pain on a scale.)"
 35,Lana,09/30/2022 04:52:00 PM EDT,Question,any allergies
 36,Regina Walker,09/30/2022 04:52:00 PM EDT,Response,"Well, I don't have allergies to anything but penicillin. I told them right when I arrived."
-37,Lana,09/30/2022 04:52:00 PM EDT,Empathize,thank you for helping answer all these questions
+37,Lana,09/30/2022 04:52:00 PM EDT,Statement,thank you for helping answer all these questions
 38,Regina Walker,09/30/2022 04:52:00 PM EDT,Response,I appreciate the good will.
 39,Lana,09/30/2022 04:53:00 PM EDT,Question,what does penicillin do to you
 40,Regina Walker,09/30/2022 04:53:00 PM EDT,Response,I'm fairly certain I just got a rash when I found out I was allergic.
@@ -47,7 +47,7 @@
 45,Lana,09/30/2022 04:56:00 PM EDT,Question,do you take immediate acting morphine (No matching questions found.)
 46,Lana,09/30/2022 04:56:00 PM EDT,Question,do you take immediate release  morphine
 47,Regina Walker,09/30/2022 04:56:00 PM EDT,Response,"Yes, I do. It generally is effective for my pain, but it was no help for the past few days."
-48,Lana,09/30/2022 04:56:00 PM EDT,Empathize,im sorry you have been in so much pain
+48,Lana,09/30/2022 04:56:00 PM EDT,Statement,im sorry you have been in so much pain
 49,Regina Walker,09/30/2022 04:56:00 PM EDT,Response,Thank you. Your kindness is felt.
 50,Lana,09/30/2022 04:57:00 PM EDT,Question,do you use any substances
 51,Regina Walker,09/30/2022 04:57:00 PM EDT,Response,"No, I do not."
@@ -87,7 +87,7 @@
 85,Regina Walker,09/30/2022 05:06:00 PM EDT,Response,"I don't bathe on my own anymore. My husband helps me, especially with getting in and out of the shower, and we have a shower bench that I sit on."
 86,Lana,09/30/2022 05:06:00 PM EDT,Question,are you able to dress yourself
 87,Regina Walker,09/30/2022 05:06:00 PM EDT,Response,I don't have any trouble dressing myself.
-88,Lana,09/30/2022 05:07:00 PM EDT,Empathize,im glad you have support at home
+88,Lana,09/30/2022 05:07:00 PM EDT,Statement,im glad you have support at home
 89,Regina Walker,09/30/2022 05:07:00 PM EDT,Response,Thank you for saying that. Really.
 90,Lana,09/30/2022 05:07:00 PM EDT,Question,any recent confusion 
 91,System,09/30/2022 05:08:00 PM EDT,Clarification, Have you fallen recently?.
@@ -116,7 +116,7 @@
 114,Regina Walker,09/30/2022 05:12:00 PM EDT,Response,"Yes, I'm just exhausted all the time. This pain just takes so much out of me."
 115,Lana,09/30/2022 05:13:00 PM EDT,Question,any recent hospitalizations
 116,Regina Walker,09/30/2022 05:13:00 PM EDT,Response,"No, I haven't been to the hospital for around three months."
-117,Lana,09/30/2022 05:14:00 PM EDT,Empathize,thank you for answering my questions
+117,Lana,09/30/2022 05:14:00 PM EDT,Statement,thank you for answering my questions
 118,Regina Walker,09/30/2022 05:14:00 PM EDT,Response,"Yes, thanks very much."
 119,Lana,09/30/2022 05:14:00 PM EDT,Question,is it okay if i assess you now (No matching questions found.)
 120,Lana,09/30/2022 05:15:00 PM EDT,Question,is it okay if  I preform a assessment now (No matching questions found.)
@@ -155,13 +155,13 @@
 153,Lana,09/30/2022 08:57:00 PM EDT,Question,can you repeat the three words i asked you to remember earlier
 154,Regina Walker,09/30/2022 08:57:00 PM EDT,Response,"Apple, penny, and table."
 155,Lana,09/30/2022 08:57:00 PM EDT,Exam Action,Tested cognition
-156,Lana,09/30/2022 08:57:00 PM EDT,Empathize,great job
+156,Lana,09/30/2022 08:57:00 PM EDT,Statement,great job
 157,Regina Walker,09/30/2022 08:57:00 PM EDT,Response,Thank you for saying that. Really.
 158,Lana,09/30/2022 08:58:00 PM EDT,Exam Action,Tested skin turgor
 159,Lana,09/30/2022 08:58:00 PM EDT,Exam Action,Tested capillary refill
 160,Lana,09/30/2022 08:58:00 PM EDT,Exam Action,Assessed vitals
 161,Lana,09/30/2022 08:59:00 PM EDT,Exam Action,Palpated abdomen with light pressure
-162,Lana,09/30/2022 09:06:00 PM EDT,Educate,Since you are having a harder time coping with your diagnosis and having trouble perform ADL's we decided to make sure you are ready for this decision of hospice care.
+162,Lana,09/30/2022 09:06:00 PM EDT,Statement,Since you are having a harder time coping with your diagnosis and having trouble perform ADL's we decided to make sure you are ready for this decision of hospice care.
 163,Regina Walker,09/30/2022 09:06:00 PM EDT,Response,I understand what you're saying. Thank you.
-164,Lana,09/30/2022 09:06:00 PM EDT,Educate,do you consent to this care plan
+164,Lana,09/30/2022 09:06:00 PM EDT,Statement,do you consent to this care plan
 165,Regina Walker,09/30/2022 09:06:00 PM EDT,Response,I consent. You can begin now.

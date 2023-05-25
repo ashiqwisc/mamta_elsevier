@@ -1,0 +1,287 @@
+,Participant,Timestamp,Interaction Type,Utterances
+0,Suveksha,09/29/2022 01:24:00 PM EDT,Question,do you know why you are here?
+1,Lucas Callahan,09/29/2022 01:24:00 PM EDT,Response,Those idiot cops brought me here. I don't need to be here but the front desk guy said that they have to check me out. Like I'm some sort of book in the history of atlases.
+2,Suveksha,09/29/2022 01:27:00 PM EDT,Question,do you know why they brought you here?
+3,Lucas Callahan,09/29/2022 01:27:00 PM EDT,Response,"Well, I was heading into the grocery store for some sushi when I sensed someone was following me -- there are these government agents that like to chase me, so I was like, crap crap crap crap. I had to check inside cars to see where they were. I guess I probably looked like a crazy person, running around and everything."
+4,Suveksha,09/29/2022 01:29:00 PM EDT,Question,who do you think those people are?
+5,Lucas Callahan,09/29/2022 01:29:00 PM EDT,Response,"I'm a leader. I'm a visionary. When I say, ""Don't slip on that banana peel,"" I mean it."
+6,Suveksha,09/29/2022 01:29:00 PM EDT,Question,what do you think those government agent would do to you? 
+7,System,09/29/2022 01:29:00 PM EDT,Clarification, Who are the government agents?.
+8,Lucas Callahan,09/29/2022 01:29:00 PM EDT,Response,"I mean, what do you want to know? I just had a hunch they were in one of those cars, waiting to scoop me up and throw me in solitary. They know I'm enlightened and if my writings get out, boom, their secrets are overthrown. Not that I'm gonna let them stop me. (Clarified to who the government agents are.)"
+9,Suveksha,09/29/2022 01:30:00 PM EDT,Question,do you have history of anxiety?
+10,Lucas Callahan,09/29/2022 01:30:00 PM EDT,Response,"I'm not anxious or paranoid or whatever. I mean, I just have a really really fine-tuned sense of, like, OK, now they're coming for me, the government agents, and I have to be on the look out, 'cause no way am I being snatched up, not a chance."
+11,Suveksha,09/29/2022 01:31:00 PM EDT,Statement,the people you saw are not government agent.
+12,Lucas Callahan,09/29/2022 01:31:00 PM EDT,Response,I don't need you to be my guidance counselor or anything . . .
+13,Suveksha,09/29/2022 01:31:00 PM EDT,Question,do you have history of hallucinations?
+14,Lucas Callahan,09/29/2022 01:31:00 PM EDT,Response,"Not that I know of. I don't know much about my birth parents or their family, though."
+15,Suveksha,09/29/2022 01:32:00 PM EDT,Question,do you feel someone taking to you or see things which other people can not see? (No matching questions found.)
+16,Suveksha,09/29/2022 01:32:00 PM EDT,Question,do you have hallucinations?
+17,Lucas Callahan,09/29/2022 01:32:00 PM EDT,Response,No way. I don't see junk that's not there or anything.
+18,Suveksha,09/29/2022 01:33:00 PM EDT,Question,have you used any illicit drugs?
+19,Lucas Callahan,09/29/2022 01:33:00 PM EDT,Response,have you recently used any illicit drugs? 
+20,System,09/29/2022 01:33:00 PM EDT,Clarification, Have you used illegal drugs recently?.
+21,Suveksha,09/29/2022 01:33:00 PM EDT,Question,have you recently used any illicit drugs? (Clarified to Have you used illegal drugs recently?.)
+22,Lucas Callahan,09/29/2022 01:33:00 PM EDT,Response,"I'm as sober as a kitchen sink right now. I haven't done anything for like, four days. I should really call my dealer. (Clarified to if I have used illegal drugs recently.)"
+23,Suveksha,09/29/2022 01:35:00 PM EDT,Question,how often do you sleep?
+24,Lucas Callahan,09/29/2022 01:35:00 PM EDT,Response,"Come on, Professor Healthcare. You think I'm keeping track? Too much to do. Too much to see. Two plus two is . . . it's on the tip of my tongue, the glistening tip! No sleepy bye-bye for maybe four days now."
+25,Suveksha,09/29/2022 01:36:00 PM EDT,Statement,have you tried any things to fall asleep.
+26,Lucas Callahan,09/29/2022 01:36:00 PM EDT,Response,"Thanks a million, but I'm all good, I promise!"
+27,Suveksha,09/29/2022 01:37:00 PM EDT,Statement,it is important to sleep for proper body function and rest.
+28,Lucas Callahan,09/29/2022 01:37:00 PM EDT,Response,"Thanks, but you don't need to worry about me."
+29,Suveksha,09/29/2022 01:37:00 PM EDT,Question,do you have energy to do your everyday work? (No matching questions found.)
+30,Suveksha,09/29/2022 01:38:00 PM EDT,Question,what is your current energy level?
+31,Lucas Callahan,09/29/2022 01:38:00 PM EDT,Response,"Oh, man, I'm like, if a cheetah drank a coffee and then stepped on a wire. Not that cheetahs like coffee."
+32,Suveksha,09/29/2022 01:38:00 PM EDT,Question,when did you started to feel you have energy and good mood? 
+33,System,09/29/2022 01:39:00 PM EDT,Clarification, When did the symptoms begin?.
+34,Lucas Callahan,09/29/2022 01:38:00 PM EDT,Response,I am 100% letting the good times roll. Couldn't be better.
+35,Suveksha,09/29/2022 01:39:00 PM EDT,Question,when did you started to feel you have energy and good mood? (Clarified to When did the symptoms begin?.)
+36,Lucas Callahan,09/29/2022 01:39:00 PM EDT,Response,"I don't have symptoms, buddy. I was brought here against my will. I'm sure the cops think I'm sick, but as you'll find out, I'm as healthy as the wealthy. (Clarified to when my symptoms started.)"
+37,Suveksha,09/29/2022 01:40:00 PM EDT,Question,when did you started to feel energetic and happy?
+38,Lucas Callahan,09/29/2022 01:40:00 PM EDT,Response,have you taken any medication for your depression? 
+39,System,09/29/2022 01:41:00 PM EDT,Clarification, Did you take medication for depression?.
+40,Suveksha,09/29/2022 01:41:00 PM EDT,Question,what other health conditions you have?
+41,Lucas Callahan,09/29/2022 01:41:00 PM EDT,Response,"My health is fine, OK? Like, I'm not here because of my health. The cops brought me here for lord knows what, and my only major health thing has ever been my depression, but that's six feet under now, so we're good."
+42,Suveksha,09/29/2022 01:41:00 PM EDT,Question,do you have any medication and food allergies? 
+43,System,09/29/2022 01:43:00 PM EDT,Clarification, Do you have medication allergies?.
+44,Lucas Callahan,09/29/2022 01:41:00 PM EDT,Response,what is your mood throughout the day? 
+45,System,09/29/2022 01:43:00 PM EDT,Clarification, Tell me about your current mood?.
+46,Suveksha,09/29/2022 01:42:00 PM EDT,Question,how is your mood now? 
+47,System,09/29/2022 01:44:00 PM EDT,Clarification, How are your mood and energy right now?.
+48,Lucas Callahan,09/29/2022 01:42:00 PM EDT,Response,"Not since, I wanna say 3 years ago . . . yeah. It's not a big deal. We're good."
+49,Suveksha,09/29/2022 01:43:00 PM EDT,Question,do you have any medication and food allergies? (Clarified to Do you have medication allergies?.)
+50,Lucas Callahan,09/29/2022 01:43:00 PM EDT,Response,"I don't have any, I don't think, though I haven't really had that many meds in my life. Maybe if you gave me, like, Zorpizol I would grow, you know -- Zorps everywhere. Zorp Zorp. Like, that's the sound of Zorps, they go, Zooooorp. (Clarified to if I have medication allergies.)"
+51,Suveksha,09/29/2022 01:43:00 PM EDT,Question,what is your mood throughout the day? (Clarified to Tell me about your current mood?.)
+52,Lucas Callahan,09/29/2022 01:43:00 PM EDT,Response,"I'm a prospector taking in the view, that's what's up. I've been working on my poem like crazy and hanging out with my friends. Ain't gonna brag, but having some good sexy time, too. I am truly living the greatest guitar riff ever. Bow meow b-b-bow! (Clarified to to tell you about my current mood.)"
+53,Suveksha,09/29/2022 01:44:00 PM EDT,Question,how is your mood now? (Clarified to How are your mood and energy right now?.)
+54,Lucas Callahan,09/29/2022 01:44:00 PM EDT,Response,"Amazing! I feel great! I'm bursting at the gills--is, is that what people say? Up, up to the gills? Step right up, boys and gills! (Clarified to how my mood and energy are right now.)"
+55,Suveksha,09/29/2022 01:44:00 PM EDT,Question,how is your typical mood?
+56,Lucas Callahan,09/29/2022 01:44:00 PM EDT,Response,"You've got Option A and Option B. With A, we're talking about a bottomless rat hole. With B, we're talking good vibes that don't disappoint. I'll stick with B, thanks."
+57,Suveksha,09/29/2022 01:45:00 PM EDT,Question,how is your typical mood levels?
+58,Lucas Callahan,09/29/2022 01:45:00 PM EDT,Response,"You've got Option A and Option B. With A, we're talking about a bottomless rat hole. With B, we're talking good vibes that don't disappoint. I'll stick with B, thanks."
+59,Suveksha,09/29/2022 01:45:00 PM EDT,Question,how is your typical energy levels?
+60,Lucas Callahan,09/29/2022 01:45:00 PM EDT,Response,Arg! Picture this: a ship on the sea. The waves go up and down. The ship bobs. What's normal if the ship's a'bob? You tell me. I've been high and I've been low.
+61,Suveksha,09/29/2022 01:46:00 PM EDT,Question,how often does your mood changes?
+62,Lucas Callahan,09/29/2022 01:46:00 PM EDT,Response,"I'm not keeping track or anything, but maybe a couple times a year? I don't know. This is a really nice room. I really like this room."
+63,Suveksha,09/29/2022 01:46:00 PM EDT,Question,how long did your depression lasted?
+64,Lucas Callahan,09/29/2022 01:46:00 PM EDT,Response,"I dunno, it was just a long time, OK? It's not a big deal. It was long, yes. I didn't, like, mark a calendar."
+65,Suveksha,09/29/2022 01:47:00 PM EDT,Question,when were you diagnosed with depression?
+66,Lucas Callahan,09/29/2022 01:47:00 PM EDT,Response,"We're dredging up this junk--well, I got diagnosed with depression like three years ago. Three little pigs. Wonder what happened to the third pig . . . I bet he got diagnosed, too. Squealer. It's like going fishing and pulling up an old boot."
+67,Suveksha,09/29/2022 01:48:00 PM EDT,Question,have you seen psychiatrist?
+68,Lucas Callahan,09/29/2022 01:48:00 PM EDT,Response,what your the side effects you felt after taking medication? 
+69,System,09/29/2022 01:50:00 PM EDT,Clarification, What kind of side effects have you experienced from medications?.
+70,Suveksha,09/29/2022 01:49:00 PM EDT,Statement,did you felt better after your psychiatrist visit?
+71,Lucas Callahan,09/29/2022 01:49:00 PM EDT,Response,"That's super cool of you, thanks!"
+72,Suveksha,09/29/2022 01:49:00 PM EDT,Question,have you thought of killing yourself?
+73,Lucas Callahan,09/29/2022 01:49:00 PM EDT,Response,"Yeah . . . yeah, when I get really depressed. But that's completely in the past, I'm just -- I -- I feel really like it's completely done, and I'm just smooth sailing here on out."
+74,Suveksha,09/29/2022 01:49:00 PM EDT,Question,do you take any home medications?
+75,Lucas Callahan,09/29/2022 01:49:00 PM EDT,Response,"I'm not on anything these days. Stopped those antidepressants a while back. Zombie pills, honestly. Stuff is necrotic."
+76,Suveksha,09/29/2022 01:50:00 PM EDT,Question,what your the side effects you felt after taking medication? (Clarified to What kind of side effects have you experienced from medications?.)
+77,Lucas Callahan,09/29/2022 01:50:00 PM EDT,Response,when was the medication prescribed to you? 
+78,System,09/29/2022 01:53:00 PM EDT,Clarification, When was the last time you took any medications?.
+79,Suveksha,09/29/2022 01:51:00 PM EDT,Statement,it is important to know the side effect of medication so that you won't have that effects again.
+80,Lucas Callahan,09/29/2022 01:51:00 PM EDT,Response,"I'm not really taking any advice right now, but thanks anyway!"
+81,Suveksha,09/29/2022 01:51:00 PM EDT,Question,how many times have to tried to attempt suicide? 
+82,System,09/29/2022 01:55:00 PM EDT,Clarification, How many times have you attempted suicide?.
+83,Lucas Callahan,09/29/2022 01:51:00 PM EDT,Response,do you remember why you tried to kill yourself? 
+84,System,09/29/2022 01:55:00 PM EDT,Clarification, What were your reasons for your suicide attempt?.
+85,Suveksha,09/29/2022 01:52:00 PM EDT,Question,what other medication are you being prescribed?
+86,Lucas Callahan,09/29/2022 01:52:00 PM EDT,Response,I've only ever taken antidepressants.
+87,Suveksha,09/29/2022 01:52:00 PM EDT,Question,do you know why those medication are given to you? (No matching questions found.)
+88,Suveksha,09/29/2022 01:53:00 PM EDT,Question,when was the medication prescribed to you? (Clarified to When was the last time you took any medications?.)
+89,Lucas Callahan,09/29/2022 01:53:00 PM EDT,Response,so do you feel that other people would be better off without you? 
+90,System,09/29/2022 01:57:00 PM EDT,Clarification, Do you ever think other people would be better off without you?.
+91,Suveksha,09/29/2022 01:54:00 PM EDT,Statement,you said you have attempted suicide i need to follow up on that.
+92,Lucas Callahan,09/29/2022 01:54:00 PM EDT,Response,"Hey, I appreciate the good vibes."
+93,Suveksha,09/29/2022 01:55:00 PM EDT,Question,how many times have to tried to attempt suicide? (Clarified to How many times have you attempted suicide?.)
+94,Lucas Callahan,09/29/2022 01:55:00 PM EDT,Response,One time. That was enough. (Clarified to how many times I have attempted suicide.)
+95,Suveksha,09/29/2022 01:55:00 PM EDT,Question,do you remember why you tried to kill yourself? (Clarified to What were your reasons for your suicide attempt?.)
+96,Lucas Callahan,09/29/2022 01:55:00 PM EDT,Response,"I don't want to talk about it, OK? I don't want to talk about it. It was 3 years ago. Let it go. (Clarified to what my reasons were for my suicide attempt.)"
+97,Suveksha,09/29/2022 01:56:00 PM EDT,Statement,it is important to talk about so that we know you are not feeling to kill yourself again.
+98,Lucas Callahan,09/29/2022 01:56:00 PM EDT,Response,You can save the words of wisdom for somebody who needs 'em.
+99,Suveksha,09/29/2022 01:57:00 PM EDT,Question,do you want to be dead?
+100,Lucas Callahan,09/29/2022 01:57:00 PM EDT,Response,"No! Really, that's not me. That's not -- it gets like -- obviously, when you're depressed, you think like that, sure. But that's not me anymore, so whatever. I'm not worried about it."
+101,Suveksha,09/29/2022 01:57:00 PM EDT,Question,what is mental health to you? 
+102,System,09/29/2022 02:00:00 PM EDT,Clarification, How do you feel about your mental health?.
+103,Lucas Callahan,09/29/2022 01:57:00 PM EDT,Response,have you had any recent change in mood or energy? 
+104,System,09/29/2022 04:35:00 PM EDT,Clarification, Has your mood changed lately?.
+105,Suveksha,09/29/2022 01:58:00 PM EDT,Question,do you have any plans to kill yourself?
+106,Lucas Callahan,09/29/2022 01:58:00 PM EDT,Response,"Aw, come on, bud, do I seem like the type? I haven't even considered planning that sort of thing since maybe 3 years ago, and that's when I actually went through it."
+107,Suveksha,09/29/2022 01:58:00 PM EDT,Question,do you try to harm yourself?
+108,Lucas Callahan,09/29/2022 01:58:00 PM EDT,Response,"I really don't want to talk about it. You're being a bummer, honestly. I was in a good mood before we started talking about this."
+109,Suveksha,09/29/2022 01:59:00 PM EDT,Question,have to tried to harm yourself without trying to die?
+110,Lucas Callahan,09/29/2022 01:59:00 PM EDT,Response,"No, not at all. Such a bummer question. I only really got like that during my one suicide attempt. One as in done."
+111,Suveksha,09/29/2022 01:59:00 PM EDT,Question,do you have homicidal urges?
+112,Lucas Callahan,09/29/2022 01:59:00 PM EDT,Response,". . . Wow, what a lovely question. No, I don't. I can't believe you would even ask that."
+113,Suveksha,09/29/2022 02:00:00 PM EDT,Statement,we have to ask to all the people who have suicidal thought.
+114,Lucas Callahan,09/29/2022 02:00:00 PM EDT,Response,"Thanks. You and me, we've got a real connection."
+115,Suveksha,09/29/2022 02:00:00 PM EDT,Question,what is mental health to you? (Clarified to How do you feel about your mental health?.)
+116,Lucas Callahan,09/29/2022 02:00:00 PM EDT,Response,"My brain is superb, honestly. It's frickin' cotton candy and sports car up there. Don't worry about me. Like, yeah, I was depressed before, if that's what you're asking. But that's as dead as a doornail, hangnail, all the nails. (Clarified to how I feel about my mental health.)"
+117,Suveksha,09/29/2022 04:35:00 PM EDT,Question,have you had any recent change in mood or energy? (Clarified to Has your mood changed lately?.)
+118,Lucas Callahan,09/29/2022 04:35:00 PM EDT,Response,"Yeah, definitely. A week ago, it was like, suddenly like--you know how it feels when you slam the pedal down and there's this, like, weightless moment when the car's about to pick up? The proverbial sweet spot before going hyper-speed. Yeah. I finally feel like myself. (Clarified to if I have had changes in my mood.)"
+119,Suveksha,09/29/2022 04:35:00 PM EDT,Question,have other notice about your mood change or energy shift?
+120,Lucas Callahan,09/29/2022 04:35:00 PM EDT,Response,"Who knows what other people notice? Personally, I notice everything, but you can't expect every chump on the street to be enlightened."
+121,Suveksha,09/29/2022 04:37:00 PM EDT,Question,how often do you feel angry?
+122,Lucas Callahan,09/29/2022 04:37:00 PM EDT,Response,"If somebody's threatening my vibes, I'm gonna argue. That's all it is. I'm having an amazing time and I just want everybody to be on my level."
+123,Suveksha,09/29/2022 04:38:00 PM EDT,Question,how many hours do you sleep?
+124,Lucas Callahan,09/29/2022 04:38:00 PM EDT,Response,"I usually only need a couple hours. These past four days? I haven't slept a wink. Not even tired. I'm the frickin' man, I know."
+125,Suveksha,09/29/2022 04:38:00 PM EDT,Question,have you notice any change in speed of moving or speaking?
+126,Lucas Callahan,09/29/2022 04:38:00 PM EDT,Response,"I mean, nah, I'm just a super quick guy in general. I like to get things done and keep 'em moving. Talk fast, walk fast, all that. What can I say, some horses weren't meant for carriages."
+127,Suveksha,09/29/2022 04:39:00 PM EDT,Question,do you have any racing thoughts?
+128,Lucas Callahan,09/29/2022 04:39:00 PM EDT,Response,"Like a greyhound. Hyah! Hyah! But it works out great, because I'm working on this massive poem that's all about--well, it's gonna blow people's minds."
+129,Suveksha,09/29/2022 04:40:00 PM EDT,Question,what activities interests you?
+130,Lucas Callahan,09/29/2022 04:40:00 PM EDT,Response,"Well, my main thing is this epic poem I've been writing for a while. It's -- you don't even KNOW how epic. And I've been super productive lately . . . like this week I've started maybe 45 chapters. Settin' myself up for later. I mean, gimme a break -- who's better than me?"
+131,Suveksha,09/29/2022 04:40:00 PM EDT,Question,do you have enough money to give food? 
+132,System,09/29/2022 04:45:00 PM EDT,Clarification, Can you afford food?.
+133,Suveksha,09/29/2022 04:41:00 PM EDT,Question,do you have any activities that gives pleasure? (No matching questions found.)
+134,Suveksha,09/29/2022 04:41:00 PM EDT,Question,what activities gives you pleasures?
+135,Lucas Callahan,09/29/2022 04:41:00 PM EDT,Response,"I've always been super interested in literature, like making meaning of the world we live in. Kinda of bleeds into my philosophical meanderings you know. The epic poem I'm working on is super exciting, like world-changing kind of stuff. Forget your chicken scratch is all I'm saying."
+136,Suveksha,09/29/2022 04:41:00 PM EDT,Question,do you have interest in typical activities?
+137,Lucas Callahan,09/29/2022 04:41:00 PM EDT,Response,"Heck yeah, my life is the best. There's joy everywhere. There's joy in this hospital room, not that you would know much about that. Yeah, you really just gotta keep an eye out for it, my friend. Just squint and you'll see it."
+138,Suveksha,09/29/2022 04:42:00 PM EDT,Question,are you sexually active?
+139,Lucas Callahan,09/29/2022 04:42:00 PM EDT,Response,That's an understatement. I'm kinda savage in that department. It's where I shine. This week may be the most carnal I've ever been. I'm slayin'.
+140,Suveksha,09/29/2022 04:43:00 PM EDT,Question,what sexual activities are you engaged in?
+141,Lucas Callahan,09/29/2022 04:43:00 PM EDT,Response,what occupation do you like most? 
+142,System,09/29/2022 04:47:00 PM EDT,Clarification, What was your occupation?.
+143,Suveksha,09/29/2022 04:43:00 PM EDT,Question,what do you do in most of your time?
+144,Lucas Callahan,09/29/2022 04:43:00 PM EDT,Response,"I've always been super interested in literature, like making meaning of the world we live in. Kinda of bleeds into my philosophical meanderings you know. The epic poem I'm working on is super exciting, like world-changing kind of stuff. Forget your chicken scratch is all I'm saying."
+145,Suveksha,09/29/2022 04:44:00 PM EDT,Question,what are your spending habits?
+146,Lucas Callahan,09/29/2022 04:44:00 PM EDT,Response,"Well, I'm spending on the stuff that matters. I'm talking about a little cocaine here, some rare books there. I help my friends out however I can because you know? I'm a giver."
+147,Suveksha,09/29/2022 04:45:00 PM EDT,Question,do you have enough money to give food? (Clarified to Can you afford food?.)
+148,Lucas Callahan,09/29/2022 04:45:00 PM EDT,Response,"I can afford whatever I need, honest! My parents throw me a bone now and then. Honestly, though, I don't need in the way of food and essentials, all that. I'm more into buying, like, stellar cocaine and sick rare books from olden times. And giving my friends cash, I love that. I'm a really really good person, I just naturally love doing it! (Clarified to if we can afford food.)"
+149,Suveksha,09/29/2022 04:45:00 PM EDT,Question,what is your occupation?
+150,Lucas Callahan,09/29/2022 04:45:00 PM EDT,Response,"I'm in between jobs right now. Actually, I'm more in between not having a job and not having a job."
+151,Suveksha,09/29/2022 04:46:00 PM EDT,Question,what do you do for living?
+152,Lucas Callahan,09/29/2022 04:46:00 PM EDT,Response,"My proverbial living is this witch's brew of the finest poetry and a whole lotta hang-time with my best pals. Shout out to you, Ellen! Jamie! Tom! The past week's been the best week of my life! Thanks to Mom and Dad for giving me some dough, too. Let's keep it up, everybody."
+153,Suveksha,09/29/2022 04:46:00 PM EDT,Question,how do you travel to places? 
+154,System,09/29/2022 04:51:00 PM EDT,Clarification, Do you use your car to get around?.
+155,Lucas Callahan,09/29/2022 04:46:00 PM EDT,Response,"I'm in between jobs right now. Actually, I'm more in between not having a job and not having a job."
+156,Suveksha,09/29/2022 04:46:00 PM EDT,Question,did you have any legal troubles?
+157,Lucas Callahan,09/29/2022 04:46:00 PM EDT,Response,"Not at all! I'm the patron saint of innocence! Hah. No, really though, I've never gotten so much as a ticket."
+158,Suveksha,09/29/2022 04:47:00 PM EDT,Question,what occupation do you like most? (Clarified to What was your occupation?.)
+159,Lucas Callahan,09/29/2022 04:47:00 PM EDT,Response,In the past--I worked at a pizza place once. Another time my dad's friend let me work at his office. I put Christmas trees on people's cars. I worked at an insurance office for like two weeks one time. (Clarified to what my job was.)
+160,Suveksha,09/29/2022 04:48:00 PM EDT,Question,do you drink alcohol?
+161,Lucas Callahan,09/29/2022 04:48:00 PM EDT,Response,"Yeah, like everyone on earth. There's nothing unnatural about drinking potato juice. That's what it is, you know."
+162,Suveksha,09/29/2022 04:48:00 PM EDT,Question,how often do you drink alcohol or use drugs?
+163,Lucas Callahan,09/29/2022 04:48:00 PM EDT,Response,"Not often -- 2 or 3 times a week, I guess. It's more of a party vibe than anything. I drink more when I'm down, but I'm not down anymore! It's all loose goose these days. I'm not, like, waking up with the hair of the dog. That's like, no hair and no dogs for me, thank you."
+164,Suveksha,09/29/2022 04:49:00 PM EDT,Question,how often do you use drugs?
+165,Lucas Callahan,09/29/2022 04:49:00 PM EDT,Response,"I'm no math whiz, pop, bang!--but I probably do a couple lines a couple times a week."
+166,Suveksha,09/29/2022 04:50:00 PM EDT,Statement,what is education history? 
+167,System,09/29/2022 04:54:00 PM EDT,Clarification, What is the highest level of education you have?.
+168,Lucas Callahan,09/29/2022 04:50:00 PM EDT,Response,Whatever. I literally could NOT be any better.
+169,Suveksha,09/29/2022 04:51:00 PM EDT,Statement,what makes you think that you are better taking drugs and alcohol.
+170,Lucas Callahan,09/29/2022 04:51:00 PM EDT,Response,Save your tears for the whales! I'm doing awesome.
+171,Suveksha,09/29/2022 04:51:00 PM EDT,Question,how do you travel to places? (Clarified to Do you use your car to get around?.)
+172,Lucas Callahan,09/29/2022 04:51:00 PM EDT,Response,do you spend time with your family? 
+173,System,09/29/2022 04:55:00 PM EDT,Clarification, How often do you see your family?.
+174,Suveksha,09/29/2022 04:51:00 PM EDT,Question,how often do you eat?
+175,Lucas Callahan,09/29/2022 04:51:00 PM EDT,Response,"Once or twice a day? This week just once-ish. I'm never really that hungry, but this week especially my stomach is a no-fly-zone."
+176,Suveksha,09/29/2022 04:52:00 PM EDT,Statement,have you tried eating food you like.
+177,Lucas Callahan,09/29/2022 04:52:00 PM EDT,Response,I don't need you to be my guidance counselor or anything . . .
+178,Suveksha,09/29/2022 04:52:00 PM EDT,Statement,have you tried drinking water before or between meals.
+179,Lucas Callahan,09/29/2022 04:52:00 PM EDT,Response,"Hey, I appreciate the good vibes."
+180,Suveksha,09/29/2022 04:53:00 PM EDT,Question,how much water do you drink in a day?
+181,Lucas Callahan,09/29/2022 04:53:00 PM EDT,Response,"Uh, I don't keep track, I'm not a marine biologist. What am I, a marine biologist? Hah. Just, like, writing down how much water I drink. That's -- that's hilarious. Like some loser with too many water bottles. Anyway, I dunno. A glass here or there, probably once a day-ish."
+182,Suveksha,09/29/2022 04:53:00 PM EDT,Question,do you dink coffee? (No matching questions found.)
+183,Suveksha,09/29/2022 04:53:00 PM EDT,Question,do you like to drink coffee?
+184,Lucas Callahan,09/29/2022 04:53:00 PM EDT,Response,"Do I look like a guy who needs caffeine? This is au naturale, baby. I don't need no crushed up bean juice that tastes like tree poop."
+185,Suveksha,09/29/2022 04:54:00 PM EDT,Question,what is education history? (Clarified to What is the highest level of education you have?.)
+186,Lucas Callahan,09/29/2022 04:54:00 PM EDT,Response,is there any change in your ability to concentration? 
+187,System,09/29/2022 04:59:00 PM EDT,Clarification, Have you had any changes in concentration?.
+188,Suveksha,09/29/2022 04:54:00 PM EDT,Question,do you have access to healthcare?
+189,Lucas Callahan,09/29/2022 04:54:00 PM EDT,Response,"Yeah, I'm on my parents' insurance. It's such a crock, though, these insurance goons and the Super Pharm Outlet Malls of America . . ."
+190,Suveksha,09/29/2022 04:55:00 PM EDT,Question,do you live alone or with family?
+191,Lucas Callahan,09/29/2022 04:55:00 PM EDT,Response,"I'm a lone bird. I just sleep in my car, mostly. My friends let me couch surf, too."
+192,Suveksha,09/29/2022 04:55:00 PM EDT,Question,do you spend time with your family? (Clarified to How often do you see your family?.)
+193,Lucas Callahan,09/29/2022 04:55:00 PM EDT,Response,"Not that often, since they kicked me out. Them thinking I'm a worthless junkie who needs rehab doesn't exactly make for pleasantries. But who needs 'em, honestly. Like, I have the best friends in the world. Why would I need some, like, backwards squares who haven't even set foot in a dive bar? (Clarified to how often I see my family.)"
+194,Suveksha,09/29/2022 04:56:00 PM EDT,Question,do you have history of abuse?
+195,Lucas Callahan,09/29/2022 04:56:00 PM EDT,Response,"Dang, are you serious?! No, not at all. Dang, what a wet blanket question. No, that's never happened to me. Dang. Screwin' up the vibes."
+196,Suveksha,09/29/2022 04:57:00 PM EDT,Question,does your family has history of mental illness?
+197,Lucas Callahan,09/29/2022 04:57:00 PM EDT,Response,"No . . . I couldn't tell you anything about my birth parents, but my real parents are pretty sane. They're kinda, like, massive normies. Wouldn't know art if it hit 'em in the balls."
+198,Suveksha,09/29/2022 04:57:00 PM EDT,Question,do you have headache?
+199,Lucas Callahan,09/29/2022 04:57:00 PM EDT,Response,My head feels great! I'm having the time of my life.
+200,Suveksha,09/29/2022 04:58:00 PM EDT,Question,do you have any history of heart problems?
+201,Lucas Callahan,09/29/2022 04:58:00 PM EDT,Response,"Hey, man. Look in my pockets if you want to. No history of heart problems there."
+202,Suveksha,09/29/2022 04:58:00 PM EDT,Question,do you have skin problems?
+203,Lucas Callahan,09/29/2022 04:58:00 PM EDT,Response,"Problems? With my skin? Which exhibits such astounding beauty that moths are attracted to me in the night, circling and circling? Yeah, right."
+204,Suveksha,09/29/2022 04:59:00 PM EDT,Question,how often do you have bowel movement?
+205,Lucas Callahan,09/29/2022 04:59:00 PM EDT,Response,"I'm on the poop deck every three days or so, dropping a deuce in the deep blue sea."
+206,Suveksha,09/29/2022 04:59:00 PM EDT,Question,is there any change in your ability to concentration? (Clarified to Have you had any changes in concentration?.)
+207,Lucas Callahan,09/29/2022 04:59:00 PM EDT,Response,"Oh, I've been laser-focused lately. On my poetry, that is. On my friends' projects. I told you we're thinking about making this community art center? It would be so sick. We'll see. It's all in the works. (Clarified to if I have had changes in concentration.)"
+208,Suveksha,09/29/2022 05:00:00 PM EDT,Statement,all the question that i ask you is to provide you with better care.
+209,Lucas Callahan,09/29/2022 05:00:00 PM EDT,Response,"Thanks. You and me, we've got a real connection."
+210,Suveksha,09/29/2022 05:01:00 PM EDT,Statement,is there anything else that you would like to share with me?
+211,Lucas Callahan,09/29/2022 05:01:00 PM EDT,Response,"Thanks a million, but I'm all good, I promise!"
+212,Suveksha,09/29/2022 05:02:00 PM EDT,Statement,you should try some relaxation techniques and meditating which can help you calm down.
+213,Lucas Callahan,09/29/2022 05:02:00 PM EDT,Response,You can save the words of wisdom for somebody who needs 'em.
+214,Suveksha,09/29/2022 05:04:00 PM EDT,Exam Action,Assessed vitals
+215,Suveksha,09/29/2022 05:04:00 PM EDT,Exam Action,Inspected right eye
+216,Suveksha,09/29/2022 05:04:00 PM EDT,Exam Action,Inspected left eye
+217,Suveksha,09/29/2022 05:05:00 PM EDT,Exam Action,Performed otoscopic examination of right naris
+218,Suveksha,09/29/2022 05:05:00 PM EDT,Exam Action,Performed otoscopic examination of left naris
+219,Suveksha,09/29/2022 05:05:00 PM EDT,Exam Action,Performed otoscopic examination of right naris
+220,Suveksha,09/29/2022 05:05:00 PM EDT,Exam Action,Inspected top of arms
+221,Suveksha,09/29/2022 05:06:00 PM EDT,Question,have you ever hurt yourself in order to cope with your feelings?
+222,Lucas Callahan,09/29/2022 05:06:00 PM EDT,Response,"Not, like, self-harming . . . it was . . . it was one time and I was trying to kill myself, alright? We don't -- it was a bad time, it's done-zo, done as a doornail. I'm not some, like, cutter."
+223,Suveksha,09/29/2022 05:06:00 PM EDT,Exam Action,Inspected right forearm
+224,Suveksha,09/29/2022 05:06:00 PM EDT,Exam Action,Inspected right wrist
+225,Suveksha,09/29/2022 05:06:00 PM EDT,Exam Action,Inspected left forearm
+226,Suveksha,09/29/2022 05:06:00 PM EDT,Exam Action,Inspected left wrist
+227,Suveksha,09/29/2022 05:06:00 PM EDT,Exam Action,Inspected left forearm
+228,Suveksha,09/29/2022 05:06:00 PM EDT,Exam Action,Inspected left wrist
+229,Suveksha,09/29/2022 05:06:00 PM EDT,Exam Action,Inspected chest
+230,Suveksha,09/29/2022 05:06:00 PM EDT,Exam Action,Inspected chest
+231,Suveksha,09/29/2022 05:07:00 PM EDT,Exam Action,Inspected legs
+232,Suveksha,09/29/2022 05:07:00 PM EDT,Exam Action,Inspected back
+233,Suveksha,09/29/2022 05:07:00 PM EDT,Exam Action,Auscultated breath sounds
+234,Suveksha,09/29/2022 05:07:00 PM EDT,Exam Action,Auscultated heart sounds
+235,Suveksha,09/29/2022 05:08:00 PM EDT,Exam Action,Palpated abdomen
+236,Suveksha,09/29/2022 05:08:00 PM EDT,Exam Action,Palpated right and left radial pulse
+237,Suveksha,09/29/2022 05:08:00 PM EDT,Exam Action,Palpated right and left dorsalis pedis pulse
+238,Suveksha,09/29/2022 05:08:00 PM EDT,Exam Action,Palpated capillary refill on right and left hand
+239,Suveksha,09/29/2022 05:08:00 PM EDT,Exam Action,Performed EKG
+240,Suveksha,09/29/2022 05:08:00 PM EDT,Exam Action,Assessed lab results
+241,Suveksha,09/29/2022 05:09:00 PM EDT,Exam Action,"Assessed general appearance: posture is bent or hunched, clothing is dirty and disheveled, grooming and self-care are otherwise adequate, eye contact is direct"
+242,Suveksha,09/29/2022 05:09:00 PM EDT,Exam Action,"Assessed general appearance: posture is bent or hunched, clothing is dirty and disheveled, grooming and self-care are otherwise adequate, eye contact is direct"
+243,Suveksha,09/29/2022 05:09:00 PM EDT,Exam Action,Assessed attitude: displays frequent distrust and evasiveness
+244,Suveksha,09/29/2022 05:10:00 PM EDT,Exam Action,"Assessed speech: rate of speech is rapid, but at an appropriate volume, and no issues with articulation"
+245,Suveksha,09/29/2022 05:10:00 PM EDT,Exam Action,Assessed mood and affect: frequent mood changes throughout interview; excessively expansive or cheerful affect
+246,Suveksha,09/29/2022 05:11:00 PM EDT,Question,do you feel angry?
+247,Lucas Callahan,09/29/2022 05:11:00 PM EDT,Response,"Sure, anger is a flower. I am a man of emotion. I feel everything, probably more than anybody else on earth. If a scamp interferes with my vibes, the anger blooms."
+248,Suveksha,09/29/2022 05:11:00 PM EDT,Exam Action,"Assessed thought process: presence of rapid thinking, disorganized or illogical flow of thought, ""word salad,"" neologisms, echolalia, and clanging associations"
+249,Suveksha,09/29/2022 05:11:00 PM EDT,Exam Action,Assessed thought content: presence of delusions; no presence of perceptual disturbances or hallucinations
+250,Suveksha,09/29/2022 05:11:00 PM EDT,Exam Action,Confirmed orientation
+251,Suveksha,09/29/2022 05:12:00 PM EDT,Question,what is your name and date of birth?
+252,Lucas Callahan,09/29/2022 05:12:00 PM EDT,Response,"Lucas Callahan, born . . . [Mr. Callahan reports his correct date of birth.]"
+253,Suveksha,09/29/2022 05:12:00 PM EDT,Question,what building are you in now?
+254,Lucas Callahan,09/29/2022 05:12:00 PM EDT,Response,The hospital. Shadow General.
+255,Suveksha,09/29/2022 05:13:00 PM EDT,Question,what is the date and year?
+256,Lucas Callahan,09/29/2022 05:13:00 PM EDT,Response,The date is . . . [Mr. Callahan reports the correct date and year.]
+257,Suveksha,09/29/2022 05:13:00 PM EDT,Exam Action,Assessed cognition
+258,Suveksha,09/29/2022 05:13:00 PM EDT,Question,count backwards from 100 by 7 until you get to the 60s?
+259,Lucas Callahan,09/29/2022 05:13:00 PM EDT,Response,"Easy! 100, 93, 86, 79... [Mr. Callahan finishes the sequence.]"
+260,Suveksha,09/29/2022 05:13:00 PM EDT,Exam Action,Assessed cognition
+261,Suveksha,09/29/2022 05:14:00 PM EDT,Question,how are apples and oranges alike?
+262,Lucas Callahan,09/29/2022 05:14:00 PM EDT,Response,"They're both fruits, of course!"
+263,Suveksha,09/29/2022 05:14:00 PM EDT,Question,how are a lake and an ocean alike?
+264,Lucas Callahan,09/29/2022 05:14:00 PM EDT,Response,They're both bodies of water.
+265,Suveksha,09/29/2022 05:14:00 PM EDT,Question,how are a trumpet and a flute alike?
+266,Lucas Callahan,09/29/2022 05:14:00 PM EDT,Response,They're both instruments. And they both are way underused in modern post-punk.
+267,Suveksha,09/29/2022 05:14:00 PM EDT,Exam Action,Assessed cognition
+268,Suveksha,09/29/2022 05:15:00 PM EDT,Question,"repeat and remember burger, tulip, nose, and tea?"
+269,Lucas Callahan,09/29/2022 05:15:00 PM EDT,Response,"Burger, tulip, nose and tea. Yep, I got this."
+270,Suveksha,09/29/2022 05:15:00 PM EDT,Question,how did you celebrate your last birthday?
+271,Lucas Callahan,09/29/2022 05:15:00 PM EDT,Response,"Oh, it was actually really awesome! Me and some friends did the Bake-a-Cake Blindfolded Challenge. Then we just went out to a couple of my favorite bars. It actually wasn't as rowdy as you'd think, but it was just great vibes all around."
+272,Suveksha,09/29/2022 05:16:00 PM EDT,Question,repeat the four words from before?
+273,Lucas Callahan,09/29/2022 05:16:00 PM EDT,Response,"OK . . . burger, tulip, nose, and tea. Ha! Nailed it."
+274,Suveksha,09/29/2022 05:16:00 PM EDT,Question,copy the shapes exactly as you see them?
+275,Lucas Callahan,09/29/2022 05:16:00 PM EDT,Response,Right on. Let's do this!
+276,Suveksha,09/29/2022 05:16:00 PM EDT,Exam Action,Assessed insight: demonstrates limited awareness of illness and is unwilling to seek treatment
+277,Suveksha,09/29/2022 05:16:00 PM EDT,Exam Action,Assessed judgment: demonstrates good judgment
+278,Suveksha,09/29/2022 05:17:00 PM EDT,Question,what would you do if you found a stamped envelope on the sidewalk?
+279,Lucas Callahan,09/29/2022 05:17:00 PM EDT,Response,"Probably put it in a mailbox, if I saw there was one nearby."
+280,Suveksha,09/29/2022 05:35:00 PM EDT,Statement,"your nursing diagnosis is risk for injury as you have tried to harm yourself in past, not slept well, and poor impulse control."
+281,Lucas Callahan,09/29/2022 05:35:00 PM EDT,Response,"Listen, I KNOW Im at risk for injury! Remember what I was telling you earlier, about the government agents following me because they know, in their weasely little weasel-minds, that Im an enlightened threat? So, yeah. Were on the same page."
+282,Suveksha,09/29/2022 05:36:00 PM EDT,Statement,so i there will be staff for frequent checks and there will be a private room for you.
+283,Lucas Callahan,09/29/2022 05:36:00 PM EDT,Response,"Right, right, you gotta keep me safe like a little babe swaddled in the manger of life. Totally agree with you! Im all baby blanket and pacifier. Life is beautiful, glorious, radiant -- gotta preserve it at all costs. Im a national treasure. Kiss my feet if you want."
+284,Suveksha,09/29/2022 05:37:00 PM EDT,Statement,are you ready to move forward with the care plan?
+285,Lucas Callahan,09/29/2022 05:37:00 PM EDT,Response,"Yeah, lets do this thing. Im game. Youre game. All were missing are the cheerleaders. Hey, Lucas! Hes our man! If he cant do it, no one can! Rah rah rah! Sis boom bah bah bah!"

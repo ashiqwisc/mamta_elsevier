@@ -1,0 +1,264 @@
+,Participant,Timestamp,Interaction Type,Utterances
+0,Lana,09/30/2022 02:40:00 PM EDT,Greet,hello im lana and ill be your nurse today
+1,Lucas Callahan,09/30/2022 02:40:00 PM EDT,Response,Hey! What's up?
+2,Lana,09/30/2022 02:42:00 PM EDT,Question,what brought you to the hospita;;
+3,Lucas Callahan,09/30/2022 02:42:00 PM EDT,Response,Those idiot cops brought me here. I don't need to be here but the front desk guy said that they have to check me out. Like I'm some sort of book in the history of atlases.
+4,Lana,09/30/2022 02:43:00 PM EDT,Question,why did the cops bring you here
+5,Lucas Callahan,09/30/2022 02:43:00 PM EDT,Response,"So, I was running around trying to find out what car they -- so these government agents, I get this feeling they're after me sometimes, and when I feel really good, especially, I'm more in touch with when they're after me -- so I was checking out some cars, like, I just KNEW they were hiding in one of them -- I mean, it was a grocery store parking lot, I'm sure I looked crazy running around and stuff."
+6,Lana,09/30/2022 02:44:00 PM EDT,Question,who are the government agents
+7,Lucas Callahan,09/30/2022 02:44:00 PM EDT,Response,"I mean, what do you want to know? I just had a hunch they were in one of those cars, waiting to scoop me up and throw me in solitary. They know I'm enlightened and if my writings get out, boom, their secrets are overthrown. Not that I'm gonna let them stop me."
+8,Lana,09/30/2022 02:45:00 PM EDT,Question,have you ever been diagnosed with anxiety or paranoia
+9,Lucas Callahan,09/30/2022 02:45:00 PM EDT,Response,Nope. Nerp.
+10,Lana,09/30/2022 02:46:00 PM EDT,Question,have you had any hallucinations
+11,Lucas Callahan,09/30/2022 02:46:00 PM EDT,Response,No way. I don't see junk that's not there or anything.
+12,Lana,09/30/2022 02:47:00 PM EDT,Question,do you currently you any substances
+13,Lucas Callahan,09/30/2022 02:47:00 PM EDT,Response,"I do coke, I drink . . . that's really it. I like doing the same things over and over. I get in my groove with it."
+14,Lana,09/30/2022 02:47:00 PM EDT,Question,any recent substance use
+15,Lucas Callahan,09/30/2022 02:47:00 PM EDT,Response,"I haven't been anything but sober for like, four days. I know I seem like I'm on something, but I'm just this way naturally."
+16,Lana,09/30/2022 02:48:00 PM EDT,Statement,thank you for answering my questions
+17,Lucas Callahan,09/30/2022 02:48:00 PM EDT,Response,Save your tears for the whales! I'm doing awesome.
+18,Lana,09/30/2022 02:48:00 PM EDT,Question,any recent trouble with sleeping 
+19,System,09/30/2022 02:48:00 PM EDT,Clarification, Do you have problems sleeping?.
+20,Lucas Callahan,09/30/2022 02:48:00 PM EDT,Response,"Well, I wouldn't call it insomnia or anything, but I really usually don't need to sleep more than two hours, and I still have a lot of energy. This week I'm in super beast mode and haven't slept in four days. Impressive, right? I know it is. They make trophies in gold, by the way. (Clarified to if I have problems sleeping.)"
+21,Lana,09/30/2022 02:49:00 PM EDT,Statement,not sleeping takes a decline on your health
+22,Lucas Callahan,09/30/2022 02:49:00 PM EDT,Response,"Thanks, but you don't need to worry about me."
+23,Lana,09/30/2022 02:50:00 PM EDT,Question,how has your current energy levels been
+24,Lucas Callahan,09/30/2022 02:50:00 PM EDT,Response,"Awesome! I mean, I'm just a high energy kind of guy, a lot of the time. But this week especially I've felt, like, crazy up and up, and I love it. I just love it. I feel like I could lift a horse."
+25,Lana,09/30/2022 02:50:00 PM EDT,Question,how is your mood
+26,Lucas Callahan,09/30/2022 02:50:00 PM EDT,Response,I am 100% letting the good times roll. Couldn't be better.
+27,Lana,09/30/2022 02:51:00 PM EDT,Question,how are your moods usually
+28,Lucas Callahan,09/30/2022 02:51:00 PM EDT,Response,I am 100% letting the good times roll. Couldn't be better.
+29,Lana,09/30/2022 02:51:00 PM EDT,Question,what is your typical mood
+30,Lucas Callahan,09/30/2022 02:51:00 PM EDT,Response,"You've got Option A and Option B. With A, we're talking about a bottomless rat hole. With B, we're talking good vibes that don't disappoint. I'll stick with B, thanks."
+31,Lana,09/30/2022 02:52:00 PM EDT,Question,do you have any existing health conditions
+32,Lucas Callahan,09/30/2022 02:52:00 PM EDT,Response,"Not really. They diagnosed me with depression, but I'm really not worried about that anymore. I'm just really not in that headspace right now."
+33,Lana,09/30/2022 02:53:00 PM EDT,Question,how often does your mood change
+34,Lucas Callahan,09/30/2022 02:53:00 PM EDT,Response,"I'm not keeping track or anything, but maybe a couple times a year? I don't know. This is a really nice room. I really like this room."
+35,Lana,09/30/2022 02:53:00 PM EDT,Question,when was the last time you felt depressed
+36,Lucas Callahan,09/30/2022 02:53:00 PM EDT,Response,what are the details of your depression diagnosis 
+37,System,09/30/2022 02:54:00 PM EDT,Clarification, Can you tell me more about your depression diagnosis?.
+38,Lana,09/30/2022 02:54:00 PM EDT,Question,what are the details of your depression diagnosis (Clarified to Can you tell me more about your depression diagnosis?.)
+39,Lucas Callahan,09/30/2022 02:54:00 PM EDT,Response,"I mean, that doctor was a buffoon, but I get where he was coming from -- I had just tried to kill myself. That doesn't necessarily scream NOT depressed, you know? Like, your eyeballs are your eyeballs. You see what you see. (Clarified to to tell you about my depression diagnosis.)"
+40,Lana,09/30/2022 02:55:00 PM EDT,Question,how long ago was this (No matching questions found.)
+41,Lana,09/30/2022 02:55:00 PM EDT,Question,how long ago were you diagnosed
+42,Lucas Callahan,09/30/2022 02:55:00 PM EDT,Response,"We're dredging up this junk--well, I got diagnosed with depression like three years ago. Three little pigs. Wonder what happened to the third pig . . . I bet he got diagnosed, too. Squealer. It's like going fishing and pulling up an old boot."
+43,Lana,09/30/2022 02:56:00 PM EDT,Statement,i bet this was a tough time in your life
+44,Lucas Callahan,09/30/2022 02:56:00 PM EDT,Response,"Thanks a million, but I'm all good, I promise!"
+45,Lana,09/30/2022 02:56:00 PM EDT,Question,how was your depression treated
+46,Lucas Callahan,09/30/2022 02:56:00 PM EDT,Response,"That quack of a doctor put me on antidepressants. Yeah, sure took a lot of self-interrogation to write stuff on a pad. I mean, my god. No intellect whatsoever."
+47,Lana,09/30/2022 02:56:00 PM EDT,Question,do you have any allergies
+48,Lucas Callahan,09/30/2022 02:56:00 PM EDT,Response,"Not at all. I'm allergic to bad vibes is all. That stuff is palpable. Like, oh boy, it's pollen season."
+49,Lana,09/30/2022 02:58:00 PM EDT,Question,how has your antidepressant been effective
+50,Lucas Callahan,09/30/2022 02:58:00 PM EDT,Response,"I'm not on anything these days. Stopped those antidepressants a while back. Zombie pills, honestly. Stuff is necrotic."
+51,Lana,09/30/2022 02:58:00 PM EDT,Statement,It is not good to suddenly stop your medications
+52,Lucas Callahan,09/30/2022 02:58:00 PM EDT,Response,I don't need you to be my guidance counselor or anything . . .
+53,Lana,09/30/2022 02:59:00 PM EDT,Question,any medication side effects
+54,Lucas Callahan,09/30/2022 02:59:00 PM EDT,Response,"Yeah, the antidepressos did some stuff to me. Whatever. Bullcrap little -- just -- just stupid, stupid stuff. No one needs 'em."
+55,Lana,09/30/2022 03:00:00 PM EDT,Question,what is the medication prescription 
+56,System,09/30/2022 03:00:00 PM EDT,Clarification, Do you know what dosage you take of depression medication?.
+57,Lucas Callahan,09/30/2022 03:00:00 PM EDT,Response,"Dude, just drop it, OK? It doesn't matter. Jeez Louise."
+58,Lana,09/30/2022 03:00:00 PM EDT,Question,can you give details on your medication prescription 
+59,System,09/30/2022 03:01:00 PM EDT,Clarification, What were the details of the prescription you took?.
+60,Lucas Callahan,09/30/2022 03:00:00 PM EDT,Response,"Oh, I quit taking those antidepressants. I didn't ask a doctor or anything, which is like, wah wah, but whatever. (Clarified to how much depression medication I take.)"
+61,Lana,09/30/2022 03:00:00 PM EDT,Question,what is the prescription of antidepressants (No matching questions found.)
+62,Lana,09/30/2022 03:01:00 PM EDT,Question,can you give details on your medication prescription (Clarified to What were the details of the prescription you took?.)
+63,Lucas Callahan,09/30/2022 03:01:00 PM EDT,Response,"All I remember is that they didn't work, they made me feel like . . . whatever, they sucked. They were--they were suck pills. That's all I remember. They were suck pills made in Sucksville and I hope they rot in Sucks Hell. (Clarified to what the details of my prescription were.)"
+64,Lana,09/30/2022 03:02:00 PM EDT,Question,have you had any suicide attempts
+65,Lucas Callahan,09/30/2022 03:02:00 PM EDT,Response,"Yeah. Yeah, I attempted suicide. It's so dumb. You can't get through life like that. You gotta say yes to stuff, you know?"
+66,Lana,09/30/2022 03:02:00 PM EDT,Question,when were you suicidal
+67,Lucas Callahan,09/30/2022 03:02:00 PM EDT,Response,"When I was depressed . . . but that's the last train to Sucksville, man, I'm not hoppin' on that, no way."
+68,Lana,09/30/2022 03:03:00 PM EDT,Question,when were you suicidal
+69,Lucas Callahan,09/30/2022 03:03:00 PM EDT,Response,"When I was depressed . . . but that's the last train to Sucksville, man, I'm not hoppin' on that, no way."
+70,Lana,09/30/2022 03:03:00 PM EDT,Question,any thoughts of wanting to be dead 
+71,System,09/30/2022 03:05:00 PM EDT,Clarification, When have you wanted to be dead?.
+72,Lucas Callahan,09/30/2022 03:03:00 PM EDT,Response,Just the once . . . and you really don't have to worry about me like that.
+73,Lana,09/30/2022 03:04:00 PM EDT,Question,do you have any current thoughts of suicide
+74,Lucas Callahan,09/30/2022 03:04:00 PM EDT,Response,any current beliefs that others would be better off without you 
+75,System,09/30/2022 03:07:00 PM EDT,Clarification, Do you ever think other people would be better off without you?.
+76,Lana,09/30/2022 03:05:00 PM EDT,Question,any current suicide attempts 
+77,System,09/30/2022 03:07:00 PM EDT,Clarification, Have you ever attempted suicide?.
+78,Lucas Callahan,09/30/2022 03:05:00 PM EDT,Response,"When I was depressed . . . but that's the last train to Sucksville, man, I'm not hoppin' on that, no way. (Clarified to when I have wanted to be dead.)"
+79,Lana,09/30/2022 03:06:00 PM EDT,Question,any current thoughts of wanting to be dead
+80,Lucas Callahan,09/30/2022 03:06:00 PM EDT,Response,"No! Really, that's not me. That's not -- it gets like -- obviously, when you're depressed, you think like that, sure. But that's not me anymore, so whatever. I'm not worried about it."
+81,Lana,09/30/2022 03:07:00 PM EDT,Question,any current beliefs that others would be better off without you (Clarified to Do you ever think other people would be better off without you?.)
+82,Lucas Callahan,09/30/2022 03:07:00 PM EDT,Response,. . . No. Do I feel like that? No. That's all I care to say. No. (Clarified to if I ever think other people would be better off without me.)
+83,Lana,09/30/2022 03:07:00 PM EDT,Question,any current suicide attempts (Clarified to Have you ever attempted suicide?.)
+84,Lucas Callahan,09/30/2022 03:07:00 PM EDT,Response,"Yeah. Yeah, I attempted suicide. It's so dumb. You can't get through life like that. You gotta say yes to stuff, you know? (Clarified to if I have ever attempted suicide.)"
+85,Lana,09/30/2022 03:08:00 PM EDT,Question,have you ever harmed yourself without intending to die
+86,Lucas Callahan,09/30/2022 03:08:00 PM EDT,Response,"No, not at all. Such a bummer question. I only really got like that during my one suicide attempt. One as in done."
+87,Lana,09/30/2022 03:08:00 PM EDT,Question,any homicidal urges
+88,Lucas Callahan,09/30/2022 03:08:00 PM EDT,Response,". . . Wow, what a lovely question. No, I don't. I can't believe you would even ask that."
+89,Lana,09/30/2022 03:09:00 PM EDT,Statement,"im sorry, I know these are some hard questions. this is mandated to ask everyone."
+90,Lucas Callahan,09/30/2022 03:09:00 PM EDT,Response,"Hey, I appreciate the good vibes."
+91,Lana,09/30/2022 03:10:00 PM EDT,Question,what is your perception of mental health
+92,Lucas Callahan,09/30/2022 03:10:00 PM EDT,Response,"My brain is superb, honestly. It's frickin' cotton candy and sports car up there. Don't worry about me. Like, yeah, I was depressed before, if that's what you're asking. But that's as dead as a doornail, hangnail, all the nails."
+93,Lana,09/30/2022 03:10:00 PM EDT,Question,do you notice any mood or energy shifts
+94,Lucas Callahan,09/30/2022 03:10:00 PM EDT,Response,"Yeah, definitely. A week ago, it was like, suddenly like--you know how it feels when you slam the pedal down and there's this, like, weightless moment when the car's about to pick up? The proverbial sweet spot before going hyper-speed. Yeah. I finally feel like myself."
+95,Lana,09/30/2022 03:11:00 PM EDT,Question,does anyone say they notice your mood or energy shifts (No matching questions found.)
+96,Lana,09/30/2022 03:11:00 PM EDT,Question,does anyone notice your mood or energy shift
+97,Lucas Callahan,09/30/2022 03:11:00 PM EDT,Response,"Who knows what other people notice? Personally, I notice everything, but you can't expect every chump on the street to be enlightened."
+98,Lana,09/30/2022 03:12:00 PM EDT,Question,do you have any excessive irritability or anger
+99,Lucas Callahan,09/30/2022 03:12:00 PM EDT,Response,"Sure, if somebody's messin' with my vibes, I'll get in an argument. Vibes are sacred, no joke."
+100,Lana,09/30/2022 03:12:00 PM EDT,Question,any changes in speed of moving or speaking
+101,Lucas Callahan,09/30/2022 03:12:00 PM EDT,Response,"I mean, nah, I'm just a super quick guy in general. I like to get things done and keep 'em moving. Talk fast, walk fast, all that. What can I say, some horses weren't meant for carriages."
+102,Lana,09/30/2022 03:13:00 PM EDT,Question,any racing thoughts
+103,Lucas Callahan,09/30/2022 03:13:00 PM EDT,Response,"Like a greyhound. Hyah! Hyah! But it works out great, because I'm working on this massive poem that's all about--well, it's gonna blow people's minds."
+104,Lana,09/30/2022 03:13:00 PM EDT,Question,how is your ability to concentrate
+105,Lucas Callahan,09/30/2022 03:13:00 PM EDT,Response,"Oh, I've been laser-focused lately. On my poetry, that is. On my friends' projects. I told you we're thinking about making this community art center? It would be so sick. We'll see. It's all in the works."
+106,Lana,09/30/2022 03:14:00 PM EDT,Question,any changes in productivity
+107,Lucas Callahan,09/30/2022 03:14:00 PM EDT,Response,"Yeah, definitely. Very astute question. I've been workin on this epic poem for the past--yeah, it's gonna annihilate poverty. Truth bombs non-stop. I've been working on it for the past week."
+108,Lana,09/30/2022 03:14:00 PM EDT,Question,any changes in social activity
+109,Lucas Callahan,09/30/2022 03:14:00 PM EDT,Response,do you have a current job 
+110,System,09/30/2022 03:17:00 PM EDT,Clarification, Do you have a job?.
+111,Lana,09/30/2022 03:15:00 PM EDT,Question,any changes in libido and sexual activity
+112,Lucas Callahan,09/30/2022 03:15:00 PM EDT,Response,"My carnal business has definitely amped up in the past week! And I'm not complaining, either. It's been totally awesome. Friends and strangers, the sexy time has been unreal."
+113,Lana,09/30/2022 03:16:00 PM EDT,Question,any increase in spending habits
+114,Lucas Callahan,09/30/2022 03:16:00 PM EDT,Response,"Well, I'm spending on the stuff that matters. I'm talking about a little cocaine here, some rare books there. I help my friends out however I can because you know? I'm a giver."
+115,Lana,09/30/2022 03:16:00 PM EDT,Statement,thats awesome that you are writing poems
+116,Lucas Callahan,09/30/2022 03:16:00 PM EDT,Response,"That's super cool of you, thanks!"
+117,Lana,09/30/2022 03:17:00 PM EDT,Question,do you have a current job (Clarified to Do you have a job?.)
+118,Lucas Callahan,09/30/2022 03:17:00 PM EDT,Response,"I'm in between jobs right now. Actually, I'm more in between not having a job and not having a job. (Clarified to if I have a job.)"
+119,Lana,09/30/2022 03:17:00 PM EDT,Question,what is your occupation
+120,Lucas Callahan,09/30/2022 03:17:00 PM EDT,Response,"I'm in between jobs right now. Actually, I'm more in between not having a job and not having a job."
+121,Lana,09/30/2022 03:17:00 PM EDT,Question,when was your last job
+122,Lucas Callahan,09/30/2022 03:17:00 PM EDT,Response,I couldn't tell ya exactly. It's been a while.
+123,Lana,09/30/2022 03:18:00 PM EDT,Question,any legal troubles
+124,Lucas Callahan,09/30/2022 03:18:00 PM EDT,Response,"Not at all! I'm the patron saint of innocence! Hah. No, really though, I've never gotten so much as a ticket."
+125,Lana,09/30/2022 03:18:00 PM EDT,Question,whats your occupation
+126,Lucas Callahan,09/30/2022 03:18:00 PM EDT,Response,"I'm in between jobs right now. Actually, I'm more in between not having a job and not having a job."
+127,Lana,09/30/2022 03:18:00 PM EDT,Question,any alcohol use
+128,Lucas Callahan,09/30/2022 03:18:00 PM EDT,Response,do you have f transportation 
+129,System,09/30/2022 03:20:00 PM EDT,Clarification, What modes of transportation do you use?.
+130,Lana,09/30/2022 03:18:00 PM EDT,Question,any changes in diet and appetite 
+131,System,09/30/2022 03:20:00 PM EDT,Clarification, Have your dietary patterns changed?.
+132,Lucas Callahan,09/30/2022 03:18:00 PM EDT,Response,"Not often -- 2 or 3 times a week, I guess. It's more of a party vibe than anything. I drink more when I'm down, but I'm not down anymore! It's all loose goose these days. I'm not, like, waking up with the hair of the dog. That's like, no hair and no dogs for me, thank you."
+133,Lana,09/30/2022 03:19:00 PM EDT,Question,any drug use
+134,Lucas Callahan,09/30/2022 03:19:00 PM EDT,Response,any caffeine intake 
+135,System,09/30/2022 03:21:00 PM EDT,Clarification, Do you drink caffeine?.
+136,Lana,09/30/2022 03:19:00 PM EDT,Question,do you still use cocaine
+137,Lucas Callahan,09/30/2022 03:19:00 PM EDT,Response,"Coke doesn't really last for four days, my friend. She's a fickle beast. She leaves parties she wasn't even invited to."
+138,Lana,09/30/2022 03:20:00 PM EDT,Question,any access to health care 
+139,System,09/30/2022 03:22:00 PM EDT,Clarification, What kind of access to healthcare do you have?.
+140,Lana,09/30/2022 03:20:00 PM EDT,Question,do you have f transportation (Clarified to What modes of transportation do you use?.)
+141,Lucas Callahan,09/30/2022 03:20:00 PM EDT,Response,"Oh, how do I get around? I'm cruising the streets in my car. I got it when I turned sixteen and that thing's like a brother to me. (Clarified to what modes of transportation I use.)"
+142,Lana,09/30/2022 03:20:00 PM EDT,Question,any changes in diet and appetite (Clarified to Have your dietary patterns changed?.)
+143,Lucas Callahan,09/30/2022 03:20:00 PM EDT,Response,"I've been eating the same way forever. That's not in flux or nothin'. One meal a day, on the small side, that keeps me going just fine. (Clarified to if my dietary pattern has changed.)"
+144,Lana,09/30/2022 03:21:00 PM EDT,Question,how is your fluid intake
+145,Lucas Callahan,09/30/2022 03:21:00 PM EDT,Response,"I don't know, I don't have, like, a cup measurer. I just have a glass or two at some point in the day, I'd guess."
+146,Lana,09/30/2022 03:21:00 PM EDT,Question,any caffeine intake (Clarified to Do you drink caffeine?.)
+147,Lucas Callahan,09/30/2022 03:21:00 PM EDT,Response,"Do I look like a guy who needs caffeine? This is au naturale, baby. I don't need no crushed up bean juice that tastes like tree poop. (Clarified to if I drink caffeine.)"
+148,Lana,09/30/2022 03:22:00 PM EDT,Question,what is your level of education
+149,Lucas Callahan,09/30/2022 03:22:00 PM EDT,Response,I did a year in college a while back.
+150,Lana,09/30/2022 03:22:00 PM EDT,Question,any access to health care (Clarified to What kind of access to healthcare do you have?.)
+151,Lucas Callahan,09/30/2022 03:22:00 PM EDT,Response,"I'm on my parents' insurance. They take care of all that junk. Paperwork, whatever. Boring. (Clarified to what my access to healthcare is.)"
+152,Lana,09/30/2022 03:23:00 PM EDT,Question,what is your living situation
+153,Lucas Callahan,09/30/2022 03:23:00 PM EDT,Response,"It's pretty perfect, honestly. No rent, no bills, no dusting. I just crash in my car or at a friends' place or wherever, then I wake up and start my day. Boom. Did you know the kookaburra never sleeps in the same tree twice? I think most people would make better decisions if they mimicked ornithology."
+154,Lana,09/30/2022 03:23:00 PM EDT,Question,how is your family relationship
+155,Lucas Callahan,09/30/2022 03:23:00 PM EDT,Response,"Oh, God. This is a loaded subject. I dunno, man, they're just not all about the vibes. They're straight up party crashers, honestly. They think I'm a druggie, that I need rehab, all this crap . . . they kicked me out for it. And like, who cares, you know? Like, it's this American ideal that you have to get along perfect with your family. Newsflash, it's not all snuggles and kisses. Sometimes you're just not meant to, like, vibe with the people who raised you."
+156,Lana,09/30/2022 03:24:00 PM EDT,Question,any history of abuse
+157,Lucas Callahan,09/30/2022 03:24:00 PM EDT,Response,"Dang, are you serious?! No, not at all. Dang, what a wet blanket question. No, that's never happened to me. Dang. Screwin' up the vibes."
+158,Lana,09/30/2022 03:24:00 PM EDT,Statement,im sorry i know these are hard question s
+159,Lucas Callahan,09/30/2022 03:24:00 PM EDT,Response,"Thanks. You and me, we've got a real connection."
+160,Lana,09/30/2022 03:24:00 PM EDT,Question,lets keep the vibes good (No matching questions found.)
+161,Lana,09/30/2022 03:25:00 PM EDT,Question,any history of mental illness
+162,Lucas Callahan,09/30/2022 03:25:00 PM EDT,Response,"Oh, we're reaching into the hat now. I got diagnosed with depression, sure, but that's moot now. I'm all good. Everything's cleared up and if you could see my future in a crystal ball, you'd see the masses chanting my name!"
+163,Lana,09/30/2022 03:25:00 PM EDT,Question,does your family have any mental illnesses
+164,Lucas Callahan,09/30/2022 03:25:00 PM EDT,Response,"No . . . I couldn't tell you anything about my birth parents, but my real parents are pretty sane. They're kinda, like, massive normies. Wouldn't know art if it hit 'em in the balls."
+165,Lana,09/30/2022 03:26:00 PM EDT,Question,what are your general symptoms
+166,Lucas Callahan,09/30/2022 03:26:00 PM EDT,Response,"I don't really have any, like, health problems. I came here 'cause the police brought me here. I'm not like, oh, time for surgery, my heart is a foot."
+167,Lana,09/30/2022 03:27:00 PM EDT,Question,any changes in vision (No matching questions found.)
+168,Lana,09/30/2022 03:27:00 PM EDT,Question,how us your hearing 
+169,System,09/30/2022 03:30:00 PM EDT,Clarification, How is your hearing?.
+170,Lana,09/30/2022 03:28:00 PM EDT,Question,have you had any changes in your hearing lately
+171,Lucas Callahan,09/30/2022 03:28:00 PM EDT,Response,"Methinks mepoop's been all good, no issues, no change."
+172,Lana,09/30/2022 03:28:00 PM EDT,Question,any changes in your cardiovascular (No matching questions found.)
+173,Lana,09/30/2022 03:28:00 PM EDT,Question,any changes in your heart
+174,Lucas Callahan,09/30/2022 03:28:00 PM EDT,Response,"What you are trying to get at is the ticking of my ticker? Well, the ticket-taker is good at his job and the ticking ticks exactly as it should. I feel good, what can I say?"
+175,Lana,09/30/2022 03:29:00 PM EDT,Question,any changes in vision (No matching questions found.)
+176,Lana,09/30/2022 03:29:00 PM EDT,Question,any changes in skin
+177,Lucas Callahan,09/30/2022 03:29:00 PM EDT,Response,"My skin has always been of such quality that strangers come up to me and say, ""Oh my gosh! Are you a regular guy named Lucas Callahan or are you a god among us?"" If we're talking about the scratches on my back, then two words: Rough. Sex."
+178,Lana,09/30/2022 03:30:00 PM EDT,Question,any changes in smell (No matching questions found.)
+179,Lana,09/30/2022 03:30:00 PM EDT,Question,how is your vision
+180,Lucas Callahan,09/30/2022 03:30:00 PM EDT,Response,Peachy keen! I can see you just fine.
+181,Lana,09/30/2022 03:30:00 PM EDT,Question,how us your hearing (Clarified to How is your hearing?.)
+182,Lucas Callahan,09/30/2022 03:30:00 PM EDT,Response,"I hear all the good things, like air conditioners running in apartment buildings where people are being kind to each other, and I hear bad things like secrets bubbling under the rug where they've been brushed. I hear it all. Nothing escapes me. I am the bucket you bring out in the rain to catch a leak in the ceiling. (Clarified to how my hearing is.)"
+183,Lana,09/30/2022 03:31:00 PM EDT,Statement,i see you are poetic
+184,Lucas Callahan,09/30/2022 03:31:00 PM EDT,Response,"That's super cool of you, thanks!"
+185,Lana,09/30/2022 03:31:00 PM EDT,Question,is it okay if i perform a assessment now
+186,Lucas Callahan,09/30/2022 03:31:00 PM EDT,Response,Alright.
+187,Lana,09/30/2022 03:31:00 PM EDT,Exam Action,Assessed vitals
+188,Lana,09/30/2022 03:32:00 PM EDT,Question,any pain
+189,Lucas Callahan,09/30/2022 03:32:00 PM EDT,Response,"Not at all. I'm all endorphins, baby."
+190,Lana,09/30/2022 03:34:00 PM EDT,Exam Action,Inspected left eye
+191,Lana,09/30/2022 03:34:00 PM EDT,Exam Action,Inspected right eye
+192,Lana,09/30/2022 03:34:00 PM EDT,Exam Action,Inspected left eye
+193,Lana,09/30/2022 03:35:00 PM EDT,Exam Action,Inspected right eye
+194,Lana,09/30/2022 03:35:00 PM EDT,Exam Action,Inspected left eye
+195,Lana,09/30/2022 03:35:00 PM EDT,Exam Action,Inspected right eye
+196,Lana,09/30/2022 03:35:00 PM EDT,Exam Action,Inspected left eye
+197,Lana,09/30/2022 03:35:00 PM EDT,Exam Action,Performed otoscopic examination of left naris
+198,Lana,09/30/2022 03:35:00 PM EDT,Exam Action,Performed otoscopic examination of right naris
+199,Lana,09/30/2022 03:35:00 PM EDT,Exam Action,Inspected top of arms
+200,Lana,09/30/2022 03:35:00 PM EDT,Exam Action,Inspected right forearm
+201,Lana,09/30/2022 03:35:00 PM EDT,Exam Action,Inspected right wrist
+202,Lana,09/30/2022 03:36:00 PM EDT,Exam Action,Inspected left forearm
+203,Lana,09/30/2022 03:36:00 PM EDT,Exam Action,Inspected left wrist
+204,Lana,09/30/2022 03:36:00 PM EDT,Exam Action,Inspected right wrist
+205,Lana,09/30/2022 03:36:00 PM EDT,Exam Action,Inspected chest
+206,Lana,09/30/2022 03:37:00 PM EDT,Exam Action,Inspected legs
+207,Lana,09/30/2022 03:37:00 PM EDT,Exam Action,Inspected back
+208,Lana,09/30/2022 03:37:00 PM EDT,Exam Action,Auscultated breath sounds
+209,Lana,09/30/2022 03:37:00 PM EDT,Exam Action,Auscultated breath sounds
+210,Lana,09/30/2022 03:38:00 PM EDT,Exam Action,Auscultated heart sounds
+211,Lana,09/30/2022 03:38:00 PM EDT,Exam Action,Palpated abdomen
+212,Lana,09/30/2022 03:38:00 PM EDT,Exam Action,Palpated right and left radial pulse
+213,Lana,09/30/2022 03:39:00 PM EDT,Exam Action,Palpated right and left dorsalis pedis pulse
+214,Lana,09/30/2022 03:39:00 PM EDT,Exam Action,Palpated capillary refill on right and left hand
+215,Lana,09/30/2022 03:39:00 PM EDT,Exam Action,Performed EKG
+216,Lana,09/30/2022 03:39:00 PM EDT,Exam Action,Assessed lab results
+217,Lana,09/30/2022 03:41:00 PM EDT,Exam Action,"Assessed general appearance: posture is bent or hunched, clothing is dirty and disheveled, grooming and self-care are otherwise adequate, eye contact is direct"
+218,Lana,09/30/2022 03:43:00 PM EDT,Exam Action,Assessed attitude: displays frequent distrust and evasiveness
+219,Lana,09/30/2022 03:43:00 PM EDT,Exam Action,"Assessed speech: rate of speech is rapid, but at an appropriate volume, and no issues with articulation"
+220,Lana,09/30/2022 03:44:00 PM EDT,Exam Action,Assessed mood and affect: frequent mood changes throughout interview; excessively expansive or cheerful affect
+221,Lana,09/30/2022 03:44:00 PM EDT,Question,do you fel anxious
+222,Lucas Callahan,09/30/2022 03:44:00 PM EDT,Response,"I'm not anxious or paranoid or whatever. I mean, I just have a really really fine-tuned sense of, like, OK, now they're coming for me, the government agents, and I have to be on the look out, 'cause no way am I being snatched up, not a chance."
+223,Lana,09/30/2022 03:46:00 PM EDT,Exam Action,"Assessed thought process: presence of rapid thinking, disorganized or illogical flow of thought, ""word salad,"" neologisms, echolalia, and clanging associations"
+224,Lana,09/30/2022 03:47:00 PM EDT,Exam Action,Assessed thought content: presence of delusions; no presence of perceptual disturbances or hallucinations
+225,Lana,09/30/2022 03:47:00 PM EDT,Exam Action,Confirmed orientation
+226,Lana,09/30/2022 03:48:00 PM EDT,Question,wha is your name and date of birth
+227,Lucas Callahan,09/30/2022 03:48:00 PM EDT,Response,"Lucas Callahan, born . . . [Mr. Callahan reports his correct date of birth.]"
+228,Lana,09/30/2022 03:48:00 PM EDT,Question,what building are you in
+229,Lucas Callahan,09/30/2022 03:48:00 PM EDT,Response,The hospital. Shadow General.
+230,Lana,09/30/2022 03:48:00 PM EDT,Question,what is the date and time
+231,Lucas Callahan,09/30/2022 03:48:00 PM EDT,Response,The date is . . . [Mr. Callahan reports the correct date and year.]
+232,Lana,09/30/2022 03:49:00 PM EDT,Exam Action,Assessed cognition
+233,Lana,09/30/2022 03:50:00 PM EDT,Question,count backwards from 100 by 7 until you get to the 60's
+234,Lucas Callahan,09/30/2022 03:50:00 PM EDT,Response,"Easy! 100, 93, 86, 79... [Mr. Callahan finishes the sequence.]"
+235,Lana,09/30/2022 03:50:00 PM EDT,Exam Action,Assessed cognition
+236,Lana,09/30/2022 03:50:00 PM EDT,Question,how are apples and oranges alike
+237,Lucas Callahan,09/30/2022 03:50:00 PM EDT,Response,"They're both fruits, of course!"
+238,Lana,09/30/2022 03:50:00 PM EDT,Question,how are a lake and an ocean alike
+239,Lucas Callahan,09/30/2022 03:50:00 PM EDT,Response,They're both bodies of water.
+240,Lana,09/30/2022 03:51:00 PM EDT,Question,how are a trumpet and a flute alike
+241,Lucas Callahan,09/30/2022 03:51:00 PM EDT,Response,They're both instruments. And they both are way underused in modern post-punk.
+242,Lana,09/30/2022 03:51:00 PM EDT,Exam Action,Assessed cognition
+243,Lana,09/30/2022 03:52:00 PM EDT,Question,"repeat and remember burger, tulip, nose, and tea"
+244,Lucas Callahan,09/30/2022 03:52:00 PM EDT,Response,"Burger, tulip, nose and tea. Yep, I got this."
+245,Lana,09/30/2022 03:52:00 PM EDT,Question,how did you celebrate your last birthday
+246,Lucas Callahan,09/30/2022 03:52:00 PM EDT,Response,"Oh, it was actually really awesome! Me and some friends did the Bake-a-Cake Blindfolded Challenge. Then we just went out to a couple of my favorite bars. It actually wasn't as rowdy as you'd think, but it was just great vibes all around."
+247,Lana,09/30/2022 03:52:00 PM EDT,Question,repeat the four words from before
+248,Lucas Callahan,09/30/2022 03:52:00 PM EDT,Response,"OK . . . burger, tulip, nose, and tea. Ha! Nailed it."
+249,Lana,09/30/2022 03:53:00 PM EDT,Question,copy the shapes exactly as you see them
+250,Lucas Callahan,09/30/2022 03:53:00 PM EDT,Response,Right on. Let's do this!
+251,Lana,09/30/2022 03:53:00 PM EDT,Exam Action,Assessed insight: demonstrates limited awareness of illness and is unwilling to seek treatment
+252,Lana,09/30/2022 03:54:00 PM EDT,Exam Action,Assessed judgment: demonstrates good judgment
+253,Lana,09/30/2022 03:54:00 PM EDT,Question,what would you do if you found a stamped envelope on the sidewalk
+254,Lucas Callahan,09/30/2022 03:54:00 PM EDT,Response,"Probably put it in a mailbox, if I saw there was one nearby."
+255,Lana,09/30/2022 03:55:00 PM EDT,Statement,thank you for your help today
+256,Lucas Callahan,09/30/2022 03:55:00 PM EDT,Response,"Hey, I appreciate the good vibes."
+257,Lana,09/30/2022 04:02:00 PM EDT,Statement,we have made this diagnosis because we want you to be safe while you are here until you are able to be seen by the provider
+258,Lucas Callahan,09/30/2022 04:02:00 PM EDT,Response,"Listen, I KNOW Im at risk for injury! Remember what I was telling you earlier, about the government agents following me because they know, in their weasely little weasel-minds, that Im an enlightened threat? So, yeah. Were on the same page."
+259,Lana,09/30/2022 04:04:00 PM EDT,Statement,"we will be placing you in a safe room and have to remove your things for now, staff will come to check on you if you need anything, we can do puzzles or write poems in the mean time while you are here,"
+260,Lucas Callahan,09/30/2022 04:04:00 PM EDT,Response,"Right, right, you gotta keep me safe like a little babe swaddled in the manger of life. Totally agree with you! Im all baby blanket and pacifier. Life is beautiful, glorious, radiant -- gotta preserve it at all costs. Im a national treasure. Kiss my feet if you want."
+261,Lana,09/30/2022 04:05:00 PM EDT,Statement,these things will help you be safe until the provider is here
+262,Lucas Callahan,09/30/2022 04:05:00 PM EDT,Response,"Yeah, lets do this thing. Im game. Youre game. All were missing are the cheerleaders. Hey, Lucas! Hes our man! If he cant do it, no one can! Rah rah rah! Sis boom bah bah bah!"

@@ -1,0 +1,257 @@
+,Participant,Timestamp,Interaction Type,Utterances
+0,Anjelia,09/29/2022 12:27:00 PM EDT,Exam Action,Assessed vitals
+1,Anjelia,09/29/2022 12:27:00 PM EDT,Exam Action,Inspected left eye
+2,Anjelia,09/29/2022 12:28:00 PM EDT,Exam Action,Inspected right eye
+3,Anjelia,09/29/2022 12:28:00 PM EDT,Exam Action,Performed otoscopic examination of right naris
+4,Anjelia,09/29/2022 12:28:00 PM EDT,Exam Action,Performed otoscopic examination of left naris
+5,Anjelia,09/29/2022 12:28:00 PM EDT,Exam Action,Inspected top of arms
+6,Anjelia,09/29/2022 12:28:00 PM EDT,Exam Action,Inspected right forearm
+7,Anjelia,09/29/2022 12:28:00 PM EDT,Exam Action,Inspected right wrist
+8,Anjelia,09/29/2022 12:29:00 PM EDT,Exam Action,Inspected left forearm
+9,Anjelia,09/29/2022 12:29:00 PM EDT,Exam Action,Inspected left wrist
+10,Anjelia,09/29/2022 12:31:00 PM EDT,Exam Action,Inspected right forearm
+11,Anjelia,09/29/2022 12:31:00 PM EDT,Exam Action,Inspected right wrist
+12,Anjelia,09/29/2022 12:32:00 PM EDT,Exam Action,Inspected left forearm
+13,Anjelia,09/29/2022 12:32:00 PM EDT,Exam Action,Inspected right forearm
+14,Anjelia,09/29/2022 12:32:00 PM EDT,Exam Action,Inspected right wrist
+15,Anjelia,09/29/2022 12:32:00 PM EDT,Exam Action,Inspected left wrist
+16,Anjelia,09/29/2022 12:32:00 PM EDT,Exam Action,Inspected left forearm
+17,Anjelia,09/29/2022 12:32:00 PM EDT,Exam Action,Inspected right forearm
+18,Anjelia,09/29/2022 12:32:00 PM EDT,Exam Action,Inspected right wrist
+19,Anjelia,09/29/2022 12:32:00 PM EDT,Exam Action,Inspected left wrist
+20,Anjelia,09/29/2022 12:33:00 PM EDT,Exam Action,Inspected chest
+21,Anjelia,09/29/2022 12:33:00 PM EDT,Exam Action,Inspected legs
+22,Anjelia,09/29/2022 12:33:00 PM EDT,Exam Action,Inspected back
+23,Anjelia,09/29/2022 12:33:00 PM EDT,Exam Action,Auscultated breath sounds
+24,Anjelia,09/29/2022 12:34:00 PM EDT,Exam Action,Auscultated heart sounds
+25,Anjelia,09/29/2022 12:35:00 PM EDT,Exam Action,Palpated abdomen
+26,Anjelia,09/29/2022 12:36:00 PM EDT,Exam Action,Palpated right and left radial pulse
+27,Anjelia,09/29/2022 12:36:00 PM EDT,Exam Action,Palpated right and left radial pulse
+28,Anjelia,09/29/2022 12:37:00 PM EDT,Exam Action,Palpated right and left dorsalis pedis pulse
+29,Anjelia,09/29/2022 12:38:00 PM EDT,Exam Action,Palpated capillary refill on right and left hand
+30,Anjelia,09/29/2022 12:39:00 PM EDT,Exam Action,Performed EKG
+31,Anjelia,09/29/2022 12:39:00 PM EDT,Exam Action,Assessed lab results
+32,Anjelia,09/29/2022 12:40:00 PM EDT,Exam Action,Assessed lab results
+33,Anjelia,09/29/2022 12:43:00 PM EDT,Exam Action,"Assessed general appearance: posture is bent or hunched, clothing is dirty and disheveled, grooming and self-care are otherwise adequate, eye contact is direct"
+34,Anjelia,09/29/2022 12:43:00 PM EDT,Exam Action,Assessed attitude: displays frequent distrust and evasiveness
+35,Anjelia,09/29/2022 12:43:00 PM EDT,Exam Action,"Assessed general appearance: posture is bent or hunched, clothing is dirty and disheveled, grooming and self-care are otherwise adequate, eye contact is direct"
+36,Anjelia,09/29/2022 12:44:00 PM EDT,Exam Action,Assessed attitude: displays frequent distrust and evasiveness
+37,Anjelia,09/29/2022 12:45:00 PM EDT,Exam Action,"Assessed speech: rate of speech is rapid, but at an appropriate volume, and no issues with articulation"
+38,Anjelia,09/29/2022 12:45:00 PM EDT,Exam Action,Assessed mood and affect: frequent mood changes throughout interview; excessively expansive or cheerful affect
+39,Anjelia,09/29/2022 12:47:00 PM EDT,Question,do you feel angry
+40,Lucas Callahan,09/29/2022 12:47:00 PM EDT,Response,"Sure, anger is a flower. I am a man of emotion. I feel everything, probably more than anybody else on earth. If a scamp interferes with my vibes, the anger blooms."
+41,Anjelia,09/29/2022 12:50:00 PM EDT,Question,do you feel anxious
+42,Lucas Callahan,09/29/2022 12:50:00 PM EDT,Response,"I'm not anxious or paranoid or whatever. I mean, I just have a really really fine-tuned sense of, like, OK, now they're coming for me, the government agents, and I have to be on the look out, 'cause no way am I being snatched up, not a chance."
+43,Anjelia,09/29/2022 12:50:00 PM EDT,Question,have you experienced any mood change
+44,Lucas Callahan,09/29/2022 12:50:00 PM EDT,Response,"Yeah, definitely. A week ago, it was like, suddenly like--you know how it feels when you slam the pedal down and there's this, like, weightless moment when the car's about to pick up? The proverbial sweet spot before going hyper-speed. Yeah. I finally feel like myself."
+45,Anjelia,09/29/2022 12:51:00 PM EDT,Question,do you fear of death 
+46,System,09/29/2022 12:51:00 PM EDT,Clarification, Are you afraid of anything?.
+47,Lucas Callahan,09/29/2022 12:51:00 PM EDT,Response,"Agents. The proverbial cat and mouse. I was looking in the cars. This one, that one. Knock on the glass. Hello! Am I Lucas Callahan? Are you an agent trying to imprison me for having pockets full of secrets? (Clarified to if I am afraid of anything.)"
+48,Anjelia,09/29/2022 12:51:00 PM EDT,Exam Action,"Assessed thought process: presence of rapid thinking, disorganized or illogical flow of thought, ""word salad,"" neologisms, echolalia, and clanging associations"
+49,Anjelia,09/29/2022 12:52:00 PM EDT,Exam Action,Assessed thought content: presence of delusions; no presence of perceptual disturbances or hallucinations
+50,Anjelia,09/29/2022 12:52:00 PM EDT,Question,has anyone told you that you have thought that dont match reality (No matching questions found.)
+51,Anjelia,09/29/2022 12:53:00 PM EDT,Question,Have you had any Suicidal Thoughts
+52,Lucas Callahan,09/29/2022 12:53:00 PM EDT,Response,"Yeah . . . yeah, when I get really depressed. But that's completely in the past, I'm just -- I -- I feel really like it's completely done, and I'm just smooth sailing here on out."
+53,Anjelia,09/29/2022 12:53:00 PM EDT,Question,do you have obsessive or intrusive thoughts?
+54,Lucas Callahan,09/29/2022 12:53:00 PM EDT,Response,do you feel hallucinations 
+55,System,09/29/2022 01:15:00 PM EDT,Clarification, Did you hallucinate?.
+56,Anjelia,09/29/2022 01:15:00 PM EDT,Question,do you feel hallucinations (Clarified to Did you hallucinate?.)
+57,Lucas Callahan,09/29/2022 01:15:00 PM EDT,Response,No. I told you what happened earlier tonight. I wasn't seeing stuff or hearing voices. This is the most clear-headed I've ever been in my life. (Clarified to if I hallucinated.)
+58,Anjelia,09/29/2022 01:16:00 PM EDT,Question,any presence of visual disturbance
+59,Lucas Callahan,09/29/2022 01:16:00 PM EDT,Response,"No, no, no. I haven't had any problems with my vision. In fact, my vision has only gotten better and better. My ability to really see what's going on around me. I'm not trapped in some dark room somewhere, just praying for sleep, I'm engaged. I'm locked in."
+60,Anjelia,09/29/2022 01:16:00 PM EDT,Exam Action,Confirmed orientation
+61,Anjelia,09/29/2022 01:17:00 PM EDT,Question,what is your name and date of birth
+62,Lucas Callahan,09/29/2022 01:17:00 PM EDT,Response,"Lucas Callahan, born . . . [Mr. Callahan reports his correct date of birth.]"
+63,Anjelia,09/29/2022 01:17:00 PM EDT,Question,what building are you in now
+64,Lucas Callahan,09/29/2022 01:17:00 PM EDT,Response,The hospital. Shadow General.
+65,Anjelia,09/29/2022 01:17:00 PM EDT,Question,What is the date in year
+66,Lucas Callahan,09/29/2022 01:17:00 PM EDT,Response,The date is . . . [Mr. Callahan reports the correct date and year.]
+67,Anjelia,09/29/2022 01:18:00 PM EDT,Exam Action,Assessed cognition
+68,Anjelia,09/29/2022 01:19:00 PM EDT,Question,count backwards from 100 by 7 until you get to the 60
+69,Lucas Callahan,09/29/2022 01:19:00 PM EDT,Response,"Easy! 100, 93, 86, 79... [Mr. Callahan finishes the sequence.]"
+70,Anjelia,09/29/2022 01:19:00 PM EDT,Exam Action,Assessed cognition
+71,Anjelia,09/29/2022 01:19:00 PM EDT,Question,How are apples and oranges alike
+72,Lucas Callahan,09/29/2022 01:19:00 PM EDT,Response,"They're both fruits, of course!"
+73,Anjelia,09/29/2022 01:20:00 PM EDT,Question,How are a lake and ocean alike
+74,Lucas Callahan,09/29/2022 01:20:00 PM EDT,Response,They're both bodies of water.
+75,Anjelia,09/29/2022 01:20:00 PM EDT,Question,How are a trumpet and a flute alike
+76,Lucas Callahan,09/29/2022 01:20:00 PM EDT,Response,They're both instruments. And they both are way underused in modern post-punk.
+77,Anjelia,09/29/2022 01:20:00 PM EDT,Exam Action,Assessed cognition
+78,Anjelia,09/29/2022 01:20:00 PM EDT,Exam Action,Assessed cognition
+79,Anjelia,09/29/2022 01:20:00 PM EDT,Question,Repeat and remember Burger tulip nose and T
+80,Lucas Callahan,09/29/2022 01:20:00 PM EDT,Response,"Burger, tulip, nose and tea. Yep, I got this."
+81,Anjelia,09/29/2022 01:21:00 PM EDT,Question,How did you celebrate your last birthday
+82,Lucas Callahan,09/29/2022 01:21:00 PM EDT,Response,"Oh, it was actually really awesome! Me and some friends did the Bake-a-Cake Blindfolded Challenge. Then we just went out to a couple of my favorite bars. It actually wasn't as rowdy as you'd think, but it was just great vibes all around."
+83,Anjelia,09/29/2022 01:21:00 PM EDT,Question,Repeat the four words from before
+84,Lucas Callahan,09/29/2022 01:21:00 PM EDT,Response,"OK . . . burger, tulip, nose, and tea. Ha! Nailed it."
+85,Anjelia,09/29/2022 01:21:00 PM EDT,Question,Copy the shape exactly as you see the
+86,Lucas Callahan,09/29/2022 01:21:00 PM EDT,Response,Right on. Let's do this!
+87,Anjelia,09/29/2022 01:22:00 PM EDT,Exam Action,Assessed insight: demonstrates limited awareness of illness and is unwilling to seek treatment
+88,Anjelia,09/29/2022 01:22:00 PM EDT,Exam Action,Assessed judgment: demonstrates good judgment
+89,Anjelia,09/29/2022 01:22:00 PM EDT,Question,how you feeling today' 
+90,System,09/29/2022 01:23:00 PM EDT,Clarification, How are your spirits today?.
+91,Lucas Callahan,09/29/2022 01:22:00 PM EDT,Response,"Probably put it in a mailbox, if I saw there was one nearby."
+92,Anjelia,09/29/2022 01:23:00 PM EDT,Question,how you feeling today' (Clarified to How are your spirits today?.)
+93,Lucas Callahan,09/29/2022 01:23:00 PM EDT,Response,how u feel your emotion 
+94,System,09/29/2022 01:25:00 PM EDT,Clarification, How have you been emotionally?.
+95,Anjelia,09/29/2022 01:24:00 PM EDT,Question,are you ok
+96,Lucas Callahan,09/29/2022 01:24:00 PM EDT,Response,"I'm feeling great. Actually, I'm like, mega great. Ha, I just thought of, like, a 20-foot-tall cheese grater. Anyway, yeah, I'm not bad or anything, I was brought here by the cops. Who doesn't love a pleasant ride in a locked car with malevolent strangers?"
+97,Anjelia,09/29/2022 01:25:00 PM EDT,Question,how u feel your emotion (Clarified to How have you been emotionally?.)
+98,Lucas Callahan,09/29/2022 01:25:00 PM EDT,Response,"About a week ago, I started feeling this pure liquid joy pooling at my feet. Levels keep rising and now I'm swimming in it! It's in my blood now. It is my blood! I'm seeing the world with angel-vision now. Oh, I'm gonna copyright that. (Clarified to how I have been emotionally.)"
+99,Anjelia,09/29/2022 01:25:00 PM EDT,Question,any substance use recently 
+100,System,09/29/2022 01:25:00 PM EDT,Clarification, Have you used any substances recently?.
+101,Lucas Callahan,09/29/2022 01:25:00 PM EDT,Response,"Nah, the smell of that stuff is nasty. I'm not about to ruin my pearly whites for some piece of burning mulch. Blech. Makes me think of someone getting off work and rolling their eyes for four hours."
+102,Anjelia,09/29/2022 01:25:00 PM EDT,Question,do you use any alcohol or drugs
+103,Lucas Callahan,09/29/2022 01:25:00 PM EDT,Response,"I do coke, I drink . . . that's really it. I like doing the same things over and over. I get in my groove with it."
+104,Anjelia,09/29/2022 01:25:00 PM EDT,Question,any substance use recently (Clarified to Have you used any substances recently?.)
+105,Lucas Callahan,09/29/2022 01:25:00 PM EDT,Response,"I'm as sober as a kitchen sink right now. I haven't done anything for like, four days. I should really call my dealer. (Clarified to if I have used substances recently.)"
+106,Anjelia,09/29/2022 01:26:00 PM EDT,Question,what is your sleeping pattern
+107,Lucas Callahan,09/29/2022 01:26:00 PM EDT,Response,"I usually only need a couple hours. These past four days? I haven't slept a wink. Not even tired. I'm the frickin' man, I know."
+108,Anjelia,09/29/2022 01:26:00 PM EDT,Question,any health problems
+109,Lucas Callahan,09/29/2022 01:26:00 PM EDT,Response,"Not really. They diagnosed me with depression, but I'm really not worried about that anymore. I'm just really not in that headspace right now."
+110,Anjelia,09/29/2022 01:26:00 PM EDT,Question,any past medical history
+111,Lucas Callahan,09/29/2022 01:26:00 PM EDT,Response,"My health is fine, OK? Like, I'm not here because of my health. The cops brought me here for lord knows what, and my only major health thing has ever been my depression, but that's six feet under now, so we're good."
+112,Anjelia,09/29/2022 01:27:00 PM EDT,Question,any home medication you have
+113,Lucas Callahan,09/29/2022 01:27:00 PM EDT,Response,"I'm not on anything these days. Stopped those antidepressants a while back. Zombie pills, honestly. Stuff is necrotic."
+114,Anjelia,09/29/2022 01:27:00 PM EDT,Question,any suicidal screening done
+115,Lucas Callahan,09/29/2022 01:27:00 PM EDT,Response,"I probably did when I saw the psychiatrist, but I'm not really sure. I try to block all that out. It's in the past, man. I'm done with all that. Never again, nope, nope, nerpitty-nerp."
+116,Anjelia,09/29/2022 01:27:00 PM EDT,Question,are you a social person
+117,Lucas Callahan,09/29/2022 01:27:00 PM EDT,Response,"Oh, I love people! This past week has been people, people, people. I had this drug dealer once--well, he must have moved or something, because I never heard from him again. But this guy had a pet ferret!"
+118,Anjelia,09/29/2022 01:28:00 PM EDT,Question,any family medical history
+119,Lucas Callahan,09/29/2022 01:28:00 PM EDT,Response,"Well, I don't know anything about my birth parents. But my actual parents are super healthy. They go for, like, jogs on the beach while talking about what sort of flaxseed goes best in kale smoothies. You can't take them anywhere."
+120,Anjelia,09/29/2022 01:29:00 PM EDT,Question,typical mood right now
+121,Lucas Callahan,09/29/2022 01:29:00 PM EDT,Response,do you feel frequent mood change 
+122,System,09/29/2022 01:30:00 PM EDT,Clarification, Do you often experience mood changes?.
+123,Anjelia,09/29/2022 01:29:00 PM EDT,Question,what is your energy level
+124,Lucas Callahan,09/29/2022 01:29:00 PM EDT,Response,"Awesome! I mean, I'm just a high energy kind of guy, a lot of the time. But this week especially I've felt, like, crazy up and up, and I love it. I just love it. I feel like I could lift a horse."
+125,Anjelia,09/29/2022 01:30:00 PM EDT,Question,what is your mood
+126,Lucas Callahan,09/29/2022 01:30:00 PM EDT,Response,I am 100% letting the good times roll. Couldn't be better.
+127,Anjelia,09/29/2022 01:30:00 PM EDT,Question,do you feel frequent mood change (Clarified to Do you often experience mood changes?.)
+128,Lucas Callahan,09/29/2022 01:30:00 PM EDT,Response,"I guess some have won. I've never felt better but--sure, there have been times when the big D-E-P cast its shadow over me. Left the Peachy King in a dark place. But then there's a depression recession and things get better. My mood can change a couple times a year, but who's marking the calendar? (Clarified to if I often experience mood changes.)"
+129,Anjelia,09/29/2022 01:30:00 PM EDT,Question,when was the last medication you took 
+130,System,09/29/2022 01:32:00 PM EDT,Clarification, When was the last time you took any medications?.
+131,Lucas Callahan,09/29/2022 01:30:00 PM EDT,Response,any side effect form medication 
+132,System,09/29/2022 01:32:00 PM EDT,Clarification, Did you experience side effects from the medication?.
+133,Anjelia,09/29/2022 01:31:00 PM EDT,Question,when was you diagnosed with depression
+134,Lucas Callahan,09/29/2022 01:31:00 PM EDT,Response,"We're dredging up this junk--well, I got diagnosed with depression like three years ago. Three little pigs. Wonder what happened to the third pig . . . I bet he got diagnosed, too. Squealer. It's like going fishing and pulling up an old boot."
+135,Anjelia,09/29/2022 01:31:00 PM EDT,Question,what is the reason for seeing psychiatrist
+136,Lucas Callahan,09/29/2022 01:31:00 PM EDT,Response,"It was like, 3 years ago, but I'm not a mathematician. Yeah, I had just tried to kill myself, so the hospital was like, talk to this idiot who knows nothing about you. I was like perfect, can't wait."
+137,Anjelia,09/29/2022 01:32:00 PM EDT,Question,how many time you dis suicide attempts 
+138,System,09/29/2022 01:33:00 PM EDT,Clarification, How many times have you attempted suicide?.
+139,Lucas Callahan,09/29/2022 01:32:00 PM EDT,Response,"Ha! Antidepressants I took, like, three years ago. I don't remember the exact date. Left my almanac at home. (Clarified to when I last took medication.)"
+140,Anjelia,09/29/2022 01:32:00 PM EDT,Question,any side effect form medication (Clarified to Did you experience side effects from the medication?.)
+141,Lucas Callahan,09/29/2022 01:32:00 PM EDT,Response,"Yeah, the antidepressos did some stuff to me. Whatever. Bullcrap little -- just -- just stupid, stupid stuff. No one needs 'em. (Clarified to if I had side effects.)"
+142,Anjelia,09/29/2022 01:32:00 PM EDT,Question,do you feel suicidal
+143,Lucas Callahan,09/29/2022 01:32:00 PM EDT,Response,"No, my god, no, that's not -- you're reading too much into things. That was a long time ago. I love my life and I'm going to live it hard. I've already wasted too much time wanting to die."
+144,Anjelia,09/29/2022 01:33:00 PM EDT,Question,what you feel like suicidal attempts
+145,Lucas Callahan,09/29/2022 01:33:00 PM EDT,Response,what is your belief that other would be better off without you 
+146,System,09/29/2022 01:35:00 PM EDT,Clarification, Tell me about the belief that others would be better off if you were dead?.
+147,Anjelia,09/29/2022 01:33:00 PM EDT,Question,do you have any suicide plan 
+148,System,09/29/2022 01:35:00 PM EDT,Clarification, Are you planning suicide?.
+149,Lucas Callahan,09/29/2022 01:33:00 PM EDT,Response,One time. That was enough. (Clarified to how many times I have attempted suicide.)
+150,Anjelia,09/29/2022 01:34:00 PM EDT,Question,how many time you try to attempt suicide
+151,Lucas Callahan,09/29/2022 01:34:00 PM EDT,Response,One time. That was enough.
+152,Anjelia,09/29/2022 01:34:00 PM EDT,Question,do you want to be death
+153,Lucas Callahan,09/29/2022 01:34:00 PM EDT,Response,"Uh . . . damn, that's a really dark place, friend, you're really gonna go there? Look, OK, OK, OK, yes, yes, that used to be -- going on. But that's what happens when you're depressed, and I'm not depressed anymore. I love being alive and I'm not going anywhere."
+154,Anjelia,09/29/2022 01:34:00 PM EDT,Question,did you have any arguments with anyone 
+155,System,09/29/2022 01:39:00 PM EDT,Clarification, Have you gotten in arguments?.
+156,Lucas Callahan,09/29/2022 01:34:00 PM EDT,Response,"No, I would definitely know if that was going on . . . but government agents were chasing me earlier."
+157,Anjelia,09/29/2022 01:35:00 PM EDT,Question,what is your belief that other would be better off without you (Clarified to Tell me about the belief that others would be better off if you were dead?.)
+158,Lucas Callahan,09/29/2022 01:35:00 PM EDT,Response,do you feel racing thoughts 
+159,System,09/29/2022 01:40:00 PM EDT,Clarification, Does your mind race?.
+160,Anjelia,09/29/2022 01:35:00 PM EDT,Question,do you have interest in any activity 
+161,System,09/29/2022 01:41:00 PM EDT,Clarification, Do you have interest in typical activities?.
+162,Lucas Callahan,09/29/2022 01:35:00 PM EDT,Response,"Aw, come on, bud, do I seem like the type? I haven't even considered planning that sort of thing since maybe 3 years ago, and that's when I actually went through it. (Clarified to if I am planning suicide.)"
+163,Anjelia,09/29/2022 01:35:00 PM EDT,Question,do you feel self harming now
+164,Lucas Callahan,09/29/2022 01:35:00 PM EDT,Response,"Not at all. You're really like, overanalyzing -- the only time I ever came close to that was at my one suicide attempt. And sure, I have those thoughts, but -- I'm really fine now, it's behind me."
+165,Anjelia,09/29/2022 01:36:00 PM EDT,Question,any homicidal urges
+166,Lucas Callahan,09/29/2022 01:36:00 PM EDT,Response,do you feel decrease in your libido 
+167,System,09/29/2022 01:44:00 PM EDT,Clarification, Has your sex drive decreased?.
+168,Anjelia,09/29/2022 01:39:00 PM EDT,Question,did got into any fight (No matching questions found.)
+169,Anjelia,09/29/2022 01:39:00 PM EDT,Question,did you have any arguments with anyone (Clarified to Have you gotten in arguments?.)
+170,Lucas Callahan,09/29/2022 01:39:00 PM EDT,Response,"Sure, if somebody's messin' with my vibes, I'll get in an argument. Vibes are sacred, no joke. (Clarified to if I have gotten into arguments.)"
+171,Anjelia,09/29/2022 01:39:00 PM EDT,Question,did felt any change in speech
+172,Lucas Callahan,09/29/2022 01:39:00 PM EDT,Response,"I mean, nah, I'm just a super quick guy in general. I like to get things done and keep 'em moving. Talk fast, walk fast, all that. What can I say, some horses weren't meant for carriages."
+173,Anjelia,09/29/2022 01:40:00 PM EDT,Question,what do you like 
+174,System,09/29/2022 01:45:00 PM EDT,Clarification, What are your hobbies?.
+175,Lucas Callahan,09/29/2022 01:40:00 PM EDT,Response,"Like a greyhound. Hyah! Hyah! But it works out great, because I'm working on this massive poem that's all about--well, it's gonna blow people's minds. (Clarified to if my mind races.)"
+176,Anjelia,09/29/2022 01:41:00 PM EDT,Question,do you have interest in any activity (Clarified to Do you have interest in typical activities?.)
+177,Lucas Callahan,09/29/2022 01:41:00 PM EDT,Response,"Heck yeah, my life is the best. There's joy everywhere. There's joy in this hospital room, not that you would know much about that. Yeah, you really just gotta keep an eye out for it, my friend. Just squint and you'll see it. (Clarified to if I have interest in typical activities.)"
+178,Anjelia,09/29/2022 01:43:00 PM EDT,Question,how is your concentrating power
+179,Lucas Callahan,09/29/2022 01:43:00 PM EDT,Response,"Oh, I've been laser-focused lately. On my poetry, that is. On my friends' projects. I told you we're thinking about making this community art center? It would be so sick. We'll see. It's all in the works."
+180,Anjelia,09/29/2022 01:44:00 PM EDT,Question,do you feel any changes in your productive hour
+181,Lucas Callahan,09/29/2022 01:44:00 PM EDT,Response,"Oh, I've been working super hard on my poem in the last week or so. It's gonna be totally epic. Probably one-thousand pages printed out. I don't even have to try, that's the crazy thing. It just comes out of me."
+182,Anjelia,09/29/2022 01:44:00 PM EDT,Question,do you feel decrease in your libido (Clarified to Has your sex drive decreased?.)
+183,Lucas Callahan,09/29/2022 01:44:00 PM EDT,Response,"No way. The past week has been a buffet of carnal love! The girls! Plus, one guy. Friends! Strangers! All that's missing was the cherry on top. (Clarified to if my sex drive is lower.)"
+184,Anjelia,09/29/2022 01:44:00 PM EDT,Question,what you love spending time on any habit you love (No matching questions found.)
+185,Anjelia,09/29/2022 01:44:00 PM EDT,Question,what you love spending time on (No matching questions found.)
+186,Anjelia,09/29/2022 01:45:00 PM EDT,Question,diet and appetite change 
+187,System,09/29/2022 01:47:00 PM EDT,Clarification, How is your diet and appetite doing?.
+188,Anjelia,09/29/2022 01:45:00 PM EDT,Question,which activity you love to spend time on (No matching questions found.)
+189,Anjelia,09/29/2022 01:45:00 PM EDT,Question,what you love to do (No matching questions found.)
+190,Anjelia,09/29/2022 01:45:00 PM EDT,Question,what do you like (Clarified to What are your hobbies?.)
+191,Lucas Callahan,09/29/2022 01:45:00 PM EDT,Response,"I've always been super interested in literature, like making meaning of the world we live in. Kinda of bleeds into my philosophical meanderings you know. The epic poem I'm working on is super exciting, like world-changing kind of stuff. Forget your chicken scratch is all I'm saying. (Clarified to what hobbies I have.)"
+192,Anjelia,09/29/2022 01:46:00 PM EDT,Question,any alcohol use
+193,Lucas Callahan,09/29/2022 01:46:00 PM EDT,Response,"Yeah, like everyone on earth. There's nothing unnatural about drinking potato juice. That's what it is, you know."
+194,Anjelia,09/29/2022 01:46:00 PM EDT,Question,do you still drink alcohol
+195,Lucas Callahan,09/29/2022 01:46:00 PM EDT,Response,"Yeah, like everyone on earth. There's nothing unnatural about drinking potato juice. That's what it is, you know."
+196,Anjelia,09/29/2022 01:46:00 PM EDT,Question,do you drink alcohol now
+197,Lucas Callahan,09/29/2022 01:46:00 PM EDT,Response,"Yeah, like everyone on earth. There's nothing unnatural about drinking potato juice. That's what it is, you know."
+198,Anjelia,09/29/2022 01:46:00 PM EDT,Question,how is your apatite now (No matching questions found.)
+199,Anjelia,09/29/2022 01:47:00 PM EDT,Question,how much fluid you take
+200,Lucas Callahan,09/29/2022 01:47:00 PM EDT,Response,"Uh, I don't keep track, I'm not a marine biologist. What am I, a marine biologist? Hah. Just, like, writing down how much water I drink. That's -- that's hilarious. Like some loser with too many water bottles. Anyway, I dunno. A glass here or there, probably once a day-ish."
+201,Anjelia,09/29/2022 01:47:00 PM EDT,Question,how is your relationship with parents 
+202,System,09/29/2022 01:49:00 PM EDT,Clarification, How do you get along with your parents?.
+203,Lucas Callahan,09/29/2022 01:47:00 PM EDT,Response,"Oh, that stuff's for squares and yuppies, man. I stay away."
+204,Anjelia,09/29/2022 01:47:00 PM EDT,Question,diet and appetite change (Clarified to How is your diet and appetite doing?.)
+205,Lucas Callahan,09/29/2022 01:47:00 PM EDT,Response,when was last time you has alcohol 
+206,System,09/29/2022 01:50:00 PM EDT,Clarification, When did you last drink alcohol?.
+207,Anjelia,09/29/2022 01:48:00 PM EDT,Question,what is your transportation method
+208,Lucas Callahan,09/29/2022 01:48:00 PM EDT,Response,"Oh, how do I get around? I'm cruising the streets in my car. I got it when I turned sixteen and that thing's like a brother to me."
+209,Anjelia,09/29/2022 01:48:00 PM EDT,Question,do you work
+210,Lucas Callahan,09/29/2022 01:48:00 PM EDT,Response,do you keep your nails clean 
+211,System,09/29/2022 01:51:00 PM EDT,Clarification, Do you have problems with your fingernails?.
+212,Anjelia,09/29/2022 01:48:00 PM EDT,Question,how may time you go to restroom 
+213,System,09/29/2022 01:51:00 PM EDT,Clarification, How often do you use the bathroom?.
+214,Anjelia,09/29/2022 01:48:00 PM EDT,Question,have you had any legal troubles
+215,Lucas Callahan,09/29/2022 01:48:00 PM EDT,Response,"Not at all! I'm the patron saint of innocence! Hah. No, really though, I've never gotten so much as a ticket."
+216,Anjelia,09/29/2022 01:48:00 PM EDT,Question,do you live with parents
+217,Lucas Callahan,09/29/2022 01:48:00 PM EDT,Response,"Nope. My folks kicked me out 'cause they think I'm a drug addict. Great people, humanitarian awards all around."
+218,Anjelia,09/29/2022 01:49:00 PM EDT,Question,did you use cocaine 
+219,System,09/29/2022 01:53:00 PM EDT,Clarification, Where were you using cocaine?.
+220,Lucas Callahan,09/29/2022 01:49:00 PM EDT,Response,"I'm on my parents' insurance. They take care of all that junk. Paperwork, whatever. Boring."
+221,Anjelia,09/29/2022 01:49:00 PM EDT,Question,what is your level of education
+222,Lucas Callahan,09/29/2022 01:49:00 PM EDT,Response,how many hour did you sleep 
+223,System,09/29/2022 01:54:00 PM EDT,Clarification, How many hours a night have you been sleeping this week?.
+224,Anjelia,09/29/2022 01:49:00 PM EDT,Question,do you feel self harming 
+225,System,09/29/2022 01:54:00 PM EDT,Clarification, Are you still wanting to harm yourself?.
+226,Lucas Callahan,09/29/2022 01:49:00 PM EDT,Response,"Honestly, who cares? Our relationship is all jacked up because they think I'm a cokehead, which I'm not, just look at me, this productive member of society, and they're like ""get yourself to rehab"" and I just shrug my shoulders and sigh. (Clarified to how I get along with my parents.)"
+227,Anjelia,09/29/2022 01:50:00 PM EDT,Question,any history of abuse
+228,Lucas Callahan,09/29/2022 01:50:00 PM EDT,Response,"Dang, are you serious?! No, not at all. Dang, what a wet blanket question. No, that's never happened to me. Dang. Screwin' up the vibes."
+229,Anjelia,09/29/2022 01:50:00 PM EDT,Question,when was last time you has alcohol (Clarified to When did you last drink alcohol?.)
+230,Lucas Callahan,09/29/2022 01:50:00 PM EDT,Response,"Maybe a week ago? I dunno. I did coke like, four days ago. Raucous caucus. (Clarified to when I last drank alcohol.)"
+231,Anjelia,09/29/2022 01:51:00 PM EDT,Question,any cardiovascular disease
+232,Lucas Callahan,09/29/2022 01:51:00 PM EDT,Response,"There are no bats in my chest cave, if that's what's flying around in your head."
+233,Anjelia,09/29/2022 01:51:00 PM EDT,Question,how do you ace for your hair (No matching questions found.)
+234,Anjelia,09/29/2022 01:51:00 PM EDT,Question,do you keep your nails clean (Clarified to Do you have problems with your fingernails?.)
+235,Lucas Callahan,09/29/2022 01:51:00 PM EDT,Response,The world would be lucky to have nails like mine. They are shiny and smooth and satisfying to graze over my lips. Foshizz! (Clarified to if I have problems with my nails.)
+236,Anjelia,09/29/2022 01:51:00 PM EDT,Question,how may time you go to restroom (Clarified to How often do you use the bathroom?.)
+237,Lucas Callahan,09/29/2022 01:51:00 PM EDT,Response,"Sure, I go with the flow. Wouldn't be the Peachy King of Vibeville otherwise--not to be mistaken with Vibetown. (Clarified to how often I use the bathroom.)"
+238,Anjelia,09/29/2022 01:52:00 PM EDT,Question,when was you last bowel movement
+239,Lucas Callahan,09/29/2022 01:52:00 PM EDT,Response,Mmm . . . yesterday? Let's go with that.
+240,Anjelia,09/29/2022 01:52:00 PM EDT,Question,do you have any gastrointestinal problems
+241,Lucas Callahan,09/29/2022 01:52:00 PM EDT,Response,"My stomach, otherwise known as Callahan's Gastropub, has a big A in the front window. Looks good and feels great."
+242,Anjelia,09/29/2022 01:53:00 PM EDT,Question,did you use cocaine (Clarified to Where were you using cocaine?.)
+243,Lucas Callahan,09/29/2022 01:53:00 PM EDT,Response,Me and my friend Delilah did some at her place just 'cause it was one of those nights. It was a blast. Mikey eventually came over but his vibes were off so he had to bounce. I told him that. (Clarified to where I was doing coke.)
+244,Anjelia,09/29/2022 01:53:00 PM EDT,Question,how is your energy level
+245,Lucas Callahan,09/29/2022 01:53:00 PM EDT,Response,"Awesome! I mean, I'm just a high energy kind of guy, a lot of the time. But this week especially I've felt, like, crazy up and up, and I love it. I just love it. I feel like I could lift a horse."
+246,Anjelia,09/29/2022 01:54:00 PM EDT,Question,how many hour did you sleep (Clarified to How many hours a night have you been sleeping this week?.)
+247,Lucas Callahan,09/29/2022 01:54:00 PM EDT,Response,"None! Well, not for the past four days. It's awesome. (Clarified to how many hours a night I have been sleeping this week.)"
+248,Anjelia,09/29/2022 01:54:00 PM EDT,Question,do you feel self harming (Clarified to Are you still wanting to harm yourself?.)
+249,Lucas Callahan,09/29/2022 01:54:00 PM EDT,Response,"Not at all. You're really like, overanalyzing -- the only time I ever came close to that was at my one suicide attempt. And sure, I have those thoughts, but -- I'm really fine now, it's behind me. (Clarified to if I still want to harm myself.)"
+250,Anjelia,09/29/2022 01:58:00 PM EDT,Statement,i am trying to help you to make a plan that will help you form preventing injury to slef
+251,Lucas Callahan,09/29/2022 01:58:00 PM EDT,Response,"Listen, I KNOW Im at risk for injury! Remember what I was telling you earlier, about the government agents following me because they know, in their weasely little weasel-minds, that Im an enlightened threat? So, yeah. Were on the same page."
+252,Anjelia,09/29/2022 02:00:00 PM EDT,Statement,I am trying to help you out and make a plan where you will be able to calm self and think positive about self.
+253,Lucas Callahan,09/29/2022 02:00:00 PM EDT,Response,"Right, right, you gotta keep me safe like a little babe swaddled in the manger of life. Totally agree with you! Im all baby blanket and pacifier. Life is beautiful, glorious, radiant -- gotta preserve it at all costs. Im a national treasure. Kiss my feet if you want."
+254,Anjelia,09/29/2022 02:01:00 PM EDT,Statement,i am making a care plan so will you allow me  to work on it
+255,Lucas Callahan,09/29/2022 02:01:00 PM EDT,Response,"Yeah, lets do this thing. Im game. Youre game. All were missing are the cheerleaders. Hey, Lucas! Hes our man! If he cant do it, no one can! Rah rah rah! Sis boom bah bah bah!"

@@ -1,0 +1,172 @@
+,Participant,Timestamp,Interaction Type,Utterances
+0,Sunayana,09/28/2022 11:28:00 AM EDT,Exam Action,Assessed vitals
+1,Sunayana,09/28/2022 11:28:00 AM EDT,Exam Action,Assessed IV bag
+2,Sunayana,09/28/2022 11:29:00 AM EDT,Exam Action,Assessed IV pump
+3,Sunayana,09/28/2022 11:29:00 AM EDT,Exam Action,Assessed IV site
+4,Sunayana,09/28/2022 11:29:00 AM EDT,Exam Action,"Assessed urine quality: clear, dark yellow, no noticeable odor"
+5,Sunayana,09/28/2022 11:30:00 AM EDT,Exam Action,Checked Patient Wristbands: All information is correct
+6,Sunayana,09/28/2022 11:30:00 AM EDT,Question,Do you feel safe in your home?
+7,Regina Walker,09/28/2022 11:30:00 AM EDT,Response,"Of course, I've never felt threatened at home."
+8,Sunayana,09/28/2022 11:31:00 AM EDT,Question,Has anyone taken advantage of your finances?
+9,Regina Walker,09/28/2022 11:31:00 AM EDT,Response,"No, no one in my family would ever steal from me . . . they would never do that. My husband is the one responsible for my . . . for my will, and our finances. I trust him unconditionally to take care of those matters."
+10,Sunayana,09/28/2022 11:32:00 AM EDT,Statement,Good.
+11,Regina Walker,09/28/2022 11:32:00 AM EDT,Response,I appreciate the sympathy.
+12,Sunayana,09/28/2022 11:32:00 AM EDT,Question,Has anyone withheld food or care form you? 
+13,System,09/28/2022 11:32:00 AM EDT,Clarification, Has anyone withheld food or care from you?.
+14,Regina Walker,09/28/2022 11:32:00 AM EDT,Response,All of my needs are being met . . . my husband would never neglect me. He takes such good care of me and does the best he can to make sure I am comfortable. (Clarified to if anyone has withheld food or care from me.)
+15,Sunayana,09/28/2022 11:33:00 AM EDT,Statement,Good to hear that.
+16,Regina Walker,09/28/2022 11:33:00 AM EDT,Response,Thank you for saying that. Really.
+17,Sunayana,09/28/2022 11:33:00 AM EDT,Question,Is there any abuse or neglect you would like to tell me about?
+18,Regina Walker,09/28/2022 11:33:00 AM EDT,Response,"No. I'm not being abused. My family treats me very well, and they would never hurt me."
+19,Sunayana,09/28/2022 11:34:00 AM EDT,Exam Action,Inspected left eye: Sclera - icterus
+20,Sunayana,09/28/2022 11:34:00 AM EDT,Exam Action,Inspected right eye: Sclera - icterus
+21,Sunayana,09/28/2022 11:34:00 AM EDT,Exam Action,Inspected mouth
+22,Sunayana,09/28/2022 11:35:00 AM EDT,Exam Action,Inspected front of neck and face: jaundice
+23,Sunayana,09/28/2022 11:35:00 AM EDT,Exam Action,Inspected chest and abdomen
+24,Sunayana,09/28/2022 11:35:00 AM EDT,Exam Action,Inspected front of thighs and knees
+25,Sunayana,09/28/2022 11:35:00 AM EDT,Exam Action,Inspected front of shins and top of feet
+26,Sunayana,09/28/2022 11:35:00 AM EDT,Exam Action,Inspected front of left hand and arm
+27,Sunayana,09/28/2022 11:35:00 AM EDT,Exam Action,Inspected front of right hand and arm
+28,Sunayana,09/28/2022 11:35:00 AM EDT,Exam Action,Inspected back of neck and upper back
+29,Sunayana,09/28/2022 11:35:00 AM EDT,Exam Action,Inspected lower back and hips
+30,Sunayana,09/28/2022 11:35:00 AM EDT,Exam Action,Inspected back of thighs and knees
+31,Sunayana,09/28/2022 11:35:00 AM EDT,Exam Action,Inspected calves and heel
+32,Sunayana,09/28/2022 11:35:00 AM EDT,Exam Action,Inspected back of right hand and arm
+33,Sunayana,09/28/2022 11:35:00 AM EDT,Exam Action,Inspected back of left hand and arm
+34,Sunayana,09/28/2022 11:36:00 AM EDT,Exam Action,Auscultated carotids
+35,Sunayana,09/28/2022 11:36:00 AM EDT,Exam Action,Auscultated breath sounds
+36,Sunayana,09/28/2022 11:36:00 AM EDT,Exam Action,Auscultated heart sounds
+37,Sunayana,09/28/2022 11:36:00 AM EDT,Exam Action,Auscultated bowel sounds
+38,Sunayana,09/28/2022 11:36:00 AM EDT,Exam Action,Palpated abdomen with light pressure
+39,Sunayana,09/28/2022 11:37:00 AM EDT,Exam Action,Palpated abdomen with deep pressure
+40,Sunayana,09/28/2022 11:37:00 AM EDT,Exam Action,Palpated bladder
+41,Sunayana,09/28/2022 11:37:00 AM EDT,Question,"Repeat and remember apple, penny and table."
+42,Regina Walker,09/28/2022 11:37:00 AM EDT,Response,"Apple, penny, and table."
+43,Sunayana,09/28/2022 11:38:00 AM EDT,Question,Can you repeat the three words I asked you to remember earlier?
+44,Regina Walker,09/28/2022 11:38:00 AM EDT,Response,"Apple, penny, and table."
+45,Sunayana,09/28/2022 11:38:00 AM EDT,Exam Action,Tested cognition
+46,Sunayana,09/28/2022 11:38:00 AM EDT,Exam Action,Tested skin turgor
+47,Sunayana,09/28/2022 11:38:00 AM EDT,Exam Action,Tested capillary refill
+48,Sunayana,09/28/2022 11:39:00 AM EDT,Question,What are your main cause of hospitalization?
+49,Regina Walker,09/28/2022 11:39:00 AM EDT,Response,"Can you tell me where are you, what time it is and the date and day "
+50,System,09/28/2022 11:40:00 AM EDT,Clarification, What is todays date?.
+51,Sunayana,09/28/2022 11:40:00 AM EDT,Question,"Can you tell me where are you, what time it is and the date and day (Clarified to What is todays date?.)"
+52,Regina Walker,09/28/2022 11:40:00 AM EDT,Response,It's . . . [Ms. Walker reports the correct date.] (Clarified to what today's date is.)
+53,Sunayana,09/28/2022 11:41:00 AM EDT,Question,Can you tell me how much you drink water?
+54,Regina Walker,09/28/2022 11:41:00 AM EDT,Response,This week it's been quite low. I just haven't been very thirsty these days.
+55,Sunayana,09/28/2022 11:41:00 AM EDT,Question,What is the most recent meal? 
+56,System,09/28/2022 11:41:00 AM EDT,Clarification, What was your last meal like?.
+57,Regina Walker,09/28/2022 11:41:00 AM EDT,Response,It's been normal as far as I can tell.
+58,Sunayana,09/28/2022 11:41:00 AM EDT,Question,What is the most recent meal? (Clarified to What was your last meal like?.)
+59,Regina Walker,09/28/2022 11:41:00 AM EDT,Response,"Let's see, I had a few bites of yogurt last night before bed... I think that was the last time I had anything. (Clarified to what my last meal was.)"
+60,Sunayana,09/28/2022 11:42:00 AM EDT,Question,What is your preferences for hospice care?
+61,Regina Walker,09/28/2022 11:42:00 AM EDT,Response,I want to allow things to take their course . . . it's time for me to stop fighting and just enjoy the time I have left in what little ways I can. My husband and I have chosen an assisted living residence near my home where I'll go for hospice care. I have been told that they can help me with the pain there .  . . and it's close enough that my husband can be with me.
+62,Sunayana,09/28/2022 11:43:00 AM EDT,Statement,Thats nice of you.
+63,Regina Walker,09/28/2022 11:43:00 AM EDT,Response,Thank you. Your kindness is felt.
+64,Sunayana,09/28/2022 11:43:00 AM EDT,Question,Do you have any pain?
+65,Regina Walker,09/28/2022 11:43:00 AM EDT,Response,"Yes, even now I know the pain's there. It's been dulled, but it's certainly not gone."
+66,Sunayana,09/28/2022 11:43:00 AM EDT,Question,Can you rate the pain from 0/10
+67,Regina Walker,09/28/2022 11:43:00 AM EDT,Response,What is the characteristics of pain? 
+68,System,09/28/2022 11:44:00 AM EDT,Clarification, Can you describe your pain?.
+69,Sunayana,09/28/2022 11:43:00 AM EDT,Question,Can you tell the location?
+70,Regina Walker,09/28/2022 11:43:00 AM EDT,Response,"Well, everywhere really . . . These past days I've felt it mostly in my ribs and legs but even my bones hurt."
+71,Sunayana,09/28/2022 11:44:00 AM EDT,Question,What is the characteristics of pain? (Clarified to Can you describe your pain?.)
+72,Regina Walker,09/28/2022 11:44:00 AM EDT,Response,"I can feel it all over my body . . . It's a sharp pain in my bones, my legs, and my ribs. It's been getting much worse over the past two days. (Clarified to what the pain is like.)"
+73,Sunayana,09/28/2022 11:44:00 AM EDT,Question,What is the aggravating factors of pain?
+74,Regina Walker,09/28/2022 11:44:00 AM EDT,Response,"Nothing makes the pain worse, nothing makes it better. It's just constant and relentless."
+75,Sunayana,09/28/2022 11:44:00 AM EDT,Question,Can you tell me the treatment and relieving factors of pain? (No matching questions found.)
+76,Sunayana,09/28/2022 11:45:00 AM EDT,Question,What do you do to treat the pain?
+77,Regina Walker,09/28/2022 11:45:00 AM EDT,Response,I have some pain medication I take for it at home that usually does the trick. Not this time though.
+78,Sunayana,09/28/2022 11:45:00 AM EDT,Statement,oh ok
+79,Regina Walker,09/28/2022 11:45:00 AM EDT,Response,"Yes, thanks very much."
+80,Sunayana,09/28/2022 11:45:00 AM EDT,Question,Do you have any allergies?
+81,Regina Walker,09/28/2022 11:45:00 AM EDT,Response,"Well, I don't have allergies to anything but penicillin. I told them right when I arrived."
+82,Sunayana,09/28/2022 11:45:00 AM EDT,Question,Do you have penicillin allergy?
+83,Regina Walker,09/28/2022 11:45:00 AM EDT,Response,"Yes, I'm allergic to penicillin. I got a rash from it once as a child."
+84,Sunayana,09/28/2022 11:46:00 AM EDT,Question,Do you take any home medication?
+85,Regina Walker,09/28/2022 11:46:00 AM EDT,Response,I take two types of morphine at home every day and I also manage my hypertension with Hyzaar.
+86,Sunayana,09/28/2022 11:47:00 AM EDT,Question,How long you have begin taking morphine?
+87,Regina Walker,09/28/2022 11:47:00 AM EDT,Response,I've been taking morphine for about six months. That's when the cancer had spread to my bones and the pain was intensifying.
+88,Sunayana,09/28/2022 11:48:00 AM EDT,Statement,"Morphine can cause dependence so, consult with the physician about alternative way of pain treatment."
+89,Regina Walker,09/28/2022 11:48:00 AM EDT,Response,Thanks. Perhaps that could help me.
+90,Sunayana,09/28/2022 11:48:00 AM EDT,Question,can you tell me about the long acting morphine?
+91,Regina Walker,09/28/2022 11:48:00 AM EDT,Response,I've been taking morphine for about six months. That's when the cancer had spread to my bones and the pain was intensifying.
+92,Sunayana,09/28/2022 11:48:00 AM EDT,Question,Do you have any changes in your eye? 
+93,System,09/28/2022 11:56:00 AM EDT,Clarification, Has your vision changed?.
+94,Regina Walker,09/28/2022 11:48:00 AM EDT,Response,"Usually I take the long-acting morphine every 12 hours, and the immediate release whenever the pain gets to be too much."
+95,Sunayana,09/28/2022 11:49:00 AM EDT,Question,Do you use any substances?
+96,Regina Walker,09/28/2022 11:49:00 AM EDT,Response,"No, I do not."
+97,Sunayana,09/28/2022 11:56:00 AM EDT,Question,Do you have any changes in your eye? (Clarified to Has your vision changed?.)
+98,Regina Walker,09/28/2022 11:56:00 AM EDT,Response,"I usually have a little trouble seeing, but that's not a new development and I wear glasses for it. (Clarified to if my vision has changed.)"
+99,Sunayana,09/28/2022 11:57:00 AM EDT,Question,Do you have any difficulty in breathing?
+100,Regina Walker,09/28/2022 11:57:00 AM EDT,Response,"No, I don't have any breathing difficulties."
+101,Sunayana,09/28/2022 11:57:00 AM EDT,Question,Do you  have any heart problem?/
+102,Regina Walker,09/28/2022 11:57:00 AM EDT,Response,"No, I've never had heart trouble."
+103,Sunayana,09/28/2022 11:57:00 AM EDT,Question,Do you have any stomach issues?
+104,Regina Walker,09/28/2022 11:57:00 AM EDT,Response,"It's a constant sort of pain in my stomach, along with this full feeling. It only felt bad in the past few days, really."
+105,Sunayana,09/28/2022 11:57:00 AM EDT,Question,Do you have constipation?
+106,Regina Walker,09/28/2022 11:57:00 AM EDT,Response,"Yes, I've had constipation recently."
+107,Sunayana,09/28/2022 11:58:00 AM EDT,Statement,to help constipation plenty of water and fibers food can be taken.
+108,Regina Walker,09/28/2022 11:58:00 AM EDT,Response,I appreciate the information.
+109,Sunayana,09/28/2022 11:58:00 AM EDT,Statement,It will help you.
+110,Regina Walker,09/28/2022 11:58:00 AM EDT,Response,I appreciate the good will.
+111,Sunayana,09/28/2022 11:58:00 AM EDT,Question,How long you be constipated?
+112,Regina Walker,09/28/2022 11:58:00 AM EDT,Response,"Well, I've been constipated for about four days now, I can't seem to make anything happen there."
+113,Sunayana,09/28/2022 11:59:00 AM EDT,Question,Do you have any nerve pain?
+114,Regina Walker,09/28/2022 11:59:00 AM EDT,Response,I don't have any nerve pain.
+115,Sunayana,09/28/2022 11:59:00 AM EDT,Question,Do you have any psychological change?
+116,Regina Walker,09/28/2022 11:59:00 AM EDT,Response,who help you dress up? 
+117,System,09/28/2022 12:00:00 PM EDT,Clarification, Are you able to dress yourself and fasten buttons without help?.
+118,Sunayana,09/28/2022 12:00:00 PM EDT,Question,Do you feel depress?
+119,Regina Walker,09/28/2022 12:00:00 PM EDT,Response,"I have my ups and downs. Nothing so down I'd call depression, though."
+120,Sunayana,09/28/2022 12:00:00 PM EDT,Question,Can you tell me your bathing habits
+121,Regina Walker,09/28/2022 12:00:00 PM EDT,Response,"I don't bathe on my own anymore. My husband helps me, especially with getting in and out of the shower, and we have a shower bench that I sit on."
+122,Sunayana,09/28/2022 12:00:00 PM EDT,Question,who help you dress up? (Clarified to Are you able to dress yourself and fasten buttons without help?.)
+123,Regina Walker,09/28/2022 12:00:00 PM EDT,Response,"Yes, buttons and zippers aren't any trouble for me. (Clarified to if I am able to dress myself including fasteners.)"
+124,Sunayana,09/28/2022 12:01:00 PM EDT,Question,Do you use any device to transfer yourself?
+125,Regina Walker,09/28/2022 12:01:00 PM EDT,Response,"No, I don't use any sort of cane or walker. My husband helps me if I have trouble getting up."
+126,Sunayana,09/28/2022 12:01:00 PM EDT,Question,Do you have incontinence?
+127,Regina Walker,09/28/2022 12:01:00 PM EDT,Response,"I'm still in control of my bladder and bowels, thankfully."
+128,Sunayana,09/28/2022 12:01:00 PM EDT,Question,Do you have recent falls? 
+129,System,09/28/2022 12:02:00 PM EDT,Clarification, Have you fallen recently?.
+130,Regina Walker,09/28/2022 12:01:00 PM EDT,Response,What is the condition of your skin? 
+131,System,09/28/2022 12:02:00 PM EDT,Clarification, How is your skin?.
+132,Sunayana,09/28/2022 12:01:00 PM EDT,Question,What is your sleeping patterns?
+133,Regina Walker,09/28/2022 12:01:00 PM EDT,Response,I'll take my medication before bed generally and just try to get what sleep I can. My quality of sleep has been quite poor lately though.
+134,Sunayana,09/28/2022 12:02:00 PM EDT,Question,Do you feel confused?
+135,Regina Walker,09/28/2022 12:02:00 PM EDT,Response,"No, not currently."
+136,Sunayana,09/28/2022 12:02:00 PM EDT,Question,Do you have recent falls? (Clarified to Have you fallen recently?.)
+137,Regina Walker,09/28/2022 12:02:00 PM EDT,Response,"No, I haven't had any recent falls. (Clarified to if I have fallen recently.)"
+138,Sunayana,09/28/2022 12:02:00 PM EDT,Question,What is the condition of your skin? (Clarified to How is your skin?.)
+139,Regina Walker,09/28/2022 12:02:00 PM EDT,Response,I have noticed that my skin has felt slightly thin. (Clarified to how my skin is.)
+140,Sunayana,09/28/2022 12:03:00 PM EDT,Question,What is the effects of health on your social activity? 
+141,System,09/28/2022 12:04:00 PM EDT,Clarification, Do your health problems affect your social life?.
+142,Regina Walker,09/28/2022 12:03:00 PM EDT,Response,"Yes, I've lost a bit of weight in the past two months or so."
+143,Sunayana,09/28/2022 12:03:00 PM EDT,Question,Can you tell me about the oral hygiene?
+144,Regina Walker,09/28/2022 12:03:00 PM EDT,Response,I can take care of my teeth just fine.
+145,Sunayana,09/28/2022 12:03:00 PM EDT,Question,Do you have dental problems?
+146,Regina Walker,09/28/2022 12:03:00 PM EDT,Response,"No, I don't have any problems with my mouth, jaw, or teeth."
+147,Sunayana,09/28/2022 12:04:00 PM EDT,Question,Has your appetite change recently?
+148,Regina Walker,09/28/2022 12:04:00 PM EDT,Response,"My appetite has been rather small lately, I haven't been eating too much for the last months."
+149,Sunayana,09/28/2022 12:04:00 PM EDT,Question,What is the effects of health on your social activity? (Clarified to Do your health problems affect your social life?.)
+150,Regina Walker,09/28/2022 12:04:00 PM EDT,Response,"Yes, it certainly does. I love that we get plenty of visitors at our house, but it's hard for me even to get up and see them sometimes. (Clarified to if my health problems affect my social life.)"
+151,Sunayana,09/28/2022 12:04:00 PM EDT,Statement,Awwa its sad to hear that.
+152,Regina Walker,09/28/2022 12:04:00 PM EDT,Response,"Yes, thanks very much."
+153,Sunayana,09/28/2022 12:05:00 PM EDT,Question,What is your perception of health?
+154,Regina Walker,09/28/2022 12:05:00 PM EDT,Response,I'd say my health is poor in general. I'm quite aware of the situation I'm in.
+155,Sunayana,09/28/2022 12:05:00 PM EDT,Question,Any past medical histor?
+156,Regina Walker,09/28/2022 12:05:00 PM EDT,Response,"Yes, I have stage IV breast cancer and hypertension."
+157,Sunayana,09/28/2022 12:05:00 PM EDT,Question,Any surgical history?
+158,Regina Walker,09/28/2022 12:05:00 PM EDT,Response,"I had a mastectomy about 5 years ago for the cancer, and before that a hernia repair surgery."
+159,Sunayana,09/28/2022 12:06:00 PM EDT,Question,Do you fell tiredness?
+160,Regina Walker,09/28/2022 12:06:00 PM EDT,Response,"I don't think I've had any particularly bad falls, and I like to keep it that way."
+161,Sunayana,09/28/2022 12:06:00 PM EDT,Question,what is your energy level?
+162,Regina Walker,09/28/2022 12:06:00 PM EDT,Response,I've been feeling weak most of the time for the past few months.
+163,Sunayana,09/28/2022 12:07:00 PM EDT,Question,What is the recent ER visit or hospitalization?
+164,Regina Walker,09/28/2022 12:07:00 PM EDT,Response,"No, I haven't been to the hospital for around three months."
+165,Sunayana,09/28/2022 12:08:00 PM EDT,Statement,Well thabk you for cooperation.
+166,Regina Walker,09/28/2022 12:08:00 PM EDT,Response,I appreciate the sympathy.
+167,Sunayana,09/28/2022 12:11:00 PM EDT,Statement,the goal is to learn effective coping machinist as you have pain.
+168,Regina Walker,09/28/2022 12:11:00 PM EDT,Response,I understand what you're saying. Thank you.
+169,Sunayana,09/28/2022 12:11:00 PM EDT,Statement,Do I have conset to the care plan?
+170,Regina Walker,09/28/2022 12:11:00 PM EDT,Response,I consent. You can begin now.
