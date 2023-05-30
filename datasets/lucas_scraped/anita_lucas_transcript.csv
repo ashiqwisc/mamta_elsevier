@@ -1,187 +1,172 @@
 ,Participant,Timestamp,Interaction Type,Utterances
 0,Anita,10/02/2022 11:41:00 AM EDT,Greet,Hi chen how are you?
 1,Lucas Callahan,10/02/2022 11:41:00 AM EDT,Response,Hey! What's up?
-2,Anita,10/02/2022 11:42:00 AM EDT,Question,how you feeling today? 
-3,System,10/02/2022 11:42:00 AM EDT,Clarification, How do you feel?.
-4,Lucas Callahan,10/02/2022 11:42:00 AM EDT,Response,"I'm feeling great. Actually, I'm like, mega great. Ha, I just thought of, like, a 20-foot-tall cheese grater. Anyway, yeah, I'm not bad or anything, I was brought here by the cops. Who doesn't love a pleasant ride in a locked car with malevolent strangers? (Clarified to how I am feeling.)"
-5,Anita,10/02/2022 11:45:00 AM EDT,Question,do you have any anxiety?
-6,Lucas Callahan,10/02/2022 11:45:00 AM EDT,Response,"I'm not anxious or paranoid or whatever. I mean, I just have a really really fine-tuned sense of, like, OK, now they're coming for me, the government agents, and I have to be on the look out, 'cause no way am I being snatched up, not a chance."
-7,Anita,10/02/2022 11:46:00 AM EDT,Question,who are coming from government agents?
-8,Lucas Callahan,10/02/2022 11:46:00 AM EDT,Response,"Are you kidding me? I'm an enlightened soul and I know what they're doing to this country. They wanna stop me from releasing their secrets. Well, you can't outrun an outrunner."
-9,Anita,10/02/2022 11:47:00 AM EDT,Question,any hallucinations?
-10,Lucas Callahan,10/02/2022 11:47:00 AM EDT,Response,any drug abuse? 
-11,System,10/02/2022 11:47:00 AM EDT,Clarification, Do you abuse any substances?.
-12,Anita,10/02/2022 11:47:00 AM EDT,Question,any drug abuse? (Clarified to Do you abuse any substances?.)
-13,Lucas Callahan,10/02/2022 11:47:00 AM EDT,Response,"I wouldn't go that far, but I definitely like to party. I mean, what's life about, a little harmonica, a little jazz hands . . . (Clarified to if I abuse substances.)"
-14,Anita,10/02/2022 11:47:00 AM EDT,Question,any past medical history?
-15,Lucas Callahan,10/02/2022 11:47:00 AM EDT,Response,"My health is fine, OK? Like, I'm not here because of my health. The cops brought me here for lord knows what, and my only major health thing has ever been my depression, but that's six feet under now, so we're good."
-16,Anita,10/02/2022 11:48:00 AM EDT,Question,any home medications?
-17,Lucas Callahan,10/02/2022 11:48:00 AM EDT,Response,"I'm not on anything these days. Stopped those antidepressants a while back. Zombie pills, honestly. Stuff is necrotic."
-18,Anita,10/02/2022 11:49:00 AM EDT,Question,any plan for suicide?
-19,Lucas Callahan,10/02/2022 11:49:00 AM EDT,Response,No. What? No. It's been 3 years since I even went down that path. My only plans are to write the great American poem and be happy and kiss a lot of people. That's love.
-20,Anita,10/02/2022 11:49:00 AM EDT,Question,do you feel depressed?
-21,Lucas Callahan,10/02/2022 11:49:00 AM EDT,Response,"I mean -- now? No. I have depression or whatever, but it's been a couple months since I've felt that way, so I really don't see it coming back. I just feel too good, honestly."
-22,Anita,10/02/2022 11:49:00 AM EDT,Question,can you tell me your energy level?
-23,Lucas Callahan,10/02/2022 11:49:00 AM EDT,Response,"Awesome! I mean, I'm just a high energy kind of guy, a lot of the time. But this week especially I've felt, like, crazy up and up, and I love it. I just love it. I feel like I could lift a horse."
-24,Anita,10/02/2022 11:50:00 AM EDT,Question,can you tell me about family health history?
-25,Lucas Callahan,10/02/2022 11:50:00 AM EDT,Response,"Well, I don't know anything about my birth parents. But my actual parents are super healthy. They go for, like, jogs on the beach while talking about what sort of flaxseed goes best in kale smoothies. You can't take them anywhere."
-26,Anita,10/02/2022 11:51:00 AM EDT,Question,any recent substance use?
-27,Lucas Callahan,10/02/2022 11:51:00 AM EDT,Response,"I haven't been anything but sober for like, four days. I know I seem like I'm on something, but I'm just this way naturally."
-28,Anita,10/02/2022 11:51:00 AM EDT,Question,how is your sleep pattern?
-29,Lucas Callahan,10/02/2022 11:51:00 AM EDT,Response,"I usually only need a couple hours. These past four days? I haven't slept a wink. Not even tired. I'm the frickin' man, I know."
-30,Anita,10/02/2022 11:51:00 AM EDT,Question,any side effects of medication?
-31,Lucas Callahan,10/02/2022 11:51:00 AM EDT,Response,"Yeah, the antidepressos did some stuff to me. Whatever. Bullcrap little -- just -- just stupid, stupid stuff. No one needs 'em."
-32,Anita,10/02/2022 11:52:00 AM EDT,Question,what do you do to relief side effect?
-33,Lucas Callahan,10/02/2022 11:52:00 AM EDT,Response,"Look, if I wanted to talk about that, I would've already told you, so move on, Professor Healthcare! Jeez . . . you're givin' me some side effects, all right . . ."
-34,Anita,10/02/2022 11:53:00 AM EDT,Question,are your prescription are refill on time?
-35,Lucas Callahan,10/02/2022 11:53:00 AM EDT,Response,"Ha! As if. I'm all natural, sugarcheeks. That stuff is for pharmacists."
-36,Anita,10/02/2022 11:53:00 AM EDT,Question,can you tell me about your prescription details?
-37,Lucas Callahan,10/02/2022 11:53:00 AM EDT,Response,"All I remember is that they didn't work, they made me feel like . . . whatever, they sucked. They were--they were suck pills. That's all I remember. They were suck pills made in Sucksville and I hope they rot in Sucks Hell."
-38,Anita,10/02/2022 11:54:00 AM EDT,Question,have you ever tried suicide?
-39,Lucas Callahan,10/02/2022 11:54:00 AM EDT,Response,"Yeah. Yeah, I attempted suicide. It's so dumb. You can't get through life like that. You gotta say yes to stuff, you know?"
-40,Anita,10/02/2022 11:54:00 AM EDT,Question,how many times you have attempted suicide?
-41,Lucas Callahan,10/02/2022 11:54:00 AM EDT,Response,One time. That was enough.
-42,Anita,10/02/2022 11:55:00 AM EDT,Question,can you tell me about suicide attempts?
-43,Lucas Callahan,10/02/2022 11:55:00 AM EDT,Response,"I don't know what you want me to say, it was -- I just don't wanna talk about it, OK? I just, I don't -- just focus on the present. This is all that's going on with me."
-44,Anita,10/02/2022 11:55:00 AM EDT,Question,do you think others would feel better without you? 
-45,System,10/02/2022 11:56:00 AM EDT,Clarification, Do you think others are better off without you?.
-46,Lucas Callahan,10/02/2022 11:55:00 AM EDT,Response,what kind of thoughts you have about suicide? 
-47,System,10/02/2022 11:56:00 AM EDT,Clarification, Are you currently having thoughts of suicide?.
-48,Anita,10/02/2022 11:56:00 AM EDT,Question,do you think others would feel better without you? (Clarified to Do you think others are better off without you?.)
-49,Lucas Callahan,10/02/2022 11:56:00 AM EDT,Response,. . . No. Do I feel like that? No. That's all I care to say. No. (Clarified to if I think others are better off without me.)
-50,Anita,10/02/2022 11:56:00 AM EDT,Question,what kind of thoughts you have about suicide? (Clarified to Are you currently having thoughts of suicide?.)
-51,Lucas Callahan,10/02/2022 11:56:00 AM EDT,Response,"Nope. Not at all. My life is the best, I'm not going anywhere. I'm golden. (Clarified to if I am currently thinking of suicide.)"
-52,Anita,10/02/2022 11:57:00 AM EDT,Question,are you thinking about self-harming?
-53,Lucas Callahan,10/02/2022 11:57:00 AM EDT,Response,"Not at all. You're really like, overanalyzing -- the only time I ever came close to that was at my one suicide attempt. And sure, I have those thoughts, but -- I'm really fine now, it's behind me."
-54,Anita,10/02/2022 11:57:00 AM EDT,Question,any homicidal urges?
-55,Lucas Callahan,10/02/2022 11:57:00 AM EDT,Response,". . . Wow, what a lovely question. No, I don't. I can't believe you would even ask that."
-56,Anita,10/02/2022 11:57:00 AM EDT,Question,how about energy shift? 
-57,System,10/02/2022 11:58:00 AM EDT,Clarification, How do you feel about having all this energy?.
-58,Lucas Callahan,10/02/2022 11:57:00 AM EDT,Response,any change in mood recently? 
-59,System,10/02/2022 11:59:00 AM EDT,Clarification, Do you have sudden changes in your mood?.
-60,Anita,10/02/2022 11:58:00 AM EDT,Question,do you feel anger? 
-61,System,10/02/2022 11:59:00 AM EDT,Clarification, Do you have difficulty controlling your anger?.
-62,Lucas Callahan,10/02/2022 11:58:00 AM EDT,Response,"Yeah, I've been on the proverbial mood swing before. The depression thing happened, but now I'm good. I'm great. I'm freakin' stellar!"
-63,Anita,10/02/2022 11:58:00 AM EDT,Question,how about energy shift? (Clarified to How do you feel about having all this energy?.)
-64,Lucas Callahan,10/02/2022 11:58:00 AM EDT,Response,how about your self- concept? 
-65,System,10/02/2022 12:00:00 PM EDT,Clarification, How do you see yourself?.
-66,Anita,10/02/2022 11:59:00 AM EDT,Question,any change in mood recently? (Clarified to Do you have sudden changes in your mood?.)
-67,Lucas Callahan,10/02/2022 11:59:00 AM EDT,Response,"Yeah, I've been on the proverbial mood swing before. The depression thing happened, but now I'm good. I'm great. I'm freakin' stellar! (Clarified to if I am having mood changes.)"
-68,Anita,10/02/2022 11:59:00 AM EDT,Question,do you feel anger? (Clarified to Do you have difficulty controlling your anger?.)
-69,Lucas Callahan,10/02/2022 11:59:00 AM EDT,Response,"I get angry, but I wouldn't say it's a problem for me. I'm a peacedove, man, I'm not in fisticuffs. Words is all that gets thrown. (Clarified to if I have problems with anger.)"
-70,Anita,10/02/2022 11:59:00 AM EDT,Question,do you racing thoughts? 
-71,System,10/02/2022 12:01:00 PM EDT,Clarification, Does your mind race?.
-72,Lucas Callahan,10/02/2022 11:59:00 AM EDT,Response,"I mean, nah, I'm just a super quick guy in general. I like to get things done and keep 'em moving. Talk fast, walk fast, all that. What can I say, some horses weren't meant for carriages."
-73,Anita,10/02/2022 12:00:00 PM EDT,Question,how about your self- concept? (Clarified to How do you see yourself?.)
-74,Lucas Callahan,10/02/2022 12:00:00 PM EDT,Response,"I see myself as this visionary poet who's going to rock the world once his work is published. I see a killer head of hair that ladies just can't resist. I see an enlightened soul that shines like stained-glass. Amen, let the choir sing. (Clarified to how I see myself.)"
-75,Anita,10/02/2022 12:00:00 PM EDT,Question,what triggers on your mood change?
-76,Lucas Callahan,10/02/2022 12:00:00 PM EDT,Response,what do you do for social  involvement? 
-77,System,10/02/2022 12:03:00 PM EDT,Clarification, How do you make a living?.
-78,Anita,10/02/2022 12:01:00 PM EDT,Question,any energy shifts?
-79,Lucas Callahan,10/02/2022 12:01:00 PM EDT,Response,"Who knows what other people notice? Personally, I notice everything, but you can't expect every chump on the street to be enlightened."
-80,Anita,10/02/2022 12:01:00 PM EDT,Question,do you racing thoughts? (Clarified to Does your mind race?.)
-81,Lucas Callahan,10/02/2022 12:01:00 PM EDT,Response,"Like a greyhound. Hyah! Hyah! But it works out great, because I'm working on this massive poem that's all about--well, it's gonna blow people's minds. (Clarified to if my mind races.)"
-82,Anita,10/02/2022 12:02:00 PM EDT,Question,what is your interest?
-83,Lucas Callahan,10/02/2022 12:02:00 PM EDT,Response,Ah--through the roof! Shooting the moon!
-84,Anita,10/02/2022 12:02:00 PM EDT,Question,how much time do you spend on focusing your habits? 
-85,System,10/02/2022 12:05:00 PM EDT,Clarification, How often do you see your friends?.
-86,Lucas Callahan,10/02/2022 12:02:00 PM EDT,Response,can you teel me about your spending habits and consequences? 
-87,System,10/02/2022 12:06:00 PM EDT,Clarification, What are your spending habits like?.
-88,Anita,10/02/2022 12:03:00 PM EDT,Question,what do you do for social  involvement? (Clarified to How do you make a living?.)
-89,Lucas Callahan,10/02/2022 12:03:00 PM EDT,Response,"My proverbial living is this witch's brew of the finest poetry and a whole lotta hang-time with my best pals. Shout out to you, Ellen! Jamie! Tom! The past week's been the best week of my life! Thanks to Mom and Dad for giving me some dough, too. Let's keep it up, everybody. (Clarified to how I make a living.)"
-90,Anita,10/02/2022 12:03:00 PM EDT,Question,any changes in social activity?
-91,Lucas Callahan,10/02/2022 12:03:00 PM EDT,Response,"My social game has been through the roof in the last week. Not to be braggadocio, but I dosey doe with the best of them."
-92,Anita,10/02/2022 12:04:00 PM EDT,Question,any changes in sexual activity?
-93,Lucas Callahan,10/02/2022 12:04:00 PM EDT,Response,"My carnal business has definitely amped up in the past week! And I'm not complaining, either. It's been totally awesome. Friends and strangers, the sexy time has been unreal."
-94,Anita,10/02/2022 12:04:00 PM EDT,Question,what hobbies do you have?
-95,Lucas Callahan,10/02/2022 12:04:00 PM EDT,Response,"I've always been super interested in literature, like making meaning of the world we live in. Kinda of bleeds into my philosophical meanderings you know. The epic poem I'm working on is super exciting, like world-changing kind of stuff. Forget your chicken scratch is all I'm saying."
-96,Anita,10/02/2022 12:05:00 PM EDT,Question,how much time do you spend on focusing your habits? (Clarified to How often do you see your friends?.)
-97,Lucas Callahan,10/02/2022 12:05:00 PM EDT,Response,"Oh, we hang out all the time. Every day at least. This past week, especially, we've been barely apart. They're the best. Well, Marco sucks, but it's the good kind of sucks, ya know? (Clarified to how often I see my friends.)"
-98,Anita,10/02/2022 12:06:00 PM EDT,Question,can you teel me about your spending habits and consequences? (Clarified to What are your spending habits like?.)
-99,Lucas Callahan,10/02/2022 12:06:00 PM EDT,Response,"Well, I'm spending on the stuff that matters. I'm talking about a little cocaine here, some rare books there. I help my friends out however I can because you know? I'm a giver. (Clarified to what are my spending habits like.)"
-100,Anita,10/02/2022 12:07:00 PM EDT,Question,what is your occupation?
-101,Lucas Callahan,10/02/2022 12:07:00 PM EDT,Response,"I'm in between jobs right now. Actually, I'm more in between not having a job and not having a job."
-102,Anita,10/02/2022 12:07:00 PM EDT,Question,any legal troubles?
-103,Lucas Callahan,10/02/2022 12:07:00 PM EDT,Response,"Not at all! I'm the patron saint of innocence! Hah. No, really though, I've never gotten so much as a ticket."
-104,Anita,10/02/2022 12:07:00 PM EDT,Question,are you sill on your occupation? (No matching questions found.)
-105,Anita,10/02/2022 12:07:00 PM EDT,Question,what do you do for a living?
-106,Lucas Callahan,10/02/2022 12:07:00 PM EDT,Response,"My proverbial living is this witch's brew of the finest poetry and a whole lotta hang-time with my best pals. Shout out to you, Ellen! Jamie! Tom! The past week's been the best week of my life! Thanks to Mom and Dad for giving me some dough, too. Let's keep it up, everybody."
-107,Anita,10/02/2022 12:08:00 PM EDT,Question,how many liter of fluid you drink per day? 
-108,System,10/02/2022 12:10:00 PM EDT,Clarification, How much liquid do you drink in a day?.
-109,Lucas Callahan,10/02/2022 12:08:00 PM EDT,Response,"Maybe a week ago? I dunno. I did coke like, four days ago. Raucous caucus."
-110,Anita,10/02/2022 12:08:00 PM EDT,Question,any history of alcohol abuse?
-111,Lucas Callahan,10/02/2022 12:08:00 PM EDT,Response,"Dang, do you really think that low of me? No, man, I just like to party. I'm not addicted to anything. My folks think I'm an addict, too, they tell me all the time. They think I need to be in rehab like one of those magenta chairs."
-112,Anita,10/02/2022 12:08:00 PM EDT,Question,what do like to do?
-113,Lucas Callahan,10/02/2022 12:08:00 PM EDT,Response,"Oh, lots of stuff, babe! Peachy keen -- all around! Yeah, like, I hang out with my friends a bunch, like this week we've barely been apart. Barely been apart . . . let's see . . . I work on my epic poem. And by epic, I mean, like, it's epic. Not, like, epic fail -- I mean, like, epic wail. Booyah."
-114,Anita,10/02/2022 12:09:00 PM EDT,Question,can you tell me more about your occupation?
-115,Lucas Callahan,10/02/2022 12:09:00 PM EDT,Response,are living with your parents? 
-116,System,10/02/2022 12:11:00 PM EDT,Clarification, Do you live with your parents?.
-117,Anita,10/02/2022 12:09:00 PM EDT,Question,do you drive?
-118,Lucas Callahan,10/02/2022 12:09:00 PM EDT,Response,"Sure, I've got a sweet ride. That thing purrs like a kitten."
-119,Anita,10/02/2022 12:09:00 PM EDT,Question,any change in diet?
-120,Lucas Callahan,10/02/2022 12:09:00 PM EDT,Response,"I've been eating the same way forever. That's not in flux or nothin'. One meal a day, on the small side, that keeps me going just fine."
-121,Anita,10/02/2022 12:10:00 PM EDT,Question,how many liter of fluid you drink per day? (Clarified to How much liquid do you drink in a day?.)
-122,Lucas Callahan,10/02/2022 12:10:00 PM EDT,Response,"I don't know, I don't have, like, a cup measurer. I just have a glass or two at some point in the day, I'd guess. (Clarified to how much fluid I drink per day.)"
-123,Anita,10/02/2022 12:10:00 PM EDT,Question,do you like soda?
-124,Lucas Callahan,10/02/2022 12:10:00 PM EDT,Response,"I've always been super interested in literature, like making meaning of the world we live in. Kinda of bleeds into my philosophical meanderings you know. The epic poem I'm working on is super exciting, like world-changing kind of stuff. Forget your chicken scratch is all I'm saying."
-125,Anita,10/02/2022 12:11:00 PM EDT,Question,any lesion in skin? 
-126,System,10/02/2022 12:13:00 PM EDT,Clarification, Do you have genital lesions?.
-127,Lucas Callahan,10/02/2022 12:11:00 PM EDT,Response,"Do I look like a guy who needs caffeine? This is au naturale, baby. I don't need no crushed up bean juice that tastes like tree poop."
-128,Anita,10/02/2022 12:11:00 PM EDT,Question,what is your level of education?
-129,Lucas Callahan,10/02/2022 12:11:00 PM EDT,Response,I did a year in college a while back.
-130,Anita,10/02/2022 12:11:00 PM EDT,Question,are living with your parents? (Clarified to Do you live with your parents?.)
-131,Lucas Callahan,10/02/2022 12:11:00 PM EDT,Response,"Nope. My folks kicked me out 'cause they think I'm a drug addict. Great people, humanitarian awards all around. (Clarified to if I live with my parents.)"
-132,Anita,10/02/2022 12:12:00 PM EDT,Question,do you have insurance?
-133,Lucas Callahan,10/02/2022 12:12:00 PM EDT,Response,"Yeah, I'm on my parents' insurance. It's such a crock, though, these insurance goons and the Super Pharm Outlet Malls of America . . ."
-134,Anita,10/02/2022 12:12:00 PM EDT,Question,any history of abuse?
-135,Lucas Callahan,10/02/2022 12:12:00 PM EDT,Response,"Dang, are you serious?! No, not at all. Dang, what a wet blanket question. No, that's never happened to me. Dang. Screwin' up the vibes."
-136,Anita,10/02/2022 12:13:00 PM EDT,Question,do you have any vision problem?
-137,Lucas Callahan,10/02/2022 12:13:00 PM EDT,Response,"No, no, no. I haven't had any problems with my vision. In fact, my vision has only gotten better and better. My ability to really see what's going on around me. I'm not trapped in some dark room somewhere, just praying for sleep, I'm engaged. I'm locked in."
-138,Anita,10/02/2022 12:13:00 PM EDT,Question,Any cardiovascular problem?
-139,Lucas Callahan,10/02/2022 12:13:00 PM EDT,Response,"There are no bats in my chest cave, if that's what's flying around in your head."
-140,Anita,10/02/2022 12:13:00 PM EDT,Question,any lesion in skin? (Clarified to Do you have genital lesions?.)
-141,Lucas Callahan,10/02/2022 12:13:00 PM EDT,Response,"Yeah right! I'm as clean as a whistle. Got tested a couple weeks ago, too. (Clarified to if I have genital lesions.)"
-142,Anita,10/02/2022 12:14:00 PM EDT,Question,any change in nails color?
-143,Lucas Callahan,10/02/2022 12:14:00 PM EDT,Response,"No, no nail problems to speak of. Speaking of nails, did I mention that I've got this whole section of my poem about eviction notices? Like, they're just secret codes getting nailed to the doors of poor people?"
-144,Anita,10/02/2022 12:14:00 PM EDT,Question,how is your digestion?
-145,Lucas Callahan,10/02/2022 12:14:00 PM EDT,Response,"My stomach, otherwise known as Callahan's Gastropub, has a big A in the front window. Looks good and feels great."
-146,Anita,10/02/2022 12:15:00 PM EDT,Question,any allergies?
-147,Lucas Callahan,10/02/2022 12:15:00 PM EDT,Response,"Not at all. I'm allergic to bad vibes is all. That stuff is palpable. Like, oh boy, it's pollen season."
-148,Anita,10/02/2022 12:16:00 PM EDT,Question,what is the reason for seeing psychiatrist?
-149,Lucas Callahan,10/02/2022 12:16:00 PM EDT,Response,"It was like, 3 years ago, but I'm not a mathematician. Yeah, I had just tried to kill myself, so the hospital was like, talk to this idiot who knows nothing about you. I was like perfect, can't wait."
-150,Anita,10/02/2022 12:17:00 PM EDT,Exam Action,Assessed vitals
-151,Anita,10/02/2022 12:18:00 PM EDT,Exam Action,Inspected right eye
-152,Anita,10/02/2022 12:18:00 PM EDT,Exam Action,Inspected left eye
-153,Anita,10/02/2022 12:18:00 PM EDT,Exam Action,Performed otoscopic examination of left naris
-154,Anita,10/02/2022 12:18:00 PM EDT,Exam Action,Performed otoscopic examination of right naris
-155,Anita,10/02/2022 12:19:00 PM EDT,Exam Action,Inspected top of arms
-156,Anita,10/02/2022 12:19:00 PM EDT,Exam Action,Inspected chest
-157,Anita,10/02/2022 12:19:00 PM EDT,Exam Action,Inspected legs
-158,Anita,10/02/2022 12:20:00 PM EDT,Exam Action,Inspected back
-159,Anita,10/02/2022 12:20:00 PM EDT,Exam Action,Auscultated breath sounds
-160,Anita,10/02/2022 12:20:00 PM EDT,Exam Action,Auscultated heart sounds
-161,Anita,10/02/2022 12:21:00 PM EDT,Exam Action,Palpated abdomen
-162,Anita,10/02/2022 12:21:00 PM EDT,Exam Action,Palpated right and left radial pulse
-163,Anita,10/02/2022 12:21:00 PM EDT,Exam Action,Palpated right and left radial pulse
-164,Anita,10/02/2022 12:21:00 PM EDT,Exam Action,Palpated capillary refill on right and left hand
-165,Anita,10/02/2022 12:21:00 PM EDT,Exam Action,Palpated right and left dorsalis pedis pulse
-166,Anita,10/02/2022 12:21:00 PM EDT,Exam Action,Performed EKG
-167,Anita,10/02/2022 12:22:00 PM EDT,Exam Action,Assessed lab results
-168,Anita,10/02/2022 12:22:00 PM EDT,Exam Action,"Assessed general appearance: posture is bent or hunched, clothing is dirty and disheveled, grooming and self-care are otherwise adequate, eye contact is direct"
-169,Anita,10/02/2022 12:23:00 PM EDT,Exam Action,Assessed attitude: displays frequent distrust and evasiveness
-170,Anita,10/02/2022 12:23:00 PM EDT,Exam Action,"Assessed speech: rate of speech is rapid, but at an appropriate volume, and no issues with articulation"
-171,Anita,10/02/2022 12:24:00 PM EDT,Exam Action,Assessed mood and affect: frequent mood changes throughout interview; excessively expansive or cheerful affect
-172,Anita,10/02/2022 12:24:00 PM EDT,Exam Action,"Assessed thought process: presence of rapid thinking, disorganized or illogical flow of thought, ""word salad,"" neologisms, echolalia, and clanging associations"
-173,Anita,10/02/2022 12:24:00 PM EDT,Exam Action,Assessed thought content: presence of delusions; no presence of perceptual disturbances or hallucinations
-174,Anita,10/02/2022 12:25:00 PM EDT,Exam Action,Confirmed orientation
-175,Anita,10/02/2022 12:25:00 PM EDT,Exam Action,Assessed cognition
-176,Anita,10/02/2022 12:25:00 PM EDT,Exam Action,Assessed cognition
-177,Anita,10/02/2022 12:25:00 PM EDT,Exam Action,Assessed cognition
-178,Anita,10/02/2022 12:26:00 PM EDT,Exam Action,Assessed insight: demonstrates limited awareness of illness and is unwilling to seek treatment
-179,Anita,10/02/2022 12:26:00 PM EDT,Exam Action,Assessed judgment: demonstrates good judgment
-180,Anita,10/02/2022 12:36:00 PM EDT,Statement,Risk for injury prevent the emergency crisis.
-181,Lucas Callahan,10/02/2022 12:36:00 PM EDT,Response,"Listen, I KNOW Im at risk for injury! Remember what I was telling you earlier, about the government agents following me because they know, in their weasely little weasel-minds, that Im an enlightened threat? So, yeah. Were on the same page."
-182,Anita,10/02/2022 12:37:00 PM EDT,Statement,Staying calm exercise will help you and we are here with you.
-183,Lucas Callahan,10/02/2022 12:37:00 PM EDT,Response,"Right, right, you gotta keep me safe like a little babe swaddled in the manger of life. Totally agree with you! Im all baby blanket and pacifier. Life is beautiful, glorious, radiant -- gotta preserve it at all costs. Im a national treasure. Kiss my feet if you want."
-184,Anita,10/02/2022 12:37:00 PM EDT,Statement,we will put on some medication and we will do some exercise together which will help you .
-185,Lucas Callahan,10/02/2022 12:37:00 PM EDT,Response,"Yeah, lets do this thing. Im game. Youre game. All were missing are the cheerleaders. Hey, Lucas! Hes our man! If he cant do it, no one can! Rah rah rah! Sis boom bah bah bah!"
+2,Anita,10/02/2022 11:42:00 AM EDT,Question,how you feeling today? (Clarified to How do you feel?.)
+3,Lucas Callahan,10/02/2022 11:42:00 AM EDT,Response,"I'm feeling great. Actually, I'm like, mega great. Ha, I just thought of, like, a 20-foot-tall cheese grater. Anyway, yeah, I'm not bad or anything, I was brought here by the cops. Who doesn't love a pleasant ride in a locked car with malevolent strangers? (Clarified to how I am feeling.)"
+4,Anita,10/02/2022 11:45:00 AM EDT,Question,do you have any anxiety?
+5,Lucas Callahan,10/02/2022 11:45:00 AM EDT,Response,"I'm not anxious or paranoid or whatever. I mean, I just have a really really fine-tuned sense of, like, OK, now they're coming for me, the government agents, and I have to be on the look out, 'cause no way am I being snatched up, not a chance."
+6,Anita,10/02/2022 11:46:00 AM EDT,Question,who are coming from government agents?
+7,Lucas Callahan,10/02/2022 11:46:00 AM EDT,Response,"Are you kidding me? I'm an enlightened soul and I know what they're doing to this country. They wanna stop me from releasing their secrets. Well, you can't outrun an outrunner."
+8,Anita,10/02/2022 11:47:00 AM EDT,Question,any hallucinations?
+9,Lucas Callahan,10/02/2022 11:47:00 AM EDT,Response,No way. I don't see junk that's not there or anything.
+10,Anita,10/02/2022 11:47:00 AM EDT,Question,any drug abuse? (Clarified to Do you abuse any substances?.)
+11,Lucas Callahan,10/02/2022 11:47:00 AM EDT,Response,"I wouldn't go that far, but I definitely like to party. I mean, what's life about, a little harmonica, a little jazz hands . . . (Clarified to if I abuse substances.)"
+12,Anita,10/02/2022 11:47:00 AM EDT,Question,any past medical history?
+13,Lucas Callahan,10/02/2022 11:47:00 AM EDT,Response,"My health is fine, OK? Like, I'm not here because of my health. The cops brought me here for lord knows what, and my only major health thing has ever been my depression, but that's six feet under now, so we're good."
+14,Anita,10/02/2022 11:48:00 AM EDT,Question,any home medications?
+15,Lucas Callahan,10/02/2022 11:48:00 AM EDT,Response,"I'm not on anything these days. Stopped those antidepressants a while back. Zombie pills, honestly. Stuff is necrotic."
+16,Anita,10/02/2022 11:49:00 AM EDT,Question,any plan for suicide?
+17,Lucas Callahan,10/02/2022 11:49:00 AM EDT,Response,No. What? No. It's been 3 years since I even went down that path. My only plans are to write the great American poem and be happy and kiss a lot of people. That's love.
+18,Anita,10/02/2022 11:49:00 AM EDT,Question,do you feel depressed?
+19,Lucas Callahan,10/02/2022 11:49:00 AM EDT,Response,"I mean -- now? No. I have depression or whatever, but it's been a couple months since I've felt that way, so I really don't see it coming back. I just feel too good, honestly."
+20,Anita,10/02/2022 11:49:00 AM EDT,Question,can you tell me your energy level?
+21,Lucas Callahan,10/02/2022 11:49:00 AM EDT,Response,"Awesome! I mean, I'm just a high energy kind of guy, a lot of the time. But this week especially I've felt, like, crazy up and up, and I love it. I just love it. I feel like I could lift a horse."
+22,Anita,10/02/2022 11:50:00 AM EDT,Question,can you tell me about family health history?
+23,Lucas Callahan,10/02/2022 11:50:00 AM EDT,Response,"Well, I don't know anything about my birth parents. But my actual parents are super healthy. They go for, like, jogs on the beach while talking about what sort of flaxseed goes best in kale smoothies. You can't take them anywhere."
+24,Anita,10/02/2022 11:51:00 AM EDT,Question,any recent substance use?
+25,Lucas Callahan,10/02/2022 11:51:00 AM EDT,Response,"I haven't been anything but sober for like, four days. I know I seem like I'm on something, but I'm just this way naturally."
+26,Anita,10/02/2022 11:51:00 AM EDT,Question,how is your sleep pattern?
+27,Lucas Callahan,10/02/2022 11:51:00 AM EDT,Response,"I usually only need a couple hours. These past four days? I haven't slept a wink. Not even tired. I'm the frickin' man, I know."
+28,Anita,10/02/2022 11:51:00 AM EDT,Question,any side effects of medication?
+29,Lucas Callahan,10/02/2022 11:51:00 AM EDT,Response,"Yeah, the antidepressos did some stuff to me. Whatever. Bullcrap little -- just -- just stupid, stupid stuff. No one needs 'em."
+30,Anita,10/02/2022 11:52:00 AM EDT,Question,what do you do to relief side effect?
+31,Lucas Callahan,10/02/2022 11:52:00 AM EDT,Response,"Look, if I wanted to talk about that, I would've already told you, so move on, Professor Healthcare! Jeez . . . you're givin' me some side effects, all right . . ."
+32,Anita,10/02/2022 11:53:00 AM EDT,Question,are your prescription are refill on time?
+33,Lucas Callahan,10/02/2022 11:53:00 AM EDT,Response,"Ha! As if. I'm all natural, sugarcheeks. That stuff is for pharmacists."
+34,Anita,10/02/2022 11:53:00 AM EDT,Question,can you tell me about your prescription details?
+35,Lucas Callahan,10/02/2022 11:53:00 AM EDT,Response,"All I remember is that they didn't work, they made me feel like . . . whatever, they sucked. They were--they were suck pills. That's all I remember. They were suck pills made in Sucksville and I hope they rot in Sucks Hell."
+36,Anita,10/02/2022 11:54:00 AM EDT,Question,have you ever tried suicide?
+37,Lucas Callahan,10/02/2022 11:54:00 AM EDT,Response,"Yeah. Yeah, I attempted suicide. It's so dumb. You can't get through life like that. You gotta say yes to stuff, you know?"
+38,Anita,10/02/2022 11:54:00 AM EDT,Question,how many times you have attempted suicide?
+39,Lucas Callahan,10/02/2022 11:54:00 AM EDT,Response,One time. That was enough.
+40,Anita,10/02/2022 11:55:00 AM EDT,Question,can you tell me about suicide attempts?
+41,Lucas Callahan,10/02/2022 11:55:00 AM EDT,Response,"I don't know what you want me to say, it was -- I just don't wanna talk about it, OK? I just, I don't -- just focus on the present. This is all that's going on with me."
+42,Anita,10/02/2022 11:55:00 AM EDT,Question,do you want to be dead?
+43,Lucas Callahan,10/02/2022 11:55:00 AM EDT,Response,"No! Really, that's not me. That's not -- it gets like -- obviously, when you're depressed, you think like that, sure. But that's not me anymore, so whatever. I'm not worried about it."
+44,Anita,10/02/2022 11:56:00 AM EDT,Question,do you think others would feel better without you? (Clarified to Do you think others are better off without you?.)
+45,Lucas Callahan,10/02/2022 11:56:00 AM EDT,Response,. . . No. Do I feel like that? No. That's all I care to say. No. (Clarified to if I think others are better off without me.)
+46,Anita,10/02/2022 11:56:00 AM EDT,Question,what kind of thoughts you have about suicide? (Clarified to Are you currently having thoughts of suicide?.)
+47,Lucas Callahan,10/02/2022 11:56:00 AM EDT,Response,"Nope. Not at all. My life is the best, I'm not going anywhere. I'm golden. (Clarified to if I am currently thinking of suicide.)"
+48,Anita,10/02/2022 11:57:00 AM EDT,Question,are you thinking about self-harming?
+49,Lucas Callahan,10/02/2022 11:57:00 AM EDT,Response,"Not at all. You're really like, overanalyzing -- the only time I ever came close to that was at my one suicide attempt. And sure, I have those thoughts, but -- I'm really fine now, it's behind me."
+50,Anita,10/02/2022 11:57:00 AM EDT,Question,any homicidal urges?
+51,Lucas Callahan,10/02/2022 11:57:00 AM EDT,Response,". . . Wow, what a lovely question. No, I don't. I can't believe you would even ask that."
+52,Anita,10/02/2022 11:57:00 AM EDT,Question,what is your perception of mental health?
+53,Lucas Callahan,10/02/2022 11:57:00 AM EDT,Response,"My brain is superb, honestly. It's frickin' cotton candy and sports car up there. Don't worry about me. Like, yeah, I was depressed before, if that's what you're asking. But that's as dead as a doornail, hangnail, all the nails."
+54,Anita,10/02/2022 11:58:00 AM EDT,Question,any change in mood?
+55,Lucas Callahan,10/02/2022 11:58:00 AM EDT,Response,"Yeah, I've been on the proverbial mood swing before. The depression thing happened, but now I'm good. I'm great. I'm freakin' stellar!"
+56,Anita,10/02/2022 11:58:00 AM EDT,Question,how about energy shift? (Clarified to How do you feel about having all this energy?.)
+57,Lucas Callahan,10/02/2022 11:58:00 AM EDT,Response,"Uh, it's awesome? I've been uber productive like you don't even know. I must have written, like, 30 pages yesterday. (Clarified to how I feel about my high energy.)"
+58,Anita,10/02/2022 11:59:00 AM EDT,Question,any change in mood recently? (Clarified to Do you have sudden changes in your mood?.)
+59,Lucas Callahan,10/02/2022 11:59:00 AM EDT,Response,"Yeah, I've been on the proverbial mood swing before. The depression thing happened, but now I'm good. I'm great. I'm freakin' stellar! (Clarified to if I am having mood changes.)"
+60,Anita,10/02/2022 11:59:00 AM EDT,Question,do you feel anger? (Clarified to Do you have difficulty controlling your anger?.)
+61,Lucas Callahan,10/02/2022 11:59:00 AM EDT,Response,"I get angry, but I wouldn't say it's a problem for me. I'm a peacedove, man, I'm not in fisticuffs. Words is all that gets thrown. (Clarified to if I have problems with anger.)"
+62,Anita,10/02/2022 11:59:00 AM EDT,Question,any changes in speed while speaking?
+63,Lucas Callahan,10/02/2022 11:59:00 AM EDT,Response,"I mean, nah, I'm just a super quick guy in general. I like to get things done and keep 'em moving. Talk fast, walk fast, all that. What can I say, some horses weren't meant for carriages."
+64,Anita,10/02/2022 12:00:00 PM EDT,Question,how about your self- concept? (Clarified to How do you see yourself?.)
+65,Lucas Callahan,10/02/2022 12:00:00 PM EDT,Response,"I see myself as this visionary poet who's going to rock the world once his work is published. I see a killer head of hair that ladies just can't resist. I see an enlightened soul that shines like stained-glass. Amen, let the choir sing. (Clarified to how I see myself.)"
+66,Anita,10/02/2022 12:00:00 PM EDT,Question,what triggers on your mood change?
+67,Lucas Callahan,10/02/2022 12:00:00 PM EDT,Response,"I dunno, what a weird question . . . it just happens sometimes, a couple times a year -- that's just, how my brain is, you know? Or was. It's so far gone now, I don't even relate to the word ""depressed"". Isn't it a funny word? Duh-pressed?"
+68,Anita,10/02/2022 12:01:00 PM EDT,Question,any energy shifts?
+69,Lucas Callahan,10/02/2022 12:01:00 PM EDT,Response,"Who knows what other people notice? Personally, I notice everything, but you can't expect every chump on the street to be enlightened."
+70,Anita,10/02/2022 12:01:00 PM EDT,Question,do you racing thoughts? (Clarified to Does your mind race?.)
+71,Lucas Callahan,10/02/2022 12:01:00 PM EDT,Response,"Like a greyhound. Hyah! Hyah! But it works out great, because I'm working on this massive poem that's all about--well, it's gonna blow people's minds. (Clarified to if my mind races.)"
+72,Anita,10/02/2022 12:02:00 PM EDT,Question,what is your interest?
+73,Lucas Callahan,10/02/2022 12:02:00 PM EDT,Response,Ah--through the roof! Shooting the moon!
+74,Anita,10/02/2022 12:02:00 PM EDT,Question,what is your concentration ability?
+75,Lucas Callahan,10/02/2022 12:02:00 PM EDT,Response,"Oh, I've been laser-focused lately. On my poetry, that is. On my friends' projects. I told you we're thinking about making this community art center? It would be so sick. We'll see. It's all in the works."
+76,Anita,10/02/2022 12:03:00 PM EDT,Question,what do you do for social  involvement? (Clarified to How do you make a living?.)
+77,Lucas Callahan,10/02/2022 12:03:00 PM EDT,Response,"My proverbial living is this witch's brew of the finest poetry and a whole lotta hang-time with my best pals. Shout out to you, Ellen! Jamie! Tom! The past week's been the best week of my life! Thanks to Mom and Dad for giving me some dough, too. Let's keep it up, everybody. (Clarified to how I make a living.)"
+78,Anita,10/02/2022 12:03:00 PM EDT,Question,any changes in social activity?
+79,Lucas Callahan,10/02/2022 12:03:00 PM EDT,Response,"My social game has been through the roof in the last week. Not to be braggadocio, but I dosey doe with the best of them."
+80,Anita,10/02/2022 12:04:00 PM EDT,Question,any changes in sexual activity?
+81,Lucas Callahan,10/02/2022 12:04:00 PM EDT,Response,"My carnal business has definitely amped up in the past week! And I'm not complaining, either. It's been totally awesome. Friends and strangers, the sexy time has been unreal."
+82,Anita,10/02/2022 12:04:00 PM EDT,Question,what hobbies do you have?
+83,Lucas Callahan,10/02/2022 12:04:00 PM EDT,Response,"I've always been super interested in literature, like making meaning of the world we live in. Kinda of bleeds into my philosophical meanderings you know. The epic poem I'm working on is super exciting, like world-changing kind of stuff. Forget your chicken scratch is all I'm saying."
+84,Anita,10/02/2022 12:05:00 PM EDT,Question,how much time do you spend on focusing your habits? (Clarified to How often do you see your friends?.)
+85,Lucas Callahan,10/02/2022 12:05:00 PM EDT,Response,"Oh, we hang out all the time. Every day at least. This past week, especially, we've been barely apart. They're the best. Well, Marco sucks, but it's the good kind of sucks, ya know? (Clarified to how often I see my friends.)"
+86,Anita,10/02/2022 12:06:00 PM EDT,Question,can you teel me about your spending habits and consequences? (Clarified to What are your spending habits like?.)
+87,Lucas Callahan,10/02/2022 12:06:00 PM EDT,Response,"Well, I'm spending on the stuff that matters. I'm talking about a little cocaine here, some rare books there. I help my friends out however I can because you know? I'm a giver. (Clarified to what are my spending habits like.)"
+88,Anita,10/02/2022 12:07:00 PM EDT,Question,what is your occupation?
+89,Lucas Callahan,10/02/2022 12:07:00 PM EDT,Response,"I'm in between jobs right now. Actually, I'm more in between not having a job and not having a job."
+90,Anita,10/02/2022 12:07:00 PM EDT,Question,any legal troubles?
+91,Lucas Callahan,10/02/2022 12:07:00 PM EDT,Response,"Not at all! I'm the patron saint of innocence! Hah. No, really though, I've never gotten so much as a ticket."
+92,Anita,10/02/2022 12:07:00 PM EDT,Question,are you sill on your occupation? (No matching questions found.)
+93,Anita,10/02/2022 12:07:00 PM EDT,Question,what do you do for a living?
+94,Lucas Callahan,10/02/2022 12:07:00 PM EDT,Response,"My proverbial living is this witch's brew of the finest poetry and a whole lotta hang-time with my best pals. Shout out to you, Ellen! Jamie! Tom! The past week's been the best week of my life! Thanks to Mom and Dad for giving me some dough, too. Let's keep it up, everybody."
+95,Anita,10/02/2022 12:08:00 PM EDT,Question,any alcohol use recently?
+96,Lucas Callahan,10/02/2022 12:08:00 PM EDT,Response,"Maybe a week ago? I dunno. I did coke like, four days ago. Raucous caucus."
+97,Anita,10/02/2022 12:08:00 PM EDT,Question,any history of alcohol abuse?
+98,Lucas Callahan,10/02/2022 12:08:00 PM EDT,Response,"Dang, do you really think that low of me? No, man, I just like to party. I'm not addicted to anything. My folks think I'm an addict, too, they tell me all the time. They think I need to be in rehab like one of those magenta chairs."
+99,Anita,10/02/2022 12:08:00 PM EDT,Question,what do like to do?
+100,Lucas Callahan,10/02/2022 12:08:00 PM EDT,Response,"Oh, lots of stuff, babe! Peachy keen -- all around! Yeah, like, I hang out with my friends a bunch, like this week we've barely been apart. Barely been apart . . . let's see . . . I work on my epic poem. And by epic, I mean, like, it's epic. Not, like, epic fail -- I mean, like, epic wail. Booyah."
+101,Anita,10/02/2022 12:09:00 PM EDT,Question,can you tell me more about your occupation?
+102,Lucas Callahan,10/02/2022 12:09:00 PM EDT,Response,"I dunno, friend, I've had jobs, I've been fired, what more do you need to know? Is it important? No! I like not having a job, so booyah! I'm fine!"
+103,Anita,10/02/2022 12:09:00 PM EDT,Question,do you drive?
+104,Lucas Callahan,10/02/2022 12:09:00 PM EDT,Response,"Sure, I've got a sweet ride. That thing purrs like a kitten."
+105,Anita,10/02/2022 12:09:00 PM EDT,Question,any change in diet?
+106,Lucas Callahan,10/02/2022 12:09:00 PM EDT,Response,"I've been eating the same way forever. That's not in flux or nothin'. One meal a day, on the small side, that keeps me going just fine."
+107,Anita,10/02/2022 12:10:00 PM EDT,Question,how many liter of fluid you drink per day? (Clarified to How much liquid do you drink in a day?.)
+108,Lucas Callahan,10/02/2022 12:10:00 PM EDT,Response,"I don't know, I don't have, like, a cup measurer. I just have a glass or two at some point in the day, I'd guess. (Clarified to how much fluid I drink per day.)"
+109,Anita,10/02/2022 12:10:00 PM EDT,Question,do you like soda?
+110,Lucas Callahan,10/02/2022 12:10:00 PM EDT,Response,"I've always been super interested in literature, like making meaning of the world we live in. Kinda of bleeds into my philosophical meanderings you know. The epic poem I'm working on is super exciting, like world-changing kind of stuff. Forget your chicken scratch is all I'm saying."
+111,Anita,10/02/2022 12:11:00 PM EDT,Question,do you like coffee?
+112,Lucas Callahan,10/02/2022 12:11:00 PM EDT,Response,"Do I look like a guy who needs caffeine? This is au naturale, baby. I don't need no crushed up bean juice that tastes like tree poop."
+113,Anita,10/02/2022 12:11:00 PM EDT,Question,what is your level of education?
+114,Lucas Callahan,10/02/2022 12:11:00 PM EDT,Response,I did a year in college a while back.
+115,Anita,10/02/2022 12:11:00 PM EDT,Question,are living with your parents? (Clarified to Do you live with your parents?.)
+116,Lucas Callahan,10/02/2022 12:11:00 PM EDT,Response,"Nope. My folks kicked me out 'cause they think I'm a drug addict. Great people, humanitarian awards all around. (Clarified to if I live with my parents.)"
+117,Anita,10/02/2022 12:12:00 PM EDT,Question,do you have insurance?
+118,Lucas Callahan,10/02/2022 12:12:00 PM EDT,Response,"Yeah, I'm on my parents' insurance. It's such a crock, though, these insurance goons and the Super Pharm Outlet Malls of America . . ."
+119,Anita,10/02/2022 12:12:00 PM EDT,Question,any history of abuse?
+120,Lucas Callahan,10/02/2022 12:12:00 PM EDT,Response,"Dang, are you serious?! No, not at all. Dang, what a wet blanket question. No, that's never happened to me. Dang. Screwin' up the vibes."
+121,Anita,10/02/2022 12:13:00 PM EDT,Question,do you have any vision problem?
+122,Lucas Callahan,10/02/2022 12:13:00 PM EDT,Response,"No, no, no. I haven't had any problems with my vision. In fact, my vision has only gotten better and better. My ability to really see what's going on around me. I'm not trapped in some dark room somewhere, just praying for sleep, I'm engaged. I'm locked in."
+123,Anita,10/02/2022 12:13:00 PM EDT,Question,Any cardiovascular problem?
+124,Lucas Callahan,10/02/2022 12:13:00 PM EDT,Response,"There are no bats in my chest cave, if that's what's flying around in your head."
+125,Anita,10/02/2022 12:13:00 PM EDT,Question,any lesion in skin? (Clarified to Do you have genital lesions?.)
+126,Lucas Callahan,10/02/2022 12:13:00 PM EDT,Response,"Yeah right! I'm as clean as a whistle. Got tested a couple weeks ago, too. (Clarified to if I have genital lesions.)"
+127,Anita,10/02/2022 12:14:00 PM EDT,Question,any change in nails color?
+128,Lucas Callahan,10/02/2022 12:14:00 PM EDT,Response,"No, no nail problems to speak of. Speaking of nails, did I mention that I've got this whole section of my poem about eviction notices? Like, they're just secret codes getting nailed to the doors of poor people?"
+129,Anita,10/02/2022 12:14:00 PM EDT,Question,how is your digestion?
+130,Lucas Callahan,10/02/2022 12:14:00 PM EDT,Response,"My stomach, otherwise known as Callahan's Gastropub, has a big A in the front window. Looks good and feels great."
+131,Anita,10/02/2022 12:15:00 PM EDT,Question,any allergies?
+132,Lucas Callahan,10/02/2022 12:15:00 PM EDT,Response,"Not at all. I'm allergic to bad vibes is all. That stuff is palpable. Like, oh boy, it's pollen season."
+133,Anita,10/02/2022 12:16:00 PM EDT,Question,what is the reason for seeing psychiatrist?
+134,Lucas Callahan,10/02/2022 12:16:00 PM EDT,Response,"It was like, 3 years ago, but I'm not a mathematician. Yeah, I had just tried to kill myself, so the hospital was like, talk to this idiot who knows nothing about you. I was like perfect, can't wait."
+135,Anita,10/02/2022 12:17:00 PM EDT,Exam Action,Assessed vitals
+136,Anita,10/02/2022 12:18:00 PM EDT,Exam Action,Inspected right eye
+137,Anita,10/02/2022 12:18:00 PM EDT,Exam Action,Inspected left eye
+138,Anita,10/02/2022 12:18:00 PM EDT,Exam Action,Performed otoscopic examination of left naris
+139,Anita,10/02/2022 12:18:00 PM EDT,Exam Action,Performed otoscopic examination of right naris
+140,Anita,10/02/2022 12:19:00 PM EDT,Exam Action,Inspected top of arms
+141,Anita,10/02/2022 12:19:00 PM EDT,Exam Action,Inspected chest
+142,Anita,10/02/2022 12:19:00 PM EDT,Exam Action,Inspected legs
+143,Anita,10/02/2022 12:20:00 PM EDT,Exam Action,Inspected back
+144,Anita,10/02/2022 12:20:00 PM EDT,Exam Action,Auscultated breath sounds
+145,Anita,10/02/2022 12:20:00 PM EDT,Exam Action,Auscultated heart sounds
+146,Anita,10/02/2022 12:21:00 PM EDT,Exam Action,Palpated abdomen
+147,Anita,10/02/2022 12:21:00 PM EDT,Exam Action,Palpated right and left radial pulse
+148,Anita,10/02/2022 12:21:00 PM EDT,Exam Action,Palpated right and left radial pulse
+149,Anita,10/02/2022 12:21:00 PM EDT,Exam Action,Palpated capillary refill on right and left hand
+150,Anita,10/02/2022 12:21:00 PM EDT,Exam Action,Palpated right and left dorsalis pedis pulse
+151,Anita,10/02/2022 12:21:00 PM EDT,Exam Action,Performed EKG
+152,Anita,10/02/2022 12:22:00 PM EDT,Exam Action,Assessed lab results
+153,Anita,10/02/2022 12:22:00 PM EDT,Exam Action,"Assessed general appearance: posture is bent or hunched, clothing is dirty and disheveled, grooming and self-care are otherwise adequate, eye contact is direct"
+154,Anita,10/02/2022 12:23:00 PM EDT,Exam Action,Assessed attitude: displays frequent distrust and evasiveness
+155,Anita,10/02/2022 12:23:00 PM EDT,Exam Action,"Assessed speech: rate of speech is rapid, but at an appropriate volume, and no issues with articulation"
+156,Anita,10/02/2022 12:24:00 PM EDT,Exam Action,Assessed mood and affect: frequent mood changes throughout interview; excessively expansive or cheerful affect
+157,Anita,10/02/2022 12:24:00 PM EDT,Exam Action,"Assessed thought process: presence of rapid thinking, disorganized or illogical flow of thought, ""word salad,"" neologisms, echolalia, and clanging associations"
+158,Anita,10/02/2022 12:24:00 PM EDT,Exam Action,Assessed thought content: presence of delusions; no presence of perceptual disturbances or hallucinations
+159,Anita,10/02/2022 12:25:00 PM EDT,Exam Action,Confirmed orientation
+160,Anita,10/02/2022 12:25:00 PM EDT,Exam Action,Assessed cognition
+161,Anita,10/02/2022 12:25:00 PM EDT,Exam Action,Assessed cognition
+162,Anita,10/02/2022 12:25:00 PM EDT,Exam Action,Assessed cognition
+163,Anita,10/02/2022 12:26:00 PM EDT,Exam Action,Assessed insight: demonstrates limited awareness of illness and is unwilling to seek treatment
+164,Anita,10/02/2022 12:26:00 PM EDT,Exam Action,Assessed judgment: demonstrates good judgment
+165,Anita,10/02/2022 12:36:00 PM EDT,Statement,Risk for injury prevent the emergency crisis.
+166,Lucas Callahan,10/02/2022 12:36:00 PM EDT,Response,"Listen, I KNOW Im at risk for injury! Remember what I was telling you earlier, about the government agents following me because they know, in their weasely little weasel-minds, that Im an enlightened threat? So, yeah. Were on the same page."
+167,Anita,10/02/2022 12:37:00 PM EDT,Statement,Staying calm exercise will help you and we are here with you.
+168,Lucas Callahan,10/02/2022 12:37:00 PM EDT,Response,"Right, right, you gotta keep me safe like a little babe swaddled in the manger of life. Totally agree with you! Im all baby blanket and pacifier. Life is beautiful, glorious, radiant -- gotta preserve it at all costs. Im a national treasure. Kiss my feet if you want."
+169,Anita,10/02/2022 12:37:00 PM EDT,Statement,we will put on some medication and we will do some exercise together which will help you .
+170,Lucas Callahan,10/02/2022 12:37:00 PM EDT,Response,"Yeah, lets do this thing. Im game. Youre game. All were missing are the cheerleaders. Hey, Lucas! Hes our man! If he cant do it, no one can! Rah rah rah! Sis boom bah bah bah!"

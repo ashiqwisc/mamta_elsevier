@@ -21,218 +21,195 @@
 19,Lucas Callahan,10/02/2022 10:46:00 AM EDT,Response,I am 100% letting the good times roll. Couldn't be better.
 20,Kaitlyn,10/02/2022 10:47:00 AM EDT,Question,last time you used drugs
 21,Lucas Callahan,10/02/2022 10:47:00 AM EDT,Response,"Haven't done coke since about four days ago, I'd say."
-22,Kaitlyn,10/02/2022 10:47:00 AM EDT,Question,existing health problems 
-23,System,10/02/2022 10:47:00 AM EDT,Clarification, What preexisting health issues do you have?.
-24,Lucas Callahan,10/02/2022 10:47:00 AM EDT,Response,"Sure, some Doc McGillicutty told me I had depression one time, but I got that beat! (Clarified to what preexisting health problems I have.)"
-25,Kaitlyn,10/02/2022 10:47:00 AM EDT,Question,how is your mood typically
-26,Lucas Callahan,10/02/2022 10:47:00 AM EDT,Response,"You've got Option A and Option B. With A, we're talking about a bottomless rat hole. With B, we're talking good vibes that don't disappoint. I'll stick with B, thanks."
-27,Kaitlyn,10/02/2022 10:47:00 AM EDT,Question,how often does  your mood change
-28,Lucas Callahan,10/02/2022 10:47:00 AM EDT,Response,"I'm not keeping track or anything, but maybe a couple times a year? I don't know. This is a really nice room. I really like this room."
-29,Kaitlyn,10/02/2022 10:48:00 AM EDT,Question,when were you last depressed
-30,Lucas Callahan,10/02/2022 10:48:00 AM EDT,Response,"I mean . . . I fully got out of it maybe a couple months ago . . . it started a while before that. I dunno. Time isn't really linear, you know? I don't think in terms of, like, oh, this happened, now this'll happen."
-31,Kaitlyn,10/02/2022 10:48:00 AM EDT,Question,what is your depression like
-32,Lucas Callahan,10/02/2022 10:48:00 AM EDT,Response,"Oh, man. I hope you're not trying to ruin my vibes. Because my vibes are electric right now. I'm fully lit--but yeah, I've been down before. That's not what I'm trying to focus on right now, the depression diagnosis or whatever."
-33,Kaitlyn,10/02/2022 10:48:00 AM EDT,Question,can you tell me about the depression diagnosis
-34,Lucas Callahan,10/02/2022 10:48:00 AM EDT,Response,"I mean, that doctor was a buffoon, but I get where he was coming from -- I had just tried to kill myself. That doesn't necessarily scream NOT depressed, you know? Like, your eyeballs are your eyeballs. You see what you see."
-35,Kaitlyn,10/02/2022 10:48:00 AM EDT,Question,allergies
-36,Lucas Callahan,10/02/2022 10:48:00 AM EDT,Response,"Not at all. I'm allergic to bad vibes is all. That stuff is palpable. Like, oh boy, it's pollen season."
-37,Kaitlyn,10/02/2022 10:49:00 AM EDT,Question,how was your depression treated
-38,Lucas Callahan,10/02/2022 10:49:00 AM EDT,Response,"That quack of a doctor put me on antidepressants. Yeah, sure took a lot of self-interrogation to write stuff on a pad. I mean, my god. No intellect whatsoever."
-39,Kaitlyn,10/02/2022 10:49:00 AM EDT,Question,did the medication work
-40,Lucas Callahan,10/02/2022 10:49:00 AM EDT,Response,"The antidepressants didn't do diddly squat. Not a squat in sight. Squatless. In fact, those little buggers made things worse, if you can believe it. Can you believe it? I mean, holy hell. Anyway, I just stopped taking them. Some problems have easy solutions. Ask any scientist."
-41,Kaitlyn,10/02/2022 10:49:00 AM EDT,Question,were there side effects
-42,Lucas Callahan,10/02/2022 10:49:00 AM EDT,Response,"Yeah, the antidepressos did some stuff to me. Whatever. Bullcrap little -- just -- just stupid, stupid stuff. No one needs 'em."
-43,Kaitlyn,10/02/2022 10:49:00 AM EDT,Question,what were the side effects
-44,Lucas Callahan,10/02/2022 10:49:00 AM EDT,Response,are you still taking that medication 
-45,System,10/02/2022 10:50:00 AM EDT,Clarification, Do you still take the antidepressants?.
-46,Kaitlyn,10/02/2022 10:50:00 AM EDT,Question,are you still taking that medication (Clarified to Do you still take the antidepressants?.)
-47,Lucas Callahan,10/02/2022 10:50:00 AM EDT,Response,"Heck no. After a few months on them, I knew they weren't for me. The doc said to talk to him before making any changes, but hey, he didn't talk to me before putting me on them! Hehe. Well, he did, but you know what I mean. (Clarified to if I am still taking antidepressants.)"
-48,Kaitlyn,10/02/2022 10:50:00 AM EDT,Question,what other medications do you take
-49,Lucas Callahan,10/02/2022 10:50:00 AM EDT,Response,I've only ever taken antidepressants.
-50,Kaitlyn,10/02/2022 10:50:00 AM EDT,Question,can you tell me about the prescription
-51,Lucas Callahan,10/02/2022 10:50:00 AM EDT,Response,"All I remember is that they didn't work, they made me feel like . . . whatever, they sucked. They were--they were suck pills. That's all I remember. They were suck pills made in Sucksville and I hope they rot in Sucks Hell."
-52,Kaitlyn,10/02/2022 10:50:00 AM EDT,Question,did you try to kill yourself
-53,Lucas Callahan,10/02/2022 10:50:00 AM EDT,Response,"I really don't want to talk about it. You're being a bummer, honestly. I was in a good mood before we started talking about this."
-54,Kaitlyn,10/02/2022 10:51:00 AM EDT,Statement,Im sorry
-55,Lucas Callahan,10/02/2022 10:51:00 AM EDT,Response,"Thanks a million, but I'm all good, I promise!"
-56,Kaitlyn,10/02/2022 10:51:00 AM EDT,Question,have you tried to kill yourself more than once
-57,Lucas Callahan,10/02/2022 10:51:00 AM EDT,Response,Just the once . . . and you really don't have to worry about me like that.
-58,Kaitlyn,10/02/2022 10:51:00 AM EDT,Question,did you want to be dead
-59,Lucas Callahan,10/02/2022 10:51:00 AM EDT,Response,"No, it was because I was really happy and my life was going great. What do you think?"
-60,Kaitlyn,10/02/2022 10:51:00 AM EDT,Question,do you still wish you wanted to be dead
-61,Lucas Callahan,10/02/2022 10:51:00 AM EDT,Response,"Nah, that would be nuts. I've got so much in the works. My life's coming together. Everything's falling into place. Feeling worthless, or whatever, that was only during my depression."
-62,Kaitlyn,10/02/2022 10:52:00 AM EDT,Question,did you think others would like it better if you werent here (No matching questions found.)
-63,Kaitlyn,10/02/2022 10:52:00 AM EDT,Question,did you think other people wanted you dead
-64,Lucas Callahan,10/02/2022 10:52:00 AM EDT,Response,"I don't really care what people think of me, especially if people aren't hip to my vibes."
-65,Kaitlyn,10/02/2022 10:52:00 AM EDT,Question,did you think others would be better off without you
-66,Lucas Callahan,10/02/2022 10:52:00 AM EDT,Response,"When I tried to kill myself maybe, I don't know, I don't think about that anymore, but I definitely don't feel that way now. Why would I? Everything's going great."
-67,Kaitlyn,10/02/2022 10:53:00 AM EDT,Question,homicidal urges 
-68,System,10/02/2022 10:53:00 AM EDT,Clarification, Tell me about your homicidal urges?.
-69,Lucas Callahan,10/02/2022 10:53:00 AM EDT,Response,"No, not at all. Such a bummer question. I only really got like that during my one suicide attempt. One as in done."
-70,Kaitlyn,10/02/2022 10:53:00 AM EDT,Question,homicidal urges (Clarified to Tell me about your homicidal urges?.)
-71,Lucas Callahan,10/02/2022 10:53:00 AM EDT,Response,excessive irritability 
-72,System,10/02/2022 10:53:00 AM EDT,Clarification, Have you had excessive irritability or anger?.
-73,Kaitlyn,10/02/2022 10:53:00 AM EDT,Question,perception of mental health
-74,Lucas Callahan,10/02/2022 10:53:00 AM EDT,Response,"My brain is superb, honestly. It's frickin' cotton candy and sports car up there. Don't worry about me. Like, yeah, I was depressed before, if that's what you're asking. But that's as dead as a doornail, hangnail, all the nails."
-75,Kaitlyn,10/02/2022 10:53:00 AM EDT,Question,excessive irritability (Clarified to Have you had excessive irritability or anger?.)
-76,Lucas Callahan,10/02/2022 10:53:00 AM EDT,Response,"Sure, if somebody's messin' with my vibes, I'll get in an argument. Vibes are sacred, no joke. (Clarified to if I have had excessive irritability or anger.)"
-77,Kaitlyn,10/02/2022 10:54:00 AM EDT,Question,self concept
-78,Lucas Callahan,10/02/2022 10:54:00 AM EDT,Response,"I see myself as this visionary poet who's going to rock the world once his work is published. I see a killer head of hair that ladies just can't resist. I see an enlightened soul that shines like stained-glass. Amen, let the choir sing."
-79,Kaitlyn,10/02/2022 10:54:00 AM EDT,Question,please and interest in typical activities 
-80,System,10/02/2022 10:54:00 AM EDT,Clarification, Have you been experiencing pleasure and interest in typical activities?.
-81,Lucas Callahan,10/02/2022 10:54:00 AM EDT,Response,"I mean, nah, I'm just a super quick guy in general. I like to get things done and keep 'em moving. Talk fast, walk fast, all that. What can I say, some horses weren't meant for carriages."
-82,Kaitlyn,10/02/2022 10:54:00 AM EDT,Question,racing thoughts
-83,Lucas Callahan,10/02/2022 10:54:00 AM EDT,Response,"Shoot--I've got a whirlwind of thoughts. I've been putting them all down in this epic poem I'm working on. It's gonna be amazing, probably will be published in volumes, once I get it published and everything. I'll invite you to the launch party. Are you gonna wear a hat? That's the dress code."
-84,Kaitlyn,10/02/2022 10:54:00 AM EDT,Question,please and interest in typical activities (Clarified to Have you been experiencing pleasure and interest in typical activities?.)
-85,Lucas Callahan,10/02/2022 10:54:00 AM EDT,Response,"Heck yeah, my life is the best. There's joy everywhere. There's joy in this hospital room, not that you would know much about that. Yeah, you really just gotta keep an eye out for it, my friend. Just squint and you'll see it. (Clarified to if I have been experiencing pleasure and interest in typical activities.)"
-86,Kaitlyn,10/02/2022 10:54:00 AM EDT,Question,ability to concentrate
-87,Lucas Callahan,10/02/2022 10:54:00 AM EDT,Response,"Oh, I've been laser-focused lately. On my poetry, that is. On my friends' projects. I told you we're thinking about making this community art center? It would be so sick. We'll see. It's all in the works."
-88,Kaitlyn,10/02/2022 10:55:00 AM EDT,Question,changes in productivity
-89,Lucas Callahan,10/02/2022 10:55:00 AM EDT,Response,"Oh, I've been working super hard on my poem in the last week or so. It's gonna be totally epic. Probably one-thousand pages printed out. I don't even have to try, that's the crazy thing. It just comes out of me."
-90,Kaitlyn,10/02/2022 10:55:00 AM EDT,Question,changes in social activities
-91,Lucas Callahan,10/02/2022 10:55:00 AM EDT,Response,financial status 
-92,System,10/02/2022 10:56:00 AM EDT,Clarification, What is your financial situation?.
-93,Kaitlyn,10/02/2022 10:55:00 AM EDT,Question,libido and sexual activity
-94,Lucas Callahan,10/02/2022 10:55:00 AM EDT,Response,occupation do you have one 
-95,System,10/02/2022 10:56:00 AM EDT,Clarification, What work do you do?.
-96,Kaitlyn,10/02/2022 10:55:00 AM EDT,Question,spending habits and consequences
-97,Lucas Callahan,10/02/2022 10:55:00 AM EDT,Response,"Sheez. Mom and Dad getting mad at me, but I don't want to go down that rabbit hole. Too dark. I'm all light now, facing the sun."
-98,Kaitlyn,10/02/2022 10:56:00 AM EDT,Question,last occupation 
-99,System,10/02/2022 10:56:00 AM EDT,Clarification, When have you had a job?.
-100,Lucas Callahan,10/02/2022 10:56:00 AM EDT,Response,"My finances are good! My parents give me some dough every now and then, I don't have to work . . . it's pretty stellar, ideal even! (Clarified to what my financial situation is like.)"
-101,Kaitlyn,10/02/2022 10:56:00 AM EDT,Question,occupation (No matching questions found.)
-102,Kaitlyn,10/02/2022 10:56:00 AM EDT,Question,legal troubles 
-103,System,10/02/2022 10:57:00 AM EDT,Clarification, Do you have a legal history?.
-104,Lucas Callahan,10/02/2022 10:56:00 AM EDT,Response,alcohol use 
-105,System,10/02/2022 10:57:00 AM EDT,Clarification, Can you tell me about your alcohol use?.
-106,Kaitlyn,10/02/2022 10:56:00 AM EDT,Question,drug use 
-107,System,10/02/2022 10:57:00 AM EDT,Clarification, Do you have a history of drug use?.
-108,Lucas Callahan,10/02/2022 10:56:00 AM EDT,Response,"I'm in between jobs right now. Actually, I'm more in between not having a job and not having a job."
-109,Kaitlyn,10/02/2022 10:56:00 AM EDT,Question,last occupation (Clarified to When have you had a job?.)
-110,Lucas Callahan,10/02/2022 10:56:00 AM EDT,Response,I couldn't tell ya exactly. It's been a while. (Clarified to when I have had a job.)
-111,Kaitlyn,10/02/2022 10:57:00 AM EDT,Question,what was your last job
-112,Lucas Callahan,10/02/2022 10:57:00 AM EDT,Response,In the past--I worked at a pizza place once. Another time my dad's friend let me work at his office. I put Christmas trees on people's cars. I worked at an insurance office for like two weeks one time.
-113,Kaitlyn,10/02/2022 10:57:00 AM EDT,Question,legal troubles (Clarified to Do you have a legal history?.)
-114,Lucas Callahan,10/02/2022 10:57:00 AM EDT,Response,"Not at all! I'm the patron saint of innocence! Hah. No, really though, I've never gotten so much as a ticket. (Clarified to If I have a legal history.)"
-115,Kaitlyn,10/02/2022 10:57:00 AM EDT,Question,alcohol use (Clarified to Can you tell me about your alcohol use?.)
-116,Lucas Callahan,10/02/2022 10:57:00 AM EDT,Response,diet and appetite 
-117,System,10/02/2022 10:58:00 AM EDT,Clarification, How is your diet and appetite doing?.
-118,Kaitlyn,10/02/2022 10:57:00 AM EDT,Question,do you drink many fluids 
-119,System,10/02/2022 10:59:00 AM EDT,Clarification, Have you been drinking more fluids than usual?.
-120,Lucas Callahan,10/02/2022 10:57:00 AM EDT,Response,"I do coke, I drink . . . that's really it. I like doing the same things over and over. I get in my groove with it. (Clarified to if I have a history of drugs use.)"
-121,Kaitlyn,10/02/2022 10:57:00 AM EDT,Question,what other drugs have you used
-122,Lucas Callahan,10/02/2022 10:57:00 AM EDT,Response,"I do coke, I drink . . . that's really it. I like doing the same things over and over. I get in my groove with it."
-123,Kaitlyn,10/02/2022 10:58:00 AM EDT,Question,methods of transportation
-124,Lucas Callahan,10/02/2022 10:58:00 AM EDT,Response,access to healthcare 
-125,System,10/02/2022 10:59:00 AM EDT,Clarification, What kind of access to healthcare do you have?.
-126,Kaitlyn,10/02/2022 10:58:00 AM EDT,Question,living situation 
-127,System,10/02/2022 10:59:00 AM EDT,Clarification, What is your living situation?.
-128,Lucas Callahan,10/02/2022 10:58:00 AM EDT,Response,history of abuse 
-129,System,10/02/2022 11:00:00 AM EDT,Clarification, Do you have a family history of abuse?.
-130,Kaitlyn,10/02/2022 10:58:00 AM EDT,Question,what drugs have you used in the past
-131,Lucas Callahan,10/02/2022 10:58:00 AM EDT,Response,"Pssh. Most everything you would reasonably find at a liberal arts school. Powders, buds, tablets, et cetera. I've only ever done cocaine with any regularity, though."
-132,Kaitlyn,10/02/2022 10:58:00 AM EDT,Question,general symptoms 
-133,System,10/02/2022 11:00:00 AM EDT,Clarification, Have you been having any general symptoms?.
-134,Lucas Callahan,10/02/2022 10:58:00 AM EDT,Response,changes in your head 
-135,System,10/02/2022 11:00:00 AM EDT,Clarification, Have you had changes with your hair?.
-136,Kaitlyn,10/02/2022 10:59:00 AM EDT,Question,changes with your eyes 
-137,System,10/02/2022 11:01:00 AM EDT,Clarification, Have you ever had any eye problems?.
-138,Lucas Callahan,10/02/2022 10:59:00 AM EDT,Response,cardiovascular changes 
-139,System,10/02/2022 11:01:00 AM EDT,Clarification, Do you have cardiovascular problems?.
-140,Kaitlyn,10/02/2022 10:59:00 AM EDT,Question,gi problems 
-141,System,10/02/2022 11:01:00 AM EDT,Clarification, Do you have gastrointestinal problems?.
-142,Lucas Callahan,10/02/2022 10:59:00 AM EDT,Response,drug use 
-143,System,10/02/2022 11:01:00 AM EDT,Clarification, Do you ever use drugs?.
-144,Kaitlyn,10/02/2022 10:59:00 AM EDT,Question,level of education
-145,Lucas Callahan,10/02/2022 10:59:00 AM EDT,Response,how have you used drugs 
-146,System,10/02/2022 11:02:00 AM EDT,Clarification, Have you ever experimented with drugs?.
-147,Kaitlyn,10/02/2022 10:59:00 AM EDT,Question,access to healthcare (Clarified to What kind of access to healthcare do you have?.)
-148,Lucas Callahan,10/02/2022 10:59:00 AM EDT,Response,"I'm on my parents' insurance. They take care of all that junk. Paperwork, whatever. Boring. (Clarified to what my access to healthcare is.)"
-149,Kaitlyn,10/02/2022 10:59:00 AM EDT,Question,living situation (Clarified to What is your living situation?.)
-150,Lucas Callahan,10/02/2022 10:59:00 AM EDT,Response,"It's pretty perfect, honestly. No rent, no bills, no dusting. I just crash in my car or at a friends' place or wherever, then I wake up and start my day. Boom. Did you know the kookaburra never sleeps in the same tree twice? I think most people would make better decisions if they mimicked ornithology. (Clarified to to tell you about my living situation.)"
-151,Kaitlyn,10/02/2022 11:00:00 AM EDT,Question,history of abuse (Clarified to Do you have a family history of abuse?.)
-152,Lucas Callahan,10/02/2022 11:00:00 AM EDT,Response,"What? No! Jeez Louise, the kinds of questions y'all have to ask . . . (Clarified to if I have a family history of abuse.)"
-153,Kaitlyn,10/02/2022 11:00:00 AM EDT,Question,family history of mental illness
-154,Lucas Callahan,10/02/2022 11:00:00 AM EDT,Response,"No . . . I couldn't tell you anything about my birth parents, but my real parents are pretty sane. They're kinda, like, massive normies. Wouldn't know art if it hit 'em in the balls."
-155,Kaitlyn,10/02/2022 11:00:00 AM EDT,Question,general symptoms (Clarified to Have you been having any general symptoms?.)
-156,Lucas Callahan,10/02/2022 11:00:00 AM EDT,Response,"I'm not sure what you're getting at. I'm not sick. I'm sure the fuzz who brought me here would say otherwise, though. (Clarified to if I have had general symptoms.)"
-157,Kaitlyn,10/02/2022 11:00:00 AM EDT,Question,changes in your head (Clarified to Have you had changes with your hair?.)
-158,Lucas Callahan,10/02/2022 11:00:00 AM EDT,Response,The hair of my body has changed not at all. Not at all has the hair of my body changed. Change in the pocket goes jingle jangle jong. Brass monkeys can do nothing but bang the gong! (Clarified to if I have had changes with my hair.)
-159,Kaitlyn,10/02/2022 11:01:00 AM EDT,Question,changes with your eyes (Clarified to Have you ever had any eye problems?.)
-160,Lucas Callahan,10/02/2022 11:01:00 AM EDT,Response,"No, no, no. I haven't had any problems with my vision. In fact, my vision has only gotten better and better. My ability to really see what's going on around me. I'm not trapped in some dark room somewhere, just praying for sleep, I'm engaged. I'm locked in. (Clarified to if I have had eye problems.)"
-161,Kaitlyn,10/02/2022 11:01:00 AM EDT,Question,cardiovascular changes (Clarified to Do you have cardiovascular problems?.)
-162,Lucas Callahan,10/02/2022 11:01:00 AM EDT,Response,"There are no bats in my chest cave, if that's what's flying around in your head. (Clarified to if I have cardiovascular problems.)"
-163,Kaitlyn,10/02/2022 11:01:00 AM EDT,Question,gi problems (Clarified to Do you have gastrointestinal problems?.)
-164,Lucas Callahan,10/02/2022 11:01:00 AM EDT,Response,"My stomach, otherwise known as Callahan's Gastropub, has a big A in the front window. Looks good and feels great. (Clarified to if I have gastrointestinal problems.)"
-165,Kaitlyn,10/02/2022 11:01:00 AM EDT,Question,drug use (Clarified to Do you ever use drugs?.)
-166,Lucas Callahan,10/02/2022 11:01:00 AM EDT,Response,"I guess cocaine is still illegal, right? That's the war on drugs for ya. (Clarified to if I use illegal drugs.)"
-167,Kaitlyn,10/02/2022 11:02:00 AM EDT,Question,follow up on drug use (No matching questions found.)
-168,Kaitlyn,10/02/2022 11:02:00 AM EDT,Question,how have you used drugs (Clarified to Have you ever experimented with drugs?.)
-169,Lucas Callahan,10/02/2022 11:02:00 AM EDT,Response,"Oh, I would try anything once. Most kids did. DMT, shrooms, angel food cake, sativa, ibuprofen soaked in vodka. Nothing that I liked enough to do regularly though. I only did coke for the first time eight-ish months ago. (Clarified to if I have ever experimented with drugs.)"
-170,Kaitlyn,10/02/2022 01:02:00 PM EDT,Exam Action,Assessed vitals
-171,Kaitlyn,10/02/2022 01:03:00 PM EDT,Exam Action,Inspected right eye
-172,Kaitlyn,10/02/2022 01:03:00 PM EDT,Exam Action,Inspected left eye
-173,Kaitlyn,10/02/2022 01:03:00 PM EDT,Exam Action,Performed otoscopic examination of right naris
-174,Kaitlyn,10/02/2022 01:03:00 PM EDT,Exam Action,Performed otoscopic examination of left naris
-175,Kaitlyn,10/02/2022 01:03:00 PM EDT,Exam Action,Inspected top of arms
-176,Kaitlyn,10/02/2022 01:04:00 PM EDT,Question,is there any self harm you would like to tell me about
-177,Lucas Callahan,10/02/2022 01:04:00 PM EDT,Response,"No, not at all. Such a bummer question. I only really got like that during my one suicide attempt. One as in done."
-178,Kaitlyn,10/02/2022 01:04:00 PM EDT,Exam Action,Inspected right forearm
-179,Kaitlyn,10/02/2022 01:04:00 PM EDT,Exam Action,Inspected right wrist
-180,Kaitlyn,10/02/2022 01:04:00 PM EDT,Exam Action,Inspected left forearm
-181,Kaitlyn,10/02/2022 01:04:00 PM EDT,Exam Action,Inspected left wrist
-182,Kaitlyn,10/02/2022 01:04:00 PM EDT,Exam Action,Inspected right wrist
-183,Kaitlyn,10/02/2022 01:04:00 PM EDT,Exam Action,Inspected left wrist
-184,Kaitlyn,10/02/2022 01:04:00 PM EDT,Exam Action,Inspected chest
-185,Kaitlyn,10/02/2022 01:05:00 PM EDT,Exam Action,Inspected legs
-186,Kaitlyn,10/02/2022 01:05:00 PM EDT,Exam Action,Inspected back
-187,Kaitlyn,10/02/2022 01:05:00 PM EDT,Exam Action,Auscultated breath sounds
-188,Kaitlyn,10/02/2022 01:05:00 PM EDT,Exam Action,Auscultated heart sounds
-189,Kaitlyn,10/02/2022 01:06:00 PM EDT,Exam Action,Palpated abdomen
-190,Kaitlyn,10/02/2022 01:06:00 PM EDT,Exam Action,Palpated right and left radial pulse
-191,Kaitlyn,10/02/2022 01:06:00 PM EDT,Exam Action,Palpated right and left dorsalis pedis pulse
-192,Kaitlyn,10/02/2022 01:06:00 PM EDT,Exam Action,Palpated capillary refill on right and left hand
-193,Kaitlyn,10/02/2022 01:06:00 PM EDT,Exam Action,Performed EKG
-194,Kaitlyn,10/02/2022 01:06:00 PM EDT,Exam Action,Assessed lab results
-195,Kaitlyn,10/02/2022 01:07:00 PM EDT,Exam Action,"Assessed general appearance: posture is bent or hunched, clothing is dirty and disheveled, grooming and self-care are otherwise adequate, eye contact is direct"
-196,Kaitlyn,10/02/2022 01:07:00 PM EDT,Exam Action,Assessed attitude: displays frequent distrust and evasiveness
-197,Kaitlyn,10/02/2022 01:08:00 PM EDT,Exam Action,"Assessed speech: rate of speech is rapid, but at an appropriate volume, and no issues with articulation"
-198,Kaitlyn,10/02/2022 01:08:00 PM EDT,Exam Action,Assessed mood and affect: frequent mood changes throughout interview; excessively expansive or cheerful affect
-199,Kaitlyn,10/02/2022 01:08:00 PM EDT,Exam Action,"Assessed thought process: presence of rapid thinking, disorganized or illogical flow of thought, ""word salad,"" neologisms, echolalia, and clanging associations"
-200,Kaitlyn,10/02/2022 01:08:00 PM EDT,Exam Action,Assessed thought content: presence of delusions; no presence of perceptual disturbances or hallucinations
-201,Kaitlyn,10/02/2022 01:08:00 PM EDT,Exam Action,Confirmed orientation
-202,Kaitlyn,10/02/2022 01:09:00 PM EDT,Question,what is your name and date of birth
-203,Lucas Callahan,10/02/2022 01:09:00 PM EDT,Response,"Lucas Callahan, born . . . [Mr. Callahan reports his correct date of birth.]"
-204,Kaitlyn,10/02/2022 01:09:00 PM EDT,Question,what building are you in now
-205,Lucas Callahan,10/02/2022 01:09:00 PM EDT,Response,The hospital. Shadow General.
-206,Kaitlyn,10/02/2022 01:09:00 PM EDT,Question,what is the date and year
-207,Lucas Callahan,10/02/2022 01:09:00 PM EDT,Response,The date is . . . [Mr. Callahan reports the correct date and year.]
-208,Kaitlyn,10/02/2022 01:09:00 PM EDT,Exam Action,Assessed cognition
-209,Kaitlyn,10/02/2022 01:10:00 PM EDT,Question,count backwards from 100 by 7 until you get to the 60s
-210,Lucas Callahan,10/02/2022 01:10:00 PM EDT,Response,"Easy! 100, 93, 86, 79... [Mr. Callahan finishes the sequence.]"
-211,Kaitlyn,10/02/2022 01:10:00 PM EDT,Exam Action,Assessed cognition
-212,Kaitlyn,10/02/2022 01:10:00 PM EDT,Question,how are apples and oranges alike
-213,Lucas Callahan,10/02/2022 01:10:00 PM EDT,Response,"They're both fruits, of course!"
-214,Kaitlyn,10/02/2022 01:10:00 PM EDT,Question,how are a lake and an ocean alike
-215,Lucas Callahan,10/02/2022 01:10:00 PM EDT,Response,They're both bodies of water.
-216,Kaitlyn,10/02/2022 01:10:00 PM EDT,Question,how are a trumpet and fruit alike
-217,Lucas Callahan,10/02/2022 01:10:00 PM EDT,Response,They're both instruments. And they both are way underused in modern post-punk.
-218,Kaitlyn,10/02/2022 01:11:00 PM EDT,Exam Action,Assessed cognition
-219,Kaitlyn,10/02/2022 01:11:00 PM EDT,Question,repeat and remember burger tulip nose and tea
-220,Lucas Callahan,10/02/2022 01:11:00 PM EDT,Response,"Burger, tulip, nose and tea. Yep, I got this."
-221,Kaitlyn,10/02/2022 01:11:00 PM EDT,Question,how did you celebrate your last birthday
-222,Lucas Callahan,10/02/2022 01:11:00 PM EDT,Response,"Oh, it was actually really awesome! Me and some friends did the Bake-a-Cake Blindfolded Challenge. Then we just went out to a couple of my favorite bars. It actually wasn't as rowdy as you'd think, but it was just great vibes all around."
-223,Kaitlyn,10/02/2022 01:12:00 PM EDT,Question,repeat the four words from before
-224,Lucas Callahan,10/02/2022 01:12:00 PM EDT,Response,"OK . . . burger, tulip, nose, and tea. Ha! Nailed it."
-225,Kaitlyn,10/02/2022 01:12:00 PM EDT,Question,"copy the shapes exactly as you see the,"
-226,Lucas Callahan,10/02/2022 01:12:00 PM EDT,Response,Right on. Let's do this!
-227,Kaitlyn,10/02/2022 01:12:00 PM EDT,Exam Action,Assessed insight: demonstrates limited awareness of illness and is unwilling to seek treatment
-228,Kaitlyn,10/02/2022 01:12:00 PM EDT,Exam Action,Assessed judgment: demonstrates good judgment
-229,Kaitlyn,10/02/2022 01:12:00 PM EDT,Question,what would you do if you found a stamped envelope on the sidewalk
-230,Lucas Callahan,10/02/2022 01:12:00 PM EDT,Response,"Probably put it in a mailbox, if I saw there was one nearby."
-231,Kaitlyn,10/02/2022 01:18:00 PM EDT,Statement,hello. i have come up with a plan of care for you. i want you to be safe and remain free from injury. how does that sound
-232,Lucas Callahan,10/02/2022 01:18:00 PM EDT,Response,"Listen, I KNOW Im at risk for injury! Remember what I was telling you earlier, about the government agents following me because they know, in their weasely little weasel-minds, that Im an enlightened threat? So, yeah. Were on the same page."
-233,Kaitlyn,10/02/2022 01:19:00 PM EDT,Statement,we are going to keep you safe here
-234,Lucas Callahan,10/02/2022 01:19:00 PM EDT,Response,"Right, right, you gotta keep me safe like a little babe swaddled in the manger of life. Totally agree with you! Im all baby blanket and pacifier. Life is beautiful, glorious, radiant -- gotta preserve it at all costs. Im a national treasure. Kiss my feet if you want."
-235,Kaitlyn,10/02/2022 01:19:00 PM EDT,Statement,how does this plan sound
-236,Lucas Callahan,10/02/2022 01:19:00 PM EDT,Response,"Yeah, lets do this thing. Im game. Youre game. All were missing are the cheerleaders. Hey, Lucas! Hes our man! If he cant do it, no one can! Rah rah rah! Sis boom bah bah bah!"
+22,Kaitlyn,10/02/2022 10:47:00 AM EDT,Question,existing health problems (Clarified to What preexisting health issues do you have?.)
+23,Lucas Callahan,10/02/2022 10:47:00 AM EDT,Response,"Sure, some Doc McGillicutty told me I had depression one time, but I got that beat! (Clarified to what preexisting health problems I have.)"
+24,Kaitlyn,10/02/2022 10:47:00 AM EDT,Question,how is your mood typically
+25,Lucas Callahan,10/02/2022 10:47:00 AM EDT,Response,"You've got Option A and Option B. With A, we're talking about a bottomless rat hole. With B, we're talking good vibes that don't disappoint. I'll stick with B, thanks."
+26,Kaitlyn,10/02/2022 10:47:00 AM EDT,Question,how often does  your mood change
+27,Lucas Callahan,10/02/2022 10:47:00 AM EDT,Response,"I'm not keeping track or anything, but maybe a couple times a year? I don't know. This is a really nice room. I really like this room."
+28,Kaitlyn,10/02/2022 10:48:00 AM EDT,Question,when were you last depressed
+29,Lucas Callahan,10/02/2022 10:48:00 AM EDT,Response,"I mean . . . I fully got out of it maybe a couple months ago . . . it started a while before that. I dunno. Time isn't really linear, you know? I don't think in terms of, like, oh, this happened, now this'll happen."
+30,Kaitlyn,10/02/2022 10:48:00 AM EDT,Question,what is your depression like
+31,Lucas Callahan,10/02/2022 10:48:00 AM EDT,Response,"Oh, man. I hope you're not trying to ruin my vibes. Because my vibes are electric right now. I'm fully lit--but yeah, I've been down before. That's not what I'm trying to focus on right now, the depression diagnosis or whatever."
+32,Kaitlyn,10/02/2022 10:48:00 AM EDT,Question,can you tell me about the depression diagnosis
+33,Lucas Callahan,10/02/2022 10:48:00 AM EDT,Response,"I mean, that doctor was a buffoon, but I get where he was coming from -- I had just tried to kill myself. That doesn't necessarily scream NOT depressed, you know? Like, your eyeballs are your eyeballs. You see what you see."
+34,Kaitlyn,10/02/2022 10:48:00 AM EDT,Question,allergies
+35,Lucas Callahan,10/02/2022 10:48:00 AM EDT,Response,"Not at all. I'm allergic to bad vibes is all. That stuff is palpable. Like, oh boy, it's pollen season."
+36,Kaitlyn,10/02/2022 10:49:00 AM EDT,Question,how was your depression treated
+37,Lucas Callahan,10/02/2022 10:49:00 AM EDT,Response,"That quack of a doctor put me on antidepressants. Yeah, sure took a lot of self-interrogation to write stuff on a pad. I mean, my god. No intellect whatsoever."
+38,Kaitlyn,10/02/2022 10:49:00 AM EDT,Question,did the medication work
+39,Lucas Callahan,10/02/2022 10:49:00 AM EDT,Response,"The antidepressants didn't do diddly squat. Not a squat in sight. Squatless. In fact, those little buggers made things worse, if you can believe it. Can you believe it? I mean, holy hell. Anyway, I just stopped taking them. Some problems have easy solutions. Ask any scientist."
+40,Kaitlyn,10/02/2022 10:49:00 AM EDT,Question,were there side effects
+41,Lucas Callahan,10/02/2022 10:49:00 AM EDT,Response,"Yeah, the antidepressos did some stuff to me. Whatever. Bullcrap little -- just -- just stupid, stupid stuff. No one needs 'em."
+42,Kaitlyn,10/02/2022 10:49:00 AM EDT,Question,what were the side effects
+43,Lucas Callahan,10/02/2022 10:49:00 AM EDT,Response,"Look, if I wanted to talk about that, I would've already told you, so move on, Professor Healthcare! Jeez . . . you're givin' me some side effects, all right . . ."
+44,Kaitlyn,10/02/2022 10:50:00 AM EDT,Question,are you still taking that medication (Clarified to Do you still take the antidepressants?.)
+45,Lucas Callahan,10/02/2022 10:50:00 AM EDT,Response,"Heck no. After a few months on them, I knew they weren't for me. The doc said to talk to him before making any changes, but hey, he didn't talk to me before putting me on them! Hehe. Well, he did, but you know what I mean. (Clarified to if I am still taking antidepressants.)"
+46,Kaitlyn,10/02/2022 10:50:00 AM EDT,Question,what other medications do you take
+47,Lucas Callahan,10/02/2022 10:50:00 AM EDT,Response,I've only ever taken antidepressants.
+48,Kaitlyn,10/02/2022 10:50:00 AM EDT,Question,can you tell me about the prescription
+49,Lucas Callahan,10/02/2022 10:50:00 AM EDT,Response,"All I remember is that they didn't work, they made me feel like . . . whatever, they sucked. They were--they were suck pills. That's all I remember. They were suck pills made in Sucksville and I hope they rot in Sucks Hell."
+50,Kaitlyn,10/02/2022 10:50:00 AM EDT,Question,did you try to kill yourself
+51,Lucas Callahan,10/02/2022 10:50:00 AM EDT,Response,"I really don't want to talk about it. You're being a bummer, honestly. I was in a good mood before we started talking about this."
+52,Kaitlyn,10/02/2022 10:51:00 AM EDT,Statement,Im sorry
+53,Lucas Callahan,10/02/2022 10:51:00 AM EDT,Response,"Thanks a million, but I'm all good, I promise!"
+54,Kaitlyn,10/02/2022 10:51:00 AM EDT,Question,have you tried to kill yourself more than once
+55,Lucas Callahan,10/02/2022 10:51:00 AM EDT,Response,Just the once . . . and you really don't have to worry about me like that.
+56,Kaitlyn,10/02/2022 10:51:00 AM EDT,Question,did you want to be dead
+57,Lucas Callahan,10/02/2022 10:51:00 AM EDT,Response,"No, it was because I was really happy and my life was going great. What do you think?"
+58,Kaitlyn,10/02/2022 10:51:00 AM EDT,Question,do you still wish you wanted to be dead
+59,Lucas Callahan,10/02/2022 10:51:00 AM EDT,Response,"Nah, that would be nuts. I've got so much in the works. My life's coming together. Everything's falling into place. Feeling worthless, or whatever, that was only during my depression."
+60,Kaitlyn,10/02/2022 10:52:00 AM EDT,Question,did you think others would like it better if you werent here (No matching questions found.)
+61,Kaitlyn,10/02/2022 10:52:00 AM EDT,Question,did you think other people wanted you dead
+62,Lucas Callahan,10/02/2022 10:52:00 AM EDT,Response,"I don't really care what people think of me, especially if people aren't hip to my vibes."
+63,Kaitlyn,10/02/2022 10:52:00 AM EDT,Question,did you think others would be better off without you
+64,Lucas Callahan,10/02/2022 10:52:00 AM EDT,Response,"When I tried to kill myself maybe, I don't know, I don't think about that anymore, but I definitely don't feel that way now. Why would I? Everything's going great."
+65,Kaitlyn,10/02/2022 10:53:00 AM EDT,Question,have you harmed yourself without the intent to kill yourself
+66,Lucas Callahan,10/02/2022 10:53:00 AM EDT,Response,"No, not at all. Such a bummer question. I only really got like that during my one suicide attempt. One as in done."
+67,Kaitlyn,10/02/2022 10:53:00 AM EDT,Question,homicidal urges (Clarified to Tell me about your homicidal urges?.)
+68,Lucas Callahan,10/02/2022 10:53:00 AM EDT,Response,I don't have any. I've never felt that way. That's disgusting. Sick. (Clarified to to tell you about the homicidal urges.)
+69,Kaitlyn,10/02/2022 10:53:00 AM EDT,Question,perception of mental health
+70,Lucas Callahan,10/02/2022 10:53:00 AM EDT,Response,"My brain is superb, honestly. It's frickin' cotton candy and sports car up there. Don't worry about me. Like, yeah, I was depressed before, if that's what you're asking. But that's as dead as a doornail, hangnail, all the nails."
+71,Kaitlyn,10/02/2022 10:53:00 AM EDT,Question,excessive irritability (Clarified to Have you had excessive irritability or anger?.)
+72,Lucas Callahan,10/02/2022 10:53:00 AM EDT,Response,"Sure, if somebody's messin' with my vibes, I'll get in an argument. Vibes are sacred, no joke. (Clarified to if I have had excessive irritability or anger.)"
+73,Kaitlyn,10/02/2022 10:54:00 AM EDT,Question,self concept
+74,Lucas Callahan,10/02/2022 10:54:00 AM EDT,Response,"I see myself as this visionary poet who's going to rock the world once his work is published. I see a killer head of hair that ladies just can't resist. I see an enlightened soul that shines like stained-glass. Amen, let the choir sing."
+75,Kaitlyn,10/02/2022 10:54:00 AM EDT,Question,changes in speed of moving
+76,Lucas Callahan,10/02/2022 10:54:00 AM EDT,Response,"I mean, nah, I'm just a super quick guy in general. I like to get things done and keep 'em moving. Talk fast, walk fast, all that. What can I say, some horses weren't meant for carriages."
+77,Kaitlyn,10/02/2022 10:54:00 AM EDT,Question,racing thoughts
+78,Lucas Callahan,10/02/2022 10:54:00 AM EDT,Response,"Shoot--I've got a whirlwind of thoughts. I've been putting them all down in this epic poem I'm working on. It's gonna be amazing, probably will be published in volumes, once I get it published and everything. I'll invite you to the launch party. Are you gonna wear a hat? That's the dress code."
+79,Kaitlyn,10/02/2022 10:54:00 AM EDT,Question,please and interest in typical activities (Clarified to Have you been experiencing pleasure and interest in typical activities?.)
+80,Lucas Callahan,10/02/2022 10:54:00 AM EDT,Response,"Heck yeah, my life is the best. There's joy everywhere. There's joy in this hospital room, not that you would know much about that. Yeah, you really just gotta keep an eye out for it, my friend. Just squint and you'll see it. (Clarified to if I have been experiencing pleasure and interest in typical activities.)"
+81,Kaitlyn,10/02/2022 10:54:00 AM EDT,Question,ability to concentrate
+82,Lucas Callahan,10/02/2022 10:54:00 AM EDT,Response,"Oh, I've been laser-focused lately. On my poetry, that is. On my friends' projects. I told you we're thinking about making this community art center? It would be so sick. We'll see. It's all in the works."
+83,Kaitlyn,10/02/2022 10:55:00 AM EDT,Question,changes in productivity
+84,Lucas Callahan,10/02/2022 10:55:00 AM EDT,Response,"Oh, I've been working super hard on my poem in the last week or so. It's gonna be totally epic. Probably one-thousand pages printed out. I don't even have to try, that's the crazy thing. It just comes out of me."
+85,Kaitlyn,10/02/2022 10:55:00 AM EDT,Question,changes in social activities
+86,Lucas Callahan,10/02/2022 10:55:00 AM EDT,Response,"My social game has been through the roof in the last week. Not to be braggadocio, but I dosey doe with the best of them."
+87,Kaitlyn,10/02/2022 10:55:00 AM EDT,Question,libido and sexual activity
+88,Lucas Callahan,10/02/2022 10:55:00 AM EDT,Response,"My carnal business has definitely amped up in the past week! And I'm not complaining, either. It's been totally awesome. Friends and strangers, the sexy time has been unreal."
+89,Kaitlyn,10/02/2022 10:55:00 AM EDT,Question,spending habits and consequences
+90,Lucas Callahan,10/02/2022 10:55:00 AM EDT,Response,"Sheez. Mom and Dad getting mad at me, but I don't want to go down that rabbit hole. Too dark. I'm all light now, facing the sun."
+91,Kaitlyn,10/02/2022 10:56:00 AM EDT,Question,financial status (Clarified to What is your financial situation?.)
+92,Lucas Callahan,10/02/2022 10:56:00 AM EDT,Response,"My finances are good! My parents give me some dough every now and then, I don't have to work . . . it's pretty stellar, ideal even! (Clarified to what my financial situation is like.)"
+93,Kaitlyn,10/02/2022 10:56:00 AM EDT,Question,occupation (No matching questions found.)
+94,Kaitlyn,10/02/2022 10:56:00 AM EDT,Question,occupation do you have one (Clarified to What work do you do?.)
+95,Lucas Callahan,10/02/2022 10:56:00 AM EDT,Response,"I'm in between jobs right now. Actually, I'm more in between not having a job and not having a job. (Clarified to what work I do.)"
+96,Kaitlyn,10/02/2022 10:56:00 AM EDT,Question,do you have an occupation
+97,Lucas Callahan,10/02/2022 10:56:00 AM EDT,Response,"I'm in between jobs right now. Actually, I'm more in between not having a job and not having a job."
+98,Kaitlyn,10/02/2022 10:56:00 AM EDT,Question,last occupation (Clarified to When have you had a job?.)
+99,Lucas Callahan,10/02/2022 10:56:00 AM EDT,Response,I couldn't tell ya exactly. It's been a while. (Clarified to when I have had a job.)
+100,Kaitlyn,10/02/2022 10:57:00 AM EDT,Question,what was your last job
+101,Lucas Callahan,10/02/2022 10:57:00 AM EDT,Response,In the past--I worked at a pizza place once. Another time my dad's friend let me work at his office. I put Christmas trees on people's cars. I worked at an insurance office for like two weeks one time.
+102,Kaitlyn,10/02/2022 10:57:00 AM EDT,Question,legal troubles (Clarified to Do you have a legal history?.)
+103,Lucas Callahan,10/02/2022 10:57:00 AM EDT,Response,"Not at all! I'm the patron saint of innocence! Hah. No, really though, I've never gotten so much as a ticket. (Clarified to If I have a legal history.)"
+104,Kaitlyn,10/02/2022 10:57:00 AM EDT,Question,alcohol use (Clarified to Can you tell me about your alcohol use?.)
+105,Lucas Callahan,10/02/2022 10:57:00 AM EDT,Response,"I mean, I'm not, like, special. I like alcohol for like, parties and stuff. It makes me happy. Occasionally it helps me sleep if I'm feeling all up and about. Most of the time it just puts me in a better mood. That used to be the case when I was depressed, too, but like, I'm never gonna be depressed again, so don't worry. (Clarified to to tell you about my alcohol use.)"
+106,Kaitlyn,10/02/2022 10:57:00 AM EDT,Question,drug use (Clarified to Do you have a history of drug use?.)
+107,Lucas Callahan,10/02/2022 10:57:00 AM EDT,Response,"I do coke, I drink . . . that's really it. I like doing the same things over and over. I get in my groove with it. (Clarified to if I have a history of drugs use.)"
+108,Kaitlyn,10/02/2022 10:57:00 AM EDT,Question,what other drugs have you used
+109,Lucas Callahan,10/02/2022 10:57:00 AM EDT,Response,"I do coke, I drink . . . that's really it. I like doing the same things over and over. I get in my groove with it."
+110,Kaitlyn,10/02/2022 10:58:00 AM EDT,Question,methods of transportation
+111,Lucas Callahan,10/02/2022 10:58:00 AM EDT,Response,"Oh, how do I get around? I'm cruising the streets in my car. I got it when I turned sixteen and that thing's like a brother to me."
+112,Kaitlyn,10/02/2022 10:58:00 AM EDT,Question,last time you used drugs
+113,Lucas Callahan,10/02/2022 10:58:00 AM EDT,Response,"Haven't done coke since about four days ago, I'd say."
+114,Kaitlyn,10/02/2022 10:58:00 AM EDT,Question,what drugs have you used in the past
+115,Lucas Callahan,10/02/2022 10:58:00 AM EDT,Response,"Pssh. Most everything you would reasonably find at a liberal arts school. Powders, buds, tablets, et cetera. I've only ever done cocaine with any regularity, though."
+116,Kaitlyn,10/02/2022 10:58:00 AM EDT,Question,diet and appetite (Clarified to How is your diet and appetite doing?.)
+117,Lucas Callahan,10/02/2022 10:58:00 AM EDT,Response,"I dunno, what do you wanna know? I'm not really big into eating. It's kind of almost . . . peasant-like? Like, I just feel very cerebral. I barely have an appetite . . . I can go a whole day on, like, half the everyman's calories. This week I've only been eating super small meals a day. That stuff just slows me down, you know? Like I would never think, oh boy, three hours are past, time to eat. (Clarified to how my diet and appetite is.)"
+118,Kaitlyn,10/02/2022 10:59:00 AM EDT,Question,do you drink many fluids (Clarified to Have you been drinking more fluids than usual?.)
+119,Lucas Callahan,10/02/2022 10:59:00 AM EDT,Response,"I don't think so. I don't keep a record or anything. I played the recorder in elementary school. I was good, too. Man, I was good . . . (Clarified to if I have been drinking more fluids than usual.)"
+120,Kaitlyn,10/02/2022 10:59:00 AM EDT,Question,do you drink caffeine
+121,Lucas Callahan,10/02/2022 10:59:00 AM EDT,Response,"Do I look like a guy who needs caffeine? This is au naturale, baby. I don't need no crushed up bean juice that tastes like tree poop."
+122,Kaitlyn,10/02/2022 10:59:00 AM EDT,Question,level of education
+123,Lucas Callahan,10/02/2022 10:59:00 AM EDT,Response,I did a year in college a while back.
+124,Kaitlyn,10/02/2022 10:59:00 AM EDT,Question,access to healthcare (Clarified to What kind of access to healthcare do you have?.)
+125,Lucas Callahan,10/02/2022 10:59:00 AM EDT,Response,"I'm on my parents' insurance. They take care of all that junk. Paperwork, whatever. Boring. (Clarified to what my access to healthcare is.)"
+126,Kaitlyn,10/02/2022 10:59:00 AM EDT,Question,living situation (Clarified to What is your living situation?.)
+127,Lucas Callahan,10/02/2022 10:59:00 AM EDT,Response,"It's pretty perfect, honestly. No rent, no bills, no dusting. I just crash in my car or at a friends' place or wherever, then I wake up and start my day. Boom. Did you know the kookaburra never sleeps in the same tree twice? I think most people would make better decisions if they mimicked ornithology. (Clarified to to tell you about my living situation.)"
+128,Kaitlyn,10/02/2022 11:00:00 AM EDT,Question,history of abuse (Clarified to Do you have a family history of abuse?.)
+129,Lucas Callahan,10/02/2022 11:00:00 AM EDT,Response,"What? No! Jeez Louise, the kinds of questions y'all have to ask . . . (Clarified to if I have a family history of abuse.)"
+130,Kaitlyn,10/02/2022 11:00:00 AM EDT,Question,family history of mental illness
+131,Lucas Callahan,10/02/2022 11:00:00 AM EDT,Response,"No . . . I couldn't tell you anything about my birth parents, but my real parents are pretty sane. They're kinda, like, massive normies. Wouldn't know art if it hit 'em in the balls."
+132,Kaitlyn,10/02/2022 11:00:00 AM EDT,Question,general symptoms (Clarified to Have you been having any general symptoms?.)
+133,Lucas Callahan,10/02/2022 11:00:00 AM EDT,Response,"I'm not sure what you're getting at. I'm not sick. I'm sure the fuzz who brought me here would say otherwise, though. (Clarified to if I have had general symptoms.)"
+134,Kaitlyn,10/02/2022 11:00:00 AM EDT,Question,changes in your head (Clarified to Have you had changes with your hair?.)
+135,Lucas Callahan,10/02/2022 11:00:00 AM EDT,Response,The hair of my body has changed not at all. Not at all has the hair of my body changed. Change in the pocket goes jingle jangle jong. Brass monkeys can do nothing but bang the gong! (Clarified to if I have had changes with my hair.)
+136,Kaitlyn,10/02/2022 11:01:00 AM EDT,Question,changes with your eyes (Clarified to Have you ever had any eye problems?.)
+137,Lucas Callahan,10/02/2022 11:01:00 AM EDT,Response,"No, no, no. I haven't had any problems with my vision. In fact, my vision has only gotten better and better. My ability to really see what's going on around me. I'm not trapped in some dark room somewhere, just praying for sleep, I'm engaged. I'm locked in. (Clarified to if I have had eye problems.)"
+138,Kaitlyn,10/02/2022 11:01:00 AM EDT,Question,cardiovascular changes (Clarified to Do you have cardiovascular problems?.)
+139,Lucas Callahan,10/02/2022 11:01:00 AM EDT,Response,"There are no bats in my chest cave, if that's what's flying around in your head. (Clarified to if I have cardiovascular problems.)"
+140,Kaitlyn,10/02/2022 11:01:00 AM EDT,Question,gi problems (Clarified to Do you have gastrointestinal problems?.)
+141,Lucas Callahan,10/02/2022 11:01:00 AM EDT,Response,"My stomach, otherwise known as Callahan's Gastropub, has a big A in the front window. Looks good and feels great. (Clarified to if I have gastrointestinal problems.)"
+142,Kaitlyn,10/02/2022 11:01:00 AM EDT,Question,drug use (Clarified to Do you ever use drugs?.)
+143,Lucas Callahan,10/02/2022 11:01:00 AM EDT,Response,"I guess cocaine is still illegal, right? That's the war on drugs for ya. (Clarified to if I use illegal drugs.)"
+144,Kaitlyn,10/02/2022 11:02:00 AM EDT,Question,follow up on drug use (No matching questions found.)
+145,Kaitlyn,10/02/2022 11:02:00 AM EDT,Question,how have you used drugs (Clarified to Have you ever experimented with drugs?.)
+146,Lucas Callahan,10/02/2022 11:02:00 AM EDT,Response,"Oh, I would try anything once. Most kids did. DMT, shrooms, angel food cake, sativa, ibuprofen soaked in vodka. Nothing that I liked enough to do regularly though. I only did coke for the first time eight-ish months ago. (Clarified to if I have ever experimented with drugs.)"
+147,Kaitlyn,10/02/2022 01:02:00 PM EDT,Exam Action,Assessed vitals
+148,Kaitlyn,10/02/2022 01:03:00 PM EDT,Exam Action,Inspected right eye
+149,Kaitlyn,10/02/2022 01:03:00 PM EDT,Exam Action,Inspected left eye
+150,Kaitlyn,10/02/2022 01:03:00 PM EDT,Exam Action,Performed otoscopic examination of right naris
+151,Kaitlyn,10/02/2022 01:03:00 PM EDT,Exam Action,Performed otoscopic examination of left naris
+152,Kaitlyn,10/02/2022 01:03:00 PM EDT,Exam Action,Inspected top of arms
+153,Kaitlyn,10/02/2022 01:04:00 PM EDT,Question,is there any self harm you would like to tell me about
+154,Lucas Callahan,10/02/2022 01:04:00 PM EDT,Response,"No, not at all. Such a bummer question. I only really got like that during my one suicide attempt. One as in done."
+155,Kaitlyn,10/02/2022 01:04:00 PM EDT,Exam Action,Inspected right forearm
+156,Kaitlyn,10/02/2022 01:04:00 PM EDT,Exam Action,Inspected right wrist
+157,Kaitlyn,10/02/2022 01:04:00 PM EDT,Exam Action,Inspected left forearm
+158,Kaitlyn,10/02/2022 01:04:00 PM EDT,Exam Action,Inspected left wrist
+159,Kaitlyn,10/02/2022 01:04:00 PM EDT,Exam Action,Inspected right wrist
+160,Kaitlyn,10/02/2022 01:04:00 PM EDT,Exam Action,Inspected left wrist
+161,Kaitlyn,10/02/2022 01:04:00 PM EDT,Exam Action,Inspected chest
+162,Kaitlyn,10/02/2022 01:05:00 PM EDT,Exam Action,Inspected legs
+163,Kaitlyn,10/02/2022 01:05:00 PM EDT,Exam Action,Inspected back
+164,Kaitlyn,10/02/2022 01:05:00 PM EDT,Exam Action,Auscultated breath sounds
+165,Kaitlyn,10/02/2022 01:05:00 PM EDT,Exam Action,Auscultated heart sounds
+166,Kaitlyn,10/02/2022 01:06:00 PM EDT,Exam Action,Palpated abdomen
+167,Kaitlyn,10/02/2022 01:06:00 PM EDT,Exam Action,Palpated right and left radial pulse
+168,Kaitlyn,10/02/2022 01:06:00 PM EDT,Exam Action,Palpated right and left dorsalis pedis pulse
+169,Kaitlyn,10/02/2022 01:06:00 PM EDT,Exam Action,Palpated capillary refill on right and left hand
+170,Kaitlyn,10/02/2022 01:06:00 PM EDT,Exam Action,Performed EKG
+171,Kaitlyn,10/02/2022 01:06:00 PM EDT,Exam Action,Assessed lab results
+172,Kaitlyn,10/02/2022 01:07:00 PM EDT,Exam Action,"Assessed general appearance: posture is bent or hunched, clothing is dirty and disheveled, grooming and self-care are otherwise adequate, eye contact is direct"
+173,Kaitlyn,10/02/2022 01:07:00 PM EDT,Exam Action,Assessed attitude: displays frequent distrust and evasiveness
+174,Kaitlyn,10/02/2022 01:08:00 PM EDT,Exam Action,"Assessed speech: rate of speech is rapid, but at an appropriate volume, and no issues with articulation"
+175,Kaitlyn,10/02/2022 01:08:00 PM EDT,Exam Action,Assessed mood and affect: frequent mood changes throughout interview; excessively expansive or cheerful affect
+176,Kaitlyn,10/02/2022 01:08:00 PM EDT,Exam Action,"Assessed thought process: presence of rapid thinking, disorganized or illogical flow of thought, ""word salad,"" neologisms, echolalia, and clanging associations"
+177,Kaitlyn,10/02/2022 01:08:00 PM EDT,Exam Action,Assessed thought content: presence of delusions; no presence of perceptual disturbances or hallucinations
+178,Kaitlyn,10/02/2022 01:08:00 PM EDT,Exam Action,Confirmed orientation
+179,Kaitlyn,10/02/2022 01:09:00 PM EDT,Question,what is your name and date of birth
+180,Lucas Callahan,10/02/2022 01:09:00 PM EDT,Response,"Lucas Callahan, born . . . [Mr. Callahan reports his correct date of birth.]"
+181,Kaitlyn,10/02/2022 01:09:00 PM EDT,Question,what building are you in now
+182,Lucas Callahan,10/02/2022 01:09:00 PM EDT,Response,The hospital. Shadow General.
+183,Kaitlyn,10/02/2022 01:09:00 PM EDT,Question,what is the date and year
+184,Lucas Callahan,10/02/2022 01:09:00 PM EDT,Response,The date is . . . [Mr. Callahan reports the correct date and year.]
+185,Kaitlyn,10/02/2022 01:09:00 PM EDT,Exam Action,Assessed cognition
+186,Kaitlyn,10/02/2022 01:10:00 PM EDT,Question,count backwards from 100 by 7 until you get to the 60s
+187,Lucas Callahan,10/02/2022 01:10:00 PM EDT,Response,"Easy! 100, 93, 86, 79... [Mr. Callahan finishes the sequence.]"
+188,Kaitlyn,10/02/2022 01:10:00 PM EDT,Exam Action,Assessed cognition
+189,Kaitlyn,10/02/2022 01:10:00 PM EDT,Question,how are apples and oranges alike
+190,Lucas Callahan,10/02/2022 01:10:00 PM EDT,Response,"They're both fruits, of course!"
+191,Kaitlyn,10/02/2022 01:10:00 PM EDT,Question,how are a lake and an ocean alike
+192,Lucas Callahan,10/02/2022 01:10:00 PM EDT,Response,They're both bodies of water.
+193,Kaitlyn,10/02/2022 01:10:00 PM EDT,Question,how are a trumpet and fruit alike
+194,Lucas Callahan,10/02/2022 01:10:00 PM EDT,Response,They're both instruments. And they both are way underused in modern post-punk.
+195,Kaitlyn,10/02/2022 01:11:00 PM EDT,Exam Action,Assessed cognition
+196,Kaitlyn,10/02/2022 01:11:00 PM EDT,Question,repeat and remember burger tulip nose and tea
+197,Lucas Callahan,10/02/2022 01:11:00 PM EDT,Response,"Burger, tulip, nose and tea. Yep, I got this."
+198,Kaitlyn,10/02/2022 01:11:00 PM EDT,Question,how did you celebrate your last birthday
+199,Lucas Callahan,10/02/2022 01:11:00 PM EDT,Response,"Oh, it was actually really awesome! Me and some friends did the Bake-a-Cake Blindfolded Challenge. Then we just went out to a couple of my favorite bars. It actually wasn't as rowdy as you'd think, but it was just great vibes all around."
+200,Kaitlyn,10/02/2022 01:12:00 PM EDT,Question,repeat the four words from before
+201,Lucas Callahan,10/02/2022 01:12:00 PM EDT,Response,"OK . . . burger, tulip, nose, and tea. Ha! Nailed it."
+202,Kaitlyn,10/02/2022 01:12:00 PM EDT,Question,"copy the shapes exactly as you see the,"
+203,Lucas Callahan,10/02/2022 01:12:00 PM EDT,Response,Right on. Let's do this!
+204,Kaitlyn,10/02/2022 01:12:00 PM EDT,Exam Action,Assessed insight: demonstrates limited awareness of illness and is unwilling to seek treatment
+205,Kaitlyn,10/02/2022 01:12:00 PM EDT,Exam Action,Assessed judgment: demonstrates good judgment
+206,Kaitlyn,10/02/2022 01:12:00 PM EDT,Question,what would you do if you found a stamped envelope on the sidewalk
+207,Lucas Callahan,10/02/2022 01:12:00 PM EDT,Response,"Probably put it in a mailbox, if I saw there was one nearby."
+208,Kaitlyn,10/02/2022 01:18:00 PM EDT,Statement,hello. i have come up with a plan of care for you. i want you to be safe and remain free from injury. how does that sound
+209,Lucas Callahan,10/02/2022 01:18:00 PM EDT,Response,"Listen, I KNOW Im at risk for injury! Remember what I was telling you earlier, about the government agents following me because they know, in their weasely little weasel-minds, that Im an enlightened threat? So, yeah. Were on the same page."
+210,Kaitlyn,10/02/2022 01:19:00 PM EDT,Statement,we are going to keep you safe here
+211,Lucas Callahan,10/02/2022 01:19:00 PM EDT,Response,"Right, right, you gotta keep me safe like a little babe swaddled in the manger of life. Totally agree with you! Im all baby blanket and pacifier. Life is beautiful, glorious, radiant -- gotta preserve it at all costs. Im a national treasure. Kiss my feet if you want."
+212,Kaitlyn,10/02/2022 01:19:00 PM EDT,Statement,how does this plan sound
+213,Lucas Callahan,10/02/2022 01:19:00 PM EDT,Response,"Yeah, lets do this thing. Im game. Youre game. All were missing are the cheerleaders. Hey, Lucas! Hes our man! If he cant do it, no one can! Rah rah rah! Sis boom bah bah bah!"

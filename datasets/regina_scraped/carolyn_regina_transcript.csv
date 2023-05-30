@@ -5,126 +5,121 @@
 3,Regina Walker,10/04/2022 09:53:00 PM EDT,Response,I was having trouble with the pain from my cancer... I just couldn't take it anymore at home.
 4,Carolyn,10/04/2022 09:54:00 PM EDT,Question,Can you tell me where you are?
 5,Regina Walker,10/04/2022 09:54:00 PM EDT,Response,I'm in the hospital.
-6,Carolyn,10/04/2022 09:55:00 PM EDT,Question,Have you had anything to drink recently? 
-7,System,10/04/2022 09:55:00 PM EDT,Clarification, Have you drank anything today?.
-8,Regina Walker,10/04/2022 09:55:00 PM EDT,Response,"I had a few sips of ginger ale earlier, but that's about it. (Clarified to if I drank anything today.)"
-9,Carolyn,10/04/2022 09:55:00 PM EDT,Question,are you in pain when you urinate>?
-10,Regina Walker,10/04/2022 09:55:00 PM EDT,Response,"No, there's no burning or pain there."
-11,Carolyn,10/04/2022 09:55:00 PM EDT,Question,when is the last time you ate?
-12,Regina Walker,10/04/2022 09:55:00 PM EDT,Response,"Let's see, I had a few bites of yogurt last night before bed... I think that was the last time I had anything."
-13,Carolyn,10/04/2022 09:56:00 PM EDT,Question,Do you have a preference for hospice care?
-14,Regina Walker,10/04/2022 09:56:00 PM EDT,Response,I want to allow things to take their course . . . it's time for me to stop fighting and just enjoy the time I have left in what little ways I can. My husband and I have chosen an assisted living residence near my home where I'll go for hospice care. I have been told that they can help me with the pain there .  . . and it's close enough that my husband can be with me.
-15,Carolyn,10/04/2022 09:56:00 PM EDT,Question,Do you have any advanced directives?
-16,Regina Walker,10/04/2022 09:56:00 PM EDT,Response,"Yes, all my affairs should be in order."
-17,Carolyn,10/04/2022 09:57:00 PM EDT,Question,when did the pain begin?
-18,Regina Walker,10/04/2022 09:57:00 PM EDT,Response,where us the pain located? 
-19,System,10/04/2022 09:58:00 PM EDT,Clarification, Where is the pain?.
-20,Carolyn,10/04/2022 09:58:00 PM EDT,Question,where us the pain located? (Clarified to Where is the pain?.)
-21,Regina Walker,10/04/2022 09:58:00 PM EDT,Response,"Well, everywhere really . . . These past days I've felt it mostly in my ribs and legs but even my bones hurt. (Clarified to where it hurts.)"
-22,Carolyn,10/04/2022 09:58:00 PM EDT,Question,can you describe your pain?
-23,Regina Walker,10/04/2022 09:58:00 PM EDT,Response,"I can feel it all over my body . . . It's a sharp pain in my bones, my legs, and my ribs. It's been getting much worse over the past two days."
-24,Carolyn,10/04/2022 09:59:00 PM EDT,Question,what aggravates the pain?
-25,Regina Walker,10/04/2022 09:59:00 PM EDT,Response,"Nothing makes the pain worse, nothing makes it better. It's just constant and relentless."
-26,Carolyn,10/04/2022 09:59:00 PM EDT,Question,what are some relieving factors for your pain?
-27,Regina Walker,10/04/2022 09:59:00 PM EDT,Response,"I took my pain pills at home but nothing fully gets rid of the pain, really... I'm not ungrateful for what you all have done for me, I can just still feel it there, through the medication."
-28,Carolyn,10/04/2022 10:00:00 PM EDT,Question,What is the severity of the pain?
-29,Regina Walker,10/04/2022 10:00:00 PM EDT,Response,"It's better now than before, but I can still feel it there."
-30,Carolyn,10/04/2022 10:00:00 PM EDT,Question,Do you have any allergies?
-31,Regina Walker,10/04/2022 10:00:00 PM EDT,Response,"Well, I don't have allergies to anything but penicillin. I told them right when I arrived."
-32,Carolyn,10/04/2022 10:00:00 PM EDT,Question,Have you followed up on your penicillin allergy?
-33,Regina Walker,10/04/2022 10:00:00 PM EDT,Response,"As in, followed up with a doctor? I have not. I haven't felt the need to."
-34,Carolyn,10/04/2022 10:01:00 PM EDT,Question,do you have any home medications?
-35,Regina Walker,10/04/2022 10:01:00 PM EDT,Response,I take two types of morphine at home every day and I also manage my hypertension with Hyzaar.
-36,Carolyn,10/04/2022 10:02:00 PM EDT,Question,tell me about the long-acting morphine
-37,Regina Walker,10/04/2022 10:02:00 PM EDT,Response,I've been taking morphine for about six months. That's when the cancer had spread to my bones and the pain was intensifying.
-38,Carolyn,10/04/2022 10:06:00 PM EDT,Question,have you followed up with the doctor about your morphine? (No matching questions found.)
-39,Carolyn,10/04/2022 10:07:00 PM EDT,Question,do you have a history of substance user?
-40,Regina Walker,10/04/2022 10:07:00 PM EDT,Response,"No, I do not."
-41,Carolyn,10/04/2022 10:07:00 PM EDT,Question,do you have any problems with your head?
-42,Regina Walker,10/04/2022 10:07:00 PM EDT,Response,"My head feels just fine, that's not where I'm having the pain."
-43,Carolyn,10/04/2022 10:08:00 PM EDT,Question,do you have any problems with your respiratory?
-44,Regina Walker,10/04/2022 10:08:00 PM EDT,Response,"No, I don't have any breathing difficulties."
-45,Carolyn,10/04/2022 10:08:00 PM EDT,Question,do you have any cardiac problems?
-46,Regina Walker,10/04/2022 10:08:00 PM EDT,Response,"No, I've never had heart trouble."
-47,Carolyn,10/04/2022 10:08:00 PM EDT,Question,do you have any gastrointestinal problems?
-48,Regina Walker,10/04/2022 10:08:00 PM EDT,Response,"Well, I've been getting pain in my stomach and I've been a bit constipated as well. Which I think is why I feel so full and bloated."
-49,Carolyn,10/04/2022 10:09:00 PM EDT,Question,has anything been done for your constipation? (No matching questions found.)
-50,Carolyn,10/04/2022 10:09:00 PM EDT,Question,has anyone followed up on the constipation? (No matching questions found.)
-51,Carolyn,10/04/2022 10:10:00 PM EDT,Question,do you have any neurological problems?
-52,Regina Walker,10/04/2022 10:10:00 PM EDT,Response,"Yes, I've been feeling quite weak lately."
-53,Carolyn,10/04/2022 10:10:00 PM EDT,Question,do you have any psychological problems?
-54,Regina Walker,10/04/2022 10:10:00 PM EDT,Response,"No, not specifically . . . I have been feeling somewhat anxious lately though."
-55,Carolyn,10/04/2022 10:11:00 PM EDT,Question,do you have depression?
-56,Regina Walker,10/04/2022 10:11:00 PM EDT,Response,"I have my ups and downs. Nothing so down I'd call depression, though."
-57,Carolyn,10/04/2022 10:11:00 PM EDT,Question,how is your living environment?
-58,Regina Walker,10/04/2022 10:11:00 PM EDT,Response,"I'm living with my husband in our home. I'm happy there still, all the familiar surroundings, visits from our friends . . . but if the pain is going to be as bad as this morning from now on, I'm not sure what I can do about it at home."
-59,Carolyn,10/04/2022 10:12:00 PM EDT,Question,who helps you bathe? 
-60,System,10/04/2022 10:12:00 PM EDT,Clarification, Do you rely on other people to help you bathe?.
-61,Regina Walker,10/04/2022 10:12:00 PM EDT,Response,do you rely on help to get dressed? 
-62,System,10/04/2022 10:13:00 PM EDT,Clarification, Are you able to dress yourself?.
-63,Carolyn,10/04/2022 10:12:00 PM EDT,Question,who helps you bathe? (Clarified to Do you rely on other people to help you bathe?.)
-64,Regina Walker,10/04/2022 10:12:00 PM EDT,Response,"Yes, I can't quite bathe on my own now. My husband has been helping me when I need to. We also have a shower bench that I sit on so I don't have to worry about falling. (Clarified to if I rely on people to help me bathe.)"
-65,Carolyn,10/04/2022 10:13:00 PM EDT,Question,do you rely on help to get dressed? (Clarified to Are you able to dress yourself?.)
-66,Regina Walker,10/04/2022 10:13:00 PM EDT,Response,I don't have any trouble dressing myself. (Clarified to if I can dress myself without problems.)
-67,Carolyn,10/04/2022 10:13:00 PM EDT,Question,do you have trouble transferring?
-68,Regina Walker,10/04/2022 10:13:00 PM EDT,Response,"Well, I have the most trouble getting up from any sort of lying position, so I spend most of my time in bed. My husband usually gives me a hand when I need to get up."
-69,Carolyn,10/04/2022 10:13:00 PM EDT,Question,do you have continence?
-70,Regina Walker,10/04/2022 10:13:00 PM EDT,Response,"Yes, I haven't had any accidents."
-71,Carolyn,10/04/2022 10:14:00 PM EDT,Question,do you eat independently?
-72,Regina Walker,10/04/2022 10:14:00 PM EDT,Response,"Yes, I haven't gotten to that point yet and hopefully won't have to ever worry about having someone feed me."
-73,Carolyn,10/04/2022 10:14:00 PM EDT,Question,what are your sleeping habits?
-74,Regina Walker,10/04/2022 10:14:00 PM EDT,Response,I'll take my medication before bed generally and just try to get what sleep I can. My quality of sleep has been quite poor lately though.
-75,Carolyn,10/04/2022 10:14:00 PM EDT,Question,do you experience confusion?
-76,Regina Walker,10/04/2022 10:14:00 PM EDT,Response,"No, I'm not confused right now. This morning the pain was making it a bit hard to think but I'm all here now."
-77,Carolyn,10/04/2022 10:15:00 PM EDT,Question,do you have skin breakdown?
-78,Regina Walker,10/04/2022 10:15:00 PM EDT,Response,I wouldn't call it much of a problem but my skin has been feeling thinner than normal.
-79,Carolyn,10/04/2022 10:15:00 PM EDT,Question,have you had any changes in weight?
-80,Regina Walker,10/04/2022 10:15:00 PM EDT,Response,"Yes, I've lost 20 pounds or so in the past two months."
-81,Carolyn,10/04/2022 10:15:00 PM EDT,Question,do you have any dental problems?
-82,Regina Walker,10/04/2022 10:15:00 PM EDT,Response,"No, I don't have any problems with my mouth, jaw, or teeth."
-83,Carolyn,10/04/2022 10:16:00 PM EDT,Question,have you had a change in your appetite?
-84,Regina Walker,10/04/2022 10:16:00 PM EDT,Response,"My appetite has been rather small lately, I haven't been eating too much for the last months."
-85,Carolyn,10/04/2022 10:16:00 PM EDT,Question,tell me about your social activity
-86,Regina Walker,10/04/2022 10:16:00 PM EDT,Response,Raymond and I have a nice group of families from the church who we see pretty regularly. They've really been great to us and have lifted quite a lot of weight from our shoulders. It's been difficult to see them with my pain as of late though . . .
-87,Carolyn,10/04/2022 10:17:00 PM EDT,Question,what is your perception of health?
-88,Regina Walker,10/04/2022 10:17:00 PM EDT,Response,I'd say my health is poor in general. I'm quite aware of the situation I'm in.
-89,Carolyn,10/04/2022 10:17:00 PM EDT,Question,recent hospital stays? 
-90,System,10/04/2022 10:18:00 PM EDT,Clarification, When was your last hospitalization?.
-91,Regina Walker,10/04/2022 10:17:00 PM EDT,Response,I've been feeling tired all of the time lately.
-92,Carolyn,10/04/2022 10:17:00 PM EDT,Question,have you been to the emergency room ?
-93,Regina Walker,10/04/2022 10:17:00 PM EDT,Response,"Yes, I came in this morning."
-94,Carolyn,10/04/2022 10:18:00 PM EDT,Question,recent hospital stays? (Clarified to When was your last hospitalization?.)
-95,Regina Walker,10/04/2022 10:18:00 PM EDT,Response,"Well, I haven't been hospitalized for the past three months, but I had some cancer treatments I underwent around three months ago. (Clarified to when the last time I was hospitalized was.)"
-96,Carolyn,10/04/2022 10:18:00 PM EDT,Statement,thank you for that. I am sorry your in pain.
-97,Regina Walker,10/04/2022 10:18:00 PM EDT,Response,Thank you for saying that. Really.
-98,Carolyn,10/04/2022 10:19:00 PM EDT,Exam Action,Assessed vitals
-99,Carolyn,10/04/2022 10:20:00 PM EDT,Exam Action,Assessed IV bag
-100,Carolyn,10/04/2022 10:20:00 PM EDT,Exam Action,Assessed IV bag
-101,Carolyn,10/04/2022 10:21:00 PM EDT,Exam Action,Assessed IV pump
-102,Carolyn,10/04/2022 10:21:00 PM EDT,Exam Action,Assessed IV site
-103,Carolyn,10/04/2022 10:21:00 PM EDT,Exam Action,"Assessed urine quality: clear, dark yellow, no noticeable odor"
-104,Carolyn,10/04/2022 10:22:00 PM EDT,Exam Action,Checked Patient Wristbands: All information is correct
-105,Carolyn,10/04/2022 10:23:00 PM EDT,Exam Action,Inspected left eye: Sclera - icterus
-106,Carolyn,10/04/2022 10:23:00 PM EDT,Exam Action,Inspected right eye: Sclera - icterus
-107,Carolyn,10/04/2022 10:24:00 PM EDT,Exam Action,Inspected mouth
-108,Carolyn,10/04/2022 10:25:00 PM EDT,Exam Action,Inspected front of neck and face: jaundice
-109,Carolyn,10/04/2022 10:25:00 PM EDT,Exam Action,Inspected chest and abdomen
-110,Carolyn,10/04/2022 10:25:00 PM EDT,Exam Action,Inspected front of left hand and arm
-111,Carolyn,10/04/2022 10:25:00 PM EDT,Exam Action,Inspected front of right hand and arm
-112,Carolyn,10/04/2022 10:25:00 PM EDT,Exam Action,Inspected front of thighs and knees
-113,Carolyn,10/04/2022 10:25:00 PM EDT,Exam Action,Inspected front of shins and top of feet
-114,Carolyn,10/04/2022 10:29:00 PM EDT,Exam Action,Auscultated carotids
-115,Carolyn,10/04/2022 10:29:00 PM EDT,Exam Action,Auscultated breath sounds
-116,Carolyn,10/04/2022 10:29:00 PM EDT,Exam Action,Auscultated heart sounds
-117,Carolyn,10/04/2022 10:30:00 PM EDT,Exam Action,Auscultated bowel sounds
-118,Carolyn,10/04/2022 10:30:00 PM EDT,Exam Action,Palpated abdomen with light pressure
-119,Carolyn,10/04/2022 10:31:00 PM EDT,Exam Action,Palpated abdomen with deep pressure
-120,Carolyn,10/04/2022 10:31:00 PM EDT,Exam Action,Palpated bladder
-121,Carolyn,10/04/2022 10:32:00 PM EDT,Question,"can you repeat the words apple, penny, and table?"
-122,Regina Walker,10/04/2022 10:32:00 PM EDT,Response,"Apple, penny, and table."
-123,Carolyn,10/04/2022 10:33:00 PM EDT,Exam Action,Tested skin turgor
-124,Carolyn,10/04/2022 10:33:00 PM EDT,Exam Action,Tested capillary refill
-125,Carolyn,10/04/2022 10:39:00 PM EDT,Statement,I will teach your coping mechanisms. I will have you verbalize the strategies.
-126,Regina Walker,10/04/2022 10:39:00 PM EDT,Response,I understand what you're saying. Thank you.
-127,Carolyn,10/04/2022 10:40:00 PM EDT,Statement,do you consent to the care plan I have provided for you?
-128,Regina Walker,10/04/2022 10:40:00 PM EDT,Response,I consent. You can begin now.
+6,Carolyn,10/04/2022 09:55:00 PM EDT,Question,Have you had anything to drink recently? (Clarified to Have you drank anything today?.)
+7,Regina Walker,10/04/2022 09:55:00 PM EDT,Response,"I had a few sips of ginger ale earlier, but that's about it. (Clarified to if I drank anything today.)"
+8,Carolyn,10/04/2022 09:55:00 PM EDT,Question,are you in pain when you urinate>?
+9,Regina Walker,10/04/2022 09:55:00 PM EDT,Response,"No, there's no burning or pain there."
+10,Carolyn,10/04/2022 09:55:00 PM EDT,Question,when is the last time you ate?
+11,Regina Walker,10/04/2022 09:55:00 PM EDT,Response,"Let's see, I had a few bites of yogurt last night before bed... I think that was the last time I had anything."
+12,Carolyn,10/04/2022 09:56:00 PM EDT,Question,Do you have a preference for hospice care?
+13,Regina Walker,10/04/2022 09:56:00 PM EDT,Response,I want to allow things to take their course . . . it's time for me to stop fighting and just enjoy the time I have left in what little ways I can. My husband and I have chosen an assisted living residence near my home where I'll go for hospice care. I have been told that they can help me with the pain there .  . . and it's close enough that my husband can be with me.
+14,Carolyn,10/04/2022 09:56:00 PM EDT,Question,Do you have any advanced directives?
+15,Regina Walker,10/04/2022 09:56:00 PM EDT,Response,"Yes, all my affairs should be in order."
+16,Carolyn,10/04/2022 09:57:00 PM EDT,Question,when did the pain begin?
+17,Regina Walker,10/04/2022 09:57:00 PM EDT,Response,"I've been in some pain for a long time, but it reached an unbearable level two days ago."
+18,Carolyn,10/04/2022 09:58:00 PM EDT,Question,where us the pain located? (Clarified to Where is the pain?.)
+19,Regina Walker,10/04/2022 09:58:00 PM EDT,Response,"Well, everywhere really . . . These past days I've felt it mostly in my ribs and legs but even my bones hurt. (Clarified to where it hurts.)"
+20,Carolyn,10/04/2022 09:58:00 PM EDT,Question,can you describe your pain?
+21,Regina Walker,10/04/2022 09:58:00 PM EDT,Response,"I can feel it all over my body . . . It's a sharp pain in my bones, my legs, and my ribs. It's been getting much worse over the past two days."
+22,Carolyn,10/04/2022 09:59:00 PM EDT,Question,what aggravates the pain?
+23,Regina Walker,10/04/2022 09:59:00 PM EDT,Response,"Nothing makes the pain worse, nothing makes it better. It's just constant and relentless."
+24,Carolyn,10/04/2022 09:59:00 PM EDT,Question,what are some relieving factors for your pain?
+25,Regina Walker,10/04/2022 09:59:00 PM EDT,Response,"I took my pain pills at home but nothing fully gets rid of the pain, really... I'm not ungrateful for what you all have done for me, I can just still feel it there, through the medication."
+26,Carolyn,10/04/2022 10:00:00 PM EDT,Question,What is the severity of the pain?
+27,Regina Walker,10/04/2022 10:00:00 PM EDT,Response,"It's better now than before, but I can still feel it there."
+28,Carolyn,10/04/2022 10:00:00 PM EDT,Question,Do you have any allergies?
+29,Regina Walker,10/04/2022 10:00:00 PM EDT,Response,"Well, I don't have allergies to anything but penicillin. I told them right when I arrived."
+30,Carolyn,10/04/2022 10:00:00 PM EDT,Question,Have you followed up on your penicillin allergy?
+31,Regina Walker,10/04/2022 10:00:00 PM EDT,Response,"As in, followed up with a doctor? I have not. I haven't felt the need to."
+32,Carolyn,10/04/2022 10:01:00 PM EDT,Question,do you have any home medications?
+33,Regina Walker,10/04/2022 10:01:00 PM EDT,Response,I take two types of morphine at home every day and I also manage my hypertension with Hyzaar.
+34,Carolyn,10/04/2022 10:02:00 PM EDT,Question,tell me about the long-acting morphine
+35,Regina Walker,10/04/2022 10:02:00 PM EDT,Response,I've been taking morphine for about six months. That's when the cancer had spread to my bones and the pain was intensifying.
+36,Carolyn,10/04/2022 10:06:00 PM EDT,Question,have you followed up with the doctor about your morphine? (No matching questions found.)
+37,Carolyn,10/04/2022 10:07:00 PM EDT,Question,do you have a history of substance user?
+38,Regina Walker,10/04/2022 10:07:00 PM EDT,Response,"No, I do not."
+39,Carolyn,10/04/2022 10:07:00 PM EDT,Question,do you have any problems with your head?
+40,Regina Walker,10/04/2022 10:07:00 PM EDT,Response,"My head feels just fine, that's not where I'm having the pain."
+41,Carolyn,10/04/2022 10:08:00 PM EDT,Question,do you have any problems with your respiratory?
+42,Regina Walker,10/04/2022 10:08:00 PM EDT,Response,"No, I don't have any breathing difficulties."
+43,Carolyn,10/04/2022 10:08:00 PM EDT,Question,do you have any cardiac problems?
+44,Regina Walker,10/04/2022 10:08:00 PM EDT,Response,"No, I've never had heart trouble."
+45,Carolyn,10/04/2022 10:08:00 PM EDT,Question,do you have any gastrointestinal problems?
+46,Regina Walker,10/04/2022 10:08:00 PM EDT,Response,"Well, I've been getting pain in my stomach and I've been a bit constipated as well. Which I think is why I feel so full and bloated."
+47,Carolyn,10/04/2022 10:09:00 PM EDT,Question,has anything been done for your constipation? (No matching questions found.)
+48,Carolyn,10/04/2022 10:09:00 PM EDT,Question,has anyone followed up on the constipation? (No matching questions found.)
+49,Carolyn,10/04/2022 10:10:00 PM EDT,Question,do you have any neurological problems?
+50,Regina Walker,10/04/2022 10:10:00 PM EDT,Response,"Yes, I've been feeling quite weak lately."
+51,Carolyn,10/04/2022 10:10:00 PM EDT,Question,do you have any psychological problems?
+52,Regina Walker,10/04/2022 10:10:00 PM EDT,Response,"No, not specifically . . . I have been feeling somewhat anxious lately though."
+53,Carolyn,10/04/2022 10:11:00 PM EDT,Question,do you have depression?
+54,Regina Walker,10/04/2022 10:11:00 PM EDT,Response,"I have my ups and downs. Nothing so down I'd call depression, though."
+55,Carolyn,10/04/2022 10:11:00 PM EDT,Question,how is your living environment?
+56,Regina Walker,10/04/2022 10:11:00 PM EDT,Response,"I'm living with my husband in our home. I'm happy there still, all the familiar surroundings, visits from our friends . . . but if the pain is going to be as bad as this morning from now on, I'm not sure what I can do about it at home."
+57,Carolyn,10/04/2022 10:12:00 PM EDT,Question,do you feel safe at home?
+58,Regina Walker,10/04/2022 10:12:00 PM EDT,Response,"Of course, I've never felt threatened at home."
+59,Carolyn,10/04/2022 10:12:00 PM EDT,Question,who helps you bathe? (Clarified to Do you rely on other people to help you bathe?.)
+60,Regina Walker,10/04/2022 10:12:00 PM EDT,Response,"Yes, I can't quite bathe on my own now. My husband has been helping me when I need to. We also have a shower bench that I sit on so I don't have to worry about falling. (Clarified to if I rely on people to help me bathe.)"
+61,Carolyn,10/04/2022 10:13:00 PM EDT,Question,do you rely on help to get dressed? (Clarified to Are you able to dress yourself?.)
+62,Regina Walker,10/04/2022 10:13:00 PM EDT,Response,I don't have any trouble dressing myself. (Clarified to if I can dress myself without problems.)
+63,Carolyn,10/04/2022 10:13:00 PM EDT,Question,do you have trouble transferring?
+64,Regina Walker,10/04/2022 10:13:00 PM EDT,Response,"Well, I have the most trouble getting up from any sort of lying position, so I spend most of my time in bed. My husband usually gives me a hand when I need to get up."
+65,Carolyn,10/04/2022 10:13:00 PM EDT,Question,do you have continence?
+66,Regina Walker,10/04/2022 10:13:00 PM EDT,Response,"Yes, I haven't had any accidents."
+67,Carolyn,10/04/2022 10:14:00 PM EDT,Question,do you eat independently?
+68,Regina Walker,10/04/2022 10:14:00 PM EDT,Response,"Yes, I haven't gotten to that point yet and hopefully won't have to ever worry about having someone feed me."
+69,Carolyn,10/04/2022 10:14:00 PM EDT,Question,what are your sleeping habits?
+70,Regina Walker,10/04/2022 10:14:00 PM EDT,Response,I'll take my medication before bed generally and just try to get what sleep I can. My quality of sleep has been quite poor lately though.
+71,Carolyn,10/04/2022 10:14:00 PM EDT,Question,do you experience confusion?
+72,Regina Walker,10/04/2022 10:14:00 PM EDT,Response,"No, I'm not confused right now. This morning the pain was making it a bit hard to think but I'm all here now."
+73,Carolyn,10/04/2022 10:15:00 PM EDT,Question,do you have skin breakdown?
+74,Regina Walker,10/04/2022 10:15:00 PM EDT,Response,I wouldn't call it much of a problem but my skin has been feeling thinner than normal.
+75,Carolyn,10/04/2022 10:15:00 PM EDT,Question,have you had any changes in weight?
+76,Regina Walker,10/04/2022 10:15:00 PM EDT,Response,"Yes, I've lost 20 pounds or so in the past two months."
+77,Carolyn,10/04/2022 10:15:00 PM EDT,Question,do you have any dental problems?
+78,Regina Walker,10/04/2022 10:15:00 PM EDT,Response,"No, I don't have any problems with my mouth, jaw, or teeth."
+79,Carolyn,10/04/2022 10:16:00 PM EDT,Question,have you had a change in your appetite?
+80,Regina Walker,10/04/2022 10:16:00 PM EDT,Response,"My appetite has been rather small lately, I haven't been eating too much for the last months."
+81,Carolyn,10/04/2022 10:16:00 PM EDT,Question,tell me about your social activity
+82,Regina Walker,10/04/2022 10:16:00 PM EDT,Response,Raymond and I have a nice group of families from the church who we see pretty regularly. They've really been great to us and have lifted quite a lot of weight from our shoulders. It's been difficult to see them with my pain as of late though . . .
+83,Carolyn,10/04/2022 10:17:00 PM EDT,Question,what is your perception of health?
+84,Regina Walker,10/04/2022 10:17:00 PM EDT,Response,I'd say my health is poor in general. I'm quite aware of the situation I'm in.
+85,Carolyn,10/04/2022 10:17:00 PM EDT,Question,are you tired?
+86,Regina Walker,10/04/2022 10:17:00 PM EDT,Response,I've been feeling tired all of the time lately.
+87,Carolyn,10/04/2022 10:17:00 PM EDT,Question,have you been to the emergency room ?
+88,Regina Walker,10/04/2022 10:17:00 PM EDT,Response,"Yes, I came in this morning."
+89,Carolyn,10/04/2022 10:18:00 PM EDT,Question,recent hospital stays? (Clarified to When was your last hospitalization?.)
+90,Regina Walker,10/04/2022 10:18:00 PM EDT,Response,"Well, I haven't been hospitalized for the past three months, but I had some cancer treatments I underwent around three months ago. (Clarified to when the last time I was hospitalized was.)"
+91,Carolyn,10/04/2022 10:18:00 PM EDT,Statement,thank you for that. I am sorry your in pain.
+92,Regina Walker,10/04/2022 10:18:00 PM EDT,Response,Thank you for saying that. Really.
+93,Carolyn,10/04/2022 10:19:00 PM EDT,Exam Action,Assessed vitals
+94,Carolyn,10/04/2022 10:20:00 PM EDT,Exam Action,Assessed IV bag
+95,Carolyn,10/04/2022 10:20:00 PM EDT,Exam Action,Assessed IV bag
+96,Carolyn,10/04/2022 10:21:00 PM EDT,Exam Action,Assessed IV pump
+97,Carolyn,10/04/2022 10:21:00 PM EDT,Exam Action,Assessed IV site
+98,Carolyn,10/04/2022 10:21:00 PM EDT,Exam Action,"Assessed urine quality: clear, dark yellow, no noticeable odor"
+99,Carolyn,10/04/2022 10:22:00 PM EDT,Exam Action,Checked Patient Wristbands: All information is correct
+100,Carolyn,10/04/2022 10:23:00 PM EDT,Exam Action,Inspected left eye: Sclera - icterus
+101,Carolyn,10/04/2022 10:23:00 PM EDT,Exam Action,Inspected right eye: Sclera - icterus
+102,Carolyn,10/04/2022 10:24:00 PM EDT,Exam Action,Inspected mouth
+103,Carolyn,10/04/2022 10:25:00 PM EDT,Exam Action,Inspected front of neck and face: jaundice
+104,Carolyn,10/04/2022 10:25:00 PM EDT,Exam Action,Inspected chest and abdomen
+105,Carolyn,10/04/2022 10:25:00 PM EDT,Exam Action,Inspected front of left hand and arm
+106,Carolyn,10/04/2022 10:25:00 PM EDT,Exam Action,Inspected front of right hand and arm
+107,Carolyn,10/04/2022 10:25:00 PM EDT,Exam Action,Inspected front of thighs and knees
+108,Carolyn,10/04/2022 10:25:00 PM EDT,Exam Action,Inspected front of shins and top of feet
+109,Carolyn,10/04/2022 10:29:00 PM EDT,Exam Action,Auscultated carotids
+110,Carolyn,10/04/2022 10:29:00 PM EDT,Exam Action,Auscultated breath sounds
+111,Carolyn,10/04/2022 10:29:00 PM EDT,Exam Action,Auscultated heart sounds
+112,Carolyn,10/04/2022 10:30:00 PM EDT,Exam Action,Auscultated bowel sounds
+113,Carolyn,10/04/2022 10:30:00 PM EDT,Exam Action,Palpated abdomen with light pressure
+114,Carolyn,10/04/2022 10:31:00 PM EDT,Exam Action,Palpated abdomen with deep pressure
+115,Carolyn,10/04/2022 10:31:00 PM EDT,Exam Action,Palpated bladder
+116,Carolyn,10/04/2022 10:32:00 PM EDT,Question,"can you repeat the words apple, penny, and table?"
+117,Regina Walker,10/04/2022 10:32:00 PM EDT,Response,"Apple, penny, and table."
+118,Carolyn,10/04/2022 10:33:00 PM EDT,Exam Action,Tested skin turgor
+119,Carolyn,10/04/2022 10:33:00 PM EDT,Exam Action,Tested capillary refill
+120,Carolyn,10/04/2022 10:39:00 PM EDT,Statement,I will teach your coping mechanisms. I will have you verbalize the strategies.
+121,Regina Walker,10/04/2022 10:39:00 PM EDT,Response,I understand what you're saying. Thank you.
+122,Carolyn,10/04/2022 10:40:00 PM EDT,Statement,do you consent to the care plan I have provided for you?
+123,Regina Walker,10/04/2022 10:40:00 PM EDT,Response,I consent. You can begin now.

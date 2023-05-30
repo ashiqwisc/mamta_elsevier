@@ -11,237 +11,224 @@
 9,Sunayana,10/02/2022 11:10:00 AM EDT,Exam Action,Inspected left forearm
 10,Sunayana,10/02/2022 11:10:00 AM EDT,Exam Action,Inspected right wrist
 11,Sunayana,10/02/2022 11:10:00 AM EDT,Exam Action,Inspected left wrist
-12,Sunayana,10/02/2022 11:11:00 AM EDT,Question,Hav you ever hurt yourself in order to cope with your feeling? 
-13,System,10/02/2022 11:11:00 AM EDT,Clarification, Have you ever hurt yourself to cope with your feelings?.
-14,Lucas Callahan,10/02/2022 11:11:00 AM EDT,Response,"Not, like, self-harming . . . it was . . . it was one time and I was trying to kill myself, alright? We don't -- it was a bad time, it's done-zo, done as a doornail. I'm not some, like, cutter. (Clarified to if I have ever hurt myself to cope with my feelings.)"
-15,Sunayana,10/02/2022 11:11:00 AM EDT,Question,How likely are you to intentionally hurt yourself?
-16,Lucas Callahan,10/02/2022 11:11:00 AM EDT,Response,"Not at all. You're really like, overanalyzing -- the only time I ever came close to that was at my one suicide attempt. And sure, I have those thoughts, but -- I'm really fine now, it's behind me."
-17,Sunayana,10/02/2022 11:11:00 AM EDT,Exam Action,Inspected right forearm
-18,Sunayana,10/02/2022 11:11:00 AM EDT,Exam Action,Inspected left forearm
-19,Sunayana,10/02/2022 11:12:00 AM EDT,Exam Action,Inspected left wrist
-20,Sunayana,10/02/2022 11:12:00 AM EDT,Exam Action,Inspected right wrist
-21,Sunayana,10/02/2022 11:12:00 AM EDT,Exam Action,Inspected left wrist
-22,Sunayana,10/02/2022 11:12:00 AM EDT,Exam Action,Inspected chest
-23,Sunayana,10/02/2022 11:12:00 AM EDT,Exam Action,Inspected legs
-24,Sunayana,10/02/2022 11:12:00 AM EDT,Exam Action,Inspected back
-25,Sunayana,10/02/2022 11:13:00 AM EDT,Exam Action,Auscultated breath sounds
-26,Sunayana,10/02/2022 11:13:00 AM EDT,Exam Action,Auscultated heart sounds
-27,Sunayana,10/02/2022 11:13:00 AM EDT,Exam Action,Palpated abdomen
-28,Sunayana,10/02/2022 11:14:00 AM EDT,Exam Action,Palpated right and left radial pulse
-29,Sunayana,10/02/2022 11:14:00 AM EDT,Exam Action,Palpated right and left dorsalis pedis pulse
-30,Sunayana,10/02/2022 11:14:00 AM EDT,Exam Action,Palpated capillary refill on right and left hand
-31,Sunayana,10/02/2022 11:14:00 AM EDT,Exam Action,Performed EKG
+12,Sunayana,10/02/2022 11:11:00 AM EDT,Question,Hav you ever hurt yourself in order to cope with your feeling? (Clarified to Have you ever hurt yourself to cope with your feelings?.)
+13,Lucas Callahan,10/02/2022 11:11:00 AM EDT,Response,"Not, like, self-harming . . . it was . . . it was one time and I was trying to kill myself, alright? We don't -- it was a bad time, it's done-zo, done as a doornail. I'm not some, like, cutter. (Clarified to if I have ever hurt myself to cope with my feelings.)"
+14,Sunayana,10/02/2022 11:11:00 AM EDT,Question,How likely are you to intentionally hurt yourself?
+15,Lucas Callahan,10/02/2022 11:11:00 AM EDT,Response,"Not at all. You're really like, overanalyzing -- the only time I ever came close to that was at my one suicide attempt. And sure, I have those thoughts, but -- I'm really fine now, it's behind me."
+16,Sunayana,10/02/2022 11:11:00 AM EDT,Exam Action,Inspected right forearm
+17,Sunayana,10/02/2022 11:11:00 AM EDT,Exam Action,Inspected left forearm
+18,Sunayana,10/02/2022 11:12:00 AM EDT,Exam Action,Inspected left wrist
+19,Sunayana,10/02/2022 11:12:00 AM EDT,Exam Action,Inspected right wrist
+20,Sunayana,10/02/2022 11:12:00 AM EDT,Exam Action,Inspected left wrist
+21,Sunayana,10/02/2022 11:12:00 AM EDT,Exam Action,Inspected chest
+22,Sunayana,10/02/2022 11:12:00 AM EDT,Exam Action,Inspected legs
+23,Sunayana,10/02/2022 11:12:00 AM EDT,Exam Action,Inspected back
+24,Sunayana,10/02/2022 11:13:00 AM EDT,Exam Action,Auscultated breath sounds
+25,Sunayana,10/02/2022 11:13:00 AM EDT,Exam Action,Auscultated heart sounds
+26,Sunayana,10/02/2022 11:13:00 AM EDT,Exam Action,Palpated abdomen
+27,Sunayana,10/02/2022 11:14:00 AM EDT,Exam Action,Palpated right and left radial pulse
+28,Sunayana,10/02/2022 11:14:00 AM EDT,Exam Action,Palpated right and left dorsalis pedis pulse
+29,Sunayana,10/02/2022 11:14:00 AM EDT,Exam Action,Palpated capillary refill on right and left hand
+30,Sunayana,10/02/2022 11:14:00 AM EDT,Exam Action,Performed EKG
+31,Sunayana,10/02/2022 11:14:00 AM EDT,Exam Action,Assessed lab results
 32,Sunayana,10/02/2022 11:14:00 AM EDT,Exam Action,Assessed lab results
-33,Sunayana,10/02/2022 11:14:00 AM EDT,Exam Action,Assessed lab results
-34,Sunayana,10/02/2022 11:15:00 AM EDT,Exam Action,"Assessed general appearance: posture is bent or hunched, clothing is dirty and disheveled, grooming and self-care are otherwise adequate, eye contact is direct"
-35,Sunayana,10/02/2022 11:16:00 AM EDT,Exam Action,Assessed attitude: displays frequent distrust and evasiveness
-36,Sunayana,10/02/2022 11:16:00 AM EDT,Exam Action,"Assessed speech: rate of speech is rapid, but at an appropriate volume, and no issues with articulation"
-37,Sunayana,10/02/2022 11:17:00 AM EDT,Exam Action,Assessed mood and affect: frequent mood changes throughout interview; excessively expansive or cheerful affect
-38,Sunayana,10/02/2022 11:17:00 AM EDT,Question,have you experienced any mood changes recently?
-39,Lucas Callahan,10/02/2022 11:17:00 AM EDT,Response,"Yeah, definitely. A week ago, it was like, suddenly like--you know how it feels when you slam the pedal down and there's this, like, weightless moment when the car's about to pick up? The proverbial sweet spot before going hyper-speed. Yeah. I finally feel like myself."
-40,Sunayana,10/02/2022 11:17:00 AM EDT,Question,Do you feel anxious?
-41,Lucas Callahan,10/02/2022 11:17:00 AM EDT,Response,"I'm not anxious or paranoid or whatever. I mean, I just have a really really fine-tuned sense of, like, OK, now they're coming for me, the government agents, and I have to be on the look out, 'cause no way am I being snatched up, not a chance."
-42,Sunayana,10/02/2022 11:18:00 AM EDT,Question,Do you feel angry?
-43,Lucas Callahan,10/02/2022 11:18:00 AM EDT,Response,"Sure, anger is a flower. I am a man of emotion. I feel everything, probably more than anybody else on earth. If a scamp interferes with my vibes, the anger blooms."
-44,Sunayana,10/02/2022 11:18:00 AM EDT,Exam Action,"Assessed thought process: presence of rapid thinking, disorganized or illogical flow of thought, ""word salad,"" neologisms, echolalia, and clanging associations"
-45,Sunayana,10/02/2022 11:18:00 AM EDT,Exam Action,Assessed thought content: presence of delusions; no presence of perceptual disturbances or hallucinations
-46,Sunayana,10/02/2022 11:18:00 AM EDT,Question,Have anyone told you  that you have thought that dont match reality?
-47,Lucas Callahan,10/02/2022 11:18:00 AM EDT,Response,No way. I haven't lost it. I'm sharp.
-48,Sunayana,10/02/2022 11:19:00 AM EDT,Question,Do you have obsessive or intrusive thoughts?
-49,Lucas Callahan,10/02/2022 11:19:00 AM EDT,Response,"Nah, my mind's pristine."
-50,Sunayana,10/02/2022 11:19:00 AM EDT,Question,Have you had any suicidal thoughts?
-51,Lucas Callahan,10/02/2022 11:19:00 AM EDT,Response,"Yeah . . . yeah, when I get really depressed. But that's completely in the past, I'm just -- I -- I feel really like it's completely done, and I'm just smooth sailing here on out."
-52,Sunayana,10/02/2022 11:19:00 AM EDT,Exam Action,Confirmed orientation
-53,Sunayana,10/02/2022 11:20:00 AM EDT,Question,What is your name and date of birth?
-54,Lucas Callahan,10/02/2022 11:20:00 AM EDT,Response,"Lucas Callahan, born . . . [Mr. Callahan reports his correct date of birth.]"
-55,Sunayana,10/02/2022 11:20:00 AM EDT,Question,What building are you now?
-56,Lucas Callahan,10/02/2022 11:20:00 AM EDT,Response,The hospital. Shadow General.
-57,Sunayana,10/02/2022 11:20:00 AM EDT,Question,What is the date and year?
-58,Lucas Callahan,10/02/2022 11:20:00 AM EDT,Response,The date is . . . [Mr. Callahan reports the correct date and year.]
-59,Sunayana,10/02/2022 11:20:00 AM EDT,Exam Action,Assessed cognition
-60,Sunayana,10/02/2022 11:21:00 AM EDT,Question,Count backwards from 100 by 7 until you get to the 60s.
-61,Lucas Callahan,10/02/2022 11:21:00 AM EDT,Response,"Easy! 100, 93, 86, 79... [Mr. Callahan finishes the sequence.]"
-62,Sunayana,10/02/2022 11:21:00 AM EDT,Exam Action,Assessed cognition
-63,Sunayana,10/02/2022 11:22:00 AM EDT,Question,How are apples and oranges alike?
-64,Lucas Callahan,10/02/2022 11:22:00 AM EDT,Response,"They're both fruits, of course!"
-65,Sunayana,10/02/2022 11:22:00 AM EDT,Question,How are a lake and an ocean alike?/
-66,Lucas Callahan,10/02/2022 11:22:00 AM EDT,Response,They're both bodies of water.
-67,Sunayana,10/02/2022 11:22:00 AM EDT,Question,How are a trumpet and a flute alike?
-68,Lucas Callahan,10/02/2022 11:22:00 AM EDT,Response,They're both instruments. And they both are way underused in modern post-punk.
-69,Sunayana,10/02/2022 11:22:00 AM EDT,Exam Action,Assessed cognition
-70,Sunayana,10/02/2022 11:22:00 AM EDT,Statement,Good job
-71,Lucas Callahan,10/02/2022 11:22:00 AM EDT,Response,"Thanks a million, but I'm all good, I promise!"
-72,Sunayana,10/02/2022 11:23:00 AM EDT,Question,"Repeat and remember burger, tulip, nose and tea"
-73,Lucas Callahan,10/02/2022 11:23:00 AM EDT,Response,"Burger, tulip, nose and tea. Yep, I got this."
-74,Sunayana,10/02/2022 11:23:00 AM EDT,Question,How did you celebrate your last birthday?
-75,Lucas Callahan,10/02/2022 11:23:00 AM EDT,Response,"Oh, it was actually really awesome! Me and some friends did the Bake-a-Cake Blindfolded Challenge. Then we just went out to a couple of my favorite bars. It actually wasn't as rowdy as you'd think, but it was just great vibes all around."
-76,Sunayana,10/02/2022 11:23:00 AM EDT,Question,Repeat the four words from before.
-77,Lucas Callahan,10/02/2022 11:23:00 AM EDT,Response,"OK . . . burger, tulip, nose, and tea. Ha! Nailed it."
-78,Sunayana,10/02/2022 11:24:00 AM EDT,Statement,Nice work
-79,Lucas Callahan,10/02/2022 11:24:00 AM EDT,Response,"That's super cool of you, thanks!"
-80,Sunayana,10/02/2022 11:24:00 AM EDT,Question,Copy the shapes exactly as you see them
-81,Lucas Callahan,10/02/2022 11:24:00 AM EDT,Response,Right on. Let's do this!
-82,Sunayana,10/02/2022 11:24:00 AM EDT,Exam Action,Assessed insight: demonstrates limited awareness of illness and is unwilling to seek treatment
-83,Sunayana,10/02/2022 11:24:00 AM EDT,Exam Action,Assessed judgment: demonstrates good judgment
-84,Sunayana,10/02/2022 11:25:00 AM EDT,Question,What would you do if you find a stamped enveloped on the sidewalk?
-85,Lucas Callahan,10/02/2022 11:25:00 AM EDT,Response,"Probably put it in a mailbox, if I saw there was one nearby."
-86,Sunayana,10/02/2022 11:26:00 AM EDT,Question,What is the visit of hospital visit today?
-87,Lucas Callahan,10/02/2022 11:26:00 AM EDT,Response,Those idiot cops brought me here. I don't need to be here but the front desk guy said that they have to check me out. Like I'm some sort of book in the history of atlases.
-88,Sunayana,10/02/2022 11:27:00 AM EDT,Question,What is your present illness?
-89,Lucas Callahan,10/02/2022 11:27:00 AM EDT,Response,"I don't have an illness, friendo. I have a chillness. Get with it."
-90,Sunayana,10/02/2022 11:27:00 AM EDT,Question,What happen with the copies
-91,Lucas Callahan,10/02/2022 11:27:00 AM EDT,Response,"Well, this cop stopped me when I was just taking care of my business. I had to check out some cars because I had a suspicion that there were government agents following me. It's probably good that I'm here, now. In any case, yeah. Cops are dumb. But I get it, I was running around kinda, and it's a grocery store parking lot, and 11:30 is a little late for track practice. Actually -- actually, it's always too late for track practice, but whatevah."
-92,Sunayana,10/02/2022 11:28:00 AM EDT,Question,Can you clear about government agents? (No matching questions found.)
-93,Sunayana,10/02/2022 11:28:00 AM EDT,Question,Can you tell me about government agents?
-94,Lucas Callahan,10/02/2022 11:28:00 AM EDT,Response,"I mean, what do you want to know? I just had a hunch they were in one of those cars, waiting to scoop me up and throw me in solitary. They know I'm enlightened and if my writings get out, boom, their secrets are overthrown. Not that I'm gonna let them stop me."
-95,Sunayana,10/02/2022 11:29:00 AM EDT,Question,Do you use any recent substance use?
-96,Lucas Callahan,10/02/2022 11:29:00 AM EDT,Response,"I'm as sober as a kitchen sink right now. I haven't done anything for like, four days. I should really call my dealer."
-97,Sunayana,10/02/2022 11:29:00 AM EDT,Question,What is the your sleeping history?
-98,Lucas Callahan,10/02/2022 11:29:00 AM EDT,Response,"Well, I wouldn't call it insomnia or anything, but I really usually don't need to sleep more than two hours, and I still have a lot of energy. This week I'm in super beast mode and haven't slept in four days. Impressive, right? I know it is. They make trophies in gold, by the way."
-99,Sunayana,10/02/2022 11:29:00 AM EDT,Question,What is your current energy level?/
-100,Lucas Callahan,10/02/2022 11:29:00 AM EDT,Response,"Oh, man, I'm like, if a cheetah drank a coffee and then stepped on a wire. Not that cheetahs like coffee."
-101,Sunayana,10/02/2022 11:30:00 AM EDT,Question,What is your current mood?
-102,Lucas Callahan,10/02/2022 11:30:00 AM EDT,Response,What is the existing health conditions? 
-103,System,10/02/2022 11:30:00 AM EDT,Clarification, What preexisting health issues do you have?.
-104,Sunayana,10/02/2022 11:30:00 AM EDT,Question,What is the existing health conditions? (Clarified to What preexisting health issues do you have?.)
-105,Lucas Callahan,10/02/2022 11:30:00 AM EDT,Response,"Sure, some Doc McGillicutty told me I had depression one time, but I got that beat! (Clarified to what preexisting health problems I have.)"
-106,Sunayana,10/02/2022 11:31:00 AM EDT,Question,What is your typical moods?
-107,Lucas Callahan,10/02/2022 11:31:00 AM EDT,Response,"You've got Option A and Option B. With A, we're talking about a bottomless rat hole. With B, we're talking good vibes that don't disappoint. I'll stick with B, thanks."
-108,Sunayana,10/02/2022 11:31:00 AM EDT,Question,What is the last period of depression? 
-109,System,10/02/2022 11:31:00 AM EDT,Clarification, How was your last period of depression?.
-110,Lucas Callahan,10/02/2022 11:31:00 AM EDT,Response,"I'm not keeping track or anything, but maybe a couple times a year? I don't know. This is a really nice room. I really like this room."
-111,Sunayana,10/02/2022 11:31:00 AM EDT,Question,What is the last period of depression? (Clarified to How was your last period of depression?.)
-112,Lucas Callahan,10/02/2022 11:31:00 AM EDT,Response,"It seems like you're probing into some, uh, rather sensitive territory here. The last time I was depressed--uh, just saying the word sucks--it lasted a long time. I clawed my way out. It was dark. That's it. I'm not gonna say anything else. (Clarified to what my last period of depression was like.)"
-113,Sunayana,10/02/2022 11:33:00 AM EDT,Question,Can you tell me details of depression diagnosis?
-114,Lucas Callahan,10/02/2022 11:33:00 AM EDT,Response,"I mean, that doctor was a buffoon, but I get where he was coming from -- I had just tried to kill myself. That doesn't necessarily scream NOT depressed, you know? Like, your eyeballs are your eyeballs. You see what you see."
-115,Sunayana,10/02/2022 11:34:00 AM EDT,Question,Dose your depression was treated?
-116,Lucas Callahan,10/02/2022 11:34:00 AM EDT,Response,"That quack of a doctor put me on antidepressants. Yeah, sure took a lot of self-interrogation to write stuff on a pad. I mean, my god. No intellect whatsoever."
-117,Sunayana,10/02/2022 11:34:00 AM EDT,Question,Do you have allergies?
-118,Lucas Callahan,10/02/2022 11:34:00 AM EDT,Response,"Not at all. I'm allergic to bad vibes is all. That stuff is palpable. Like, oh boy, it's pollen season."
-119,Sunayana,10/02/2022 11:35:00 AM EDT,Question,Dose the medication was effective?
-120,Lucas Callahan,10/02/2022 11:35:00 AM EDT,Response,"The antidepressants didn't do diddly squat. Not a squat in sight. Squatless. In fact, those little buggers made things worse, if you can believe it. Can you believe it? I mean, holy hell. Anyway, I just stopped taking them. Some problems have easy solutions. Ask any scientist."
-121,Sunayana,10/02/2022 11:35:00 AM EDT,Question,Do you take any home meds?
-122,Lucas Callahan,10/02/2022 11:35:00 AM EDT,Response,what kind of side effects? 
-123,System,10/02/2022 11:36:00 AM EDT,Clarification, What were the side effects that the medication had?.
-124,Sunayana,10/02/2022 11:36:00 AM EDT,Question,Do you have any side effects?
-125,Lucas Callahan,10/02/2022 11:36:00 AM EDT,Response,"I'm not on anything anymore. But yeah, you could say the antidepressants gave me some side effects way back when."
-126,Sunayana,10/02/2022 11:36:00 AM EDT,Question,what kind of side effects? (Clarified to What were the side effects that the medication had?.)
-127,Lucas Callahan,10/02/2022 11:36:00 AM EDT,Response,"Look, if I wanted to talk about that, I would've already told you, so move on, Professor Healthcare! Jeez . . . you're givin' me some side effects, all right . . . (Clarified to what side effects the medication caused.)"
-128,Sunayana,10/02/2022 11:36:00 AM EDT,Statement,Sorry?
-129,Lucas Callahan,10/02/2022 11:36:00 AM EDT,Response,Save your tears for the whales! I'm doing awesome.
-130,Sunayana,10/02/2022 11:36:00 AM EDT,Question,can you tell me more about the medication prescription?
-131,Lucas Callahan,10/02/2022 11:36:00 AM EDT,Response,"All I remember is that they didn't work, they made me feel like . . . whatever, they sucked. They were--they were suck pills. That's all I remember. They were suck pills made in Sucksville and I hope they rot in Sucks Hell."
-132,Sunayana,10/02/2022 11:37:00 AM EDT,Question,How many time you attempt suicide?
-133,Lucas Callahan,10/02/2022 11:37:00 AM EDT,Response,Can you tell me more about suicide attempt? 
-134,System,10/02/2022 11:39:00 AM EDT,Clarification, What happened during my suicide attempt?.
-135,Sunayana,10/02/2022 11:37:00 AM EDT,Question,can you follow up on suicide attempt? (No matching questions found.)
-136,Sunayana,10/02/2022 11:38:00 AM EDT,Question,Have you attempt suicide?
-137,Lucas Callahan,10/02/2022 11:38:00 AM EDT,Response,What is your belief that others would be better off without you? 
-138,System,10/02/2022 11:40:00 AM EDT,Clarification, Tell me about the belief that others would be better off if you were dead?.
-139,Sunayana,10/02/2022 11:39:00 AM EDT,Question,Can you tell me more about suicide attempt? (Clarified to What happened during my suicide attempt?.)
-140,Lucas Callahan,10/02/2022 11:39:00 AM EDT,Response,"I don't know what you want me to say, it was -- I just don't wanna talk about it, OK? I just, I don't -- just focus on the present. This is all that's going on with me. (Clarified to what happened during my suicide attempt.)"
-141,Sunayana,10/02/2022 11:39:00 AM EDT,Question,What do you mean by wanting to be dead?
-142,Lucas Callahan,10/02/2022 11:39:00 AM EDT,Response,That's . . . what happens . . . when you're depressed . . .
-143,Sunayana,10/02/2022 11:40:00 AM EDT,Question,What is your belief that others would be better off without you? (Clarified to Tell me about the belief that others would be better off if you were dead?.)
-144,Lucas Callahan,10/02/2022 11:40:00 AM EDT,Response,Do you every get in fight or argument 
-145,System,10/02/2022 11:42:00 AM EDT,Clarification, Do you ever get into fights or arguments?.
-146,Sunayana,10/02/2022 11:40:00 AM EDT,Question,Tell me  more about homicidal urges?
-147,Lucas Callahan,10/02/2022 11:40:00 AM EDT,Response,I don't have any. I've never felt that way. That's disgusting. Sick.
-148,Sunayana,10/02/2022 11:41:00 AM EDT,Question,Tell me if others notice mood or energy shifts?
-149,Lucas Callahan,10/02/2022 11:41:00 AM EDT,Response,"Who knows what other people notice? Personally, I notice everything, but you can't expect every chump on the street to be enlightened."
-150,Sunayana,10/02/2022 11:42:00 AM EDT,Question,What about your racing thoughts? 
-151,System,10/02/2022 11:44:00 AM EDT,Clarification, Tell me about the racing thoughts?.
-152,Sunayana,10/02/2022 11:42:00 AM EDT,Question,What is your pleasure and interest in typical activities? 
-153,System,10/02/2022 11:45:00 AM EDT,Clarification, Tell me about your pleasure and interest in typical activities?.
-154,Lucas Callahan,10/02/2022 11:42:00 AM EDT,Response,Are your able to concentrate? 
-155,System,10/02/2022 11:45:00 AM EDT,Clarification, Are you able to concentrate?.
-156,Sunayana,10/02/2022 11:43:00 AM EDT,Question,can you tell me about your self-concept?
-157,Lucas Callahan,10/02/2022 11:43:00 AM EDT,Response,"I see myself as this visionary poet who's going to rock the world once his work is published. I see a killer head of hair that ladies just can't resist. I see an enlightened soul that shines like stained-glass. Amen, let the choir sing."
-158,Sunayana,10/02/2022 11:44:00 AM EDT,Question,Can you tell me about the change in social activity? 
-159,System,10/02/2022 11:45:00 AM EDT,Clarification, Tell me about your mood changes?.
-160,Lucas Callahan,10/02/2022 11:44:00 AM EDT,Response,"I mean, nah, I'm just a super quick guy in general. I like to get things done and keep 'em moving. Talk fast, walk fast, all that. What can I say, some horses weren't meant for carriages."
-161,Sunayana,10/02/2022 11:44:00 AM EDT,Question,What about your racing thoughts? (Clarified to Tell me about the racing thoughts?.)
-162,Lucas Callahan,10/02/2022 11:44:00 AM EDT,Response,"Shoot--I've got a whirlwind of thoughts. I've been putting them all down in this epic poem I'm working on. It's gonna be amazing, probably will be published in volumes, once I get it published and everything. I'll invite you to the launch party. Are you gonna wear a hat? That's the dress code. (Clarified to to tell you about my racing thoughts.)"
-163,Sunayana,10/02/2022 11:45:00 AM EDT,Question,What is your pleasure and interest in typical activities? (Clarified to Tell me about your pleasure and interest in typical activities?.)
-164,Lucas Callahan,10/02/2022 11:45:00 AM EDT,Response,Ah--through the roof! Shooting the moon! (Clarified to to tell you about my pleasure and interest in typical activities.)
-165,Sunayana,10/02/2022 11:45:00 AM EDT,Question,Are your able to concentrate? (Clarified to Are you able to concentrate?.)
-166,Lucas Callahan,10/02/2022 11:45:00 AM EDT,Response,"Oh, I've been laser-focused lately. On my poetry, that is. On my friends' projects. I told you we're thinking about making this community art center? It would be so sick. We'll see. It's all in the works. (Clarified to if I am able to concentrate.)"
-167,Sunayana,10/02/2022 11:45:00 AM EDT,Question,Tell me about the changes in productivity?/
-168,Lucas Callahan,10/02/2022 11:45:00 AM EDT,Response,"Oh, I've been working super hard on my poem in the last week or so. It's gonna be totally epic. Probably one-thousand pages printed out. I don't even have to try, that's the crazy thing. It just comes out of me."
-169,Sunayana,10/02/2022 11:45:00 AM EDT,Question,Can you tell me about the change in social activity? (Clarified to Tell me about your mood changes?.)
-170,Lucas Callahan,10/02/2022 11:45:00 AM EDT,Response,I kicked into high-gear like a week ago. Total energy burst. Total mental adjustment. It's like a chiropractor aligned my entire perspective. There's a line and when you cross it--boom! Viva la success! (Clarified to tell me about my mood changes.)
-171,Sunayana,10/02/2022 11:46:00 AM EDT,Question,Tell me about your social activity?
-172,Lucas Callahan,10/02/2022 11:46:00 AM EDT,Response,"My social game has been through the roof in the last week. Not to be braggadocio, but I dosey doe with the best of them."
-173,Sunayana,10/02/2022 12:46:00 PM EDT,Question,Have you had any changes in your libido and sexual activity?
-174,Lucas Callahan,10/02/2022 12:46:00 PM EDT,Response,"My carnal business has definitely amped up in the past week! And I'm not complaining, either. It's been totally awesome. Friends and strangers, the sexy time has been unreal."
-175,Sunayana,10/02/2022 12:47:00 PM EDT,Question,Tell me about your spending habits and consequences?
-176,Lucas Callahan,10/02/2022 12:47:00 PM EDT,Response,"Sheez. Mom and Dad getting mad at me, but I don't want to go down that rabbit hole. Too dark. I'm all light now, facing the sun."
-177,Sunayana,10/02/2022 12:52:00 PM EDT,Question,What is the financial status and occupation?
-178,Lucas Callahan,10/02/2022 12:52:00 PM EDT,Response,"I don't have a job and I'm not looking for one, either. I need my freedom, you know? My parents give me some money, which puts gas in the tank or whatever."
-179,Sunayana,10/02/2022 12:52:00 PM EDT,Question,What is your occupation?
-180,Lucas Callahan,10/02/2022 12:52:00 PM EDT,Response,Can you tell me more about drug use? 
-181,System,10/02/2022 12:55:00 PM EDT,Clarification, Can you tell me more about your living situation?.
-182,Sunayana,10/02/2022 12:52:00 PM EDT,Question,Tell me more about your occupation?
-183,Lucas Callahan,10/02/2022 12:52:00 PM EDT,Response,"I dunno, friend, I've had jobs, I've been fired, what more do you need to know? Is it important? No! I like not having a job, so booyah! I'm fine!"
-184,Sunayana,10/02/2022 12:53:00 PM EDT,Question,tell me more about legal troubles?
-185,Lucas Callahan,10/02/2022 12:53:00 PM EDT,Response,"Not at all! I'm the patron saint of innocence! Hah. No, really though, I've never gotten so much as a ticket."
-186,Sunayana,10/02/2022 12:54:00 PM EDT,Question,Tell me more about substance use?
-187,Lucas Callahan,10/02/2022 12:54:00 PM EDT,Response,Mostly coke and just alcohol. Hard to mess a party up that way. Stuff is magic.
-188,Sunayana,10/02/2022 12:54:00 PM EDT,Question,Can you tell me more about alcohol use?
-189,Lucas Callahan,10/02/2022 12:54:00 PM EDT,Response,"I mean, I'm not, like, special. I like alcohol for like, parties and stuff. It makes me happy. Occasionally it helps me sleep if I'm feeling all up and about. Most of the time it just puts me in a better mood. That used to be the case when I was depressed, too, but like, I'm never gonna be depressed again, so don't worry."
-190,Sunayana,10/02/2022 12:55:00 PM EDT,Question,Tell me more about drug use?
-191,Lucas Callahan,10/02/2022 12:55:00 PM EDT,Response,Mostly coke and just alcohol. Hard to mess a party up that way. Stuff is magic.
-192,Sunayana,10/02/2022 12:55:00 PM EDT,Question,Can you tell me more about drug use? (Clarified to Can you tell me more about your living situation?.)
-193,Lucas Callahan,10/02/2022 12:55:00 PM EDT,Response,"It's pretty perfect, honestly. No rent, no bills, no dusting. I just crash in my car or at a friends' place or wherever, then I wake up and start my day. Boom. Did you know the kookaburra never sleeps in the same tree twice? I think most people would make better decisions if they mimicked ornithology. (Clarified to to tell you more about my living situation.)"
-194,Sunayana,10/02/2022 12:55:00 PM EDT,Question,Can you tell me about drug use?
-195,Lucas Callahan,10/02/2022 12:55:00 PM EDT,Response,Mostly coke and just alcohol. Hard to mess a party up that way. Stuff is magic.
-196,Sunayana,10/02/2022 12:56:00 PM EDT,Question,can you follow up on drug use? (No matching questions found.)
-197,Sunayana,10/02/2022 12:56:00 PM EDT,Question,What are the methods of transportation?
-198,Lucas Callahan,10/02/2022 12:56:00 PM EDT,Response,"Oh, how do I get around? I'm cruising the streets in my car. I got it when I turned sixteen and that thing's like a brother to me."
-199,Sunayana,10/02/2022 12:57:00 PM EDT,Question,What is your diet amd appetite?
-200,Lucas Callahan,10/02/2022 12:57:00 PM EDT,Response,"I dunno, what do you wanna know? I'm not really big into eating. It's kind of almost . . . peasant-like? Like, I just feel very cerebral. I barely have an appetite . . . I can go a whole day on, like, half the everyman's calories. This week I've only been eating super small meals a day. That stuff just slows me down, you know? Like I would never think, oh boy, three hours are past, time to eat."
-201,Sunayana,10/02/2022 12:57:00 PM EDT,Question,Can you tell me about your family history?
-202,Lucas Callahan,10/02/2022 12:57:00 PM EDT,Response,"Well, I don't know anything about my birth parents. But my actual parents are super healthy. They go for, like, jogs on the beach while talking about what sort of flaxseed goes best in kale smoothies. You can't take them anywhere."
-203,Sunayana,10/02/2022 12:58:00 PM EDT,Question,Do you have health care access? 
-204,System,10/02/2022 01:00:00 PM EDT,Clarification, Do you have access to healthcare?.
-205,Lucas Callahan,10/02/2022 12:58:00 PM EDT,Response,"I don't know, I don't have, like, a cup measurer. I just have a glass or two at some point in the day, I'd guess."
-206,Sunayana,10/02/2022 12:58:00 PM EDT,Statement,For a typical day you have to drink 2-3 liters of water
-207,Lucas Callahan,10/02/2022 12:58:00 PM EDT,Response,"Thanks, but you don't need to worry about me."
-208,Sunayana,10/02/2022 12:59:00 PM EDT,Question,Because fluid dedication can cause dehydration. (No matching questions found.)
-209,Sunayana,10/02/2022 12:59:00 PM EDT,Question,Because less fluid can cause dehydration. (No matching questions found.)
-210,Sunayana,10/02/2022 12:59:00 PM EDT,Statement,Because less fluid can cause dehydration.
-211,Lucas Callahan,10/02/2022 12:59:00 PM EDT,Response,I don't need you to be my guidance counselor or anything . . .
-212,Sunayana,10/02/2022 01:00:00 PM EDT,Question,Can you tell me more about caffeine intake?
-213,Lucas Callahan,10/02/2022 01:00:00 PM EDT,Response,"Oh, that stuff's for squares and yuppies, man. I stay away."
-214,Sunayana,10/02/2022 01:00:00 PM EDT,Question,What is your education level?
-215,Lucas Callahan,10/02/2022 01:00:00 PM EDT,Response,I did a year in college a while back.
-216,Sunayana,10/02/2022 01:00:00 PM EDT,Question,Do you have health care access? (Clarified to Do you have access to healthcare?.)
-217,Lucas Callahan,10/02/2022 01:00:00 PM EDT,Response,"Yeah, I'm on my parents' insurance. It's such a crock, though, these insurance goons and the Super Pharm Outlet Malls of America . . . (Clarified to if I have access to healthcare.)"
-218,Sunayana,10/02/2022 01:00:00 PM EDT,Question,Tell me about history of abuse?
-219,Lucas Callahan,10/02/2022 01:00:00 PM EDT,Response,"No, my real parents aren't like that. It's annoying how healthy they are. I don't know about my birth parents."
-220,Sunayana,10/02/2022 01:01:00 PM EDT,Question,Have you been abuse?
-221,Lucas Callahan,10/02/2022 01:01:00 PM EDT,Response,"Dang, are you serious?! No, not at all. Dang, what a wet blanket question. No, that's never happened to me. Dang. Screwin' up the vibes."
-222,Sunayana,10/02/2022 01:01:00 PM EDT,Question,Do you have any health problems?
-223,Lucas Callahan,10/02/2022 01:01:00 PM EDT,Response,"Not really. They diagnosed me with depression, but I'm really not worried about that anymore. I'm just really not in that headspace right now."
-224,Sunayana,10/02/2022 01:03:00 PM EDT,Question,Do you have general symptoms?
-225,Lucas Callahan,10/02/2022 01:03:00 PM EDT,Response,I don't have any. I'm fine. I'm here 'cause some cop probably thinks I'm sick in the head.
-226,Sunayana,10/02/2022 01:03:00 PM EDT,Question,Do you have any problem in eye?
-227,Lucas Callahan,10/02/2022 01:03:00 PM EDT,Response,"No, no, no. I haven't had any problems with my vision. In fact, my vision has only gotten better and better. My ability to really see what's going on around me. I'm not trapped in some dark room somewhere, just praying for sleep, I'm engaged. I'm locked in."
-228,Sunayana,10/02/2022 01:04:00 PM EDT,Question,Do you have any heart problems?
-229,Lucas Callahan,10/02/2022 01:04:00 PM EDT,Response,"Nah, my chest is great. Know what my heart's motto is? ""Dance to the beat!"""
-230,Sunayana,10/02/2022 01:04:00 PM EDT,Question,"Do you have any skin, hair, nails problems?"
-231,Lucas Callahan,10/02/2022 01:04:00 PM EDT,Response,"No, I'm a beautiful specimen. Look at me."
-232,Sunayana,10/02/2022 01:05:00 PM EDT,Question,Do you have gastrointestinal problems?
-233,Lucas Callahan,10/02/2022 01:05:00 PM EDT,Response,"My stomach, otherwise known as Callahan's Gastropub, has a big A in the front window. Looks good and feels great."
-234,Sunayana,10/02/2022 01:05:00 PM EDT,Statement,Okay sounds good
-235,Lucas Callahan,10/02/2022 01:05:00 PM EDT,Response,"Thanks. You and me, we've got a real connection."
-236,Sunayana,10/02/2022 01:06:00 PM EDT,Question,Do you have current plans for suicide?
-237,Lucas Callahan,10/02/2022 01:06:00 PM EDT,Response,No. What? No. It's been 3 years since I even went down that path. My only plans are to write the great American poem and be happy and kiss a lot of people. That's love.
-238,Sunayana,10/02/2022 01:06:00 PM EDT,Statement,If you have any plan you can tell me.
-239,Lucas Callahan,10/02/2022 01:06:00 PM EDT,Response,"I'm not really taking any advice right now, but thanks anyway!"
-240,Sunayana,10/02/2022 01:13:00 PM EDT,Statement,You have high impulse and has history of self injury.
-241,Lucas Callahan,10/02/2022 01:13:00 PM EDT,Response,"Listen, I KNOW Im at risk for injury! Remember what I was telling you earlier, about the government agents following me because they know, in their weasely little weasel-minds, that Im an enlightened threat? So, yeah. Were on the same page."
-242,Sunayana,10/02/2022 01:14:00 PM EDT,Statement,Okay. What is the fear of government?
-243,Lucas Callahan,10/02/2022 01:14:00 PM EDT,Response,"Right, right, you gotta keep me safe like a little babe swaddled in the manger of life. Totally agree with you! Im all baby blanket and pacifier. Life is beautiful, glorious, radiant -- gotta preserve it at all costs. Im a national treasure. Kiss my feet if you want."
-244,Sunayana,10/02/2022 01:14:00 PM EDT,Statement,The intervention i have is that  supervision of 1 nurse and closely contact with your family for safety
-245,Lucas Callahan,10/02/2022 01:14:00 PM EDT,Response,"Yeah, lets do this thing. Im game. Youre game. All were missing are the cheerleaders. Hey, Lucas! Hes our man! If he cant do it, no one can! Rah rah rah! Sis boom bah bah bah!"
+33,Sunayana,10/02/2022 11:15:00 AM EDT,Exam Action,"Assessed general appearance: posture is bent or hunched, clothing is dirty and disheveled, grooming and self-care are otherwise adequate, eye contact is direct"
+34,Sunayana,10/02/2022 11:16:00 AM EDT,Exam Action,Assessed attitude: displays frequent distrust and evasiveness
+35,Sunayana,10/02/2022 11:16:00 AM EDT,Exam Action,"Assessed speech: rate of speech is rapid, but at an appropriate volume, and no issues with articulation"
+36,Sunayana,10/02/2022 11:17:00 AM EDT,Exam Action,Assessed mood and affect: frequent mood changes throughout interview; excessively expansive or cheerful affect
+37,Sunayana,10/02/2022 11:17:00 AM EDT,Question,have you experienced any mood changes recently?
+38,Lucas Callahan,10/02/2022 11:17:00 AM EDT,Response,"Yeah, definitely. A week ago, it was like, suddenly like--you know how it feels when you slam the pedal down and there's this, like, weightless moment when the car's about to pick up? The proverbial sweet spot before going hyper-speed. Yeah. I finally feel like myself."
+39,Sunayana,10/02/2022 11:17:00 AM EDT,Question,Do you feel anxious?
+40,Lucas Callahan,10/02/2022 11:17:00 AM EDT,Response,"I'm not anxious or paranoid or whatever. I mean, I just have a really really fine-tuned sense of, like, OK, now they're coming for me, the government agents, and I have to be on the look out, 'cause no way am I being snatched up, not a chance."
+41,Sunayana,10/02/2022 11:18:00 AM EDT,Question,Do you feel angry?
+42,Lucas Callahan,10/02/2022 11:18:00 AM EDT,Response,"Sure, anger is a flower. I am a man of emotion. I feel everything, probably more than anybody else on earth. If a scamp interferes with my vibes, the anger blooms."
+43,Sunayana,10/02/2022 11:18:00 AM EDT,Exam Action,"Assessed thought process: presence of rapid thinking, disorganized or illogical flow of thought, ""word salad,"" neologisms, echolalia, and clanging associations"
+44,Sunayana,10/02/2022 11:18:00 AM EDT,Exam Action,Assessed thought content: presence of delusions; no presence of perceptual disturbances or hallucinations
+45,Sunayana,10/02/2022 11:18:00 AM EDT,Question,Have anyone told you  that you have thought that dont match reality?
+46,Lucas Callahan,10/02/2022 11:18:00 AM EDT,Response,No way. I haven't lost it. I'm sharp.
+47,Sunayana,10/02/2022 11:19:00 AM EDT,Question,Do you have obsessive or intrusive thoughts?
+48,Lucas Callahan,10/02/2022 11:19:00 AM EDT,Response,"Nah, my mind's pristine."
+49,Sunayana,10/02/2022 11:19:00 AM EDT,Question,Have you had any suicidal thoughts?
+50,Lucas Callahan,10/02/2022 11:19:00 AM EDT,Response,"Yeah . . . yeah, when I get really depressed. But that's completely in the past, I'm just -- I -- I feel really like it's completely done, and I'm just smooth sailing here on out."
+51,Sunayana,10/02/2022 11:19:00 AM EDT,Exam Action,Confirmed orientation
+52,Sunayana,10/02/2022 11:20:00 AM EDT,Question,What is your name and date of birth?
+53,Lucas Callahan,10/02/2022 11:20:00 AM EDT,Response,"Lucas Callahan, born . . . [Mr. Callahan reports his correct date of birth.]"
+54,Sunayana,10/02/2022 11:20:00 AM EDT,Question,What building are you now?
+55,Lucas Callahan,10/02/2022 11:20:00 AM EDT,Response,The hospital. Shadow General.
+56,Sunayana,10/02/2022 11:20:00 AM EDT,Question,What is the date and year?
+57,Lucas Callahan,10/02/2022 11:20:00 AM EDT,Response,The date is . . . [Mr. Callahan reports the correct date and year.]
+58,Sunayana,10/02/2022 11:20:00 AM EDT,Exam Action,Assessed cognition
+59,Sunayana,10/02/2022 11:21:00 AM EDT,Question,Count backwards from 100 by 7 until you get to the 60s.
+60,Lucas Callahan,10/02/2022 11:21:00 AM EDT,Response,"Easy! 100, 93, 86, 79... [Mr. Callahan finishes the sequence.]"
+61,Sunayana,10/02/2022 11:21:00 AM EDT,Exam Action,Assessed cognition
+62,Sunayana,10/02/2022 11:22:00 AM EDT,Question,How are apples and oranges alike?
+63,Lucas Callahan,10/02/2022 11:22:00 AM EDT,Response,"They're both fruits, of course!"
+64,Sunayana,10/02/2022 11:22:00 AM EDT,Question,How are a lake and an ocean alike?/
+65,Lucas Callahan,10/02/2022 11:22:00 AM EDT,Response,They're both bodies of water.
+66,Sunayana,10/02/2022 11:22:00 AM EDT,Question,How are a trumpet and a flute alike?
+67,Lucas Callahan,10/02/2022 11:22:00 AM EDT,Response,They're both instruments. And they both are way underused in modern post-punk.
+68,Sunayana,10/02/2022 11:22:00 AM EDT,Exam Action,Assessed cognition
+69,Sunayana,10/02/2022 11:22:00 AM EDT,Statement,Good job
+70,Lucas Callahan,10/02/2022 11:22:00 AM EDT,Response,"Thanks a million, but I'm all good, I promise!"
+71,Sunayana,10/02/2022 11:23:00 AM EDT,Question,"Repeat and remember burger, tulip, nose and tea"
+72,Lucas Callahan,10/02/2022 11:23:00 AM EDT,Response,"Burger, tulip, nose and tea. Yep, I got this."
+73,Sunayana,10/02/2022 11:23:00 AM EDT,Question,How did you celebrate your last birthday?
+74,Lucas Callahan,10/02/2022 11:23:00 AM EDT,Response,"Oh, it was actually really awesome! Me and some friends did the Bake-a-Cake Blindfolded Challenge. Then we just went out to a couple of my favorite bars. It actually wasn't as rowdy as you'd think, but it was just great vibes all around."
+75,Sunayana,10/02/2022 11:23:00 AM EDT,Question,Repeat the four words from before.
+76,Lucas Callahan,10/02/2022 11:23:00 AM EDT,Response,"OK . . . burger, tulip, nose, and tea. Ha! Nailed it."
+77,Sunayana,10/02/2022 11:24:00 AM EDT,Statement,Nice work
+78,Lucas Callahan,10/02/2022 11:24:00 AM EDT,Response,"That's super cool of you, thanks!"
+79,Sunayana,10/02/2022 11:24:00 AM EDT,Question,Copy the shapes exactly as you see them
+80,Lucas Callahan,10/02/2022 11:24:00 AM EDT,Response,Right on. Let's do this!
+81,Sunayana,10/02/2022 11:24:00 AM EDT,Exam Action,Assessed insight: demonstrates limited awareness of illness and is unwilling to seek treatment
+82,Sunayana,10/02/2022 11:24:00 AM EDT,Exam Action,Assessed judgment: demonstrates good judgment
+83,Sunayana,10/02/2022 11:25:00 AM EDT,Question,What would you do if you find a stamped enveloped on the sidewalk?
+84,Lucas Callahan,10/02/2022 11:25:00 AM EDT,Response,"Probably put it in a mailbox, if I saw there was one nearby."
+85,Sunayana,10/02/2022 11:26:00 AM EDT,Question,What is the visit of hospital visit today?
+86,Lucas Callahan,10/02/2022 11:26:00 AM EDT,Response,Those idiot cops brought me here. I don't need to be here but the front desk guy said that they have to check me out. Like I'm some sort of book in the history of atlases.
+87,Sunayana,10/02/2022 11:27:00 AM EDT,Question,What is your present illness?
+88,Lucas Callahan,10/02/2022 11:27:00 AM EDT,Response,"I don't have an illness, friendo. I have a chillness. Get with it."
+89,Sunayana,10/02/2022 11:27:00 AM EDT,Question,What happen with the copies
+90,Lucas Callahan,10/02/2022 11:27:00 AM EDT,Response,"Well, this cop stopped me when I was just taking care of my business. I had to check out some cars because I had a suspicion that there were government agents following me. It's probably good that I'm here, now. In any case, yeah. Cops are dumb. But I get it, I was running around kinda, and it's a grocery store parking lot, and 11:30 is a little late for track practice. Actually -- actually, it's always too late for track practice, but whatevah."
+91,Sunayana,10/02/2022 11:28:00 AM EDT,Question,Can you clear about government agents? (No matching questions found.)
+92,Sunayana,10/02/2022 11:28:00 AM EDT,Question,Can you tell me about government agents?
+93,Lucas Callahan,10/02/2022 11:28:00 AM EDT,Response,"I mean, what do you want to know? I just had a hunch they were in one of those cars, waiting to scoop me up and throw me in solitary. They know I'm enlightened and if my writings get out, boom, their secrets are overthrown. Not that I'm gonna let them stop me."
+94,Sunayana,10/02/2022 11:29:00 AM EDT,Question,Do you use any recent substance use?
+95,Lucas Callahan,10/02/2022 11:29:00 AM EDT,Response,"I'm as sober as a kitchen sink right now. I haven't done anything for like, four days. I should really call my dealer."
+96,Sunayana,10/02/2022 11:29:00 AM EDT,Question,What is the your sleeping history?
+97,Lucas Callahan,10/02/2022 11:29:00 AM EDT,Response,"Well, I wouldn't call it insomnia or anything, but I really usually don't need to sleep more than two hours, and I still have a lot of energy. This week I'm in super beast mode and haven't slept in four days. Impressive, right? I know it is. They make trophies in gold, by the way."
+98,Sunayana,10/02/2022 11:29:00 AM EDT,Question,What is your current energy level?/
+99,Lucas Callahan,10/02/2022 11:29:00 AM EDT,Response,"Oh, man, I'm like, if a cheetah drank a coffee and then stepped on a wire. Not that cheetahs like coffee."
+100,Sunayana,10/02/2022 11:30:00 AM EDT,Question,What is your current mood?
+101,Lucas Callahan,10/02/2022 11:30:00 AM EDT,Response,I am 100% letting the good times roll. Couldn't be better.
+102,Sunayana,10/02/2022 11:30:00 AM EDT,Question,What is the existing health conditions? (Clarified to What preexisting health issues do you have?.)
+103,Lucas Callahan,10/02/2022 11:30:00 AM EDT,Response,"Sure, some Doc McGillicutty told me I had depression one time, but I got that beat! (Clarified to what preexisting health problems I have.)"
+104,Sunayana,10/02/2022 11:31:00 AM EDT,Question,What is your typical moods?
+105,Lucas Callahan,10/02/2022 11:31:00 AM EDT,Response,"You've got Option A and Option B. With A, we're talking about a bottomless rat hole. With B, we're talking good vibes that don't disappoint. I'll stick with B, thanks."
+106,Sunayana,10/02/2022 11:31:00 AM EDT,Question,What is your frequency of mood changes?/
+107,Lucas Callahan,10/02/2022 11:31:00 AM EDT,Response,"I'm not keeping track or anything, but maybe a couple times a year? I don't know. This is a really nice room. I really like this room."
+108,Sunayana,10/02/2022 11:31:00 AM EDT,Question,What is the last period of depression? (Clarified to How was your last period of depression?.)
+109,Lucas Callahan,10/02/2022 11:31:00 AM EDT,Response,"It seems like you're probing into some, uh, rather sensitive territory here. The last time I was depressed--uh, just saying the word sucks--it lasted a long time. I clawed my way out. It was dark. That's it. I'm not gonna say anything else. (Clarified to what my last period of depression was like.)"
+110,Sunayana,10/02/2022 11:33:00 AM EDT,Question,Can you tell me details of depression diagnosis?
+111,Lucas Callahan,10/02/2022 11:33:00 AM EDT,Response,"I mean, that doctor was a buffoon, but I get where he was coming from -- I had just tried to kill myself. That doesn't necessarily scream NOT depressed, you know? Like, your eyeballs are your eyeballs. You see what you see."
+112,Sunayana,10/02/2022 11:34:00 AM EDT,Question,Dose your depression was treated?
+113,Lucas Callahan,10/02/2022 11:34:00 AM EDT,Response,"That quack of a doctor put me on antidepressants. Yeah, sure took a lot of self-interrogation to write stuff on a pad. I mean, my god. No intellect whatsoever."
+114,Sunayana,10/02/2022 11:34:00 AM EDT,Question,Do you have allergies?
+115,Lucas Callahan,10/02/2022 11:34:00 AM EDT,Response,"Not at all. I'm allergic to bad vibes is all. That stuff is palpable. Like, oh boy, it's pollen season."
+116,Sunayana,10/02/2022 11:35:00 AM EDT,Question,Dose the medication was effective?
+117,Lucas Callahan,10/02/2022 11:35:00 AM EDT,Response,"The antidepressants didn't do diddly squat. Not a squat in sight. Squatless. In fact, those little buggers made things worse, if you can believe it. Can you believe it? I mean, holy hell. Anyway, I just stopped taking them. Some problems have easy solutions. Ask any scientist."
+118,Sunayana,10/02/2022 11:35:00 AM EDT,Question,Do you take any home meds?
+119,Lucas Callahan,10/02/2022 11:35:00 AM EDT,Response,"I'm not on anything these days. Stopped those antidepressants a while back. Zombie pills, honestly. Stuff is necrotic."
+120,Sunayana,10/02/2022 11:36:00 AM EDT,Question,Do you have any side effects?
+121,Lucas Callahan,10/02/2022 11:36:00 AM EDT,Response,"I'm not on anything anymore. But yeah, you could say the antidepressants gave me some side effects way back when."
+122,Sunayana,10/02/2022 11:36:00 AM EDT,Question,what kind of side effects? (Clarified to What were the side effects that the medication had?.)
+123,Lucas Callahan,10/02/2022 11:36:00 AM EDT,Response,"Look, if I wanted to talk about that, I would've already told you, so move on, Professor Healthcare! Jeez . . . you're givin' me some side effects, all right . . . (Clarified to what side effects the medication caused.)"
+124,Sunayana,10/02/2022 11:36:00 AM EDT,Statement,Sorry?
+125,Lucas Callahan,10/02/2022 11:36:00 AM EDT,Response,Save your tears for the whales! I'm doing awesome.
+126,Sunayana,10/02/2022 11:36:00 AM EDT,Question,can you tell me more about the medication prescription?
+127,Lucas Callahan,10/02/2022 11:36:00 AM EDT,Response,"All I remember is that they didn't work, they made me feel like . . . whatever, they sucked. They were--they were suck pills. That's all I remember. They were suck pills made in Sucksville and I hope they rot in Sucks Hell."
+128,Sunayana,10/02/2022 11:37:00 AM EDT,Question,How many time you attempt suicide?
+129,Lucas Callahan,10/02/2022 11:37:00 AM EDT,Response,One time. That was enough.
+130,Sunayana,10/02/2022 11:37:00 AM EDT,Question,can you follow up on suicide attempt? (No matching questions found.)
+131,Sunayana,10/02/2022 11:38:00 AM EDT,Question,Have you attempt suicide?
+132,Lucas Callahan,10/02/2022 11:38:00 AM EDT,Response,"Yeah. Yeah, I attempted suicide. It's so dumb. You can't get through life like that. You gotta say yes to stuff, you know?"
+133,Sunayana,10/02/2022 11:39:00 AM EDT,Question,Can you tell me more about suicide attempt? (Clarified to What happened during my suicide attempt?.)
+134,Lucas Callahan,10/02/2022 11:39:00 AM EDT,Response,"I don't know what you want me to say, it was -- I just don't wanna talk about it, OK? I just, I don't -- just focus on the present. This is all that's going on with me. (Clarified to what happened during my suicide attempt.)"
+135,Sunayana,10/02/2022 11:39:00 AM EDT,Question,What do you mean by wanting to be dead?
+136,Lucas Callahan,10/02/2022 11:39:00 AM EDT,Response,That's . . . what happens . . . when you're depressed . . .
+137,Sunayana,10/02/2022 11:40:00 AM EDT,Question,What is your belief that others would be better off without you? (Clarified to Tell me about the belief that others would be better off if you were dead?.)
+138,Lucas Callahan,10/02/2022 11:40:00 AM EDT,Response,. . . No. Do I feel like that? No. That's all I care to say. No. (Clarified to to tell you about my belief that others would be better off if I was dead.)
+139,Sunayana,10/02/2022 11:40:00 AM EDT,Question,Tell me  more about homicidal urges?
+140,Lucas Callahan,10/02/2022 11:40:00 AM EDT,Response,I don't have any. I've never felt that way. That's disgusting. Sick.
+141,Sunayana,10/02/2022 11:41:00 AM EDT,Question,Tell me if others notice mood or energy shifts?
+142,Lucas Callahan,10/02/2022 11:41:00 AM EDT,Response,"Who knows what other people notice? Personally, I notice everything, but you can't expect every chump on the street to be enlightened."
+143,Sunayana,10/02/2022 11:42:00 AM EDT,Question,Tell me about fight or arguments. (No matching questions found.)
+144,Sunayana,10/02/2022 11:42:00 AM EDT,Question,Do you every get in fight or argument (Clarified to Do you ever get into fights or arguments?.)
+145,Lucas Callahan,10/02/2022 11:42:00 AM EDT,Response,My proverbial temper is lost on occasion. But all I do is argue! I'm not hurting anybody. My hands are clean. (Clarified to if I ever get in fights or arguments.)
+146,Sunayana,10/02/2022 11:43:00 AM EDT,Question,can you tell me about your self-concept?
+147,Lucas Callahan,10/02/2022 11:43:00 AM EDT,Response,"I see myself as this visionary poet who's going to rock the world once his work is published. I see a killer head of hair that ladies just can't resist. I see an enlightened soul that shines like stained-glass. Amen, let the choir sing."
+148,Sunayana,10/02/2022 11:44:00 AM EDT,Question,Do you have changes in speed of moving or speaking?
+149,Lucas Callahan,10/02/2022 11:44:00 AM EDT,Response,"I mean, nah, I'm just a super quick guy in general. I like to get things done and keep 'em moving. Talk fast, walk fast, all that. What can I say, some horses weren't meant for carriages."
+150,Sunayana,10/02/2022 11:44:00 AM EDT,Question,What about your racing thoughts? (Clarified to Tell me about the racing thoughts?.)
+151,Lucas Callahan,10/02/2022 11:44:00 AM EDT,Response,"Shoot--I've got a whirlwind of thoughts. I've been putting them all down in this epic poem I'm working on. It's gonna be amazing, probably will be published in volumes, once I get it published and everything. I'll invite you to the launch party. Are you gonna wear a hat? That's the dress code. (Clarified to to tell you about my racing thoughts.)"
+152,Sunayana,10/02/2022 11:45:00 AM EDT,Question,What is your pleasure and interest in typical activities? (Clarified to Tell me about your pleasure and interest in typical activities?.)
+153,Lucas Callahan,10/02/2022 11:45:00 AM EDT,Response,Ah--through the roof! Shooting the moon! (Clarified to to tell you about my pleasure and interest in typical activities.)
+154,Sunayana,10/02/2022 11:45:00 AM EDT,Question,Are your able to concentrate? (Clarified to Are you able to concentrate?.)
+155,Lucas Callahan,10/02/2022 11:45:00 AM EDT,Response,"Oh, I've been laser-focused lately. On my poetry, that is. On my friends' projects. I told you we're thinking about making this community art center? It would be so sick. We'll see. It's all in the works. (Clarified to if I am able to concentrate.)"
+156,Sunayana,10/02/2022 11:45:00 AM EDT,Question,Tell me about the changes in productivity?/
+157,Lucas Callahan,10/02/2022 11:45:00 AM EDT,Response,"Oh, I've been working super hard on my poem in the last week or so. It's gonna be totally epic. Probably one-thousand pages printed out. I don't even have to try, that's the crazy thing. It just comes out of me."
+158,Sunayana,10/02/2022 11:45:00 AM EDT,Question,Can you tell me about the change in social activity? (Clarified to Tell me about your mood changes?.)
+159,Lucas Callahan,10/02/2022 11:45:00 AM EDT,Response,I kicked into high-gear like a week ago. Total energy burst. Total mental adjustment. It's like a chiropractor aligned my entire perspective. There's a line and when you cross it--boom! Viva la success! (Clarified to tell me about my mood changes.)
+160,Sunayana,10/02/2022 11:46:00 AM EDT,Question,Tell me about your social activity?
+161,Lucas Callahan,10/02/2022 11:46:00 AM EDT,Response,"My social game has been through the roof in the last week. Not to be braggadocio, but I dosey doe with the best of them."
+162,Sunayana,10/02/2022 12:46:00 PM EDT,Question,Have you had any changes in your libido and sexual activity?
+163,Lucas Callahan,10/02/2022 12:46:00 PM EDT,Response,"My carnal business has definitely amped up in the past week! And I'm not complaining, either. It's been totally awesome. Friends and strangers, the sexy time has been unreal."
+164,Sunayana,10/02/2022 12:47:00 PM EDT,Question,Tell me about your spending habits and consequences?
+165,Lucas Callahan,10/02/2022 12:47:00 PM EDT,Response,"Sheez. Mom and Dad getting mad at me, but I don't want to go down that rabbit hole. Too dark. I'm all light now, facing the sun."
+166,Sunayana,10/02/2022 12:52:00 PM EDT,Question,What is the financial status and occupation?
+167,Lucas Callahan,10/02/2022 12:52:00 PM EDT,Response,"I don't have a job and I'm not looking for one, either. I need my freedom, you know? My parents give me some money, which puts gas in the tank or whatever."
+168,Sunayana,10/02/2022 12:52:00 PM EDT,Question,What is your occupation?
+169,Lucas Callahan,10/02/2022 12:52:00 PM EDT,Response,"I'm in between jobs right now. Actually, I'm more in between not having a job and not having a job."
+170,Sunayana,10/02/2022 12:52:00 PM EDT,Question,Tell me more about your occupation?
+171,Lucas Callahan,10/02/2022 12:52:00 PM EDT,Response,"I dunno, friend, I've had jobs, I've been fired, what more do you need to know? Is it important? No! I like not having a job, so booyah! I'm fine!"
+172,Sunayana,10/02/2022 12:53:00 PM EDT,Question,tell me more about legal troubles?
+173,Lucas Callahan,10/02/2022 12:53:00 PM EDT,Response,"Not at all! I'm the patron saint of innocence! Hah. No, really though, I've never gotten so much as a ticket."
+174,Sunayana,10/02/2022 12:54:00 PM EDT,Question,Tell me more about substance use?
+175,Lucas Callahan,10/02/2022 12:54:00 PM EDT,Response,Mostly coke and just alcohol. Hard to mess a party up that way. Stuff is magic.
+176,Sunayana,10/02/2022 12:54:00 PM EDT,Question,Can you tell me more about alcohol use?
+177,Lucas Callahan,10/02/2022 12:54:00 PM EDT,Response,"I mean, I'm not, like, special. I like alcohol for like, parties and stuff. It makes me happy. Occasionally it helps me sleep if I'm feeling all up and about. Most of the time it just puts me in a better mood. That used to be the case when I was depressed, too, but like, I'm never gonna be depressed again, so don't worry."
+178,Sunayana,10/02/2022 12:55:00 PM EDT,Question,Tell me more about drug use?
+179,Lucas Callahan,10/02/2022 12:55:00 PM EDT,Response,Mostly coke and just alcohol. Hard to mess a party up that way. Stuff is magic.
+180,Sunayana,10/02/2022 12:55:00 PM EDT,Question,Can you tell me more about drug use? (Clarified to Can you tell me more about your living situation?.)
+181,Lucas Callahan,10/02/2022 12:55:00 PM EDT,Response,"It's pretty perfect, honestly. No rent, no bills, no dusting. I just crash in my car or at a friends' place or wherever, then I wake up and start my day. Boom. Did you know the kookaburra never sleeps in the same tree twice? I think most people would make better decisions if they mimicked ornithology. (Clarified to to tell you more about my living situation.)"
+182,Sunayana,10/02/2022 12:55:00 PM EDT,Question,Can you tell me about drug use?
+183,Lucas Callahan,10/02/2022 12:55:00 PM EDT,Response,Mostly coke and just alcohol. Hard to mess a party up that way. Stuff is magic.
+184,Sunayana,10/02/2022 12:56:00 PM EDT,Question,can you follow up on drug use? (No matching questions found.)
+185,Sunayana,10/02/2022 12:56:00 PM EDT,Question,What are the methods of transportation?
+186,Lucas Callahan,10/02/2022 12:56:00 PM EDT,Response,"Oh, how do I get around? I'm cruising the streets in my car. I got it when I turned sixteen and that thing's like a brother to me."
+187,Sunayana,10/02/2022 12:57:00 PM EDT,Question,What is your diet amd appetite?
+188,Lucas Callahan,10/02/2022 12:57:00 PM EDT,Response,"I dunno, what do you wanna know? I'm not really big into eating. It's kind of almost . . . peasant-like? Like, I just feel very cerebral. I barely have an appetite . . . I can go a whole day on, like, half the everyman's calories. This week I've only been eating super small meals a day. That stuff just slows me down, you know? Like I would never think, oh boy, three hours are past, time to eat."
+189,Sunayana,10/02/2022 12:57:00 PM EDT,Question,Can you tell me about your family history?
+190,Lucas Callahan,10/02/2022 12:57:00 PM EDT,Response,"Well, I don't know anything about my birth parents. But my actual parents are super healthy. They go for, like, jogs on the beach while talking about what sort of flaxseed goes best in kale smoothies. You can't take them anywhere."
+191,Sunayana,10/02/2022 12:58:00 PM EDT,Question,What is your fluid intake?
+192,Lucas Callahan,10/02/2022 12:58:00 PM EDT,Response,"I don't know, I don't have, like, a cup measurer. I just have a glass or two at some point in the day, I'd guess."
+193,Sunayana,10/02/2022 12:58:00 PM EDT,Statement,For a typical day you have to drink 2-3 liters of water
+194,Lucas Callahan,10/02/2022 12:58:00 PM EDT,Response,"Thanks, but you don't need to worry about me."
+195,Sunayana,10/02/2022 12:59:00 PM EDT,Question,Because fluid dedication can cause dehydration. (No matching questions found.)
+196,Sunayana,10/02/2022 12:59:00 PM EDT,Question,Because less fluid can cause dehydration. (No matching questions found.)
+197,Sunayana,10/02/2022 12:59:00 PM EDT,Statement,Because less fluid can cause dehydration.
+198,Lucas Callahan,10/02/2022 12:59:00 PM EDT,Response,I don't need you to be my guidance counselor or anything . . .
+199,Sunayana,10/02/2022 01:00:00 PM EDT,Question,Can you tell me more about caffeine intake?
+200,Lucas Callahan,10/02/2022 01:00:00 PM EDT,Response,"Oh, that stuff's for squares and yuppies, man. I stay away."
+201,Sunayana,10/02/2022 01:00:00 PM EDT,Question,What is your education level?
+202,Lucas Callahan,10/02/2022 01:00:00 PM EDT,Response,I did a year in college a while back.
+203,Sunayana,10/02/2022 01:00:00 PM EDT,Question,Do you have health care access? (Clarified to Do you have access to healthcare?.)
+204,Lucas Callahan,10/02/2022 01:00:00 PM EDT,Response,"Yeah, I'm on my parents' insurance. It's such a crock, though, these insurance goons and the Super Pharm Outlet Malls of America . . . (Clarified to if I have access to healthcare.)"
+205,Sunayana,10/02/2022 01:00:00 PM EDT,Question,Tell me about history of abuse?
+206,Lucas Callahan,10/02/2022 01:00:00 PM EDT,Response,"No, my real parents aren't like that. It's annoying how healthy they are. I don't know about my birth parents."
+207,Sunayana,10/02/2022 01:01:00 PM EDT,Question,Have you been abuse?
+208,Lucas Callahan,10/02/2022 01:01:00 PM EDT,Response,"Dang, are you serious?! No, not at all. Dang, what a wet blanket question. No, that's never happened to me. Dang. Screwin' up the vibes."
+209,Sunayana,10/02/2022 01:01:00 PM EDT,Question,Do you have any health problems?
+210,Lucas Callahan,10/02/2022 01:01:00 PM EDT,Response,"Not really. They diagnosed me with depression, but I'm really not worried about that anymore. I'm just really not in that headspace right now."
+211,Sunayana,10/02/2022 01:03:00 PM EDT,Question,Do you have general symptoms?
+212,Lucas Callahan,10/02/2022 01:03:00 PM EDT,Response,I don't have any. I'm fine. I'm here 'cause some cop probably thinks I'm sick in the head.
+213,Sunayana,10/02/2022 01:03:00 PM EDT,Question,Do you have any problem in eye?
+214,Lucas Callahan,10/02/2022 01:03:00 PM EDT,Response,"No, no, no. I haven't had any problems with my vision. In fact, my vision has only gotten better and better. My ability to really see what's going on around me. I'm not trapped in some dark room somewhere, just praying for sleep, I'm engaged. I'm locked in."
+215,Sunayana,10/02/2022 01:04:00 PM EDT,Question,Do you have any heart problems?
+216,Lucas Callahan,10/02/2022 01:04:00 PM EDT,Response,"Nah, my chest is great. Know what my heart's motto is? ""Dance to the beat!"""
+217,Sunayana,10/02/2022 01:04:00 PM EDT,Question,"Do you have any skin, hair, nails problems?"
+218,Lucas Callahan,10/02/2022 01:04:00 PM EDT,Response,"No, I'm a beautiful specimen. Look at me."
+219,Sunayana,10/02/2022 01:05:00 PM EDT,Question,Do you have gastrointestinal problems?
+220,Lucas Callahan,10/02/2022 01:05:00 PM EDT,Response,"My stomach, otherwise known as Callahan's Gastropub, has a big A in the front window. Looks good and feels great."
+221,Sunayana,10/02/2022 01:05:00 PM EDT,Statement,Okay sounds good
+222,Lucas Callahan,10/02/2022 01:05:00 PM EDT,Response,"Thanks. You and me, we've got a real connection."
+223,Sunayana,10/02/2022 01:06:00 PM EDT,Question,Do you have current plans for suicide?
+224,Lucas Callahan,10/02/2022 01:06:00 PM EDT,Response,No. What? No. It's been 3 years since I even went down that path. My only plans are to write the great American poem and be happy and kiss a lot of people. That's love.
+225,Sunayana,10/02/2022 01:06:00 PM EDT,Statement,If you have any plan you can tell me.
+226,Lucas Callahan,10/02/2022 01:06:00 PM EDT,Response,"I'm not really taking any advice right now, but thanks anyway!"
+227,Sunayana,10/02/2022 01:13:00 PM EDT,Statement,You have high impulse and has history of self injury.
+228,Lucas Callahan,10/02/2022 01:13:00 PM EDT,Response,"Listen, I KNOW Im at risk for injury! Remember what I was telling you earlier, about the government agents following me because they know, in their weasely little weasel-minds, that Im an enlightened threat? So, yeah. Were on the same page."
+229,Sunayana,10/02/2022 01:14:00 PM EDT,Statement,Okay. What is the fear of government?
+230,Lucas Callahan,10/02/2022 01:14:00 PM EDT,Response,"Right, right, you gotta keep me safe like a little babe swaddled in the manger of life. Totally agree with you! Im all baby blanket and pacifier. Life is beautiful, glorious, radiant -- gotta preserve it at all costs. Im a national treasure. Kiss my feet if you want."
+231,Sunayana,10/02/2022 01:14:00 PM EDT,Statement,The intervention i have is that  supervision of 1 nurse and closely contact with your family for safety
+232,Lucas Callahan,10/02/2022 01:14:00 PM EDT,Response,"Yeah, lets do this thing. Im game. Youre game. All were missing are the cheerleaders. Hey, Lucas! Hes our man! If he cant do it, no one can! Rah rah rah! Sis boom bah bah bah!"
